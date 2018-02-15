@@ -18,16 +18,16 @@ This can cause very severe illness and sometimes death, especially in acute wate
 
 How to assess if a patient has dehydration and to what degree
 
->>> table <<<
+> table
 
 After the assessment, and according to the degree of dehydration, the following actions should be taken:
 
->>> diagram <<<
+> diagram
 
->>> image <<<
+> image
 
 A dehydrated child
 
->>> image <<<
+> image
 
 Skin pinch

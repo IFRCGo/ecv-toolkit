@@ -81,11 +81,11 @@ programme in place?
 and beliefs regarding hygiene in
 the community?
 
->>> image <<<
+> image
 
 A dehydrated child
 
->>> image <<<
+> image
 
 Proper breastfeeding
 

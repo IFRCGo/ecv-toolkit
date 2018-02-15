@@ -40,6 +40,6 @@ ORS at home
 - You will need to teach mothers to make the solution and dissolve it using the cleanest available water.
 - You can add 1/2 cup of orange juice or a mashed banana to the solution to make it taste better.
 
->>> image <<<
+> image
 
 Preparing an oral rehydration solution

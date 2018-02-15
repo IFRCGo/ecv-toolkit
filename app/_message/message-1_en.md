@@ -9,6 +9,6 @@ permalink: disease/oral-rehydratation-solution
 lang: en
 ---
 
->>> image <<<
+> image
 
 Children with diarrhoea need rehydration, give them ORS!
