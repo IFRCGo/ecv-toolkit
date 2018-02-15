@@ -1,0 +1,23 @@
+_site
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.cache
+.project
+
+# Project Files #
+#################
+*.sublime-project
+*.sublime-workspace
+/.vs/config/applicationhost.config
+/.vs/sims-website/v14/.suo
+/sims-website.sln
+/node_modules
