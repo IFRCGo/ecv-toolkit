@@ -1,5 +1,4 @@
-## Epidemic control for volunteers 
-### Toolkit
+## Epidemic control for volunteers - Toolkit
 
 The Epidemic Control for Volunteers training manual and accompanying toolkit are intended for at volunteers and their trainers in local branches of National Societies. Whilst not exhaustive, the training aims to familiarize volunteers with the most common epidemics and those that cause the most death and suffering. It encourages them to use evidence-based actions and approaches to prevent the spread of communicable diseases in their communities, provide appropriate care for the sick and reduce the number of deaths.
 
