@@ -1,0 +1,80 @@
+############
+## COMMON ##
+############
+
+home: "/fr/"
+collections:
+  disease:
+    text-top:     "Comprendre les"
+    text-bottom:  "Maladies"
+    text-nav:     "Maladie"
+    url:  "/fr/maladie/"
+  action:
+    text-top:     "Activités"
+    text-bottom:  "de Volontariat"
+    text-nav:     "Activité"
+    url:  "/fr/activite/"
+  message:
+    text-top:     "Messages"
+    text-bottom:  "Communautaires"    
+    text-nav:     "Message"
+    url:  "/fr/message/"
+
+#####################
+## LANDING CONTENT ##
+#####################
+
+banner:
+  title-1:        "Contrôle Épidémique"
+  title-2:        "pour les Volontaires"
+  description:    "Ce manuel et cette boîte à outils sont conçus pour aider les volontaires à définir leur rôle dans la communauté avant, pendant et après une épidémie et à prendre les mesures les mieux adaptées à cette épidémie particulière."
+
+##################
+## DISEASE LIST ##
+##################
+
+diseases:
+  title:  "Outils de maladie"
+
+#################
+## ACTION LIST ##
+#################
+
+actions:
+  title:  "Outils d'action"
+
+##################
+## MESSAGE LIST ##
+##################
+
+messages:
+  title:  "Outils de message communautaire"
+
+##################
+## DISEASE CARD ##
+##################
+disease: 
+  title: "Outil de la maladie"
+  linking:
+    title:  "Actions de volontariat"
+    note:   "Voir les outils d'action suivants pour plus d'informations sur les actions à entreprendre contre"
+  
+
+#################
+## ACTION CARD ##
+#################
+action:
+  title:  "Outil d'action"
+  linking:
+    note-one:   "Utiliser un message communautaire:"
+    note-many:  "Utiliser les messages de la communauté:"   
+
+  
+##################
+## MESSAGE CARD ##
+##################
+message: 
+  title:  "Outil de message communautaire" 
+  linking:
+    note-one:   "Utilisé pour l'action:"
+    note-many:   "Utilisé pour les actions:"    

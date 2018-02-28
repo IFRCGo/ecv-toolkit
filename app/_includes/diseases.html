@@ -1,0 +1,18 @@
+<div class="row">
+  <div class="columns small-10 small-offset-1 text-center">
+    <h1 class="listing-header">{{site.data[locale].diseases.title}}</h1>
+  </div>
+</div>
+
+{% assign diseases = site.collections | where: "label", "disease" | first %}
+{% for disease in diseases.docs %}
+  {% if disease.lang == locale %}
+  <div class="row">
+    <div class="columns small-10 small-offset-1 medium-8 medium-offset-2">
+      <a class="hollow button small expanded disease" href="{{ site.baseurl }}{{ disease.url }}">
+        {{ disease.identifier }} - {{ disease.slug }}
+      </a>
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}

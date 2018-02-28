@@ -1,0 +1,23 @@
+source:       app
+baseurl:      ""
+
+markdown:   kramdown
+permalink:  pretty
+exclude:
+  - assets/styles
+  - README.md
+  - assets/img/img-src
+  
+default_locale:     "en"
+authorized_locales: ["en", "fr"]
+locale_names:
+  en: "English"
+  fr: "Français"
+
+collections:
+  disease:
+    output: true
+  action:
+    output: true
+  message:
+    output: true

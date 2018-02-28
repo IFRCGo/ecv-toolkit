@@ -6,6 +6,20 @@ module Jekyll
       def generate(site)
         # grab the translations from the _config.yml file
         configs = site.config['collections'];
+        # loop through the pages (inside the 2 letter language folders, i.e. index.html, actions.html)
+        site.pages.each do |page|
+          # grab the language code from the yaml front matter
+          langcode = page.data['lang']
+          if page['identifier'] == 'index'
+            # if it's index, set permalink from home url in a language file in the `_data` folder
+            page.data['permalink'] = site.data[langcode]['home']
+          else
+            # othewise, grab the collection the page is the landing for 
+            collection = page.data['listing']
+            # and then set permalink from right value in a language file in the `_data` folder
+            page.data['permalink'] = site.data[langcode]['collections'][collection]['url']
+          end
+        end  
         # loop through the collections
         site.collections.each do |collection|
           # grab the name of the collection
@@ -17,22 +31,10 @@ module Jekyll
             site.collections[thiscollection].docs.each do |doc|
               # grab the language code in the file yaml front matter
               langcode = doc.data['lang']
-              if(langcode != 'en')
-                # our permalink will start with the language code
-                urlstart = '/' + langcode
-              else
-                # except the default_locale doesn't get a url language prefix
-                urlstart = ''
-              end
-              if(configs[thiscollection]).has_key?(langcode)
-                # grab the translation for the collection name
-                group = configs[thiscollection][langcode]
-              else
-                # if no translation, replace with default/English name of collection
-                group = thiscollection
-              end
+              # grab the translation from the language data files
+              urlstart = site.data[langcode]['collections'][thiscollection]['url']
               # set the permalink value
-              doc.data['permalink'] = urlstart + '/' + group + '/:slug/'
+              doc.data['permalink'] = urlstart + ':slug/'
             end
           end
         end

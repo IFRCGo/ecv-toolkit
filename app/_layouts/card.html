@@ -1,0 +1,81 @@
+---
+layout: default
+---
+{% include get_locale.html %}
+{% include nav.html %}
+{% assign thiscollection = site.collections | where: "label", page.collection | first %}
+{% assign collectionlabel = thiscollection.label %}
+
+<div id="header-row" class="row collapse" data-equalizer>
+  <div class="columns small-2 card-header left secondary-background {{page.collection}}">
+      <div class="card-number-lg" data-equalizer-watch>
+        <span>{{ page.identifier }}</span>
+      </div>
+  </div>
+  <div class="columns small-10 card-header primary-background {{page.collection}}">
+    <div class="card-title-container" data-equalizer-watch>
+      <div class="card-number">{{ site.data[locale][collectionlabel].title | upcase }} {{ page.identifier }}</div>
+      <div class="card-title">{{ page.slug }}</div>
+    </div>
+  </div>
+</div>
+<div class="row collapse">
+  <div class="columns card-title-bottom {{page.collection}}"></div>
+</div>
+
+<br>
+
+<div class="row">
+  <div class="columns">
+      <div> {{ content }} </div>
+  </div>
+</div> 
+
+<br>
+
+<div class="row">
+  <div class="columns">
+{% case collectionlabel %}
+  {% when 'disease' %}  
+     {% assign linkedcollection = site.collections | where: 'label', 'action' | first %}
+     <h4>{{ site.data[locale].disease.linking.title }}</h4>
+     <p>{{ site.data[locale].disease.linking.note }} {{ page.slug | downcase }}:</p> 
+  {% when 'action' %}
+    {% assign linkedcollection = site.collections | where: 'label', 'message' | first %}
+    <div>{{ site.data[locale].action.linking.note-one }}</div>
+  {% when 'message' %}
+    {% assign linkedcollection = site.collections | where: 'label', 'action' | first %}
+    <div>{{ site.data[locale].message.linking.note-one }}</div>
+  {% else %}
+{% endcase %}
+
+<!-- links will appear in order listed in yaml front matter  -->
+{% assign linkarray = page[linkedcollection.label] %}
+{% for number in linkarray %}
+  {% for linked in linkedcollection.docs %}
+    {% if linked.lang == locale and linked.identifier == number %}
+      <div style="display:inline-block;">
+        <a title="{{ linked.slug }}" href="{{ linked.url }}">
+          {{ linked.identifier }}
+        </a>
+      </div> &nbsp;
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+  
+  </div> 
+</div> 
+
+<script>
+
+var throttleTimer; 
+window.addEventListener('resize', function() {
+  window.clearTimeout(throttleTimer);
+  throttleTimer = window.setTimeout(function() {
+    console.log('fuck')
+    $('#header-row').foundation('_destroy');
+    var elem = new Foundation.Equalizer($('#header-row'), {});
+  }, 200);
+}, true);
+
+</script>

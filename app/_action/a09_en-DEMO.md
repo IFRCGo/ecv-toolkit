@@ -1,11 +1,10 @@
 ---
-layout: 
-category: action
-id: 1 
-title: Preparing oral rehydration solution (ORS)
-messages: [1]
-
-permalink: action/preparing-oral-rehydration-solution
+# ACTION #
+# ====== #
+layout: card
+identifier: 9
+message: []
+slug: Preparing an oral rehydration salt (ORS) solution
 lang: en
 ---
 

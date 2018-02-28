@@ -1,0 +1,39 @@
+<div class="row">
+  <div class="columns">
+    <div class="icon-nav-bar">
+      
+      {% assign linking = site.data[locale].collections %}
+      
+      <a href="{{site.data[locale].home}}"><span class="linking-icon logo"></span></a>
+      <a href="{{linking.disease.url}}"><span class="linking-icon disease"></span></a>
+      <a href="{{linking.action.url}}"><span class="linking-icon action"></span></a>
+      <a href="{{linking.message.url}}"><span class="linking-icon message"></span></a>
+      <div class="language-nav-bar">
+        {% for loc in site.authorized_locales %}
+          {% if page.collection == "disease" %}
+            {% assign collection = site.collections | where: "label", "disease" | first %}
+            {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
+          {% elsif page.collection == "action"  %}
+            {% assign collection = site.collections | where: "label", "action" | first %}
+            {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
+          {% elsif page.collection == "message" %}
+            {% assign collection = site.collections | where: "label", "message" | first %}
+            {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
+          {% else %}
+            {% assign pg = site.pages | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
+          {% endif %}
+          <a class="" href="{{site.baseurl}}{{pg.url}}">{{ loc | upcase }}</a> 
+          {% if forloop.last == false %} | {% endif %}
+        {% endfor %}
+      </div>  
+    </div>
+  </diV>
+</diV>
+
+<hr class="nav-bottom">
+
+
+
+
+
+

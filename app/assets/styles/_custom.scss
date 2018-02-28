@@ -1,0 +1,316 @@
+// When possible, use the rem and em units to size everything. 
+// Not just font size, but also padding, margins, and any length value. 
+// This ensures that your design scales up and down uniformly if 
+// the user changes their browser's text size. It's common for 
+// vision-impaired users to resize their browser up to 200% zoom.
+
+// ===================== //
+// _includes/header.html //
+// ===================== //
+.header-logo {
+  height: 52px;
+  float: left;
+  margin: 0.5rem;
+}
+.title-bar {
+  margin-bottom: 24px;
+  .title {
+    font-family: "Kanit-Bold" ;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 1;
+    color: $red-cross-red;
+    text-align: center;
+    padding-top: 1rem;
+  }
+}
+
+// ================== //
+// _layouts/card.html //
+// ================== //
+.card-header.left {
+  border-right: 3px solid #fff;  
+}
+.card-number-lg {
+  font-size: rem-calc(48);
+  text-align: center;
+  color: #fff;
+  font-weight: 900;
+  height:100%;
+  span {
+    vertical-align: middle;
+  }
+}
+.card-title-container {
+  padding-left: rem-calc(12);
+}
+.card-number {
+  font-style: italic;
+  font-weight: 300;
+  font-size: rem-calc(18);
+  color: #fff;
+  padding-top: rem-calc(6);
+}
+.card-title {
+  font-size: rem-calc(36);
+  color: #fff;
+  font-weight: 600;
+  line-height: rem-calc(36);
+  padding-bottom: rem-calc(12);
+}
+.card-title-bottom {
+  border-top: 3px solid #fff;
+  height:14px;
+}
+@media (max-width:639px) {
+  .card-header.left {
+    border-right: 2px solid #fff;  
+  }
+  .card-number-lg {
+    font-size: rem-calc(32);
+    text-align: center;
+    color: #fff;
+    font-weight: 900;
+  }
+  .card-number {
+    font-size: rem-calc(14);
+    padding-top: rem-calc(6);
+  }
+  .card-title {
+    font-size: rem-calc(24);
+    line-height: rem-calc(24);
+    padding-bottom: rem-calc(6);
+  }
+  .card-title-bottom {
+    border-top: 2px solid #fff;
+    height:8px;
+  }
+}
+.card-header.primary-background.disease {
+  background: $disease-primary; 
+}
+.card-header.secondary-background.disease, .card-title-bottom.disease  {
+  background: $disease-secondary;  
+}
+.card-header.primary-background.action {
+  background: $action-primary; 
+}
+.card-header.secondary-background.action, .card-title-bottom.action  {
+  background: $action-secondary;  
+}
+.card-header.primary-background.message {
+  background: $message-primary; 
+}
+.card-header.secondary-background.message, .card-title-bottom.message  {
+  background: $message-secondary;  
+}
+
+// ==================================================== //
+// _includes/diseases.html, actions.html, messages.html //
+// ==================================================== //
+.listing-header {
+  color: $red-cross-red;
+  font-family: "Kanit-Bold" ;
+}
+
+// ======================= //
+// _includes/diseases.html //
+// ======================= //
+.button.disease {
+  border-color: $disease-secondary;
+  border-width: 2px; 
+  color: $disease-secondary;
+}
+.button.disease:hover {
+  border-color: $disease-primary;
+  color: $disease-primary;
+}
+
+// ====================== //
+// _includes/actions.html //
+// ====================== //
+.button.action {
+  border-color: $action-secondary;
+  border-width: 2px; 
+  color: $action-secondary;
+}
+.button.action:hover {
+  border-color: $action-primary;
+  color: $action-primary;
+}
+
+// ======================= //
+// _includes/messages.html //
+// ======================= //
+.button.message {
+  border-color: $message-secondary;
+  border-width: 2px; 
+  color: $message-secondary;
+}
+.button.message:hover {
+  border-color: $message-primary;
+  color: $message-primary;
+}
+
+// ======================= //
+// _includes/nav.html //
+// ======================= //
+.icon-nav-bar {
+  .linking-icon {
+    height: 24px;
+    width: 24px;
+    margin: rem-calc(6);
+    display: inline-block;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .linking-icon.logo {
+    width: 36px; //image has a 1x1.5 ratio
+    background-image:  url("/assets/img/ifrc-box.png");
+  }
+  .linking-icon.disease {
+    background-image:  url("/assets/img/disease-primary.png");
+  }
+  .linking-icon.disease:hover {
+    background-image:  url("/assets/img/disease-secondary.png");
+  }
+  .linking-icon.action {
+    background-image:  url("/assets/img/action-primary.png");
+  }
+  .linking-icon.action:hover {
+    background-image:  url("/assets/img/action-secondary.png");
+  }
+  .linking-icon.message {
+    background-image:  url("/assets/img/message-primary.png");
+  }
+  .linking-icon.message:hover {
+    background-image:  url("/assets/img/message-secondary.png");
+  }
+  .language-nav-bar {
+    float: right;
+    margin: rem-calc(10);
+    font-size: rem-calc(12);
+    color: $dark-gray;
+    text-decoration: none;
+    a {
+      color: $medium-gray; 
+      text-decoration: none;
+    }
+    a:hover {
+      color: $dark-gray;
+    }
+  }
+}
+.nav-bottom {
+  margin:0;
+  padding:0;
+  border-color: $light-gray;
+}
+
+// ===================== //
+// _includes/footer.html //
+// ===================== //
+footer {
+  color: $dark-gray;
+}
+
+// ======================= //
+// _includes/landing.html //
+// ======================= //
+.home-nav-btn a {
+  display: block;
+  text-decoration: none;
+  margin-bottom: 40px
+}
+.home-nav-btn a .nav-title {
+  display: block;
+  width: 100%;
+  background: #fff
+}
+.home-nav-btn a .nav-title span {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-family: 'Kanit-Bold';
+  font-weight: normal;
+  text-transform: uppercase
+}
+.home-nav-btn a .nav-title span.nav-title-top {
+  color: #fff;
+  padding-top: 20px
+}
+.home-nav-btn a .nav-title span.nav-title-bottom {
+  background: #fff;
+  padding-bottom: 20px
+}
+.home-nav-btn.disease {
+  a {
+    border: 2px solid $disease-primary;
+  }
+  a .nav-title span.nav-title-top {
+    background: $disease-primary;
+  }
+  a .nav-title span.nav-title-bottom {
+    color: $disease-primary;
+  }
+}
+.home-nav-btn.action { 
+  a {
+    border: 2px solid $action-primary;
+  }
+  a .nav-title span.nav-title-top {
+    background: $action-primary;
+  }
+  a .nav-title span.nav-title-bottom {
+    color: $action-primary;
+  }
+}
+.home-nav-btn.message {
+  a {
+    border: 2px solid $message-primary;
+  }
+  a .nav-title span.nav-title-top {
+    background: $message-primary;
+  }
+  a .nav-title span.nav-title-bottom {
+    color: $message-primary;
+  }
+}
+// small: 0,
+// medium: 640px
+// large: 1024px
+// xlarge: 1200px
+// xxlarge: 1440px
+.home-nav-btn a .nav-title .nav-title-top {
+  font-size: 34px;
+  line-height: 24px;
+}
+.home-nav-btn a .nav-title .nav-title-bottom {
+  font-size: 34px;
+  line-height: 20px;
+}
+@media (max-width:1023px) {
+  .home-nav-btn a .nav-title .nav-title-top {
+    font-size: 36px;
+    line-height: 26px;
+  }
+  .home-nav-btn a .nav-title .nav-title-bottom {
+    font-size: 36px;
+    line-height: 20px;
+  }
+}
+@media (max-width:639px) {
+  .home-nav-btn a .nav-title .nav-title-top {
+    font-size: 24px;
+    line-height: 17px;
+  }
+  .home-nav-btn a .nav-title .nav-title-bottom {
+    font-size: 24px;
+    line-height: 14px;
+  }
+}
+

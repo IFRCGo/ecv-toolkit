@@ -1,0 +1,80 @@
+############
+## COMMON ##
+############
+
+home: "/"
+collections:
+  disease:
+    text-top:     "Understand"
+    text-bottom:  "Diseases"
+    text-nav:     "Diseases"
+    url:  "/disease/"
+  action:
+    text-top:     "Volunteer"
+    text-bottom:  "Actions"
+    text-nav:     "Actions"
+    url:  "/action/"
+  message:
+    text-top:     "Community"
+    text-bottom:  "Messages"
+    text-nav:     "Messages"
+    url:  "/message/"
+
+#####################
+## LANDING CONTENT ##
+#####################
+
+banner:
+  title-1:        "Epidemic control"
+  title-2:        "for volunteers"
+  description:    "This manual and toolkit are designed to help volunteers define their role in the community before, during and after an epidemic and to take the actions that are best suited to that particular epidemic."
+
+##################
+## DISEASE LIST ##
+##################
+
+diseases:
+  title:  "Disease Tools"
+
+#################
+## ACTION LIST ##
+#################
+
+actions:
+  title:  "Action Tools"
+
+##################
+## MESSAGE LIST ##
+##################
+
+messages:
+  title:  "Community Message Tools"
+
+##################
+## DISEASE CARD ##
+##################
+disease: 
+  title: "Disease tool"
+  linking:
+    title:  "Volunteer actions"
+    note:   "See the following action tools for more information on what actions to take against"
+  
+
+#################
+## ACTION CARD ##
+#################
+action:
+  title:  "Action tool"
+  linking:
+    note-one:   "Use community message:"
+    note-many:  "Use community messages:"   
+
+  
+##################
+## MESSAGE CARD ##
+##################
+message: 
+  title:  "Community message tool" 
+  linking:
+    note-one:   "Used for action:"
+    note-many:   "Used for actions:"    

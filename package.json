@@ -1,0 +1,37 @@
+{
+  "name": "ecv-toolkit",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "build": "gulp",
+    "install": "bundle install --path bundle/cache",
+    "postinstall": "[ -f _config-dev.yml ] || echo 'domain: http://localhost:3000\npath_prefix:' > _config-dev.yml",
+    "serve": "gulp serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IFRCGo/ecv-toolkit.git"
+  },
+  "author": "danbjoseph",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/IFRCGo/ecv-toolkit/issues"
+  },
+  "homepage": "https://github.com/IFRCGo/ecv-toolkit#readme",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "font-awesome": "^4.7.0",
+    "foundation-sites": "^6.4.4-rc1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "request": "^2.83.0",
+    "run-sequence": "^2.2.1"
+  }
+}
