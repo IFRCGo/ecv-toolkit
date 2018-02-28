@@ -55,7 +55,7 @@ layout: default
   {% for linked in linkedcollection.docs %}
     {% if linked.lang == locale and linked.identifier == number %}
       <div style="display:inline-block;">
-        <a title="{{ linked.slug }}" href="{{ linked.url }}">
+        <a title="{{ linked.slug }}" href="{{ site.baseurl }}{{ linked.url }}">
           {{ linked.identifier }}
         </a>
       </div> &nbsp;
