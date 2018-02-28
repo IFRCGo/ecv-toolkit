@@ -1,5 +1,5 @@
 source:       app
-baseurl:      ""
+baseurl:      "/ecv-toolkit"
 
 markdown:   kramdown
 permalink:  pretty
