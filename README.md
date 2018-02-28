@@ -70,3 +70,8 @@ Cleans the compiled site.
 $ gulp prod
 ```
 Compiles the site loading the `_config-prod.yml` alongside `_config.yml`.
+
+### Travis-CI
+
+I created a new personal access token with 'public_repo - Access public repositories' permissions. Copied the token and used it in `travis encrypt GH_TOKEN=my_github_token --add env.matrix` as described in the [Travis-CI docs](https://docs.travis-ci.com/user/environment-variables#Encrypting-environment-variables).
+ 
