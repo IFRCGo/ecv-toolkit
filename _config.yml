@@ -1,5 +1,5 @@
 source:       app
-baseurl:      ""
+baseurl:      "/ecv-toolkit" # also needs to be updated in _settings.scss
 
 markdown:   kramdown
 permalink:  pretty
