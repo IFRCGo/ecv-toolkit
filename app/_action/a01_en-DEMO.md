@@ -4,7 +4,7 @@
 layout: card
 identifier: 1 
 message: [1]
-slug: Community-based surveillance
+title: Community-based surveillance
 lang: en
 ---
 

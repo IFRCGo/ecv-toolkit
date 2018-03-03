@@ -4,7 +4,7 @@
 layout: card
 identifier: 4 
 message: [24]
-slug: Referral to health facilities
+title: Referral to health facilities
 lang: en
 ---
 

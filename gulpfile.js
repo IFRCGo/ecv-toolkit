@@ -190,6 +190,7 @@ gulp.task('get-humans', function(){
     };
 
     request(options, function (err, res) {
+      console.log(JSON.parse(res.body))
       var humans = JSON.parse(res.body).map(function(human){
         return {login: human.login, html_url: human.html_url, contributions: human.contributions}
       });

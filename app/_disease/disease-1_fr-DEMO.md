@@ -4,7 +4,7 @@
 layout: card
 identifier: 1 
 action: [1,2]
-slug: Diarrhée
+title: Diarrhée
 lang: fr
 ---
 
