@@ -2,6 +2,7 @@
 layout: default
 ---
 {% include get_locale.html %}
+{% include get_lvl.html %}
 {% include nav.html %}
 {% assign thiscollection = site.collections | where: "label", page.collection | first %}
 {% assign collectionlabel = thiscollection.label %}
@@ -55,7 +56,7 @@ layout: default
   {% for linked in linkedcollection.docs %}
     {% if linked.lang == locale and linked.identifier == number %}
       <div style="display:inline-block;">
-        <a title="{{ linked.title }}" href="{{ site.baseurl }}{{ linked.url }}">
+        <a title="{{ linked.title }}" href="{{ linked.url | remove_first:'/' | prepend:site_root }}">
           {{ linked.identifier }}
         </a>
       </div> &nbsp;
