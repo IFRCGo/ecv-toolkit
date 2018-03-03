@@ -1,3 +1,4 @@
+{% include get_lvl.html %}
 <div class="row">
   <div class="columns small-10 small-offset-1 text-center">
     <h1 class="listing-header">{{site.data[locale].messages.title}}</h1>
@@ -9,7 +10,7 @@
   {% if message.lang == locale %}
   <div class="row">
     <div class="columns small-10 small-offset-1 medium-8 medium-offset-2">
-      <a class="hollow button small expanded message" href="{{ site.baseurl }}{{ message.url }}">
+      <a class="hollow button small expanded message" href="{{ message.url | remove_first:'/' | prepend:site_root }}">
         {{ message.identifier }} - {{ message.title }}
       </a>
     </div>

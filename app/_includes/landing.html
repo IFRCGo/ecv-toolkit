@@ -1,10 +1,42 @@
+{% include get_lvl.html %}
+<div class="row title-bar">
+  <div class="columns small-2">
+  <img class="header-logo" src="{{ site_root }}assets/img/ifrc-digital-logo.svg">
+  </div>
+  <div class="columns small-8">
+    <h1 class="title">{{site.data[locale].banner.title-1}} {{site.data[locale].banner.title-2}}<h1>
+  </div>
+</div>
+
+<div class="row columns text-center">
+  <div class="lang-nav">
+    {% for loc in site.authorized_locales %}
+      {% if page.collection == "disease" %}
+        {% assign collection = site.collections | where: "label", "disease" | first %}
+        {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
+      {% elsif page.collection == "action"  %}
+        {% assign collection = site.collections | where: "label", "action" | first %}
+        {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
+      {% elsif page.collection == "message" %}
+        {% assign collection = site.collections | where: "label", "message" | first %}
+        {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
+      {% else %}
+        {% assign pg = site.pages | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
+      {% endif %}
+      <a class="" href="{{ pg.url | remove_first:'/' | prepend:site_root }}">{{site.locale_names[loc]}}</a> 
+      {% if forloop.last == false %} | {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+<br>
 
 <div class="row">
   <div class="columns small-10 small-offset-1 medium-offset-2 medium-8 large-offset-0 large-4">
     <div class="home-nav-btn disease">
-      <a href="{{ site.baseurl }}{{site.data[locale].collections.disease.url}}">
+      <a href="{{site.data[locale].collections.disease.url | remove_first:'/' | prepend:site_root }}">
         <div class="btn-image">
-          <img class="show-for-medium" src="{{ site.baseurl }}/assets/img/graphics/example1.jpg" alt="" >
+          <img class="show-for-medium" src="{{ site_root }}assets/img/graphics/example1.jpg" alt="" >
         </div>
         <div class="nav-title ">
           <span class="nav-title-top">{{site.data[locale].collections.disease.text-top}}</span>
@@ -15,9 +47,9 @@
   </div>
   <div class="columns small-10 small-offset-1 medium-offset-2 medium-8 large-offset-0 large-4">
     <div class="home-nav-btn action">
-      <a href="{{ site.baseurl }}{{site.data[locale].collections.action.url}}">
+      <a href="{{site.data[locale].collections.action.url | remove_first:'/' | prepend:site_root }}">
         <div class="btn-image">
-          <img class="show-for-medium" src="{{ site.baseurl }}/assets/img/graphics/example2.jpg" alt="" >
+          <img class="show-for-medium" src="{{ site_root }}assets/img/graphics/example2.jpg" alt="" >
         </div>
         <div class="nav-title ">
           <span class="nav-title-top">{{site.data[locale].collections.action.text-top}}</span>
@@ -28,9 +60,9 @@
   </div>
   <div class="columns small-10 small-offset-1 medium-offset-2 medium-8 large-offset-0 large-4">
     <div class="home-nav-btn message">
-      <a href="{{ site.baseurl }}{{site.data[locale].collections.message.url}}">
+      <a href="{{site.data[locale].collections.message.url | remove_first:'/' | prepend:site_root}}">
         <div class="btn-image">
-          <img class="show-for-medium" src="{{ site.baseurl }}/assets/img/graphics/example3.jpg" alt="" >
+          <img class="show-for-medium" src="{{ site_root }}assets/img/graphics/example3.jpg" alt="" >
         </div>
         <div class="nav-title ">
           <span class="nav-title-top">{{site.data[locale].collections.message.text-top}}</span>
