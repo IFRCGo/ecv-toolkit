@@ -15,7 +15,7 @@ layout: default
   <div class="columns small-10 card-header primary-background {{page.collection}}">
     <div class="card-title-container" data-equalizer-watch>
       <div class="card-number">{{ site.data[locale][collectionlabel].title | upcase }} {{ page.identifier }}</div>
-      <div class="card-title">{{ page.slug }}</div>
+      <div class="card-title">{{ page.title }}</div>
     </div>
   </div>
 </div>
@@ -39,7 +39,7 @@ layout: default
   {% when 'disease' %}  
      {% assign linkedcollection = site.collections | where: 'label', 'action' | first %}
      <h4>{{ site.data[locale].disease.linking.title }}</h4>
-     <p>{{ site.data[locale].disease.linking.note }} {{ page.slug | downcase }}:</p> 
+     <p>{{ site.data[locale].disease.linking.note }} {{ page.title | downcase }}:</p> 
   {% when 'action' %}
     {% assign linkedcollection = site.collections | where: 'label', 'message' | first %}
     <div>{{ site.data[locale].action.linking.note-one }}</div>
@@ -55,7 +55,7 @@ layout: default
   {% for linked in linkedcollection.docs %}
     {% if linked.lang == locale and linked.identifier == number %}
       <div style="display:inline-block;">
-        <a title="{{ linked.slug }}" href="{{ linked.url }}">
+        <a title="{{ linked.title }}" href="{{ linked.url }}">
           {{ linked.identifier }}
         </a>
       </div> &nbsp;

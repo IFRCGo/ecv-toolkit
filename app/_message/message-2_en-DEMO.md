@@ -4,7 +4,7 @@
 layout: card
 identifier: 2 
 action: [2]
-slug: Community message 2
+title: Community message 2
 lang: en
 ---
 

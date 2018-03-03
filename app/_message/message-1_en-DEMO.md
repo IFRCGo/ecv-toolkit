@@ -4,7 +4,7 @@
 layout: card
 identifier: 1 
 action: [1]
-slug: Community mapping
+title: Community mapping
 lang: en
 ---
 

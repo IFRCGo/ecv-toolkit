@@ -1,9 +1,11 @@
+require 'i18n'
+
 module Jekyll
   module CustomPermalink
     class Generator < Jekyll::Generator
       priority :normal
 
-      def generate(site)
+      def generate(site)  
         # grab the translations from the _config.yml file
         configs = site.config['collections'];
         # loop through the pages (inside the 2 letter language folders, i.e. index.html, actions.html)
@@ -33,8 +35,10 @@ module Jekyll
               langcode = doc.data['lang']
               # grab the translation from the language data files
               urlstart = site.data[langcode]['collections'][thiscollection]['url']
+              # strip accent marks from title
+              doc.data['slug'] = I18n.transliterate(doc.data['title'])
               # set the permalink value
-              doc.data['permalink'] = urlstart + ':slug/'
+              doc.data['permalink'] = urlstart  + ':slug/'
             end
           end
         end

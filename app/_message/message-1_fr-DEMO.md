@@ -4,7 +4,7 @@
 layout: card
 identifier: 1 
 action: [1]
-slug: Cartographie communautaire
+title: Cartographie communautaire
 lang: fr
 ---
 

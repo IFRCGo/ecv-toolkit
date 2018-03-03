@@ -4,7 +4,7 @@
 layout: card
 identifier: 2 
 action: [2]
-slug: Message communautairé 2
+title: Message communautairé 2
 lang: fr
 ---
 

@@ -4,7 +4,7 @@
 layout: card
 identifier: 7 
 message: []
-slug: Assessment of dehydration
+title: Assessment of dehydration
 lang: en
 ---
 

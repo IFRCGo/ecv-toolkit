@@ -4,7 +4,7 @@
 layout: card
 identifier: 3
 message: []
-slug: Communicating with the community
+title: Communicating with the community
 lang: en
 ---
 
