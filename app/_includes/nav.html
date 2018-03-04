@@ -9,7 +9,7 @@
       <a href="{% render_depth %}{{linking.action.url | remove_first:'/' }}"><span class="linking-icon action"></span></a>
       <a href="{% render_depth %}{{linking.message.url | remove_first:'/' }}"><span class="linking-icon message"></span></a>
       <div class="language-nav-bar">
-        {% for loc in site.authorized_page.langs %}
+        {% for loc in site.authorized_locales.langs %}
           {% if page.collection == "disease" %}
             {% assign collection = site.collections | where: "label", "disease" | first %}
             {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}

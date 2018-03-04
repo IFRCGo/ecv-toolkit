@@ -9,7 +9,7 @@
 
 <div class="row columns text-center">
   <div class="lang-nav">
-    {% for loc in site.authorized_page.langs %}
+    {% for loc in site.authorized_locales.langs %}
       {% if page.collection == "disease" %}
         {% assign collection = site.collections | where: "label", "disease" | first %}
         {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
