@@ -9,7 +9,7 @@
 
 <div class="row columns text-center">
   <div class="lang-nav">
-    {% for loc in site.authorized_locales.langs %}
+    {% for loc in site.authorized_locales %}
       {% if page.collection == "disease" %}
         {% assign collection = site.collections | where: "label", "disease" | first %}
         {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
@@ -22,7 +22,7 @@
       {% else %}
         {% assign pg = site.pages | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
       {% endif %}
-      <a class="" href="{% render_depth %}{{ pg.url | remove_first:'/' }}">{{site.page.lang_names[loc]}}</a> 
+      <a class="" href="{% render_depth %}{{ pg.url | remove_first:'/' }}">{{site.locale_names[loc]}}</a> 
       {% if forloop.last == false %} | {% endif %}
     {% endfor %}
   </div>
