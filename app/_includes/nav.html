@@ -1,16 +1,15 @@
-{% include get_lvl.html %}
 <div class="row">
   <div class="columns">
     <div class="icon-nav-bar">
       
-      {% assign linking = site.data[locale].collections %}
+      {% assign linking = site.data[page.lang].collections %}
       
-      <a href="{{site.data[locale].home | remove_first:'/' | prepend:site_root }}"><span class="linking-icon logo"></span></a>
-      <a href="{{linking.disease.url | remove_first:'/' | prepend:site_root }}"><span class="linking-icon disease"></span></a>
-      <a href="{{linking.action.url | remove_first:'/' | prepend:site_root }}"><span class="linking-icon action"></span></a>
-      <a href="{{linking.message.url | remove_first:'/' | prepend:site_root }}"><span class="linking-icon message"></span></a>
+      <a href="{% render_depth %}{{site.data[page.lang].home | remove_first:'/' }}"><span class="linking-icon logo"></span></a>
+      <a href="{% render_depth %}{{linking.disease.url | remove_first:'/' }}"><span class="linking-icon disease"></span></a>
+      <a href="{% render_depth %}{{linking.action.url | remove_first:'/' }}"><span class="linking-icon action"></span></a>
+      <a href="{% render_depth %}{{linking.message.url | remove_first:'/' }}"><span class="linking-icon message"></span></a>
       <div class="language-nav-bar">
-        {% for loc in site.authorized_locales %}
+        {% for loc in site.authorized_page.langs %}
           {% if page.collection == "disease" %}
             {% assign collection = site.collections | where: "label", "disease" | first %}
             {% assign pg = collection.docs | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
@@ -23,7 +22,7 @@
           {% else %}
             {% assign pg = site.pages | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
           {% endif %}
-          <a class="" href="{{pg.url | remove_first:'/' | prepend:site_root }}">{{ loc | upcase }}</a> 
+          <a class="" href="{% render_depth %}{{pg.url | remove_first:'/' }}">{{ loc | upcase }}</a> 
           {% if forloop.last == false %} | {% endif %}
         {% endfor %}
       </div>  

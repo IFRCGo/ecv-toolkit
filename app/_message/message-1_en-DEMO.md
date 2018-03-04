@@ -8,6 +8,6 @@ title: Community mapping
 lang: en
 ---
 
-![Community mapping]({{ site.baseurl }}/assets/img/graphics/community-mapping.png){:class="my-img-class"}
+![Community mapping]({% render_depth %}assets/img/graphics/community-mapping.png){:class="my-img-class"}
 
 ## Call to action for community message 1 about mapping!

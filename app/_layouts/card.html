@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-{% include get_locale.html %}
-{% include get_lvl.html %}
 {% include nav.html %}
 {% assign thiscollection = site.collections | where: "label", page.collection | first %}
 {% assign collectionlabel = thiscollection.label %}
@@ -15,7 +13,7 @@ layout: default
   </div>
   <div class="columns small-10 card-header primary-background {{page.collection}}">
     <div class="card-title-container" data-equalizer-watch>
-      <div class="card-number">{{ site.data[locale][collectionlabel].title | upcase }} {{ page.identifier }}</div>
+      <div class="card-number">{{ site.data[page.lang][collectionlabel].title | upcase }} {{ page.identifier }}</div>
       <div class="card-title">{{ page.title }}</div>
     </div>
   </div>
@@ -39,14 +37,14 @@ layout: default
 {% case collectionlabel %}
   {% when 'disease' %}  
      {% assign linkedcollection = site.collections | where: 'label', 'action' | first %}
-     <h4>{{ site.data[locale].disease.linking.title }}</h4>
-     <p>{{ site.data[locale].disease.linking.note }} {{ page.title | downcase }}:</p> 
+     <h4>{{ site.data[page.lang].disease.linking.title }}</h4>
+     <p>{{ site.data[page.lang].disease.linking.note }} {{ page.title | downcase }}:</p> 
   {% when 'action' %}
     {% assign linkedcollection = site.collections | where: 'label', 'message' | first %}
-    <div>{{ site.data[locale].action.linking.note-one }}</div>
+    <div>{{ site.data[page.lang].action.linking.note-one }}</div>
   {% when 'message' %}
     {% assign linkedcollection = site.collections | where: 'label', 'action' | first %}
-    <div>{{ site.data[locale].message.linking.note-one }}</div>
+    <div>{{ site.data[page.lang].message.linking.note-one }}</div>
   {% else %}
 {% endcase %}
 
@@ -54,9 +52,9 @@ layout: default
 {% assign linkarray = page[linkedcollection.label] %}
 {% for number in linkarray %}
   {% for linked in linkedcollection.docs %}
-    {% if linked.lang == locale and linked.identifier == number %}
+    {% if linked.lang == page.lang and linked.identifier == number %}
       <div style="display:inline-block;">
-        <a title="{{ linked.title }}" href="{{ linked.url | remove_first:'/' | prepend:site_root }}">
+        <a title="{{ linked.title }}" href="{% render_depth %}{{ linked.url | remove_first:'/' }}">
           {{ linked.identifier }}
         </a>
       </div> &nbsp;
@@ -73,7 +71,6 @@ var throttleTimer;
 window.addEventListener('resize', function() {
   window.clearTimeout(throttleTimer);
   throttleTimer = window.setTimeout(function() {
-    console.log('fuck')
     $('#header-row').foundation('_destroy');
     var elem = new Foundation.Equalizer($('#header-row'), {});
   }, 200);
