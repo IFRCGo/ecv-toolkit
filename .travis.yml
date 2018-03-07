@@ -10,6 +10,7 @@ env:
     secure: l3GO5yEe8v/YXoJYNoLXFSi8PP/2+8ZaGTBbNYG1giGPRoMO1uXc11K0yh0hLkP7gKabFi4RTUS/qEwfoksDzyMrW0J5uBkTZazvMHbkyHAVzID7ax7oOZeWf9pIwdTytn1KGiqFQ70L054nZ41jmApcQeByh1pE9OyjRXeVaJokEJ3DbyXXjLcCVhzhDGvJKDjh3OF6ikLLkjpWHpSukNPLfSbtkF3McmfUMAj9hRrcxnT1BiZcjYXx+sRh9epQix/BLF6F3SFQUx+fYzxhe7X3HL9Le5vNDW3XU4Z4UI0ysmOpQRQeCT9QBkKhGPZyKt5xj5ZTG+yZ1416sMd2RELWfd/ewpY6IGDI6kWVPaIH+KbR87kIQLp1h0JhwqaBjTIWzVjcoNmnJHy71NChA+g4+esNWesc+YSrUzvN99JewWRFyYnqZ0BIN4HGSw+nhACbmMFEvuEBLXFJvjkuGutnjbg1xnahoAT/YKsf5Y9R3lsRs3QkhsjqcV/jNPJ5vxR7TtJ++eecRXPfxBwhVk2NhE9adf5Xj22OeBUZeBRyNywmJrvA3qiIVCxuy2Jy1mMtGbrKJiuOTCsgnh0Yw/BzSmn4x21utwqqntTxWQY5uuUTW76kh4Yh9zqewsmENtXIRcSkO98C84nY0H56IWmANgIduvXGXkVedtRlMlo=
 before_install:
 - chmod +x ./.build_scripts/deploy.sh
+- chmod +x ./.build_scripts/phonegap.sh
 before_script:
 - ". $HOME/.nvm/nvm.sh"
 - nvm install $TRAVIS_NODE_VERSION
