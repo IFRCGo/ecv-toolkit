@@ -80,14 +80,9 @@ var javascriptPaths = [
   "node_modules/what-input/what-input.js",
   // "node_modules/foundation-sites/dist/js/foundation.js",
   "node_modules/foundation-sites/dist/js/plugins/foundation.core.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.util.keyboard.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.util.box.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.util.nest.js",
   "node_modules/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js",
   "node_modules/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js",
-  // https://foundation.zurb.com/sites/docs/dropdown-menu.html#javascript-reference
   // https://foundation.zurb.com/sites/docs/equalizer.html#javascript-reference
-  "node_modules/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js",
   "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js" 
   
 ]
