@@ -280,7 +280,6 @@ gulp.task('get-humans', function(){
 
     request(options, function (err, res, body) {
       if (!err && res.statusCode == 200) {
-        console.log(JSON.parse(body))
         var humans = JSON.parse(res.body).map(function(human){
           return {login: human.login, html_url: human.html_url, contributions: human.contributions}
         });
@@ -300,7 +299,7 @@ gulp.task('get-humans', function(){
       for (i = 0; i < humans.length; i++) {
         doc = doc + '\nContributor: '+humans[i].login + '\nGithub: '+humans[i].html_url +'\n';
       }
-      fs.writeFile('./_site/humans.txt', doc, function(err) {
+      fs.writeFile('./app/humans.txt', doc, function(err) {
         if (err) throw err;
       });
     });
