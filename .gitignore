@@ -1,9 +1,11 @@
 notes.md
 _site
+_android
 .tmp
 .bundle
 bundle
 _config-dev.yml
+notes
 
 # OS generated files #
 ######################

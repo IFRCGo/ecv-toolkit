@@ -21,6 +21,7 @@
   "homepage": "https://github.com/IFRCGo/ecv-toolkit#readme",
   "dependencies": {
     "browser-sync": "^2.23.6",
+    "d3-queue": "^3.0.7",
     "font-awesome": "^4.7.0",
     "foundation-sites": "^6.4.4-rc1",
     "gulp": "^3.9.1",
@@ -31,6 +32,9 @@
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.0",
+    "line-replace": "^1.0.2",
+    "node-dir": "^0.1.17",
+    "path": "^0.12.7",
     "request": "^2.83.0",
     "run-sequence": "^2.2.1"
   }
