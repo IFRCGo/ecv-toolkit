@@ -4,7 +4,10 @@
 
 ### Project overview
 
-The intention of this project is to deliver the toolkit as a static HTML website, PDF, and as an offline Android app from a single source of data/content. The content is stored in plain text files in the 'app/\_disease', 'app/\_action', and 'app/\_message' directories. Site translations are stored in plain text files in the 'app/\_data' folder. The website is built using [Jekyll](https://jekyllrb.com/). The plan for the Android app is to embed the website files within a simple webview app, so that the phone can open the website using the stored files, instead of connecting to the web. PDFs will be generated via a TBD javascript library.
+The intention of this project is to deliver the toolkit as a static HTML website, PDF, and as an offline Android app from a single source of data/content. The content is stored in plain text files in the 'app/\_disease', 'app/\_action', and 'app/\_message' directories. Site translations are stored in plain text files in the 'app/\_data' folder. The website is built using [Jekyll](https://jekyllrb.com/). PDFs will be generated via a TBD javascript library.
+
+The automated deployment process also creates the `_android` branch which is bundled Adobe PhoneGap using their PG Build App.
+You can download an .apk file to install the website for offline access on an Android device [here](https://build.phonegap.com/apps/3033001/share). 
 
 ### The toolkit
 

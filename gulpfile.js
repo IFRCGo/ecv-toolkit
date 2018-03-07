@@ -21,18 +21,25 @@ var uglify = require('gulp-uglify');
 // Copy from the .tmp to _site directory.
 // To reduce build times the assets are compiles at the same time as jekyll
 // renders the site. Once the rendering has finished the assets are copied.
-gulp.task('copy:assets', function(done) {
+gulp.task('copy:assets', function() {
   
   switch (environment) {
     case 'android':
       return gulp.src('.tmp/assets/**')
-        .pipe(gulp.dest('_android/assets'));
+        .pipe(gulp.dest('_android/www/assets'));
     break;
     default:
       return gulp.src('.tmp/assets/**')
         .pipe(gulp.dest('_site/assets'));
     break;
   }
+  
+});
+
+gulp.task('copy:config', function() {
+  
+  return gulp.src('./config.xml')
+    .pipe(gulp.dest('_android'));
   
 });
 
@@ -171,7 +178,7 @@ gulp.task('prod', function(done) {
 });
 gulp.task('android', function(done) {
   environment = 'android';
-  runSequence('build', 'modify-links', done);
+  runSequence('build', 'modify-links', 'copy:config', done);
 });
 
 // Removes jekyll's _site folder

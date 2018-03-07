@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "org.ifrc.go.ecvtoolkit"
+    versionCode = "0"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>ECV Toolkit</name>
+
+  <description>
+      The Epidemic Control for Volunteers toolkit encourages volunteers to use evidence-based actions and approaches to prevent the spread of communicable diseases in their communities, provide appropriate care for the sick and reduce the number of deaths.
+  </description>
+
+  <author href="http://go.ifrc.org/" email="daniel.joseph@redcross.org">
+      danbjoseph
+  </author>
+  
+  <platform name="android" />
+  
+
+</widget>
