@@ -5,9 +5,14 @@ var browserSync = require('browser-sync');
 var clean = require('gulp-clean');
 var concat = require('gulp-concat');
 var cp = require('child_process');
+var dir = require('node-dir');
 var fs = require('fs');
+var lineReplace = require('line-replace');
+var path = require('path');
 var plumber = require('gulp-plumber');
+var queue = require('d3-queue');
 var request = require('request');
+var readline = require('readline');
 var runSequence = require('run-sequence').use(gulp);
 var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
@@ -17,8 +22,18 @@ var uglify = require('gulp-uglify');
 // To reduce build times the assets are compiles at the same time as jekyll
 // renders the site. Once the rendering has finished the assets are copied.
 gulp.task('copy:assets', function(done) {
-  return gulp.src('.tmp/assets/**')
-    .pipe(gulp.dest('_site/assets'));
+  
+  switch (environment) {
+    case 'android':
+      return gulp.src('.tmp/assets/**')
+        .pipe(gulp.dest('_android/assets'));
+    break;
+    default:
+      return gulp.src('.tmp/assets/**')
+        .pipe(gulp.dest('_site/assets'));
+    break;
+  }
+  
 });
 
 
@@ -92,6 +107,9 @@ gulp.task('jekyll', function (done) {
   switch (environment) {
     case 'development':
       args.push('--config=_config.yml,_config-dev.yml');
+    break
+    case 'android':
+      args.push('--config=_config.yml,_config-android.yml');
     break;
     case 'production':
       args.push('--config=_config.yml');
@@ -149,12 +167,16 @@ gulp.task('no-reload', function(done) {
 var environment = 'development';
 gulp.task('prod', function(done) {
   environment = 'production';
-  runSequence('clean', 'get-humans', 'build', 'pdfs', done);
+  runSequence('clean', 'get-humans', 'build', 'pdfs', 'android', done);
+});
+gulp.task('android', function(done) {
+  environment = 'android';
+  runSequence('build', 'modify-links', done);
 });
 
 // Removes jekyll's _site folder
 gulp.task('clean', function() {
-  return gulp.src(['_site', '.tmp'], {read: false})
+  return gulp.src(['_site', '_android', '.tmp'], {read: false})
     .pipe(clean());
 });
 
@@ -167,6 +189,73 @@ function browserReload() {
     browserSync.reload();
   }
 }
+
+// android webview 
+// ---------------
+
+var replacements = [];
+var filecount = 0;
+var processedcount = 0;
+
+// all page links need an 'index.html' added to the end
+gulp.task('modify-links', function(done) {
+
+  function processFile(file, cb) {
+    var myfile = file;
+    var linecount = 0;
+    var rl = readline.createInterface({
+      input: fs.createReadStream(myfile),
+      crlfDelay: Infinity
+    });
+    
+    rl.on('line', function(line) {
+      linecount++;
+      let firstIndex = line.indexOf('href="');
+      if( firstIndex !== -1 ) {
+        hrefClosure = line.indexOf('"', firstIndex+6 );
+        if( line.substr(firstIndex, hrefClosure).indexOf('.css') == -1 ) {
+          let output = line.substr(0, hrefClosure) + 'index.html' + line.substr(hrefClosure);
+          replacements.push({ "file": myfile,
+                              "line": linecount,
+                              "text": output,
+                              "addNewLine": true,
+                              "callback": null })
+        }
+      }
+      
+    });
+    rl.on('close', function() {
+      processedcount++;
+      if ( processedcount === filecount) {
+        var processQueue = queue.queue(1);
+        replacements.forEach( function(replaceObj) {
+          processQueue.defer(replaceLine, replaceObj);
+        })
+        processQueue.awaitAll(function(error, files) {
+          if (error) throw error;
+          done();
+        });
+      }
+    })
+  }
+  
+  function replaceLine(item, cb) {
+    item["callback"] = function(data){ cb(null, data); };
+    lineReplace(item);
+  }
+
+  dir.files('_android/',function(err,files){
+    if (err) throw err;
+    for( var i = 0; i < files.length; i++ ) {
+      if ( path.extname(files[i]) == ".html" ) {
+        filecount++;
+        processFile(files[i])
+      }
+    }
+  });
+
+});
+
 
 // Pdfs task 
 // ---------
@@ -189,15 +278,18 @@ gulp.task('get-humans', function(){
       }
     };
 
-    request(options, function (err, res) {
-      console.log(JSON.parse(res.body))
-      var humans = JSON.parse(res.body).map(function(human){
-        return {login: human.login, html_url: human.html_url, contributions: human.contributions}
-      });
-      humans.sort(function(a,b){
-        return b.contributions - a.contributions;
-      })
-      callback(humans);
+    request(options, function (err, res, body) {
+      if (!err && res.statusCode == 200) {
+        var humans = JSON.parse(res.body).map(function(human){
+          return {login: human.login, html_url: human.html_url, contributions: human.contributions}
+        });
+        humans.sort(function(a,b){
+          return b.contributions - a.contributions;
+        })
+        callback(humans);
+      } else {
+        callback([]);
+      }
     });
   }
 
