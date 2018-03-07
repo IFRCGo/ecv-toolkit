@@ -4,7 +4,7 @@
 layout: card
 identifier: 8
 message: []
-slug: Community oral rehydration point 
+title: Community oral rehydration point 
 lang: en
 ---
 

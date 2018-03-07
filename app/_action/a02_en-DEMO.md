@@ -4,7 +4,7 @@
 layout: card
 identifier: 2 
 message: [2]
-slug: Community mapping
+title: Community mapping
 lang: en
 ---
 

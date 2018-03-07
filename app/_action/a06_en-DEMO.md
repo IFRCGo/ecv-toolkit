@@ -4,7 +4,7 @@
 layout: card
 identifier: 6 
 message: []
-slug: Using personal protection equipment (PPE) for highly infectious diseases
+title: Using personal protection equipment (PPE) for highly infectious diseases
 lang: en
 ---
 

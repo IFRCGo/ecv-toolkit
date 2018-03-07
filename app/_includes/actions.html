@@ -1,16 +1,16 @@
 <div class="row">
   <div class="columns small-10 small-offset-1 text-center">
-    <h1 class="listing-header">{{site.data[locale].actions.title}}</h1>
+    <h1 class="listing-header">{{site.data[page.lang].actions.title}}</h1>
   </div>
 </div>
 
 {% assign actions = site.collections | where: "label", "action" | first %}
 {% for action in actions.docs %}
-  {% if action.lang == locale %}
+  {% if action.lang == page.lang %}
   <div class="row">
     <div class="columns small-10 small-offset-1 medium-8 medium-offset-2">
-      <a class="hollow button small expanded action" href="{{ site.baseurl }}{{ action.url }}">
-        {{ action.identifier }} - {{ action.slug }}
+      <a class="hollow button small expanded action" href="{% render_depth %}{{ action.url | remove_first:'/' }}">
+        {{ action.identifier }} - {{ action.title }}
       </a>
     </div>
   </div>

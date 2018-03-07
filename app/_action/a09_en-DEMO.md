@@ -4,7 +4,7 @@
 layout: card
 identifier: 9
 message: []
-slug: Preparing an oral rehydration salt (ORS) solution
+title: Preparing an oral rehydration salt (ORS) solution
 lang: en
 ---
 

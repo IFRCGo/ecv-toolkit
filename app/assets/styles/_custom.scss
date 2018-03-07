@@ -170,25 +170,25 @@
   }
   .linking-icon.logo {
     width: 36px; //image has a 1x1.5 ratio
-    background-image:  url($base-url + "/assets/img/ifrc-box.png");
+    background-image:  url("../img/ifrc-box.png");
   }
   .linking-icon.disease {
-    background-image:  url($base-url + "/assets/img/disease-primary.png");
+    background-image:  url("../img/disease-primary.png");
   }
   .linking-icon.disease:hover {
-    background-image:  url($base-url + "/assets/img/disease-secondary.png");
+    background-image:  url("../img/disease-secondary.png");
   }
   .linking-icon.action {
-    background-image:  url($base-url + "/assets/img/action-primary.png");
+    background-image:  url("../img/action-primary.png");
   }
   .linking-icon.action:hover {
-    background-image:  url($base-url + "/assets/img/action-secondary.png");
+    background-image:  url("../img/action-secondary.png");
   }
   .linking-icon.message {
-    background-image:  url($base-url + "/assets/img/message-primary.png");
+    background-image:  url("../img/message-primary.png");
   }
   .linking-icon.message:hover {
-    background-image:  url($base-url + "/assets/img/message-secondary.png");
+    background-image:  url("../img/message-secondary.png");
   }
   .language-nav-bar {
     float: right;

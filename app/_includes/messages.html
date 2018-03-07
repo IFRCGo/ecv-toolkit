@@ -1,16 +1,16 @@
 <div class="row">
   <div class="columns small-10 small-offset-1 text-center">
-    <h1 class="listing-header">{{site.data[locale].messages.title}}</h1>
+    <h1 class="listing-header">{{site.data[page.lang].messages.title}}</h1>
   </div>
 </div>
 
 {% assign messages = site.collections | where: "label", "message" | first %}
 {% for message in messages.docs %}
-  {% if message.lang == locale %}
+  {% if message.lang == page.lang %}
   <div class="row">
     <div class="columns small-10 small-offset-1 medium-8 medium-offset-2">
-      <a class="hollow button small expanded message" href="{{ site.baseurl }}{{ message.url }}">
-        {{ message.identifier }} - {{ message.slug }}
+      <a class="hollow button small expanded message" href="{% render_depth %}{{ message.url | remove_first:'/' }}">
+        {{ message.identifier }} - {{ message.title }}
       </a>
     </div>
   </div>

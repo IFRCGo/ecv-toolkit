@@ -4,7 +4,7 @@
 layout: card
 identifier: 2 
 message: [2]
-slug: Cartographie communautaire
+title: Cartographie communautaire
 lang: fr
 ---
 

@@ -4,7 +4,7 @@
 layout: card
 identifier: 2 
 action: [1]
-slug: Choléra
+title: Choléra
 lang: fr
 ---
 
