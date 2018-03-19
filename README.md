@@ -43,7 +43,7 @@ The site is configured to support 2-letter core language codes. So english is 'e
 To set up the development environment for this website, you'll need to install the following on your system:
 
 - Install [nvm](https://github.com/creationix/nvm) 
-- run `nvm use` to read the '.mvmrc' file and switch to the correct version of node
+- run `nvm use` to read the '.nvmrc' file and switch to the correct version of node
 - [rvm](https://rvm.io/) and [Bundler](http://bundler.io/)
 - `rvm use 2.3.1`
 - Gulp (install using `npm install -g gulp`)
