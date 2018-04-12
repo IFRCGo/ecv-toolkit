@@ -43,6 +43,13 @@ gulp.task('copy:config', function() {
   
 });
 
+gulp.task('copy:app-icons', function() {
+  
+  return gulp.src('./app-icons/res/**')
+    .pipe(gulp.dest('_android/res/'));
+  
+});
+
 
 var sassInput = 'app/assets/styles/*.scss';
 var sassOptions = {
@@ -173,7 +180,7 @@ gulp.task('prod', function(done) {
 });
 gulp.task('android', function(done) {
   environment = 'android';
-  runSequence('build', 'modify-links', 'copy:config', done);
+  runSequence('build', 'modify-links', 'copy:config', 'copy:app-icons', done);
 });
 
 // Removes jekyll's _site folder
