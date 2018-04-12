@@ -7,6 +7,23 @@
 
 <!-- versionCode is optional and Android only -->
 
+<platform name="android">
+    <!--
+        ldpi    : 36x36 px
+        mdpi    : 48x48 px
+        hdpi    : 72x72 px
+        xhdpi   : 96x96 px
+        xxhdpi  : 144x144 px
+        xxxhdpi : 192x192 px
+    -->
+    <icon src="res/android/ecv-ldpi.png" density="ldpi" />
+    <icon src="res/android/ecv-mdpi.png" density="mdpi" />
+    <icon src="res/android/ecv-hdpi.png" density="hdpi" />
+    <icon src="res/android/ecv-xhdpi.png" density="xhdpi" />
+    <icon src="res/android/ecv-xxhdpi.png" density="xxhdpi" />
+    <icon src="res/android/ecv-xxxhdpi.png" density="xxxhdpi" />
+</platform>
+
   <name>ECV Toolkit</name>
 
   <description>
