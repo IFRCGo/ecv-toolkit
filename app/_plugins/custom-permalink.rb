@@ -15,6 +15,8 @@ module Jekyll
           if page['identifier'] == 'index'
             # if it's index, set permalink from home url in a language file in the `_data` folder
             page.data['permalink'] = site.data[langcode]['home']
+          elsif page['identifier'] == 'json'
+            page.data['permalink'] = '/pdfs.json'  
           else
             # othewise, grab the collection the page is the landing for 
             collection = page.data['listing']

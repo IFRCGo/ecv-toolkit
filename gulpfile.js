@@ -7,9 +7,11 @@ var concat = require('gulp-concat');
 var cp = require('child_process');
 var dir = require('node-dir');
 var fs = require('fs');
+var gls = require('gulp-live-server');
 var lineReplace = require('line-replace');
 var path = require('path');
 var plumber = require('gulp-plumber');
+var puppeteer = require('puppeteer');
 var queue = require('d3-queue');
 var request = require('request');
 var readline = require('readline');
@@ -169,7 +171,7 @@ gulp.task('no-reload', function(done) {
 var environment = 'development';
 gulp.task('prod', function(done) {
   environment = 'production';
-  runSequence('clean', 'get-humans', 'build', 'pdfs', 'android', done);
+  runSequence('clean', 'get-humans', 'build', 'android', done);
 });
 gulp.task('android', function(done) {
   environment = 'android';
@@ -261,13 +263,39 @@ gulp.task('modify-links', function(done) {
 
 // Pdfs task 
 // ---------
-
-gulp.task('pdfs', function() {
-
-// TODO: need to make this happen  
-// ==============================
-
+var myserver = gls.static('_site', 3000);
+gulp.task('webserver-start', function() {
+  myserver.start();
 });
+
+gulp.task('print', function() { 
+  
+  function printUrl(json) {
+    (async () => {
+      var filename = json.url.slice(0,-1).split("/").pop();
+      const browser = await puppeteer.launch();
+      const page = await browser.newPage();
+      await page.goto("http://localhost:3000"+json.url, {waitUntil: 'networkidle2'});
+      await page.pdf({
+        path: "./_site"+json.url+filename+'.pdf', 
+        format: 'A4'
+      });
+      await browser.close();
+    })();
+  }
+  
+  var json = JSON.parse(fs.readFileSync('./_site/pdfs.json', 'utf8')); 
+  for(var i=0;i<json.length;i++){
+    printUrl(json[i]);
+  }
+  
+});
+
+gulp.task('pdfs', function(done) {
+  runSequence('webserver-start','print',done);
+});
+
+
 
 // Humans task 
 // -----------

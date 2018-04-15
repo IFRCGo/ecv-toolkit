@@ -1,5 +1,5 @@
 source:       app
-baseurl:      "" # also needs to be updated in _settings.scss
+baseurl:      ""
 
 markdown:   kramdown
 permalink:  pretty

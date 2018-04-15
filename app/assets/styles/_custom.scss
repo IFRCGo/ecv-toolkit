@@ -314,3 +314,47 @@ footer {
   }
 }
 
+// ================= //
+// for printing PDFs //
+// ================= //
+@page {
+  margin: 0;
+}
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+  .card-number {
+    color: #fff !important;;
+  }
+  .card-title {
+    color: #fff !important;
+  }
+  .card-number-lg span {
+    color: #fff !important;
+  }
+  .card-header.primary-background.disease {
+    background-color: $disease-primary !important;
+    -webkit-print-color-adjust: exact; 
+  }
+  .card-header.secondary-background.disease, .card-title-bottom.disease  {
+    background-color: $disease-secondary !important;
+    -webkit-print-color-adjust: exact;  
+  }
+  .card-header.primary-background.action {
+    background-color: $action-primary !important;
+    -webkit-print-color-adjust: exact; 
+  }
+  .card-header.secondary-background.action, .card-title-bottom.action  {
+    background-color: $action-secondary !important;
+    -webkit-print-color-adjust: exact;  
+  }
+  .card-header.primary-background.message {
+    background-color: $message-primary !important;
+    -webkit-print-color-adjust: exact; 
+  }
+  .card-header.secondary-background.message, .card-title-bottom.message  {
+    background-color: $message-secondary !important;
+    -webkit-print-color-adjust: exact;  
+  }
+}
