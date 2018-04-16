@@ -53,17 +53,18 @@ layout: default
 {% for number in linkarray %}
   {% for linked in linkedcollection.docs %}
     {% if linked.lang == page.lang and linked.identifier == number %}
-      <div style="display:inline-block;">
+      <div>
         <a title="{{ linked.title }}" href="{% render_depth %}{{ linked.url | remove_first:'/' }}">
-          {{ linked.identifier }}
+          {{ linked.identifier }} - {{ linked.title }} 
         </a>
-      </div> &nbsp;
+      </div>
     {% endif %}
   {% endfor %}
 {% endfor %}
   
   </div> 
 </div> 
+<br>
 
 <script>
 
