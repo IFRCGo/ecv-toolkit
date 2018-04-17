@@ -301,7 +301,7 @@ gulp.task('print', function(done) {
       });
       // add the pdf to a tmp language folder, that we will zip when done
       await page.pdf({
-        path: './.tmp/pdf/'+filename, 
+        path: './.tmp/pdf/'+json.lang+"/"+filename, 
         format: 'A4'
       });
       await browser.close();
@@ -362,7 +362,7 @@ gulp.task('print', function(done) {
   console.log(json.length)
   for(var i=0; i<json.length; i++) {
     // create a folder for the language to hold all pdfs to then zip (if doesn't exist)
-    var dir = './.tmp/pdf/'+ json[i].lang;
+    var dir = '.tmp/pdf/'+ json[i].lang;
     if (!fs.existsSync(dir)){
       languages.push({"dir":dir, "lang":json[i].lang});
       fs.mkdirSync(dir);
