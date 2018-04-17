@@ -1,0 +1,23 @@
+---
+layout: null
+identifier: json
+---
+ 
+[
+{% for collection in site.collections %}
+  {% comment %} by default 'posts' exists but is empty in this case, so we ignore it {% endcomment %}
+    {% unless forloop.first %}{% if forloop.index < forloop.length %},{% endif %}{% endunless %}
+    {% for doc in collection.docs %}
+      {
+        "lang": "{{ doc.lang }}",
+        "identifier": "{{ doc.identifier }}",
+        "title": "{{ doc.title }}",
+        "slug": "{{ doc.slug}}",
+        "url": "{{ doc.url }}",
+        "collectionName": "{{ doc.collectionName }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+{% endfor %}
+]
+

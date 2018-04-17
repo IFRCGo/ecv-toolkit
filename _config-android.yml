@@ -1,1 +1,4 @@
 destination: _android/www
+
+exclude:
+  - pdfs.json

@@ -15,6 +15,8 @@ module Jekyll
           if page['identifier'] == 'index'
             # if it's index, set permalink from home url in a language file in the `_data` folder
             page.data['permalink'] = site.data[langcode]['home']
+          elsif page['identifier'] == 'json'
+            page.data['permalink'] = '/pdfs.json'  
           else
             # othewise, grab the collection the page is the landing for 
             collection = page.data['listing']
@@ -39,6 +41,8 @@ module Jekyll
               doc.data['slug'] = I18n.transliterate(doc.data['title'])
               # set the permalink value
               doc.data['permalink'] = urlstart  + ':slug/'
+              # for pdf export file naming, strip accent marks from collection
+              doc.data['collectionName'] = I18n.transliterate(site.data[langcode]['collections'][thiscollection]['text-nav'])
             end
           end
         end

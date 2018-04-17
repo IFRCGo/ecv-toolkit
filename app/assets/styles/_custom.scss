@@ -87,22 +87,22 @@
   }
 }
 .card-header.primary-background.disease {
-  background: $disease-primary; 
+  background: $disease-primary;
 }
 .card-header.secondary-background.disease, .card-title-bottom.disease  {
-  background: $disease-secondary;  
+  background: $disease-secondary;
 }
 .card-header.primary-background.action {
-  background: $action-primary; 
+  background: $action-primary;
 }
 .card-header.secondary-background.action, .card-title-bottom.action  {
-  background: $action-secondary;  
+  background: $action-secondary;
 }
 .card-header.primary-background.message {
-  background: $message-primary; 
+  background: $message-primary;
 }
 .card-header.secondary-background.message, .card-title-bottom.message  {
-  background: $message-secondary;  
+  background: $message-secondary;
 }
 
 // ==================================================== //
@@ -110,7 +110,7 @@
 // ==================================================== //
 .listing-header {
   color: $red-cross-red;
-  font-family: "Kanit-Bold" ;
+  font-family: "Kanit-Bold";
 }
 
 // ======================= //
@@ -224,12 +224,12 @@ footer {
 .home-nav-btn a {
   display: block;
   text-decoration: none;
-  margin-bottom: 40px
+  margin-bottom: 40px;
 }
 .home-nav-btn a .nav-title {
   display: block;
   width: 100%;
-  background: #fff
+  background: #fff;
 }
 .home-nav-btn a .nav-title span {
   display: block;
@@ -237,7 +237,7 @@ footer {
   text-align: center;
   font-family: 'Kanit-Bold';
   font-weight: normal;
-  text-transform: uppercase
+  text-transform: uppercase;
 }
 .home-nav-btn a .nav-title span.nav-title-top {
   color: #fff;
@@ -314,3 +314,47 @@ footer {
   }
 }
 
+// ================= //
+// for printing PDFs //
+// ================= //
+@page {
+  margin: 0;
+}
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+  .card-number {
+    color: #fff !important;;
+  }
+  .card-title {
+    color: #fff !important;
+  }
+  .card-number-lg span {
+    color: #fff !important;
+  }
+  .card-header.primary-background.disease {
+    background-color: $disease-primary !important;
+    -webkit-print-color-adjust: exact; 
+  }
+  .card-header.secondary-background.disease, .card-title-bottom.disease  {
+    background-color: $disease-secondary !important;
+    -webkit-print-color-adjust: exact;  
+  }
+  .card-header.primary-background.action {
+    background-color: $action-primary !important;
+    -webkit-print-color-adjust: exact; 
+  }
+  .card-header.secondary-background.action, .card-title-bottom.action  {
+    background-color: $action-secondary !important;
+    -webkit-print-color-adjust: exact;  
+  }
+  .card-header.primary-background.message {
+    background-color: $message-primary !important;
+    -webkit-print-color-adjust: exact; 
+  }
+  .card-header.secondary-background.message, .card-title-bottom.message  {
+    background-color: $message-secondary !important;
+    -webkit-print-color-adjust: exact;  
+  }
+}
