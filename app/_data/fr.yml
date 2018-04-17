@@ -71,8 +71,8 @@ disease:
 action:
   title:  "Outil d'action"
   linking:
-    note-one:   "Utiliser un message communautaire:"
-    note-many:  "Utiliser les messages de la communauté:"   
+    title:  "Messages communautaires"
+    note:   "Voir les messages de la communauté suivants pour soutenir" 
 
   
 ##################
@@ -81,5 +81,5 @@ action:
 message: 
   title:  "Outil de message communautaire" 
   linking:
-    note-one:   "Utilisé pour l'action:"
-    note-many:   "Utilisé pour les actions:"    
+    title:  "Outils d'action"
+    note:   "Voir l'outil d'action suivant pour soutenir"   
