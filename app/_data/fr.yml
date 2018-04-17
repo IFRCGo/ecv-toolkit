@@ -20,7 +20,9 @@ collections:
     text-bottom:  "Communautaires"    
     text-nav:     "Message"
     url:  "/fr/message/"
-
+common:
+  download-pdf:   "Download PDF"
+  
 #####################
 ## LANDING CONTENT ##
 #####################
