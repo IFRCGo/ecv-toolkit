@@ -283,7 +283,8 @@ gulp.task('print', function(done) {
     (async () => {
       // var filename = json.url.slice(0,-1).split("/").pop();   // not using this
       var filename = json.collectionName + ' - ' + json.identifier + ' - ' + json.slug + '.pdf';
-      const browser = await puppeteer.launch();
+      // to run headless Chrome on Travis, you must call launch() with flags to disable Chrome's sandbox
+      const browser = await puppeteer.launch({args: ['--no-sandbox']});
       const page = await browser.newPage();
       await page.goto("http://localhost:3000"+json.url, {waitUntil: 'networkidle2'});
       // add the pdf to the same folder as the index.html file for that page
