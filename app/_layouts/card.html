@@ -41,10 +41,12 @@ layout: default
      <p>{{ site.data[page.lang].disease.linking.note }} {{ page.title | downcase }}:</p> 
   {% when 'action' %}
     {% assign linkedcollection = site.collections | where: 'label', 'message' | first %}
-    <div>{{ site.data[page.lang].action.linking.note-one }}</div>
+    <h4>{{ site.data[page.lang].action.linking.title }}</h4>
+    <div>{{ site.data[page.lang].action.linking.note }} {{ page.title | downcase }}:</div>
   {% when 'message' %}
     {% assign linkedcollection = site.collections | where: 'label', 'action' | first %}
-    <div>{{ site.data[page.lang].message.linking.note-one }}</div>
+    <h4>{{ site.data[page.lang].message.linking.title }}</h4>
+    <div>{{ site.data[page.lang].message.linking.note }} {{ page.title | downcase }}:</div>
   {% else %}
 {% endcase %}
 
@@ -53,15 +55,28 @@ layout: default
 {% for number in linkarray %}
   {% for linked in linkedcollection.docs %}
     {% if linked.lang == page.lang and linked.identifier == number %}
-      <div>
+      <div class="hide-for-print">
         <a title="{{ linked.title }}" href="{% render_depth %}{{ linked.url | remove_first:'/' }}">
           {{ linked.identifier }} - {{ linked.title }} 
         </a>
+      </div>
+      <!-- no links in PDF export   -->
+      <div class="show-for-print">
+        {{ linked.identifier }} - {{ linked.title }} 
       </div>
     {% endif %}
   {% endfor %}
 {% endfor %}
   
+  </div> 
+</div> 
+<br>
+
+<div class="row hide-for-print">
+  <div class="columns">
+    <h4><a href="{{page.collectionName}} - {{page.identifier}} - {{page.slug}}.pdf" download>
+      {{ site.data[page.lang].common.download-pdf }} <i class="fa fa-file-archive-o" aria-hidden="true"></i>
+    </a></h4>
   </div> 
 </div> 
 <br>

@@ -41,6 +41,8 @@ module Jekyll
               doc.data['slug'] = I18n.transliterate(doc.data['title'])
               # set the permalink value
               doc.data['permalink'] = urlstart  + ':slug/'
+              # for pdf export file naming, strip accent marks from collection
+              doc.data['collectionName'] = I18n.transliterate(site.data[langcode]['collections'][thiscollection]['text-nav'])
             end
           end
         end

@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 
+var archiver = require('archiver');
 var autoprefixer = require('gulp-autoprefixer');
 var browserSync = require('browser-sync');
 var clean = require('gulp-clean');
@@ -171,7 +172,7 @@ gulp.task('no-reload', function(done) {
 var environment = 'development';
 gulp.task('prod', function(done) {
   environment = 'production';
-  runSequence('clean', 'get-humans', 'build', 'android', done);
+  runSequence('clean', 'get-humans', 'build', 'pdfs', 'android', done);
 });
 gulp.task('android', function(done) {
   environment = 'android';
@@ -267,32 +268,112 @@ var myserver = gls.static('_site', 3000);
 gulp.task('webserver-start', function() {
   myserver.start();
 });
+gulp.task('webserver-stop', function() {
+  myserver.stop();
+});
 
-gulp.task('print', function() { 
+gulp.task('print', function(done) {
   
-  function printUrl(json) {
+  // create a variable to hold language directory paths, so we can find and zip them
+  var languages = [];
+  fs.mkdirSync('.tmp/pdf/');
+  // connect a headless browser to the local server run with `gulp-live-server`
+  // and use it to "print" PDFs
+  function printUrl(json, cb) {
     (async () => {
-      var filename = json.url.slice(0,-1).split("/").pop();
+      // var filename = json.url.slice(0,-1).split("/").pop();   // not using this
+      var filename = json.collectionName + ' - ' + json.identifier + ' - ' + json.slug + '.pdf';
       const browser = await puppeteer.launch();
       const page = await browser.newPage();
       await page.goto("http://localhost:3000"+json.url, {waitUntil: 'networkidle2'});
+      // add the pdf to the same folder as the index.html file for that page
       await page.pdf({
-        path: "./_site"+json.url+filename+'.pdf', 
+        path: "./_site"+json.url+filename, 
+        format: 'A4'
+      });
+      // add the pdf to a tmp language folder, that we will zip when done
+      await page.pdf({
+        path: './.tmp/pdf/'+filename, 
         format: 'A4'
       });
       await browser.close();
+      await cb();
     })();
   }
   
-  var json = JSON.parse(fs.readFileSync('./_site/pdfs.json', 'utf8')); 
-  for(var i=0;i<json.length;i++){
-    printUrl(json[i]);
-  }
+  function zipPdfs() {
+    
+    var zippedCount = 0;
+    for(var i=0; i<languages.length; i++) {
+      // create a file to stream archive data to.
+      var output = fs.createWriteStream('_site/' + languages[i]['lang'] + '.zip');
+      var archive = archiver('zip', {
+        zlib: { level: 9 } // Sets the compression level.
+      });
+      // listen for all archive data to be written
+      // 'close' event is fired only when a file descriptor is involved
+      output.on('close', function() {
+        zippedCount++;
+        console.log(zippedCount+' archiver has been finalized and the output file descriptor has closed.');    
+        if(zippedCount == languages.length) {
+          // zipping of a language folders are done so end the gulp task
+          done();
+        }
+      });
+      // This event is fired when the data source is drained no matter what was the data source.
+      // It is not part of this library but rather from the NodeJS Stream API.
+      // @see: https://nodejs.org/api/stream.html#stream_event_end
+      output.on('end', function() {
+        console.log('Data has been drained');
+      });
+      // good practice to catch warnings (ie stat failures and other non-blocking errors)
+      archive.on('warning', function(err) {
+        if (err.code === 'ENOENT') {
+          // log warning
+        } else {
+          // throw error
+          throw err;
+        }
+      });
+      // good practice to catch this error explicitly
+      archive.on('error', function(err) {
+        throw err;
+      });
+      // pipe archive data to the file
+      archive.pipe(output);
+      // append files from a sub-directory and naming it `new-subdir` within the archive
+      archive.directory(languages[i]['dir'], languages[i]['lang']);
+      // finalize the archive (ie we are done appending files but streams have to finish yet)
+      // 'close', 'end' or 'finish' may be fired right after calling this method so register to them beforehand
+      archive.finalize();
+    }
+  } 
   
+  var json = JSON.parse(fs.readFileSync('./_site/pdfs.json', 'utf8')); 
+  var count = 0;
+  console.log(json.length)
+  for(var i=0; i<json.length; i++) {
+    // create a folder for the language to hold all pdfs to then zip (if doesn't exist)
+    var dir = './.tmp/pdf/'+ json[i].lang;
+    if (!fs.existsSync(dir)){
+      languages.push({"dir":dir, "lang":json[i].lang});
+      fs.mkdirSync(dir);
+    }
+    printUrl(json[i], function() {
+      count++;
+      console.log(count+" pdf(s) generated")
+      // have we created a pdf from each page?
+      if(count == json.length) {
+        // we have generated all the pdfs.
+        zipPdfs();
+      }  
+    });
+  }
+
 });
 
 gulp.task('pdfs', function(done) {
-  runSequence('webserver-start','print',done);
+  runSequence('webserver-start','print','webserver-stop',done);
 });
 
 

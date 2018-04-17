@@ -4,6 +4,7 @@
 
 home: "/fr/"
 collections:
+  # `text-nav` is also used in `_plugins/custom-permalink.rb` and in naming exported pdf files
   disease:
     text-top:     "Comprendre les"
     text-bottom:  "Maladies"
@@ -28,6 +29,8 @@ banner:
   title-1:        "Contrôle Épidémique"
   title-2:        "pour les Volontaires"
   description:    "Ce manuel et cette boîte à outils sont conçus pour aider les volontaires à définir leur rôle dans la communauté avant, pendant et après une épidémie et à prendre les mesures les mieux adaptées à cette épidémie particulière."
+  download:       "Télécharger l'ensemble de la boîte à outils au format PDF dans un dossier zip"
+
 
 ##################
 ## DISEASE LIST ##
