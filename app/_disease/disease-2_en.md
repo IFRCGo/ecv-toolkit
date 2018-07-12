@@ -40,7 +40,7 @@ lang: en
 - People who do not have easy access to rehydration therapy and health services. 
 - People living in areas that have poor water, sanitation and hygiene facilities and services. 
 
-### In case of epidemic
+### If an epidemic occurs
 
 - Initiate community-based surveillance. 
 - Treat mild cases in the community by providing oral rehydration solution (ORS). 
