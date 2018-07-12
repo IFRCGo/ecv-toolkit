@@ -25,6 +25,6 @@ lang: en
 
 - 
 
-### In case of epidemic
+### If an epidemic occurs
 
 - 
