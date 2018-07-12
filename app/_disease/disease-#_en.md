@@ -28,3 +28,8 @@ lang: en
 ### If an epidemic occurs
 
 - 
+
+### Community-based assessment - questions
+
+Make a map of the community and mark the information you gather on the map. Record other details.
+-
