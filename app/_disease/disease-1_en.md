@@ -37,7 +37,7 @@ lang: en
 - Pregnant women. 
 - People living in areas that have poor water, sanitation and hygiene facilities and services. 
 
-### In case of epidemic
+### If an epidemic occurs
 
 Make a map of the community and mark the information you gather on the map. Record other details.
 - Initiate community-based surveillance. 
