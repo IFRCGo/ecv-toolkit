@@ -2,7 +2,7 @@
 # DISEASE #
 # ======= #
 layout: card
-identifier: 11
+identifier: 12
 action: [1,2,3,4,5,19,36,37,38,43]
 title: Chikungunya
 lang: en
