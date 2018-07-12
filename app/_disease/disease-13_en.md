@@ -2,7 +2,7 @@
 # DISEASE #
 # ======= #
 layout: card
-identifier: 12
+identifier: 13
 action: [1,2,3,4,5,12,19,24,25,36,37,38,43]
 title: Dengue fever
 lang: en
