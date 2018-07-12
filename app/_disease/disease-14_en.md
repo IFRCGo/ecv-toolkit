@@ -2,7 +2,7 @@
 # DISEASE #
 # ======= #
 layout: card
-identifier: 13
+identifier: 14
 action: [1,2,3,4,5,19,22,23,36,37,43]
 title: Malaria
 lang: en
