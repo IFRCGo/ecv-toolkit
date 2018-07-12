@@ -1,7 +1,7 @@
-// When possible, use the rem and em units to size everything. 
-// Not just font size, but also padding, margins, and any length value. 
-// This ensures that your design scales up and down uniformly if 
-// the user changes their browser's text size. It's common for 
+// When possible, use the rem and em units to size everything.
+// Not just font size, but also padding, margins, and any length value.
+// This ensures that your design scales up and down uniformly if
+// the user changes their browser's text size. It's common for
 // vision-impaired users to resize their browser up to 200% zoom.
 
 // ===================== //
@@ -29,7 +29,7 @@
 // _layouts/card.html //
 // ================== //
 .card-header.left {
-  border-right: 3px solid #fff;  
+  border-right: 3px solid #fff;
 }
 .card-number-lg {
   font-size: rem-calc(48);
@@ -64,7 +64,7 @@
 }
 @media (max-width:639px) {
   .card-header.left {
-    border-right: 2px solid #fff;  
+    border-right: 2px solid #fff;
   }
   .card-number-lg {
     font-size: rem-calc(32);
@@ -104,6 +104,14 @@
 .card-header.secondary-background.message, .card-title-bottom.message  {
   background: $message-secondary;
 }
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+td, th {
+  border: 1px solid #6F6F6F;
+  padding: 3px;
+}
 
 // ==================================================== //
 // _includes/diseases.html, actions.html, messages.html //
@@ -118,7 +126,7 @@
 // ======================= //
 .button.disease {
   border-color: $disease-secondary;
-  border-width: 2px; 
+  border-width: 2px;
   color: $disease-secondary;
 }
 .button.disease:hover {
@@ -131,7 +139,7 @@
 // ====================== //
 .button.action {
   border-color: $action-secondary;
-  border-width: 2px; 
+  border-width: 2px;
   color: $action-secondary;
 }
 .button.action:hover {
@@ -144,7 +152,7 @@
 // ======================= //
 .button.message {
   border-color: $message-secondary;
-  border-width: 2px; 
+  border-width: 2px;
   color: $message-secondary;
 }
 .button.message:hover {
@@ -197,7 +205,7 @@
     color: $dark-gray;
     text-decoration: none;
     a {
-      color: $medium-gray; 
+      color: $medium-gray;
       text-decoration: none;
     }
     a:hover {
@@ -258,7 +266,7 @@ footer {
     color: $disease-primary;
   }
 }
-.home-nav-btn.action { 
+.home-nav-btn.action {
   a {
     border: 2px solid $action-primary;
   }
@@ -335,26 +343,26 @@ footer {
   }
   .card-header.primary-background.disease {
     background-color: $disease-primary !important;
-    -webkit-print-color-adjust: exact; 
+    -webkit-print-color-adjust: exact;
   }
   .card-header.secondary-background.disease, .card-title-bottom.disease  {
     background-color: $disease-secondary !important;
-    -webkit-print-color-adjust: exact;  
+    -webkit-print-color-adjust: exact;
   }
   .card-header.primary-background.action {
     background-color: $action-primary !important;
-    -webkit-print-color-adjust: exact; 
+    -webkit-print-color-adjust: exact;
   }
   .card-header.secondary-background.action, .card-title-bottom.action  {
     background-color: $action-secondary !important;
-    -webkit-print-color-adjust: exact;  
+    -webkit-print-color-adjust: exact;
   }
   .card-header.primary-background.message {
     background-color: $message-primary !important;
-    -webkit-print-color-adjust: exact; 
+    -webkit-print-color-adjust: exact;
   }
   .card-header.secondary-background.message, .card-title-bottom.message  {
     background-color: $message-secondary !important;
-    -webkit-print-color-adjust: exact;  
+    -webkit-print-color-adjust: exact;
   }
 }
