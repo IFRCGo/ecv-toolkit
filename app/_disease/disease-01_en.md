@@ -39,7 +39,6 @@ lang: en
 
 ### If an epidemic occurs
 
-Make a map of the community and mark the information you gather on the map. Record other details.
 - Initiate community-based surveillance. 
 - Treat mild cases in the community by providing oral rehydration solution and zinc supplementation.
 - Detect and refer serious cases to health facilities.
