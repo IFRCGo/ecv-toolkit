@@ -8,13 +8,13 @@ title: Community-based surveillance
 lang: en
 ---
 
-## Overview
+### Overview
 
 - Community-based surveillance occurs when members of a community actively participate in detecting, reporting, responding to and monitoring health events in their community.
 - Information discovered during surveillance should be shared with the local branch and health authorities.
 - Community-based surveillance helps detect outbreaks early, helps control outbreaks, and saves lives.
 
-## What you need to know
+### What you need to know
 
 - Map the community properly. You should know where people live and work.
 - Scan the whole community by making house to house visits. If the community is large, divide the work up into smaller sections or areas.
@@ -24,7 +24,7 @@ lang: en
 - Communicate such information to your local branch, other volunteer teams and health authorities. This is called ‘reporting’.
 - Remember that reporting must be systematic. To avoid confusion, everyone who reports should follow the same methods. Talk to your local branch and the health authorities to find out what reporting system will work best for your work and your situation.
 
-## What you can do
+### What you can do
 
 - Map the community (see Action Tool 2).
 -	Identify who in the community may be vulnerable to the disease.
