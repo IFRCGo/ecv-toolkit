@@ -39,14 +39,12 @@ An ORP provides the first level of treatment of cholera and improves access to O
 5.	Are a key reference point for behaviour-change and social mobilization activities. (See Action Tool 43.)
 6.	Distribute zinc supplements (if approved). (See Action Tool 12.)
 
-A community ORP kit available from IFRC contains the items listed below. (Kits that are procured and made locally should have similar contents.)
-
-## ORP kit contents
+### ORP kit contents
 
 A community ORP kit available from IFRC contains the items listed below. (Kits that are procured and made locally should have similar contents.)
 
-
-|---|---|
+| Kit content | Quantity |
+|---|---:|
 | Container, 20 litres, with 2 candle water filters | 1 |
 | Notebook, A5 hard cover | 5 | 
 | Pen, ball point blue | 10 | 
@@ -69,6 +67,5 @@ A community ORP kit available from IFRC contains the items listed below. (Kits t
 | Rope, nylon, diameter 3 mm, braided, 5 metres | 1 | 
 | Brush, hand scrubbing brush | 1 | 
 
-
-ORS, zinc, and chlorine for disinfection are not included in the kit and need to be added.
-Shade, access to water and a latrine are also important and should be included when selecting the location of the ORP point.
+- ORS, zinc, and chlorine for disinfection are not included in the kit and need to be added.
+- Shade, access to water and a latrine are also important and should be included when selecting the location of the ORP point.
