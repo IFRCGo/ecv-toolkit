@@ -15,7 +15,7 @@ lang: en
 
 ### How to assess whether a patient has dehydration, and its extent:
 
-|---
+
 | Dehydration stage |	Signs |	Treatment
 | --- | --- | ---
 | No dehydration | Skin recovers its shape normally when pinched; thirst has subsided; urine has been passed; the pulse is strong. | Oral rehydration solution (ORS) at home; zinc supplements for children up to 15 years of age.
