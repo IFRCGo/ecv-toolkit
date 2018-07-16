@@ -45,28 +45,30 @@ A community ORP kit available from IFRC contains the items listed below. (Kits t
 
 A community ORP kit available from IFRC contains the items listed below. (Kits that are procured and made locally should have similar contents.)
 
-|---
-| Container, 20 litres, with 2 candle water filters | 1
-| Notebook, A5 hard cover | 5
-| Pen, ball point blue | 10
-| Cup, plastic, 200 ml, without handle | 10
-| Cup, plastic, 500 ml, without handle | 20
-| Spoon, plastic, 20 ml | 1
-| Jug, plastic, 1litre with beak and handle | 1
-| Plastic casing, ceramic filter (fairey) | 1
-| Bucket, plastic, 14 litres, with clip cover and outlet tap (Oxfam type) | 2
-| Jerry can, foldable, 10 litres, food grade plastic, screw cap 50 mm | 6
-| Soap, body soap, 100 gr piece | 12
-| Chlorine, 40 mg (nadcc 67mg), for 10 litres water, strip of 10 tabs | 30
-| Pur 4gm sachets (1 sachet for 10 litres of water) | 3
-| Syringe, 10 ml, 2 parts, disposable | 1
-| Flag, Red Cross, 0.8 x 1.2 metres | 2
-| Tabard/bib, Red Cross, 40 x 40 cm | 1
-| Gloves, examination, nitryl, non-sterile, medium (7-8), box of 100 pieces | 1
-| Gloves, for washing dishes, rubber, pair, size medium | 2
-| Spoon, wooden, for stirring, 30 cm | 1
-| Rope, nylon, diameter 3 mm, braided, 5 metres | 1
-| Brush, hand scrubbing brush | 1
+
+|---|---|
+| Container, 20 litres, with 2 candle water filters | 1 |
+| Notebook, A5 hard cover | 5 | 
+| Pen, ball point blue | 10 | 
+| Cup, plastic, 200 ml, without handle | 10 | 
+| Cup, plastic, 500 ml, without handle | 20 | 
+| Spoon, plastic, 20 ml | 1 | 
+| Jug, plastic, 1litre with beak and handle | 1 | 
+| Plastic casing, ceramic filter (fairey) | 1 | 
+| Bucket, plastic, 14 litres, with clip cover and outlet tap (Oxfam type) | 2 | 
+| Jerry can, foldable, 10 litres, food grade plastic, screw cap 50 mm | 6 | 
+| Soap, body soap, 100 gr piece | 12 | 
+| Chlorine, 40 mg (nadcc 67mg), for 10 litres water, strip of 10 tabs | 30 | 
+| Pur 4gm sachets (1 sachet for 10 litres of water) | 3 | 
+| Syringe, 10 ml, 2 parts, disposable | 1 | 
+| Flag, Red Cross, 0.8 x 1.2 metres | 2 | 
+| Tabard/bib, Red Cross, 40 x 40 cm | 1 | 
+| Gloves, examination, nitryl, non-sterile, medium (7-8), box of 100 pieces | 1 | 
+| Gloves, for washing dishes, rubber, pair, size medium | 2 | 
+| Spoon, wooden, for stirring, 30 cm | 1 | 
+| Rope, nylon, diameter 3 mm, braided, 5 metres | 1 | 
+| Brush, hand scrubbing brush | 1 | 
+
 
 ORS, zinc, and chlorine for disinfection are not included in the kit and need to be added.
 Shade, access to water and a latrine are also important and should be included when selecting the location of the ORP point.
