@@ -23,7 +23,6 @@ lang: en
 | Severe dehydration | Lethargy or unconsciousness; very dry mouth and tongue; skin recovers shape very slowly when pinched (’tenting’); weak or absent pulse; low blood pressure; minimal or no urine. | In a health facility or in a hospital:
 IV therapy plus antibiotics plus ORS; zinc supplements for children up to 15 years of age.
 
-
 ### After the assessment, and according to the degree of dehydration, the following actions should be taken:
 
 |---
