@@ -25,6 +25,7 @@ IV therapy plus antibiotics plus ORS; zinc supplements for children up to 15 yea
 
 ### After the assessment, and according to the degree of dehydration, the following actions should be taken:
 
+| Deydration stage | Action|
 | --- | --- |
 | No dehydration | Give ORS and zinc. Action tools 9, 10 and 11 |   
 | Moderate dehydration | Give ORS and zinc. Action tools 9, 10 and 11 |   
