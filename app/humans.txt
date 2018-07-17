@@ -14,8 +14,8 @@
 /* Team */
 
 
-Contributor: danbjoseph
-Github: https://github.com/danbjoseph
-
 Contributor: RFMoore
 Github: https://github.com/RFMoore
+
+Contributor: danbjoseph
+Github: https://github.com/danbjoseph

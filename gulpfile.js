@@ -19,13 +19,13 @@ var readline = require('readline');
 var runSequence = require('run-sequence').use(gulp);
 var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
-var uglify = require('gulp-uglify');  
+var uglify = require('gulp-uglify');
 
 // Copy from the .tmp to _site directory.
 // To reduce build times the assets are compiles at the same time as jekyll
 // renders the site. Once the rendering has finished the assets are copied.
 gulp.task('copy:assets', function() {
-  
+
   switch (environment) {
     case 'android':
       return gulp.src('.tmp/assets/**')
@@ -36,21 +36,21 @@ gulp.task('copy:assets', function() {
         .pipe(gulp.dest('_site/assets'));
     break;
   }
-  
+
 });
 
 gulp.task('copy:config', function() {
-  
+
   return gulp.src('./config.xml')
     .pipe(gulp.dest('_android'));
-  
+
 });
 
 gulp.task('copy:app-icons', function() {
-  
+
   return gulp.src('./app-icons/res/**')
     .pipe(gulp.dest('_android/res/'));
-  
+
 });
 
 
@@ -93,8 +93,8 @@ var javascriptPaths = [
   "node_modules/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js",
   "node_modules/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js",
   // https://foundation.zurb.com/sites/docs/equalizer.html#javascript-reference
-  "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js" 
-  
+  "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js"
+
 ]
 
 // TODO: clean this up
@@ -109,7 +109,7 @@ gulp.task('javascripts', function() {
     // .pipe($.if(isProduction, uglify({ mangle: false })))
     // .pipe($.if(!isProduction, $.sourcemaps.write()))
     // Write the file to source dir and build dir
-    .pipe(gulp.dest('.tmp/assets/js'))  
+    .pipe(gulp.dest('.tmp/assets/js'))
 });
 
 // Build the jekyll website.
@@ -153,14 +153,14 @@ gulp.task('serve', ['build'], function () {
       baseDir: ['.tmp', '_site']
     }
   });
-  
+
   // TODO: clean this up
   // ===================
   var watching = [
     'app/**/*.html',
     'app/**/*.yml',
-    'app/**/*.md', 
-    '_config*', 
+    'app/**/*.md',
+    '_config*',
     // './app/assets/scripts/*.js',
     './app/assets/styles/*.scss'
   ]
@@ -193,7 +193,7 @@ gulp.task('clean', function() {
 });
 
 
-// Helper functions 
+// Helper functions
 // ----------------
 
 function browserReload() {
@@ -202,7 +202,7 @@ function browserReload() {
   }
 }
 
-// android webview 
+// android webview
 // ---------------
 
 var replacements = [];
@@ -219,7 +219,7 @@ gulp.task('modify-links', function(done) {
       input: fs.createReadStream(myfile),
       crlfDelay: Infinity
     });
-    
+
     rl.on('line', function(line) {
       linecount++;
       let firstIndex = line.indexOf('href="');
@@ -234,7 +234,7 @@ gulp.task('modify-links', function(done) {
                               "callback": null })
         }
       }
-      
+
     });
     rl.on('close', function() {
       processedcount++;
@@ -250,7 +250,7 @@ gulp.task('modify-links', function(done) {
       }
     })
   }
-  
+
   function replaceLine(item, cb) {
     item["callback"] = function(data){ cb(null, data); };
     lineReplace(item);
@@ -269,7 +269,7 @@ gulp.task('modify-links', function(done) {
 });
 
 
-// Pdfs task 
+// Pdfs task
 // ---------
 var myserver = gls.static('_site', 3000);
 gulp.task('webserver-start', function() {
@@ -280,7 +280,7 @@ gulp.task('webserver-stop', function() {
 });
 
 gulp.task('print', function(done) {
-  
+
   // create a variable to hold language directory paths, so we can find and zip them
   var languages = [];
   fs.mkdirSync('.tmp/pdf/');
@@ -296,21 +296,21 @@ gulp.task('print', function(done) {
       await page.goto("http://localhost:3000"+json.url, {waitUntil: 'networkidle2'});
       // add the pdf to the same folder as the index.html file for that page
       await page.pdf({
-        path: "./_site"+json.url+filename, 
+        path: "./_site"+json.url+filename,
         format: 'A4'
       });
       // add the pdf to a tmp language folder, that we will zip when done
       await page.pdf({
-        path: './.tmp/pdf/'+json.lang+"/"+filename, 
+        path: './.tmp/pdf/'+json.lang+"/"+filename,
         format: 'A4'
       });
       await browser.close();
       await cb();
     })();
   }
-  
+
   function zipPdfs() {
-    
+
     var zippedCount = 0;
     for(var i=0; i<languages.length; i++) {
       // create a file to stream archive data to.
@@ -322,7 +322,7 @@ gulp.task('print', function(done) {
       // 'close' event is fired only when a file descriptor is involved
       output.on('close', function() {
         zippedCount++;
-        console.log(zippedCount+' archiver has been finalized and the output file descriptor has closed.');    
+        console.log(zippedCount+' archiver has been finalized and the output file descriptor has closed.');
         if(zippedCount == languages.length) {
           // zipping of a language folders are done so end the gulp task
           done();
@@ -355,9 +355,9 @@ gulp.task('print', function(done) {
       // 'close', 'end' or 'finish' may be fired right after calling this method so register to them beforehand
       archive.finalize();
     }
-  } 
-  
-  var json = JSON.parse(fs.readFileSync('./_site/pdfs.json', 'utf8')); 
+  }
+
+  var json = JSON.parse(fs.readFileSync('./_site/pdfs.json', 'utf8'));
   var count = 0;
   console.log(json.length)
   for(var i=0; i<json.length; i++) {
@@ -367,6 +367,7 @@ gulp.task('print', function(done) {
       languages.push({"dir":dir, "lang":json[i].lang});
       fs.mkdirSync(dir);
     }
+    // TODO: make this syncronous?
     printUrl(json[i], function() {
       count++;
       console.log(count+" pdf(s) generated")
@@ -374,7 +375,7 @@ gulp.task('print', function(done) {
       if(count == json.length) {
         // we have generated all the pdfs.
         zipPdfs();
-      }  
+      }
     });
   }
 
@@ -386,7 +387,7 @@ gulp.task('pdfs', function(done) {
 
 
 
-// Humans task 
+// Humans task
 // -----------
 gulp.task('get-humans', function(){
   var getHumans = function(callback){
