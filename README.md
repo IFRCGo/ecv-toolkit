@@ -36,6 +36,24 @@ The site is configured to support 2-letter core language codes. So english is 'e
     2. in frontmatter for all files, you need to change the `lang` to the correct code and translate the `slug`
     3. all the text below the frontmatter should be translated
 
+### Internal cross links
+
+Sometimes you want to include a link from one page to another (for example, from the page for Action Tool 1 to Action Tool 4).
+
+```
+(see Action Tool 3 <a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fa fa-external-link" aria-hidden="true"></i></a>)
+```
+
+Follow the above format and edit `{% render_link action|3 %}`:
+- change `action` to `action`, `disease`, or `message`
+- change `3` to the `identifier` value from the YAML front matter at top of a document
+- the language for the link will automatically match the language of the displayed page
+
+The link is attached to a separate icon and not the text so that it can be hidden via css when creating the PDF files. Links made like the second link in the below screenshot.
+![two link examples](https://user-images.githubusercontent.com/4806884/42845290-783d620e-89e3-11e8-9f43-f5e87b25d43f.png)
+Otherwise, in the generated PDFs you will end up with a link the user can click that goes to a broken URL such as `http://localhost:3000/action/referral-to-health-facilities/`.
+![broken link in pdf](https://user-images.githubusercontent.com/4806884/42845206-368e339c-89e3-11e8-9c64-11244d58e4f4.png)
+
 ## Development
 
 ### Environment

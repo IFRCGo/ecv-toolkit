@@ -332,6 +332,9 @@ footer {
   a[href]:after {
     content: none !important;
   }
+  .crosslink {
+    display: none;
+  }
   .card-number {
     color: #fff !important;;
   }

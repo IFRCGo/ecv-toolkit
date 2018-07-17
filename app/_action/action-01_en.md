@@ -9,7 +9,6 @@ lang: en
 ---
 
 ### Overview
-
 - Community-based surveillance occurs when members of a community actively participate in detecting, reporting, responding to and monitoring health events in their community.
 - Information discovered during surveillance should be shared with the local branch and health authorities.
 - Community-based surveillance helps detect outbreaks early, helps control outbreaks, and saves lives.
@@ -26,10 +25,10 @@ lang: en
 
 ### What you can do
 
-- Map the community (see Action Tool 2).
+- Map the community (see Action Tool 2 <a class="crosslink" href="{% render_depth %}{% render_link action|2 %}"><i class="fa fa-external-link" aria-hidden="true"></i></a>).
 -	Identify who in the community may be vulnerable to the disease.
 -	Familiarize yourself with the disease that may be present in your community, including its signs and symptoms.
 -	Establish surveillance teams to actively look for sick people. Allocate different areas of the community to each team.
- -	When you detect people who are sick with the disease, assess how severely ill they are and whether they need to be referred to a health facility (see Action Tool 4).
-- 	If sick people can be cared for at home, show their families what to do and provide them with information and supplies, where possible (see Action Tool 3).
+ -	When you detect people who are sick with the disease, assess how severely ill they are and whether they need to be referred to a health facility (see Action Tool 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fa fa-external-link" aria-hidden="true"></i></a>).
+- 	If sick people can be cared for at home, show their families what to do and provide them with information and supplies, where possible (see Action Tool 3 <a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fa fa-external-link" aria-hidden="true"></i></a>).
 - 	Record the cases you find and pool your records with those of other teams to build a clear picture of how the disease is spreading in the community.
