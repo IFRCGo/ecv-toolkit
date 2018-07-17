@@ -50,8 +50,11 @@ Follow the above format and edit `{% render_link action|3 %}`:
 - the language for the link will automatically match the language of the displayed page
 
 The link is attached to a separate icon and not the text so that it can be hidden via css when creating the PDF files. Links made like the second link in the below screenshot.
+
 ![two link examples](https://user-images.githubusercontent.com/4806884/42845290-783d620e-89e3-11e8-9f43-f5e87b25d43f.png)
+
 Otherwise, in the generated PDFs you will end up with a link the user can click that goes to a broken URL such as `http://localhost:3000/action/referral-to-health-facilities/`.
+
 ![broken link in pdf](https://user-images.githubusercontent.com/4806884/42845206-368e339c-89e3-11e8-9c64-11244d58e4f4.png)
 
 ## Development
