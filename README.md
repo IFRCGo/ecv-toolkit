@@ -1,13 +1,13 @@
 ## Epidemic control for volunteers - Toolkit
 
-**NOTE: This site is currently a work in progress and does NOT have actual content. Please do not reference if looking for the toolkit content**
+**NOTE: This site is currently being updated with revised content. Thank you for your patience.**
 
 ### Project overview
 
 The intention of this project is to deliver the toolkit as a static HTML website, PDF, and as an offline Android app from a single source of data/content. The content is stored in plain text files in the 'app/\_disease', 'app/\_action', and 'app/\_message' directories. Site translations are stored in plain text files in the 'app/\_data' folder. The website is built using [Jekyll](https://jekyllrb.com/). PDFs will be generated via a TBD javascript library.
 
 The automated deployment process also creates the `_android` branch which is bundled Adobe PhoneGap using their PG Build App.
-You can download an .apk file to install the website for offline access on an Android device [here](https://build.phonegap.com/apps/3033001/share). 
+You can download an .apk file to install the website for offline access on an Android device [here](https://build.phonegap.com/apps/3033001/share).
 
 ### The toolkit
 
@@ -42,7 +42,7 @@ The site is configured to support 2-letter core language codes. So english is 'e
 
 To set up the development environment for this website, you'll need to install the following on your system:
 
-- Install [nvm](https://github.com/creationix/nvm) 
+- Install [nvm](https://github.com/creationix/nvm)
 - run `nvm use` to read the '.nvmrc' file and switch to the correct version of node
 - [rvm](https://rvm.io/) and [Bundler](http://bundler.io/)
 - `rvm use 2.3.1`
@@ -77,4 +77,3 @@ Compiles the site loading the `_config-prod.yml` alongside `_config.yml`.
 ### Travis-CI
 
 I created a new personal access token with 'public_repo - Access public repositories' permissions. Copied the token and used it in `travis encrypt GH_TOKEN=my_github_token --add env.matrix` as described in the [Travis-CI docs](https://docs.travis-ci.com/user/environment-variables#Encrypting-environment-variables).
- 
