@@ -20,6 +20,8 @@ var runSequence = require('run-sequence').use(gulp);
 var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
 var uglify = require('gulp-uglify');
+var async = require("async");
+var doWhilst =require('async/doWhilst');
 
 // Copy from the .tmp to _site directory.
 // To reduce build times the assets are compiles at the same time as jekyll
@@ -359,25 +361,41 @@ gulp.task('print', function(done) {
 
   var json = JSON.parse(fs.readFileSync('./_site/pdfs.json', 'utf8'));
   var count = 0;
-  console.log(json.length)
-  for(var i=0; i<json.length; i++) {
-    // create a folder for the language to hold all pdfs to then zip (if doesn't exist)
-    var dir = '.tmp/pdf/'+ json[i].lang;
-    if (!fs.existsSync(dir)){
-      languages.push({"dir":dir, "lang":json[i].lang});
-      fs.mkdirSync(dir);
-    }
-    // TODO: make this syncronous?
-    printUrl(json[i], function() {
-      count++;
-      console.log(count+" pdf(s) generated")
-      // have we created a pdf from each page?
-      if(count == json.length) {
-        // we have generated all the pdfs.
-        zipPdfs();
+  var goal = json.length;
+  // generate PDFs one at a time to avoid
+  // > livereload[tiny-lr] listening on 35729 ...
+  // > (node:87277) MaxListenersExceededWarning: Possible EventEmitter memory
+  // > leak detected. 11 exit listeners added. Use emitter.setMaxListeners()
+  // > to increase limit
+  doWhilst(
+    // ## iteratee
+    // a function which is called each time test passes, invoked with (callback)
+    function(cb) {
+      var dir = '.tmp/pdf/'+ json[count].lang;
+      if (!fs.existsSync(dir)){
+        languages.push({"dir":dir, "lang":json[count].lang}); // the languages object stores data that we use to create zip archives later
+        fs.mkdirSync(dir);
       }
-    });
-  }
+      printUrl(json[count], function() {
+        count++;
+        console.log("generated PDF " + count + " of " + goal);
+        cb();
+      });
+    },
+    // ## test
+    // synchronous truth test to perform after each execution of iteratee
+    // invoked with any non-error callback results of iteratee
+    function() {
+      return count < goal;
+    },
+    // # callback
+    // called after the test function has failed and repeated execution of iteratee has stopped
+    // will be passed an error and any arguments passed to the final iteratee's callback
+    function(err) {
+      console.log('done generating PDFs.')
+      zipPdfs();
+    }
+  )
 
 });
 
