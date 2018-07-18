@@ -4,7 +4,7 @@
 layout: card
 identifier: 34
 message: [8,9]
-title: Giving oral rehydration solution (ORS) 
+title: Handwashing with soap
 lang: en
 ---
 
