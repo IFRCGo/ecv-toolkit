@@ -22,7 +22,7 @@
       {% else %}
         {% assign pg = site.pages | where:"lang",{{loc}} | where:"identifier",page.identifier | first %}
       {% endif %}
-      <a class="" href="{% render_depth %}{{ pg.url | remove_first:'/' }}">{{site.locale_names[loc]}}</a> 
+      <a class="" href="{% render_depth %}{{ pg.url | remove_first:'/' }}">{{site.locale_names[loc]}}</a>
       {% if forloop.last == false %} | {% endif %}
     {% endfor %}
   </div>
@@ -77,4 +77,23 @@
 <div class="row columns text-center">
     <a href="{% render_depth %}{{ page.lang }}.zip" download>{{site.data[page.lang].banner.download}} <i class="fa fa-file-archive-o" aria-hidden="true"></i></a>
 </div>
+
+<br>
+
+<div class="row columns text-center">
+  <div id="share_section">
+    {{site.data[page.lang].share.share}}
+    <div id="share_fb">
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{site.data[page.lang].share.fblink}}" target="_blank">
+        <i class="fab fa-fw fa-lg fa-facebook-square"></i>
+      </a>
+    </div>
+    <div id="share_twitter">
+      <a href="http://twitter.com/intent/tweet?status={{site.data[page.lang].share.tweet}}" target="_blank">
+        <i class="fab fa-fw fa-lg fa-twitter-square"></i>
+      </a>
+    </div>
+  </div>
+</div>
+
 <br>

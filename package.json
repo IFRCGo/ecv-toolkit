@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/IFRCGo/ecv-toolkit#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.1.1",
     "archiver": "^2.1.1",
     "async": "^2.6.1",
     "browser-sync": "^2.23.6",
     "d3-queue": "^3.0.7",
-    "font-awesome": "^4.7.0",
     "foundation-sites": "^6.4.4-rc1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.1.0",

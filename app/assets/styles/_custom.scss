@@ -4,6 +4,31 @@
 // the user changes their browser's text size. It's common for
 // vision-impaired users to resize their browser up to 200% zoom.
 
+// ============ //
+// social share //
+// ============ //
+#share_section {
+  color: $dark-gray;
+}
+#share_fb {
+  display: inline-block;
+  a {
+    color: $dark-gray;
+  }
+  a:hover {
+    color: #3b5998;
+  }
+}
+#share_twitter {
+  display: inline-block;
+  a {
+    color: $dark-gray;
+  }
+  a:hover {
+    color: #2aa3f0;
+  }
+}
+
 // ===================== //
 // _includes/header.html //
 // ===================== //
@@ -223,7 +248,7 @@ td, th {
 // _includes/footer.html //
 // ===================== //
 footer {
-  color: $dark-gray;
+  color: $medium-gray;
 }
 
 // ======================= //

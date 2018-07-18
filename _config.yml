@@ -7,7 +7,7 @@ exclude:
   - assets/styles
   - README.md
   - assets/img/img-src
-  
+
 default_locale:     "en"
 authorized_locales: ["en", "fr"]
 locale_names:
