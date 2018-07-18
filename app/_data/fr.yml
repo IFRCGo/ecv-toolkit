@@ -2,6 +2,8 @@
 ## COMMON ##
 ############
 
+title: "Contrôle Épidémique pour les Volontaires"
+
 home: "/fr/"
 collections:
   # `text-nav` is also used in `_plugins/custom-permalink.rb` and in naming exported pdf files
@@ -17,12 +19,12 @@ collections:
     url:  "/fr/activite/"
   message:
     text-top:     "Messages"
-    text-bottom:  "Communautaires"    
+    text-bottom:  "Communautaires"
     text-nav:     "Message"
     url:  "/fr/message/"
 common:
   download-pdf:   "Download PDF"
-  
+
 #####################
 ## LANDING CONTENT ##
 #####################
@@ -58,12 +60,12 @@ messages:
 ##################
 ## DISEASE CARD ##
 ##################
-disease: 
+disease:
   title: "Outil de la maladie"
   linking:
     title:  "Actions de volontariat"
     note:   "Voir les outils d'action suivants pour plus d'informations sur les actions à entreprendre contre"
-  
+
 
 #################
 ## ACTION CARD ##
@@ -72,14 +74,14 @@ action:
   title:  "Outil d'action"
   linking:
     title:  "Messages communautaires"
-    note:   "Voir les messages de la communauté suivants pour soutenir" 
+    note:   "Voir les messages de la communauté suivants pour soutenir"
 
-  
+
 ##################
 ## MESSAGE CARD ##
 ##################
-message: 
-  title:  "Outil de message communautaire" 
+message:
+  title:  "Outil de message communautaire"
   linking:
     title:  "Outils d'action"
-    note:   "Voir l'outil d'action suivant pour soutenir"   
+    note:   "Voir l'outil d'action suivant pour soutenir"

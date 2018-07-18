@@ -2,6 +2,8 @@
 ## COMMON ##
 ############
 
+title: "Epidemic Control for Volunteers"
+
 home: "/"
 collections:
   # `text-nav` is also used in `_plugins/custom-permalink.rb` and in naming exported pdf files
@@ -57,12 +59,12 @@ messages:
 ##################
 ## DISEASE CARD ##
 ##################
-disease: 
+disease:
   title: "Disease tool"
   linking:
     title:  "Volunteer actions"
     note:   "See the following action tools for more information on what actions to take against"
-  
+
 
 #################
 ## ACTION CARD ##
@@ -73,12 +75,12 @@ action:
     title:  "Community messages"
     note:   "See the following community messages to support"
 
-  
+
 ##################
 ## MESSAGE CARD ##
 ##################
-message: 
-  title:  "Community message tool" 
+message:
+  title:  "Community message tool"
   linking:
     title:  "Action tools"
-    note:   "See the following action tool to support"    
+    note:   "See the following action tool to support"
