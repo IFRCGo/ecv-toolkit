@@ -57,6 +57,10 @@ Otherwise, in the generated PDFs you will end up with a link the user can click 
 
 ![broken link in pdf](https://user-images.githubusercontent.com/4806884/42845206-368e339c-89e3-11e8-9c64-11244d58e4f4.png)
 
+### Android app only styling
+
+The Android app is just the mobile-friendly website packaged for install on a phone to make it available without internet. Some of the page elements shouldn't be displayed. As part of the `gulpfile.js` processes, a link on each page loading the `/app/assets/styles/android.css` is uncommented. Currently, this adds `display: none;` css to a `hide-for-android` class that is used on page elements such as links to download a PDF and links to share the website to social media.
+
 ## Development
 
 ### Environment
