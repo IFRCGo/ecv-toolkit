@@ -41,7 +41,7 @@ The site is configured to support 2-letter core language codes. So english is 'e
 Sometimes you want to include a link from one page to another (for example, from the page for Action Tool 1 to Action Tool 4).
 
 ```
-(see Action Tool 3 <a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fa fa-external-link" aria-hidden="true"></i></a>)
+(see Action Tool 3 <a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
 ```
 
 Follow the above format and edit `{% render_link action|3 %}`:
