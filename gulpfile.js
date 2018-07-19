@@ -236,6 +236,16 @@ gulp.task('modify-links', function(done) {
                               "callback": null })
         }
       }
+      // this uncomments a stylesheet used to hide certain page elements in the android app build like PDF downloads
+      let commentIndex = line.indexOf('<!--ANDROID');
+      if( commentIndex !== -1 ) {
+        let uncommented = line.replace('<!--ANDROID','').replace('-->','');
+        replacements.push({ "file": myfile,
+                            "line": linecount,
+                            "text": uncommented,
+                            "addNewLine": true,
+                            "callback": null })
+      }
 
     });
     rl.on('close', function() {
