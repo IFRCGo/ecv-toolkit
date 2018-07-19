@@ -26,6 +26,6 @@ lang: en
 
 | Dehydration stage | Action|
 | --- | --- |
-| No dehydration | Give ORS and zinc. Action tools 9, 10 and 11 |   
-| Moderate dehydration | Give ORS and zinc. Action tools 9, 10 and 11 |   
+| No dehydration | Give ORS and zinc. Action tools 9 <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> |   
+| Moderate dehydration | Give ORS and zinc. Action tools 9 <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> |   
 | Severe dehydration | Refer immediately to health facility or hospital |    
