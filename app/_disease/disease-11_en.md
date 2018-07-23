@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 11
-action: [1,2,3,4,5,7,9,10,12,19,24,25,36,37,43]
+action: [1,2,3,4,5,7,9,10,12,19,24,25,36,37,38,43]
 title: Yellow fever
 lang: en
 ---
