@@ -3,7 +3,6 @@
 # ====== #
 layout: card
 identifier: 6
-message: []
 title: Using personal protection equipment (PPE) for highly infectious diseases
 lang: en
 ---
