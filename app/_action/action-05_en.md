@@ -3,6 +3,7 @@
 # ====== #
 layout: card
 identifier: 5
+message: []
 title: Volunteer protection and safety
 lang: en
 ---
