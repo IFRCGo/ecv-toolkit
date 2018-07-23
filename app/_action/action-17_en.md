@@ -10,7 +10,7 @@ lang: en
 
 ### What is a MUAC test? 
 
-- The MUAC test measures the circumference of (or distance around) the mid upper arm. 
+- The MUAC test measures the circumference of (or distance around) the mid upper arm.
 
 ### Why is the MUAC test important? 
 
