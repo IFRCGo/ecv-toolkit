@@ -19,7 +19,7 @@ lang: en
 
 - Give the recommended amount of ORS (measure against either the patient’s age or weight).
 - If the patient passes watery stools or wants more ORS than shown in the table above, give more.
-- If the patient does not improve or some of the signs of severe dehydration appear, refer the patient to a health facility (see Action Tool 4). 
+- If the patient does not improve or some of the signs of severe dehydration appear, refer the patient to a health facility (see Action Tool 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>. 
 
 | | | | | | | |
 |---|---|---|---|---|---|---|
