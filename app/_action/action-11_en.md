@@ -17,7 +17,7 @@ lang: en
 - If children between 6 months and 15 years of age who have diarrhoea are given extra zinc together with ORS, they are less likely to get very sick and will recover faster. 
 
 ### When to give zinc supplements
-- During an outbreak of diarrhoeal disease (including cholera), ALL CHILDREN BETWEEN 6 MONTHS AND 15 YEARS OF AGE WITH DIARRHOEA should be given a zinc supplement together with oral rehydration solution (ORS). 
+- During an outbreak of diarrhoeal disease (including cholera), ALL CHILDREN BETWEEN 6 MONTHS AND 15 YEARS OF AGE WITH DIARRHOEA should be given a zinc supplement together with oral rehydration solution (ORS) (please see Action Tool 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). 
 
 ### How to give zinc supplements
 - Zinc sachets should be distributed or given together with ORS. The zinc sachet powder is mixed with water and given as a drink.
@@ -37,9 +37,9 @@ lang: en
 - Make sure you know your National Society’s policy on when volunteers can give zinc to children; follow it.
 -	Make sure you understand the correct way to prepare and use zinc supplements. 
 -	Make sure a good plan is made for zinc supplementation, and that you understand the plan.
--	Carry out social mobilization and behaviour change communication activities in an epidemic of diarrhoeal disease. (See Important points above and Action Tool 43.) 
--	Make sure all children from the ages of 6 months to 15 years with diarrhoea are given zinc correctly, together with ORS. (See Action Tool 10.) 
+-	Carry out social mobilization and behaviour change communication activities in an epidemic of diarrhoeal disease. (See Important points above and Action Tool 43<a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) 
+-	Make sure all children from the ages of 6 months to 15 years with diarrhoea are given zinc correctly, together with ORS. (See Action Tool 10<a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) 
 -	Demonstrate how to correctly prepare and give zinc supplements. Conduct follow-up visits to make sure care givers are preparing and using zinc correctly. 
--	Send anyone you meet who has severe dehydration to the nearest health facility for treatment. (For severe dehydration, see Action Tool 7.)
+-	Send anyone you meet who has severe dehydration to the nearest health facility for treatment. (For severe dehydration, see Action Tool 7<a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
 -	Coordinate with health professionals from your local health facilities. 
 -	Work together with the WASH team and hygiene promotion volunteers. 
