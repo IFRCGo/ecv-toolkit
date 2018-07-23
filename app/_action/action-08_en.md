@@ -32,12 +32,12 @@ An ORP provides the first level of treatment of cholera and improves access to O
 
 ### ORPs
 
-1.	Initiate early treatment of mild and moderate cases of dehydration by distributing ORS and zinc when appropriate. (See Activity Tool xx)
-2.	Distribute key commodities, such as ORS, soap, and household water treatment supplies. (See Action Tool 9.)
-3.	Refer severe or at risk cases to health facilities for treatment. (See Action Tool 4.)
-4.	Act as a community-based disease surveillance point, ensuring that all suspected cases are recorded. (See Action Tool 1.)
+1.	Initiate early treatment of mild and moderate cases of dehydration by distributing ORS and zinc when appropriate. (See Activity Tool 10<a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+2.	Distribute key commodities, such as ORS, soap, and household water treatment supplies. (See Action Tool 9<a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+3.	Refer severe or at risk cases to health facilities for treatment. (See Action Tool 4<a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+4.	Act as a community-based disease surveillance point, ensuring that all suspected cases are recorded. (See Action Tool 1<a class="crosslink" href="{% render_depth %}{% render_link action|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
 5.	Are a key reference point for behaviour-change and social mobilization activities. (See Action Tool 43.)
-6.	Distribute zinc supplements (if approved). (See Action Tool 12.)
+6.	Distribute zinc supplements (if approved). (See Action Tool 12<a class="crosslink" href="{% render_depth %}{% render_link action|12 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
 
 ### ORP kit contents
 
