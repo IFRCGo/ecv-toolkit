@@ -3,6 +3,7 @@
 # ====== #
 layout: card
 identifier: 2
+message: []
 title: Community mapping
 lang: en
 ---
