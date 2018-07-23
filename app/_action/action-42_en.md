@@ -44,12 +44,12 @@ See Zika, Disease Tool 18.
 - Men who have recovered from Marburg fever should use a condom for at least 2 months after they get better. 
 - Men who have recovered from Lassa fever should use a condom for at least 2 months after they get better. 
 
-See Ebola, Disease Tool 11; Marburg fever, Disease Tool 12; and Lassa fever, Disease Tool 13.
+See Ebola, Disease Tool 11 <a class="crosslink" href="{% render_depth %}{% render_link disease|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>; Marburg fever, Disease Tool 12 <a class="crosslink" href="{% render_depth %}{% render_link disease|12 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>; and Lassa fever, Disease Tool 13 <a class="crosslink" href="{% render_depth %}{% render_link disease|13 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 ### What you can do
 
 - Make sure you understand the facts, and how diseases including Zika, Ebola, Marburg fever and Lassa fever can be transmitted through sex. 
 -	Remember that sex can be a very sensitive, taboo or embarrassing topic for people to talk about. You may have to change your approach or way of communicating to get your messages across. 
--	Carry out social mobilization and behaviour change communication activities in an outbreak of Zika, Ebola, Marburg fever and Lassa fever. (See Important points above and Action Tool 43.) 
+-	Carry out social mobilization and behaviour change communication activities in an outbreak of Zika, Ebola, Marburg fever and Lassa fever. (See Important points above and Action Tool 43 <a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) 
 -	Remember that sex is only one way of transmitting these diseases, and often it is not the main way. Talk to your volunteer coordination/team leader or local branch health office about which prevention methods should be emphasized during your community visits. 
 -	Make sure you know and can demonstrate how to use a male and female condom correctly. 
