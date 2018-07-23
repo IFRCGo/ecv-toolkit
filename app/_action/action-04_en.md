@@ -16,7 +16,7 @@ lang: en
 
 - Find out how you can tell when a person is severely ill and needs to be referred. Familiarize yourself with the symptoms of the disease and your guidelines for action.
 - Find out the location of health facilities close to your community, and to which ones you should refer serious cases. Find out the capacity of local health facilities (their expertise, number of beds, etc.), and how to get to them. Do they have ambulances? Can they be reached by public transport? 
-- Talk to health professionals and agree the best method for sending sick people from the community to the health facilities. If the disease is highly infectious (like Ebola or Marburg), special transport must be arranged so that other people are not infected.
+- Talk to health professionals and agree the best method for sending sick people from the community to the health facilities. If the disease is highly infectious (like Ebola <a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) (or Marburg <a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)), special transport must be arranged so that other people are not infected.
 - When doing disease surveillance, always keep the idea of referral in mind.
 
 ### What you can do
