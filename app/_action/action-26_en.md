@@ -22,8 +22,8 @@ lang: en
 
 ### DOs and DON’Ts
 
--	Many people cough into their hands to stop germs spreading. This is NOT good practice because, afterwards, you can still transmit germs by touching things or shaking the hands of other people. **DON’T COUGH INTO YOUR HAND.**
--	The correct way to cough without transmitting germs is to use a handkerchief or your sleeve. When you cough into either of these, you are less likely to spread germs. **COUGH INTO A HANDKERCHIEF OR ON YOUR SLEEVE.**
+-	Many people cough into their hands to stop germs spreading. This is NOT good practice because, afterwards, you can still transmit germs by touching things or shaking the hands of other people. **Don't cough into your hand.**
+-	The correct way to cough without transmitting germs is to use a handkerchief or your sleeve. When you cough into either of these, you are less likely to spread germs. **Cough into a handerchief or on your sleeve.**
 
 ### What you can do
 
@@ -31,5 +31,5 @@ lang: en
 - Explain that coughing etiquette matters because it helps to prevent the transmission of diseases that are spread through droplets carried in the air.
 - Show people how to cough properly and ask them to teach the same behaviour to others.
 - Ask your local schools if they would like you to come and speak to children about coughing etiquette.
-- When talking about coughing etiquette, also teach people about proper hygiene (see Action Tool 11).
-- Make posters that show the DOs and DON’Ts of coughing etiquette and put them up around your community. (See Action Tool 43 for more information on social mobilization techniques).
+- When talking about coughing etiquette, also teach people about proper hygiene (see Action Tool 11<a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Make posters that show the DOs and DON’Ts of coughing etiquette and put them up around your community. (See Action Tool 43<a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> for more information on social mobilization techniques).
