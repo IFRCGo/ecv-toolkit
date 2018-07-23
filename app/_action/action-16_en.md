@@ -59,8 +59,8 @@ In a health facility, the scale is attached to the ceiling or a stand. In a comm
 5. Take the reading when the child is calm and the scale needle has stopped moving. The scale should be read at eye level and the value read aloud to the nearest 100 g.
 6. Repeat the measurement. A second person should record it immediately.
 
-- If weighing pants are not available, it is possible to suspend the child in a piece of the mother’s clothing, or in a basin or grass basket. In such cases, make sure the scale is appropriately readjusted to zero.
-- If (for cultural reasons or because of the climate) it is not possible to remove clothes, an average weight for clothes should be deducted from the measurement.
+If weighing pants are not available, it is possible to suspend the child in a piece of the mother’s clothing, or in a basin or grass basket. In such cases, make sure the scale is appropriately readjusted to zero.
+If (for cultural reasons or because of the climate) it is not possible to remove clothes, an average weight for clothes should be deducted from the measurement.
 
 #### Using electronic scales 
 
