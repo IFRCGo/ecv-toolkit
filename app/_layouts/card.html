@@ -31,27 +31,24 @@ layout: default
 </div>
 
 <br>
-
-<div class="row">
-  <div class="columns">
 {% case collectionlabel %}
   {% when 'disease' %}
      {% assign linkedcollection = site.collections | where: 'label', 'action' | first %}
-     <h4>{{ site.data[page.lang].disease.linking.title }}</h4>
-     <p>{{ site.data[page.lang].disease.linking.note }} {{ page.title | downcase }}:</p>
   {% when 'action' %}
     {% assign linkedcollection = site.collections | where: 'label', 'message' | first %}
-    <h4>{{ site.data[page.lang].action.linking.title }}</h4>
-    <div>{{ site.data[page.lang].action.linking.note }} {{ page.title | downcase }}:</div>
   {% when 'message' %}
     {% assign linkedcollection = site.collections | where: 'label', 'action' | first %}
-    <h4>{{ site.data[page.lang].message.linking.title }}</h4>
-    <div>{{ site.data[page.lang].message.linking.note }} {{ page.title | downcase }}:</div>
   {% else %}
 {% endcase %}
-
-<!-- links will appear in order listed in yaml front matter  -->
 {% assign linkarray = page[linkedcollection.label] %}
+
+{% if linkarray.size > 0 %}
+
+<div class="row">
+  <div class="columns">
+<h4>{{ site.data[page.lang][collectionlabel].linking.title }}</h4>
+<div>{{ site.data[page.lang][collectionlabel].linking.note }} {{ page.title | downcase }}:</div>
+<!-- links will appear in order listed in yaml front matter  -->
 {% for number in linkarray %}
   {% for linked in linkedcollection.docs %}
     {% if linked.lang == page.lang and linked.identifier == number %}
@@ -71,6 +68,8 @@ layout: default
   </div>
 </div>
 <br>
+
+{% endif %}
 
 <div class="row hide-for-print hide-for-android">
   <div class="columns">
