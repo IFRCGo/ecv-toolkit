@@ -10,7 +10,7 @@ lang: en
 
 ### Transmission
 
-- Contaminated Water. 
+- Contaminated water. 
 - Contaminated food or drink. 
 - Dirty hands. 
 - Vomit and stools of sick people.
