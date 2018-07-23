@@ -3,7 +3,6 @@
 # ====== #
 layout: card
 identifier: 1
-message: []
 title: Community-based surveillance
 lang: en
 ---
