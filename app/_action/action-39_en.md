@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 39
-message: [1]
+message: []
 title: Preparing and using disinfectants 
 lang: en
 ---
