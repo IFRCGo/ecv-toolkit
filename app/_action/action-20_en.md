@@ -21,9 +21,9 @@ lang: en
 
 ### What you can do
 
-- If it is decided that isolation and barrier nursing are necessary, you will continue active surveillance as a volunteer, looking for cases of the disease (see Action Tool 1).
+- If it is decided that isolation and barrier nursing are necessary, you will continue active surveillance as a volunteer, looking for cases of the disease (see Action Tool 1<a class="crosslink" href="{% render_depth %}{% render_link action|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 - When cases are found, the need for isolation should be explained to those who are ill and their families. This IS NOT DONE FORCIBLY and the wishes of the family should be respected. If you explain that isolation protects others, including members of the patient’s family, it may be easier for both the patient and his or her family to understand why isolation is being proposed.
 - Those who care for a patient in isolation should be shown how to assist him or her and how to protect themselves. They should be provided with proper protective equipment.
-- Provide psychosocial support to families (see Action Tool 19). Isolation of a loved one can be very hard, for the family as well as the patient.
+- Provide psychosocial support to families (see Action Tool 19<a class="crosslink" href="{% render_depth %}{% render_link action|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). Isolation of a loved one can be very hard, for the family as well as the patient.
 - Try to stop isolation from causing stigma or social rejection of patients and their families. Explain to the community why isolation is necessary. Seek the help of elders and community leaders to fight stigma.
 -	Make sure that people in isolation have adequate food, water, and health care, as well as help to cope with any loss of livelihood. 
