@@ -23,7 +23,7 @@ lang: en
 ### What you can do
 
 - Make sure you know your National Society’s policy on when volunteers may give vitamin A to children. Follow the policy.
--	Conduct social mobilization activities before a vaccination campaign (see Action Tool 25) to tell the community about vitamin A supplementation.
+-	Conduct social mobilization activities before a vaccination campaign (see Action Tool 25<a class="crosslink" href="{% render_depth %}{% render_link action|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) to tell the community about vitamin A supplementation.
 -	Coordinate with health professionals from your local health facilities. They can tell you how to administer vitamin A and what doses to give.
 - Make sure a good plan is prepared for providing vitamin A supplements.
 -	Make sure all children from the ages of 6 months to 5 years are given vitamin A correctly.
