@@ -16,9 +16,9 @@ lang: en
 ### What you need to know
 
 - ORS comes in small packets in the form of a powder. It needs to be diluted before use.
-- ORS packets can be obtained at your local National Society branch, at a health centre, or in the community oral rehydration point (see Action Tool 7).
+- ORS packets can be obtained at your local National Society branch, at a health centre, or in the community oral rehydration point (see Action Tool 7<a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 - Follow the instructions on the packet to find out how much water is needed to dilute the contents of each packet.
-- Always use clean water to dilute ORS (see Action Tool 30).
+- Always use clean water to dilute ORS (see Action Tool 30<a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 ### Preparing and administering ORS
 
@@ -38,9 +38,8 @@ lang: en
 - A very simple and effective solution for rehydrating a child can be mixed from salt, sugar and water (see illustration below).
 - A home-made salt and sugar solution should only be used when ORS packets are not available.
 - If a homemade salt sugar solution is used, you need to teach care givers to make the solution safely and correctly. They need to avoid mistakes in the mix of ingredients. It is also important to use the cleanest available water.
-- You can add half a cup of orange juice or a mashed banana to the solution to make it taste better.
 
-##### Recipe: 
+##### Recipe for Home Made Salt Sugar Solution:
 1. Wash your hands with soap and water before preparing the solution.
 2. 	In a clean container mix:
   - 1 litre of safe water.
