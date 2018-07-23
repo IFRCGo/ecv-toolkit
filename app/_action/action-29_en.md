@@ -23,7 +23,7 @@ lang: en
 - Cover water containers so that dust, insects and rodents cannot get in.
 - Use a cup or big spoon (not hands) to serve water from the container. 
 - Wash water storage containers regularly. 
-- For information on how to keep water clean and safe, see Action Tool 30.
+- For information on how to keep water clean and safe, see Action Tool 30<a class="crosslink" href="{% render_depth %}{% render_link action|30 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 #### Food hygiene
 
@@ -48,7 +48,7 @@ lang: en
 - Keep your house, backyard and community free of animal waste and rubbish.
 - Keep your community and backyard free of standing water. (Mosquitoes breed in standing water.) 
 - If no rubbish removal service exists, bury or burn rubbish. Recycle as much as possible. 
-- Incinerate medical waste. To make an incinerator, see Action tool 40. 
+- Incinerate medical waste. To make an incinerator, see Action tool 40<a class="crosslink" href="{% render_depth %}{% render_link action|40 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>. 
 
 ### What you can do
 
