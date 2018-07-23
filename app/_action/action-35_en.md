@@ -16,7 +16,7 @@ lang: en
 ### Why is handwashing important and why is handwashing different in epidemics?
 - Highly infectious germs are spread very easily through body fluids and certain diseases can even be transmitted via the bodies of people who are dead.
 - Very vigorous and comprehensive handwashing is needed in such cases.
-- When working in such epidemics, it is critical to use all available forms of protection. (See Action Tools 5 and 6 on volunteer protection and using personal protection equipment.)
+- When working in such epidemics, it is critical to use all available forms of protection. (See Action Tools 5 <a class="crosslink" href="{% render_depth %}{% render_link action|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and Action Tool 6 <a class="crosslink" href="{% render_depth %}{% render_link action|6 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> on volunteer protection and using personal protection equipment.)
 - When you wash your hands during an epidemic, to eliminate all the germs on your hands you need to:
     - Use soap or an alcohol-based disinfectant.
     - Wash your hands as usual.
