@@ -36,7 +36,23 @@ The site is configured to support 2-letter core language codes. So english is 'e
     2. in frontmatter for all files, you need to change the `lang` to the correct code and translate the `slug`
     3. all the text below the frontmatter should be translated
 
-### Internal cross links
+### Markdown tips for posts
+
+#### Tables
+
+```
+
+| Tables | Are | Cool |
+| --- |:---:| ---:|
+| col 3 is | right-aligned | 1600 |
+| col 2 is | centered | 12 |
+
+```
+- Colons can be used to align columns.
+- Number of dashes in cells in the row below the header row doesn't matter.
+- A table needs to have an empty line above and below it.
+
+#### Internal cross links
 
 Sometimes you want to include a link from one page to another (for example, from the page for Action Tool 1 to Action Tool 4).
 
