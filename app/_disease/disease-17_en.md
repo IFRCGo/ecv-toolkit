@@ -13,7 +13,7 @@ lang: en
 - Via blood, faeces, vomit, urine, saliva/spit, sweat, tears, breastmilk or semen of a person sick with Ebola that enters the mouth, nose, eyes or a skin cut of another person. 
 - Can also be spread when handling the body of someone who has died from Ebola. 
 - Contact with objects (for example, bedding, clothes or needles) that have been contaminated with body fluids from a person who is sick or has died from Ebola. 
-- During sex with a man who has recovered from Ebola (for 12 months after he has recovered). 
+- During unprotected sex with a man who has recovered from Ebola (for 12 months after he has recovered). 
 - Touching infected fruit bats or their faeces or waste, and touching or eating infected bush meat (bats, monkeys, apes) that is not well cooked.
 
 ### Symptoms
