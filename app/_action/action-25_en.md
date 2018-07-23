@@ -18,7 +18,7 @@ lang: en
 
 Normally, volunteers do not administer vaccines directly to children, but you can help in many other ways.
 
--	The most important task is SOCIAL MOBILIZATION (see Action Tool 43). 
+-	The most important task is social mobilization (see Action Tool 43<a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). 
 -	Coordinate with the health authorities.
 -	Use the National Society’s network to publicise mass vaccination campaigns. Help logistically to organize them.
 
