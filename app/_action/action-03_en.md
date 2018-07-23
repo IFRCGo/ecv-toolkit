@@ -3,6 +3,7 @@
 # ====== #
 layout: card
 identifier: 3
+message: []
 title: Communicating with the community
 lang: en
 ---
