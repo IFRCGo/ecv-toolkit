@@ -18,7 +18,6 @@ lang: en
 
 ### Tips for building an incinerator
 
-- To build an incinerator, follow the instructions on the other side of this card.
 -	Keep a bucket of water or sand by you in case you need to put the fire out.
 -	If you have never built an incinerator before, ask a professional or someone who has already built one to help or advise you. 
 -	Wear protective clothing, in particular gloves, when handling contaminated clothing or other items belonging to a deceased person. Place items carefully in the incinerator and leave them to burn until they have turned to ash, destroying all the germs.
