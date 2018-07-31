@@ -417,7 +417,7 @@ gulp.task('pdfs', function(done) {
 
 // Humans task
 // -----------
-gulp.task('get-humans', function(){
+gulp.task('get-humans', function(done){
   var getHumans = function(callback){
     var options = {
       url: 'https://api.github.com/repos/IFRCGo/ecv-toolkit/contributors',
@@ -434,14 +434,14 @@ gulp.task('get-humans', function(){
         humans.sort(function(a,b){
           return b.contributions - a.contributions;
         })
-        callback(humans);
+        callback(humans, done);
       } else {
-        callback([]);
+        callback([], done);
       }
     });
   }
 
-  getHumans(function(humans){
+  getHumans(function(humans, done){
     fs.readFile('./humans-template.txt', 'utf8', function (err, doc) {
       if (err) throw err;
       for (i = 0; i < humans.length; i++) {
@@ -449,6 +449,7 @@ gulp.task('get-humans', function(){
       }
       fs.writeFile('./app/humans.txt', doc, function(err) {
         if (err) throw err;
+        else done();
       });
     });
   });

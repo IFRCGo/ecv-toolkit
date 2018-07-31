@@ -6,6 +6,7 @@ _android
 bundle
 _config-dev.yml
 notes
+app/humans.txt
 
 # OS generated files #
 ######################
