@@ -117,6 +117,7 @@ gulp.task('javascripts', function() {
 // Build the jekyll website.
 gulp.task('jekyll', function (done) {
   var args = ['exec', 'jekyll', 'build'];
+  var options = {stdio: 'inherit'};
 
   switch (environment) {
     case 'development':
@@ -127,10 +128,13 @@ gulp.task('jekyll', function (done) {
     break;
     case 'production':
       args.push('--config=_config.yml');
+      var env = Object.create(process.env);
+      env.JEKYLL_ENV = 'production';
+      options.env = env;
     break;
   }
 
-  return cp.spawn('bundle', args, {stdio: 'inherit'})
+  return cp.spawn('bundle', args, options)
     .on('close', done);
 });
 

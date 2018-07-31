@@ -20,6 +20,11 @@
 
     <link rel="stylesheet" href="{% render_depth %}assets/styles/main.css">
     <!--ANDROID <link rel="stylesheet" href="{% render_depth %}assets/styles/android.css"> -->
+
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
   </head>
   <body>
 
