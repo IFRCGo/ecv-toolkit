@@ -3,7 +3,7 @@ rvm:
 - 2.3.1
 env:
   global:
-  - TRAVIS_NODE_VERSION="v8.9.4"
+  - TRAVIS_NODE_VERSION="v8.11.3"
   - GH_REF=github.com/IFRCGo/ecv-toolkit.git
   - DEPLOY_BRANCH=publish
   matrix:
