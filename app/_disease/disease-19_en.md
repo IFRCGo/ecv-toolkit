@@ -37,7 +37,7 @@ lang: en
 - Dispose safely of waste that might be contaminated (by burning or burying it).
 - Disinfect reusable supplies.
 - Provide psychosocial support.
-- Male survivors of Marburg must practise safe sex for 3 months after they recover.
+- Male survivors of Marburg must practise safe sex for 12 months after they recover.
 
 ### Vulnerable people
 
@@ -57,7 +57,7 @@ lang: en
 - Disinfect the homes and personal belongings of people who are sick or have died from Marburg fever.
 - Dispose safely of waste that might be contaminated (by burning or burying it).
 - Disinfect reusable supplies.
-- Male survivors of Marburg fever must practise safe sex for 3 months from the date on which they became sick.
+- Male survivors of Marburg fever must practise safe sex for 12 months from the date on which they became sick.
 - Provide psychosocial support.
 - Involve the community in managing rumours and misinformation.
 
