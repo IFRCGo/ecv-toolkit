@@ -28,3 +28,4 @@ lang: en
 - MAPS ARE OFTEN EASIER TO UNDERSTAND THAN WORDS. 
 
 ### Making a community map
+![at-02]({% render_depth %}assets/img/graphics/at-02.png){:class="my-img-class"}
