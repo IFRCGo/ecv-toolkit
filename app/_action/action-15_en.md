@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 15
-message: [29]
+message: [23, 29]
 title: Measuring acute malnutrition in emergencies 
 lang: en
 ---
@@ -44,6 +44,8 @@ Children who suffer from acute malnutrition can be identified in two ways:
     -	Therapeutic feeding for severe malnutrition (red MUAC, oedema).
     -	Supplementary feeding for moderate malnutrition (yellow MUAC).
 -	Refer any child with oedema or a red/yellow MUAC to the closest health or nutrition centre. Some programmes provide referral papers for families.
+
+![at-15_en]({% render_depth %}assets/img/graphics/at-15_en.png){:class="my-img-class"}
 
 ### What you can do 
 
