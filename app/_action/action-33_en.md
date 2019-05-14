@@ -45,5 +45,5 @@ Ask the WASH focal point or your volunteer supervisor for information on how to 
 - Building latrines is the easy part. Many social and cultural issues may cause people not to use them. Find out what will motivate people to use the latrines and encourage them accordingly. 
 - Latrine pits and tanks fill up and need to be emptied. How quickly this happens depends on how many people use them, how big the pit or tank is, the soil type, and whether people throw rubbish or menstrual pads into the pit. 
 
-![dt-31_en]({% render_depth %}assets/img/graphics/dt-31.png){:class="my-img-class"}
+![at-31_en]({% render_depth %}assets/img/graphics/at-31.png){:class="my-img-class"}
 ***Note:*** Avoid dirty, poorly maintained latrines with no cover. Use covered latrine pites to control flies.  Make sure to wash hands after going to the toilet.
