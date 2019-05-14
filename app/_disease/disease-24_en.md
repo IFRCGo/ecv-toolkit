@@ -13,6 +13,8 @@ lang: en
 - Close contact with (including providing care to) a person infected by MERS.
 - Close contact with dromedary (Arabian) camels. (How the disease spreads is not yet fully understood.)
 
+![dt-24]({% render_depth %}assets/img/graphics/dt-24.png){:class="my-img-class"}
+
 ### Symptoms
 
 - Fever, cough and shortness of breath, diarrhoea.
