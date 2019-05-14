@@ -39,3 +39,5 @@ lang: en
 - Use lots of force (push your hands together hard) and remember to wash all surfaces, including the backs of the hands and between the fingers.
 - Rinse hands well so they are free of soap or ash.
 - Dry hands with a paper towel. If there is no towel, wave them in the air until they are dry.
+
+![at-34_en]({% render_depth %}assets/img/graphics/at-34_en.png){:class="my-img-class"}
