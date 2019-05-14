@@ -34,3 +34,5 @@ lang: en
 - All animal products, including meat and eggs, should be cooked thoroughly before eating, to kill all germs.
 - Vegetables should either be cooked thoroughly or washed well with water. 
 - Raw fruits and vegetables should be washed with clean water.
+
+![at-31]({% render_depth %}assets/img/graphics/at-31.png){:class="my-img-class"}
