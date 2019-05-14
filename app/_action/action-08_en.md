@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 8
-message: []
+message: [1,3,4,5,6,8,9,12,13,23,28]
 title: Community oral rehydration points
 lang: en
 ---
