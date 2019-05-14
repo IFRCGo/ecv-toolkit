@@ -11,7 +11,7 @@ lang: en
 ### Overview
 
 - Food can carry or breed germs that spread disease and make people sick. 
-- Germs in food that is not clean or is not covered can help spread diarrhoeal diseases (including cholera) and other diseases such as hepatitis, typhoid and anthrax.
+- Germs in food that is not clean or is not covered can help spread diarrhoeal diseases <a class="crosslink" href="{% render_depth %}{% render_link disease|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> (including cholera <a class="crosslink" href="{% render_depth %}{% render_link disease|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) and other diseases such as hepatitis (A <a class="crosslink" href="{% render_depth %}{% render_link disease|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and E <a class="crosslink" href="{% render_depth %}{% render_link disease|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>), typhoid <a class="crosslink" href="{% render_depth %}{% render_link disease|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and anthrax <a class="crosslink" href="{% render_depth %}{% render_link disease|21 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 ### What you need to know
 
