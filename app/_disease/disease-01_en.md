@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 1 
-action: [1,2,3,4,5,7,9,10,11,12,13,14,15,16,17,18,19,21,29,30,31,32,33,34,39, 43]
+action: [1,2,3,4,5,7,9,10,11,12,13,14,15,16,17,18,19,29,30,31,32,33,34,39,43]
 title: Acute diarrhoeal disease
 lang: en
 ---
@@ -74,3 +74,6 @@ Make a map of the community and mark the information you gather on the map. Reco
 -	Can people identify the signs and symptoms of dehydration?
 -	Do people know how to make oral rehydration solution (ORS)? Do they have resources at hand to make it?
 -	Do people know how to treat water?
+
+![DT01_EN]({% render_depth %}assets/img/graphics/DT01_EN.png){:class="my-img-class"}
+### Encourage exclusive breastfeeding for the first 6 months of life ‒ including when a child is sick. A dehydrated child may experience the following:
