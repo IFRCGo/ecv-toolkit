@@ -13,6 +13,8 @@ lang: en
 - Mosquito bite. 
 - Mosquitoes that spread malaria usually bite at night, between sunset and sunrise.
 
+![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
+
 ### Symptoms
 
 - Starts with several days of fever, sometimes with nausea, vomiting and headache, back pain, chills/shaking and muscle pain. 
