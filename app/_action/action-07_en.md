@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 7
-message: [1]
+message: [1, 3]
 title: Assessment of dehydration
 lang: en
 ---
@@ -29,3 +29,5 @@ lang: en
 | No dehydration | Give ORS and zinc. Action tools 9 <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> |   
 | Moderate dehydration | Give ORS and zinc. Action tools 9 <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> |   
 | Severe dehydration | Refer immediately to health facility or hospital |    
+
+![at-07_en]({% render_depth %}assets/img/graphics/at-07_en.png){:class="my-img-class"}
