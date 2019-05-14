@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 43
-message: []
+message: [23]
 title: Social mobilization and behaviour change 
 lang: en
 ---
@@ -27,3 +27,5 @@ In any context, behaviour change involves three elements. Before people will cha
 1. They need to know what, why and how they should change. They need knowledge. 
 2. They need to have the right equipment, access and capacity. They need an enabling environment.
 3. They need to be motivated to change.
+
+![at-43_en]({% render_depth %}assets/img/graphics/at-43_en.png){:class="my-img-class"}
