@@ -13,8 +13,6 @@ lang: en
 - Mosquito bite. 
 - Mosquitoes that spread malaria usually bite at night, between sunset and sunrise.
 
-![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
-
 ### Symptoms
 
 - Starts with several days of fever, sometimes with nausea, vomiting and headache, back pain, chills/shaking and muscle pain. 
@@ -29,6 +27,8 @@ lang: en
 - Eliminate mosquito breeding sites by vector control (removing scrub around communities, spraying, etc.). 
 - Social mobilization and behaviour change communication.
 - Use of antimalarial medicines (chemoprophylaxis).
+
+![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
 
 ### Vulnerable people
 
