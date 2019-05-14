@@ -3,7 +3,6 @@
 # ====== #
 layout: card
 identifier: 29
-action: [30,40]
 message: [4,5,6,8,9,11,12,13,20]
 title: Hygiene promotion
 lang: en
@@ -11,7 +10,7 @@ lang: en
 
 ### Overview
 
-- You promote hygiene when you talk to people in your community about hygiene and sanitation, and about diseases that can be controlled by following recommended hygiene and sanitation practices. These diseases include, for example, cholera, diarrhoea, typhoid, and hepatitis E. 
+- You promote hygiene when you talk to people in your community about hygiene and sanitation, and about diseases that can be controlled by following recommended hygiene and sanitation practices. These diseases include, for example, cholera <a class="crosslink" href="{% render_depth %}{% render_link disease|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, diarrhoea <a class="crosslink" href="{% render_depth %}{% render_link disease|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, typhoid <a class="crosslink" href="{% render_depth %}{% render_link disease|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and hepatitis E <a class="crosslink" href="{% render_depth %}{% render_link disease|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>. 
 - Hygiene promotion covers four main areas: personal hygiene, domestic (or environmental) hygiene, water hygiene, and food hygiene. 
 
 ### What you can do to promote hygiene
@@ -23,7 +22,7 @@ lang: en
 - Cover water containers so that dust, insects and rodents cannot get in.
 - Use a cup or big spoon (not hands) to serve water from the container. 
 - Wash water storage containers regularly. 
-- For information on how to keep water clean and safe, see Action Tool 30<a class="crosslink" href="{% render_depth %}{% render_link action|30 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
+- For information on how to keep water clean and safe, see Action Tool 30 <a class="crosslink" href="{% render_depth %}{% render_link action|30 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 #### Food hygiene
 
@@ -48,7 +47,7 @@ lang: en
 - Keep your house, backyard and community free of animal waste and rubbish.
 - Keep your community and backyard free of standing water. (Mosquitoes breed in standing water.) 
 - If no rubbish removal service exists, bury or burn rubbish. Recycle as much as possible. 
-- Incinerate medical waste. To make an incinerator, see Action tool 40<a class="crosslink" href="{% render_depth %}{% render_link action|40 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>. 
+- Incinerate medical waste. To make an incinerator, see Action tool 40 <a class="crosslink" href="{% render_depth %}{% render_link action|40 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>. 
 
 ### What you can do
 
@@ -58,3 +57,5 @@ lang: en
 - Show people in your community how to build simple handwashing facilities, such as a ‘tippy-tap’. 
 - Be a good role model for others in your community. Use a clean latrine, dispose of your rubbish, wash your hands often. 
 - Find out if you can work with local health centres and schools to improve their hygiene and sanitation. You might hold a hygiene session for students or teachers, or help the clinic to build a handwashing station and outside latrine for patients. 
+
+![at-29]({% render_depth %}assets/img/graphics/at-29.png){:class="my-img-class"}
