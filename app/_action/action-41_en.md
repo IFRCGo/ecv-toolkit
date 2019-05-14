@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 41
-message: [8,25]
+message: [8,9,25]
 title: Handling and slaughtering animals
 lang: en
 ---
