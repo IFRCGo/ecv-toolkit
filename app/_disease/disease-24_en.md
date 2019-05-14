@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 24
-action: [1,2,3,4,5,6,12,19,20,26,27,28,29,35,39,40,41,43]
+action: [1,2,3,4,5,6,19,20,26,27,28,29,34,35,39,41,43]
 title: Middle East Respiratory Syndrome Coronavirus (MERS-CoV)
 lang: en
 ---
