@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 20
-message: [24]
+message: 24
 title: Isolating sick people
 lang: en
 ---
