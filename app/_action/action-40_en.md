@@ -22,3 +22,5 @@ lang: en
 -	If you have never built an incinerator before, ask a professional or someone who has already built one to help or advise you. 
 -	Wear protective clothing, in particular gloves, when handling contaminated clothing or other items belonging to a deceased person. Place items carefully in the incinerator and leave them to burn until they have turned to ash, destroying all the germs.
 -	Tell people in the community what you are doing so that they know to stay away and keep safe.
+
+![at-40_en]({% render_depth %}assets/img/graphics/at-40_en.png){:class="my-img-class"}
