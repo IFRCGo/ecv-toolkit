@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 17
-action: [1,2,3,4,5,6,7,9,10,12,19,20,21,35,38,39,40,41,42,43]
+action: [1,2,3,4,5,6,19,20,21,25,34,35,39,40,41,42,43]
 title: Ebola virus disease 
 lang: en
 ---
