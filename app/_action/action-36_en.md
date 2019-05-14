@@ -24,6 +24,9 @@ lang: en
 -	Talk to people in your community about storing food and water properly, keeping shelters and houses clean, cleaning the environment, using bed nets at night, and wearing clothing (for example, with long sleeves) that protects against vectors such as mosquitoes.
 -	See the table on the other side of this card for more information on how volunteers can help.
 
+![at-36]({% render_depth %}assets/img/graphics/at-36.png){:class="my-img-class"}
+Keep the community clean and always ask for professionals to spray against vectors.
+
 ### Main mosquito-borne diseases and control methods
 
 | Disease | Vector | vector biting time | Vector/reservoir breeding site | Primary community prevention method | Secondary community prevention method |
@@ -38,3 +41,5 @@ lang: en
 
 - Plague bacteria are most often transmitted by the bite of an infected rodent or flea. To prevent contamination, people should: store food and water (including animal food) in rodent-proof covered containers; screen or close holes in walls and roofs; remove rubbish and environmental debris from around dwellings; sleep on a raised platform (not on the floor); and use repellents. See Action Tool 38 <a class="crosslink" href="{% render_depth %}{% render_link action|38 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and Community Message Tool 27 <a class="crosslink" href="{% render_depth %}{% render_link message|27 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 - For flies, see Action Tool 32 <a class="crosslink" href="{% render_depth %}{% render_link action|32 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and Action Tool 33 <a class="crosslink" href="{% render_depth %}{% render_link action|33 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
+
+![at-36b]({% render_depth %}assets/img/graphics/at-36b.png){:class="my-img-class"}
