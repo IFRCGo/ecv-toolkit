@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 7
-message: [1, 3]
+message: [1,3]
 title: Assessment of dehydration
 lang: en
 ---
