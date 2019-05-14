@@ -3,12 +3,8 @@
 # ======= #
 layout: card
 identifier: 2 
-action: [2]
-title: Community message 2
+title: Caring for a person with fever
 lang: en
 ---
 
-![img title]({% render_depth %}assets/img/graphics/managing-fever.jpg){:class="my-img-class"}
-
-
-## Call to action for community message 2!
+![cmt-02_en]({% render_depth %}assets/img/graphics/cmt-02_en.jpg){:class="my-img-class"}
