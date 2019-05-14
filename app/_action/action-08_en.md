@@ -67,5 +67,7 @@ A community ORP kit available from IFRC contains the items listed below. (Kits t
 | Rope, nylon, diameter 3 mm, braided, 5 metres | 1 | 
 | Brush, hand scrubbing brush | 1 | 
 
+
+***Note:***
 - ORS, zinc, and chlorine for disinfection are not included in the kit and need to be added.
 - Shade, access to water and a latrine are also important and should be included when selecting the location of the ORP point.
