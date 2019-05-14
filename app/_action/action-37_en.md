@@ -28,6 +28,8 @@ lang: en
 -	Repair any rips or tears in the net.
 -	Replace the nets at regular intervals, as advised (every 3-5 years).
 
+![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
+
 ### What you can do
 
 - Encourage every member of the community to sleep under a mosquito net every night. It is particularly important for children and pregnant women to do so.
