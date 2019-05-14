@@ -43,3 +43,4 @@ Keep the community clean and always ask for professionals to spray against vecto
 - For flies, see Action Tool 32 <a class="crosslink" href="{% render_depth %}{% render_link action|32 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and Action Tool 33 <a class="crosslink" href="{% render_depth %}{% render_link action|33 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 ![at-36b]({% render_depth %}assets/img/graphics/at-36b.png){:class="my-img-class"}
+Vectors: Mosquito, flea, fly and rat
