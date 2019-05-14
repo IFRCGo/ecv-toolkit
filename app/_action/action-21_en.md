@@ -10,7 +10,7 @@ lang: en
 
 ### Overview
 
-- Some diseases, including cholera (and other diarrhoeal diseases) and especially Ebola, Marburg fever, Lassa fever, plague and monkeypox, remain infectious even after death. 
+- Some diseases, including cholera (and other diarrhoeal diseases) and especially Ebola <a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Marburg fever<a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Lassa fever <a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, plague <a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and monkeypox <a class="crosslink" href="{% render_depth %}{% render_link disease|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, remain infectious even after death. 
 - It is therefore essential to take extreme care when handling the bodies of individuals who have died from these diseases. 
 
 ### What you need to know
