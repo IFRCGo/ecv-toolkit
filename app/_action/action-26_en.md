@@ -25,6 +25,8 @@ lang: en
 -	Many people cough into their hands to stop germs spreading. This is NOT good practice because, afterwards, you can still transmit germs by touching things or shaking the hands of other people. **Don't cough into your hand.**
 -	The correct way to cough without transmitting germs is to use a handkerchief or your sleeve. When you cough into either of these, you are less likely to spread germs. **Cough into a handerchief or on your sleeve.**
 
+![at-026_en]({% render_depth %}assets/img/graphics/at-26_en.png){:class="my-img-class"}
+
 ### What you can do
 
 - Explain coughing etiquette to people in your community.
