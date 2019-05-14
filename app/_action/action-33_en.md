@@ -10,7 +10,7 @@ lang: en
 
 ### Overview
 
-- Many diseases (including diarrhoea, cholera, typhoid, and hepatitis E and A) spread to others when faeces contaminate water, hands, food or flies and enter another person’s mouth. This form of transmission is called ‘faecal-oral’. 
+- Many diseases (including diarrhoea <a class="crosslink" href="{% render_depth %}{% render_link disease|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, cholera <a class="crosslink" href="{% render_depth %}{% render_link disease|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, typhoid <a class="crosslink" href="{% render_depth %}{% render_link disease|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and hepatitis E <a class="crosslink" href="{% render_depth %}{% render_link disease|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and A <a class="crosslink" href="{% render_depth %}{% render_link disease|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) spread to others when faeces contaminate water, hands, food or flies and enter another person’s mouth. This form of transmission is called ‘faecal-oral’. 
 - Using a latrine and disposing of faeces properly can save many lives during an epidemic.
 
 ### Why build latrines?
@@ -44,3 +44,6 @@ Ask the WASH focal point or your volunteer supervisor for information on how to 
 - Make sure women and girls feel safe to use latrines during the day and at night. Males and females should use separate latrines, Latrines should be well-lit and users should be able to lock them from the inside. 
 - Building latrines is the easy part. Many social and cultural issues may cause people not to use them. Find out what will motivate people to use the latrines and encourage them accordingly. 
 - Latrine pits and tanks fill up and need to be emptied. How quickly this happens depends on how many people use them, how big the pit or tank is, the soil type, and whether people throw rubbish or menstrual pads into the pit. 
+
+![dt-31_en]({% render_depth %}assets/img/graphics/dt-31.png){:class="my-img-class"}
+***Note:*** Avoid dirty, poorly maintained latrines with no cover. Use covered latrine pites to control flies.  Make sure to wash hands after going to the toilet.
