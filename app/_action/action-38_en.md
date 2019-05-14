@@ -18,6 +18,10 @@ lang: en
 - Vegetation should be cleared from river banks and ponds near the village. 
 - The area around water sources (pumps, wells) should be kept clean.
 
+![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"}
+Tell community members how important it is to keep their community clean. Organize regular clean-up campaigns. Include houses and latrines, etc.
+
+
 ### What you can do
 
 - Work with traditional and political leaders, the village health committee and other community partners to decide what needs to be cleaned up and how to go about it. 
