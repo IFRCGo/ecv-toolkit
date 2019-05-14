@@ -74,3 +74,5 @@ Electronic scales are very precise, whether they are powered by a battery or a s
 6. Wave a hand over the solar switch again. The scale indicates that it is ready to weigh an adult with a child. (An image of an adult holding a child is shown.)
 7. The child to be weighed is passed to the adult on the scale, who remains still.
 8. The scale shows the child’s weight. Read the measurement aloud; a second person records it immediately.
+
+![at-16]({% render_depth %}assets/img/graphics/at-16.png){:class="my-img-class"}
