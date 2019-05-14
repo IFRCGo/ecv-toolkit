@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 22
-action: [1,2,3,4,5,12,19,29,34,38,39,43]
+action: [1,2,3,4,5,19,29,34,38,39,43]
 title: Hantavirus pulmonary syndrome (HPS)
 lang: en
 ---
