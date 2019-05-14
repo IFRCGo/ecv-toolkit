@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 19
-action: [1,2,3,4,5,6,7,9,10,12,19,20,21,35,38,39,40,41,42,43]
+action: [1,2,3,4,5,6,19,20,21,28,34,35,39,40]
 title: Marburg haemorrhagic fever
 lang: en
 ---
