@@ -25,17 +25,15 @@ lang: en
 
 ### Preparation of different strengths of chlorine solution
  
-| Type |	0.05%	| 0.2% | 2% |
-|---|---|---|---|
-| **HTH powder (70% active chlorine)** | 1 tablespoon in 20 litres of water. | 1 tablespoon in 5 litres of water. | 2 tablespoons in 1 litre of water. |
-| **Liquid bleach (5%)** | 14 tablespoons in 20 litres of water, or ¼ cup in 20 litres of water. | 20 tablespoons in 5 litres of water. | 2 cups in one litre of water. |
-| **Examples of use** | To wash hands and clothing (soak for 15 minutes). To disinfect dead bodies in the home. | To disinfect floors, latrines, the kitchen equipment of patients, etc. | To disinfect dead bodies in a cholera treatment centre (CTC). |
+| Type |	2%	| 0.5% | 0.2% | 0.05% 
+|---|---|---|---|---|
+| **HTH powder (70% active chlorine)** | 30 grams in 1 litre of water or 2 level tablespoons in 1 litre of water | 7.5g in 1 litre of water or 1 level teablespoon in 2 litres of water | 3g in 1 litre of water or 2 level teablespoon in 10 litres of water | 0.7g in 1 litre of water or 0.5 level teablespoons in 10 litres of water |
+| **NaDCC At 8.68g active chlorine per tablet** | 4 tablets in 1 litre of water | 1 tablet in 1 litre of water | 4 tablets in 10 litres of water | 1 tablet in 10 litres of water |
+| **Liquid bleach (5%)** | 400 ml of bleach in 600 ml of water (total amount 1 l) | 100 ml of bleach in 900 ml of water (total amount 1 l) | 40 ml of bleach in 960 ml of water (total amount 1 l)| 10 ml of bleach in 990 ml of water (total amount 1 l) | 
+| **Examples of use** | To disinfect dead bodies, stools and vomit in cholera outbreak | To disinfect dead bodies, surfaces, blood, vomit, stool, PPE, vehicles etc. in Ebola outbreak | To disinfect wards, floors, toilets, shower units, kitchen, beds etc. in cholera outbreak | To disinfect hands and skin | 
 
-Note: One cup is 200ml. One tablespoon is 10ml 
-Source. Funeral and burial recommendations for deaths from acute watery diarrhoea/cholera (UNICEF Somalia). 
 
 ### Use of disinfectants
 -	Always take care when using disinfectants because they are dangerous. Always wear gloves, a face mask and goggles, and an apron or overalls to protect your clothes. 
 -	When specialists are available, always follow their advice on preparing, handling and using disinfectants. 
 -	Do not touch 1:10 disinfectant with your hands or let it touch your bare skin. **Always use thick gloves for protection.**
--	Disinfectants are available as part of the cholera kit (see Action Tool 7 <a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
