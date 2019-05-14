@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 23
-action: [1,2,3,4,5,19,29,30,32,34,43]
+action: [1,2,3,4,5,19,29,30,31,32,34,36,38,43]
 title: Leptospirosis
 lang: en
 ---
