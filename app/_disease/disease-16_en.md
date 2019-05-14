@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 16
-action: [1,2,3,4,5,12,19,26,27,28,29,34,43]
+action: [1,2,3,4,5,12,13, 14,15,16,17,18,19,26,27,28,29,34,43]
 title: Acute respiratory infections (ARIs)
 lang: en
 ---
