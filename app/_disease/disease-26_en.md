@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 26
-action: [1,2,3,4,5,19,34,36,41,43]
+action: [1,2,3,4,5,19,34,36,37,38,41,43]
 title: Rift Valley fever
 lang: en
 ---
