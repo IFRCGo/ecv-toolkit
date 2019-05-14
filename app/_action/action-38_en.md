@@ -36,3 +36,6 @@ Motivate and support the community to work together to:
 - Keep the community free of rubbish and garbage (by burning or burying it). 
 - Clean the areas around water sources (such as pumps and wells). 
 - Create and maintain water soak pits around water sources. 
+
+![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
+Make sure to dispose of waste properly. This will help to protect the community from germs.
