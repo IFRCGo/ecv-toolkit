@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 10
-action: [1,2,3,4,5,19,24,25,29,30,32,33,34,43]
+action: [1,2,3,4,5,12,19,24,25,36,37,38,43]
 title: Polio
 lang: en
 ---
