@@ -32,6 +32,8 @@ lang: en
 - Children who are not vaccinated are most at risk. 
 - Children living in areas with poor hygiene, sanitation and water infrastructure and services. 
 
+![dt-10]({% render_depth %}assets/img/graphics/dt-10.png){:class="my-img-class"}
+
 ### If an epidemic occurs
 
 - Promote mass vaccination campaigns. 
