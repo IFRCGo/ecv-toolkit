@@ -75,5 +75,5 @@ Make a map of the community and mark the information you gather on the map. Reco
 -	Do people know how to make oral rehydration solution (ORS)? Do they have resources at hand to make it?
 -	Do people know how to treat water?
 
-![DT01_EN]({% render_depth %}assets/img/graphics/DT01_EN.png){:class="my-img-class"}
+![dt-01_en]({% render_depth %}assets/img/graphics/dt-01_en.png){:class="my-img-class"}
 ### Encourage exclusive breastfeeding for the first 6 months of life ‒ including when a child is sick. A dehydrated child may experience the following:
