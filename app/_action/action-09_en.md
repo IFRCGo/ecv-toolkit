@@ -51,3 +51,5 @@ lang: en
 6. 	You can add half a cup of orange juice or a mashed banana to the solution to make it taste better.
 7. 	If ORS is still needed after 24 hours, make a fresh solution.
 8. 	If the patient does not improve or signs of severe dehydration appear, take the patient to a health clinic.
+
+![at-09_en]({% render_depth %}assets/img/graphics/at-09_en.png){:class="my-img-class"}
