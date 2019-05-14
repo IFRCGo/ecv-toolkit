@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 13
-message: [3]
+message: [3,8]
 title: Breastfeeding
 lang: en
 ---
@@ -31,3 +31,5 @@ lang: en
 - Talk to community and religious leaders and to fathers about the importance of breastfeeding. Ask for their help to persuade mothers to breastfeed.
 - Repeat the same message: breastfeeding saves the lives of babies in diarrhoea epidemics. Talk to women to find out what support they need and the difficulties they face in continuing to breastfeed. Work with women and health workers to try to resolve their problems and concerns. 
 - After the epidemic is over, keep working to encourage breastfeeding.
+
+![at-13]({% render_depth %}assets/img/graphics/at-13.png){:class="my-img-class"}
