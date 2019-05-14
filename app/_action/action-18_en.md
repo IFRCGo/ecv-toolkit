@@ -29,6 +29,8 @@ lang: en
 2. Remove your thumbs. If a pit or dip remains in the skin of both feet after 3 seconds, the child may have oedema. 
 
 Any child found to have oedema should be referred to a health facility as soon as possible.
+
+![at-18]({% render_depth %}assets/img/graphics/at-18.png){:class="my-img-class"}
  	 
 ### Signs that a child has oedema (Kwashiorkor)
 
