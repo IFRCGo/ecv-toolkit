@@ -11,7 +11,8 @@ lang: sp
 ### Resumen
 
 - Un mapa de la comunidad le permite conectar temas o problemas con lugares específicos y hace que la información sea fácil de ver.
-- Es una buena idea crear el mapa junto con los miembros de la comunidad. § El mapeo de la comunidad es muy útil en las epidemias porque le ayuda a ver dónde están los mayores problemas y necesidades, y a identificar los riesgos.
+- Es una buena idea crear el mapa junto con los miembros de la comunidad. 
+- El mapeo de la comunidad es muy útil en las epidemias porque le ayuda a ver dónde están los mayores problemas y necesidades, y a identificar los riesgos.
 - El mapa puede ser utilizado para apoyar la preparación y la planificación antes de que ocurra una epidemia.
 
 ### ¿Cómo hacer un mapa de la comunidad?
