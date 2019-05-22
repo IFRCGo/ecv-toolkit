@@ -39,14 +39,16 @@ lang: sp
 - Detecte y remita los casos a los establecimientos de salud.
 - Promueva el lavado de las manos con jabón (especialmente después de usar el baño o limpiar a un bebé).
 - Promueva agua potable segura y limpia (incluyendo un recipiente limpio y cubierto para el agua en el hogar).
-- Promueva el uso de instalaciones apropiadas (letrinas adecuadas y limpias). § Promueva la buena higiene de los alimentos (alimentos bien cocidos, alimentos tapados, utensilios limpios, etc.).
+- Promueva el uso de instalaciones apropiadas (letrinas adecuadas y limpias). 
+- Promueva la buena higiene de los alimentos (alimentos bien cocidos, alimentos tapados, utensilios limpios, etc.).
 - Aumente la movilización social y la comunicación para el cambio de comportamiento.
 - Apoye la campaña de vacunación masiva.
 - Promueva las prácticas de salud recomendadas.
 
 ### Evaluación basada en la comunidad
 
-- ¿Cuándo empezaron a enfermarse las personas con hepatitis A? § ¿Cuántas personas han enfermado con hepatitis A? ¿Dónde?
+- ¿Cuándo empezaron a enfermarse las personas con hepatitis A? 
+- ¿Cuántas personas han enfermado con hepatitis A? ¿Dónde?
 - ¿Cuántas personas han muerto de hepatitis A? ¿Dónde?
 - ¿Cuántas personas habitan en la comunidad o área afectada? ¿Cuántos niños menores de 5 años habitan en el área?
 - ¿Quiénes son y dónde están las personas vulnerables?
@@ -55,13 +57,15 @@ lang: sp
 - ¿Qué tan común es la lactancia materna?
 - ¿Dónde obtienen las personas su agua potable? ¿Es segura la fuente? ¿La gente trata su agua?
 - ¿Qué instalaciones sanitarias (incluidas las letrinas comunitarias) están disponibles? ¿La gente las usa?
-- ¿Qué instalaciones de lavado de manos están disponibles? ¿Tienen jabón? § ¿Dónde están las instalaciones y servicios de salud locales? (Incluir cuidadores tradicionales y comunitarios.)
+- ¿Qué instalaciones de lavado de manos están disponibles? ¿Tienen jabón? 
+- ¿Dónde están las instalaciones y servicios de salud locales? (Incluir cuidadores tradicionales y comunitarios.)
 - ¿Cuáles son los hábitos, prácticas y creencias de la comunidad sobre el cuidado y la alimentación de los enfermos? ¿Las mujeres continúan amamantando a los bebés e infantes cuando están enfermos?
 - ¿Se ha planeado o implementado un programa de vacunación?
 - ¿Existe un programa de movilización social o de promoción de la salud?
 - ¿Cuáles son los hábitos, prácticas y creencias de la comunidad sobre higiene, saneamiento y agua?
 - ¿Qué fuentes o canales de información utilizan más las personas?
-- ¿Hay rumores o información errónea propagándose sobre la hepatitis A en la comunidad? § ¿Pueden las personas identificar los signos y síntomas de deshidratación?
+- ¿Hay rumores o información errónea propagándose sobre la hepatitis A en la comunidad? 
+- ¿Pueden las personas identificar los signos y síntomas de deshidratación?
 - ¿Las personas saben cómo hacer una solución de rehidratación oral (SRO)?
 - ¿Cuentan con recursos a mano para hacerlo?
 - ¿Las personas saben cómo tratar el agua?
