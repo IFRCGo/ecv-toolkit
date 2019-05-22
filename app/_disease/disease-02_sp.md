@@ -4,7 +4,7 @@
 layout: card
 identifier: 2
 action: [1,2,3,4,5,7,8,9,10,11,13,14,15,16,17,18,19,21,25,29,30,31,32,33,34,39,43]
-title: DISEASE
+title: Cólera
 lang: sp
 ---
 
