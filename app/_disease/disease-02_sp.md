@@ -55,6 +55,7 @@ lang: sp
 
 ### Evaluación basada en la comunidad
 
+Haga un mapa de la comunidad y marque la información que reúna en el mapa. Registre otros detalles.
 - ¿Cuándo empezaron a enfermarse las personas con cólera o diarrea acuosa aguda?
 - ¿Cuántas personas han enfermado con cólera o diarrea acuosa aguda? ¿Dónde?
 - ¿Cuántas personas han muerto de cólera o diarrea acuosa aguda? ¿Dónde?
