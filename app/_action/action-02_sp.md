@@ -4,7 +4,7 @@
 layout: card
 identifier: 2
 message: []
-title: ACTION
+title: Mapeo comunitario
 lang: sp
 ---
 
