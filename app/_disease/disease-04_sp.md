@@ -48,6 +48,7 @@ lang: sp
 
 ### Evaluación basada en la comunidad
 
+Haga un mapa de la comunidad y marque la información que reúna en el mapa. Registre otros detalles.
 - ¿Cuándo empezaron a enfermarse las personas con hepatitis E? 
 - ¿Cuántas personas han enfermado con hepatitis E? ¿Dónde? ¿Cuántas personas han muerto de hepatitis E? ¿Dónde?
 - ¿Cuántas personas habitan en la comunidad o área afectada? ¿Cuántos niños menores de 5 años habitan en el área? ¿Cuántas mujeres embarazadas habitan en el área?
