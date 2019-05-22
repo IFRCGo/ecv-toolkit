@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 3
-message: [#,#]
+message: []
 title: Comunicándose con la comunidad
 lang: sp
 ---
