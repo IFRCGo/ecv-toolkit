@@ -4,7 +4,7 @@
 layout: card
 identifier: 4
 message: [24]
-title: ACTION
+title: Referir a centros de salud
 lang: sp
 ---
 
