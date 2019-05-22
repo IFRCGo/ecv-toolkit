@@ -53,6 +53,7 @@ lang: sp
 
 ### Evaluación basada en la comunidad
 
+Haga un mapa de la comunidad y marque la información que reúna en el mapa. Registre otros detalles.
 - ¿Cuándo empezaron a enfermarse las personas con diarrea?
 - ¿Cuántas personas han enfermado de diarrea? ¿Dónde?
 - ¿Cuántas personas han muerto de diarrea? ¿Dónde?
