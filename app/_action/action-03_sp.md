@@ -10,7 +10,7 @@ lang: sp
 
 ### Resumen
 
-- Duranteunbrotedeenfermedadesvitalasegurarquelascomunicacionescon la comunidad sean confiables y claras.
+- Durante un brotede enfermedad es vital asegurar que las comunicaciones con la comunidad sean confiables y claras.
 - Proporcionar información a la comunidad es solo el primer paso. Lo que es crítico es persuadir a las personas para que adopten prácticas más seguras y menos riesgosas que impidan la propagación de la enfermedad. Cambiar de comportamiento puede significar aceptar vacunas, lavarse las manos con jabón, usar repelente de mosquitos o aceptar estar aislado de otros para evitar contagiarlos.
 - Comunicarse durante una epidemia puede ser difícil porque, si la gente de la comunidad siente pánico o no confía en las autoridades o el sistema de salud, es posible que no escuchen o crean la información que reciben de ellos. Algunas comunidades tienen fuertes creencias en la medicina tradicional o no aceptan ciertos tratamientos (incluyendo los medicamentos y vacunas) o prefieren otras formas para prevenir enfermedades. Los brotes de enfermedades pueden causar miedo profundo. Las personas también pueden estar de duelo por aquellos que están enfermos o han muerto.
 - La comunicación bidireccional es, por lo tanto, crucial en una epidemia. Ponga a los miembros de la comunidad en el centro y trabaje junto con ellos para elegir las soluciones adecuadas que sean eficaces para detener la propagación de la enfermedad.
