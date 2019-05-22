@@ -75,3 +75,7 @@ lang: sp
 - ¿Las personas saben cómo hacer una solución de rehidratación oral (SRO)?
 - ¿Cuentan con recursos a mano para hacerlo?
 - ¿Las personas saben cómo tratar el agua?
+
+
+![dt-01_sp]({% render_depth %}assets/img/graphics/dt-01_sp.png){:class="my-img-class"}
+### Fomente la lactancia materna exclusiva durante los primeros 6 meses de vida, incluso cuando el niño está enfermo. Un niño deshidratado ojos hundidos, boca seca, letárgico/débil, la piel pellizcada regresa lentamente, y pocaoningunaorina.
