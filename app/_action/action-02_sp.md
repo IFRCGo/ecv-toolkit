@@ -25,5 +25,6 @@ lang: sp
 - Use el mapa para marcar nuevos casos y / o casos referidos. Forme equipos para cubrir ciertas áreas del mapa. Cada equipo debe averiguar lo que pueda sobre su área (cuántas personas están enfermas, quiénes son vulnerables, cuántos han sido remitidos a las autoridades sanitarias, cualquier otra información relevante). Cuando combine los mapas de diferentes equipos, usted será capaz de ver qué áreas de la epidemia está cubriendo, qué áreas puede que no esté cubriendo y los detalles de cada área. Esto le ayudará a planificar sus acciones.
 - Los mapas son a menudo más fáciles de entender que las palabras.
 
-Haciendo un mapa de la comunidad
+
 ![at-02]({% render_depth %}assets/img/graphics/at-02.png){:class="my-img-class"}
+Haciendo un mapa de la comunidad
