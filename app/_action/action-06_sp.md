@@ -3,7 +3,7 @@
 # ====== #
 layout: card
 identifier: 6
-message: [#,#]
+message: []
 title: Uso de equipos de protección personal (EPP) para enfermedades altamente infecciosas
 lang: sp
 ---
