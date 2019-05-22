@@ -20,6 +20,6 @@ lang: sp
 ### Pasos para quitarse la ropa de protección
 ![at-06b_sp]({% render_depth %}assets/img/graphics/at-06b_sp.png){:class="my-img-class"}
 
-** Nota:** el lavado de manos (manos enguantadas) debe realizarse antes de comenzar a quitarse la ropa protectora, entre los pasos a seguir y al final para las manos sin guantes.
+Nota: el lavado de manos (manos enguantadas) debe realizarse antes de comenzar a quitarse la ropa protectora, entre los pasos a seguir y al final para las manos sin guantes.
 
-** Nota:** Se utilizan diferentes tipos de EPP en diferentes contextos afectando los procedimientos operativos. Siempre asegúrese de haber recibido la capacitación adecuada para utilizar el tipo de EPP disponible en su contexto.
+Nota: Se utilizan diferentes tipos de EPP en diferentes contextos afectando los procedimientos operativos. Siempre asegúrese de haber recibido la capacitación adecuada para utilizar el tipo de EPP disponible en su contexto.
