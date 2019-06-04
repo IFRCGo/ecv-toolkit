@@ -43,7 +43,7 @@ lang: en
 
 |Colour | Nutritional status | MUAC (cm) | MUAC (mm) | Action |
 |---|---|---:|---:|---|
-|Red | Severe | <11.5cm | <115 mm | Refer to the nearest health facility that provides therapeutic feeding. |
+|Red | Severe | <1.5cm | <115 mm | Refer to the nearest health facility that provides therapeutic feeding. |
 |Yellow | Moderate | 11.5-12.4 cm | 115-124 mm | Refer to the nearest health or nutrition centre that provides supplementary feeding (if available). |
 |Green | Healthy | >12.5 cm | >125 mm | Encourage the carer to continue with healthy hygienic care and feeding practices, and to return if the child becomes sick or weaker. |
 
