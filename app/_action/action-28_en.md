@@ -12,13 +12,13 @@ lang: en
 
 - Social distancing is an effective way to prevent contagious diseases from spreading. 
 - For example, it is likely that little can be done to treat patients in the first phase of an influenza pandemic, because there will not be sufficient medicines and a vaccine will not be available. The most important thing to do will be to **prevent influenza from spreading**.
-- Other diseases for which social distancing is important include Ebola, Marburg fever, Lassa fever, measles and other respiratory infections, plague, MERS, and monkeypox. 
+- Other diseases for which social distancing is important include Ebola<a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Marburg fever<a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Lassa fever<a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, measles<a class="crosslink" href="{% render_depth %}{% render_link disease|8 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and other respiratory infections, plague<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, MERS<a class="crosslink" href="{% render_depth %}{% render_link disease|24 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and monkeypox<a class="crosslink" href="{% render_depth %}{% render_link disease|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>. 
 
 ### What you need to know
 
 - **Social distancing is the practice of keeping people at a safe distance form each other during outbreaks of highly contagious diseases**.
 - Social distancing is one of the best ways to prevent very contagious disease from spreading.
-- To prevent transmission when germs are being spread by droplets from coughing or sneezing, the sick person can follow coughing etiquette (see Action Tool 26) and healthy people can keep at a safe distance from sick people and from one another.
+- To prevent transmission when germs are being spread by droplets from coughing or sneezing, the sick person can follow coughing etiquette (see Action Tool 26<a class="crosslink" href="{% render_depth %}{% render_link action|26 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) and healthy people can keep at a safe distance from sick people and from one another.
 - Someone who is closer than one metre to a person who is sick (with influenza, for example) may become sick from inhaling droplets they expel when they sneeze or cough. 
 - Social distancing is also about minimizing physical contact with other people. When people touch less, they are less likely to pass germs to each other. Avoid shaking hands, hugging, or kissing on the cheek. 
 
