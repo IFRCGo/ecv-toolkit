@@ -21,8 +21,7 @@ lang: sp
 - Cuidar a alguien que está enfermo.
 - Amamantar
 
-**Lave sus manos DESPUÉS de:
-**
+**Lave sus manos DESPUÉS de:**
 - Usar el baño.
 - Lavar o cambiar un bebé o un infante.
 - Toser o estornudar.
