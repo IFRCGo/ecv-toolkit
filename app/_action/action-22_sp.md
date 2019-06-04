@@ -17,7 +17,7 @@ lang: sp
 
 ### ¿Cómo dar suplementos de vitamina A?
 
--La vitamina A se puede administrar a los niños en forma líquida o en cápsulas.
+- La vitamina A se puede administrar a los niños en forma líquida o en cápsulas.
 - Durante una campaña de vacunación contra el sarampión en masa, se deben administrar suplementos de vitamina  ̈A ̈ a TODOS LOS NIÑOS ENTRE LOS 6 MESES Y LOS 5 AÑOS.
 
 ### Lo que puede hacer
