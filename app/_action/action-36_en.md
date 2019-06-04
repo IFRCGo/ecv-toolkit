@@ -3,7 +3,6 @@
 # ====== #
 layout: card
 identifier: 36
-action: [32,33,39]
 message: [4,6,7,11,12,17,20,27]
 title: Vector control
 lang: en
@@ -29,7 +28,7 @@ Keep the community clean and always ask for professionals to spray against vecto
 
 ### Main mosquito-borne diseases and control methods
 
-| Disease | Vector | vector biting time | Vector/reservoir breeding site | Primary community prevention method | Secondary community prevention method |
+| Disease | Vector | Vector biting time | Vector/reservoir breeding site | Primary community prevention method | Secondary community prevention method |
 |---|---|---|---|---|---|
 |**Malaria** | Anopheles mosquito | Most species bite at night (with notable exceptions). | Unpolluted water. | Long-lasting insecticide-treated nets; indoor residual spraying; intermittent preventive treatment. | Insecticide treated materials; space spraying; larviciding.|
 |**Dengue** | Aedes mosquito | Morning. Afternoon. | Containers, small pools, unpolluted water. | Environmental management; vaccination. | Larviciding. |
