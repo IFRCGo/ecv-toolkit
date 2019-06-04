@@ -18,6 +18,8 @@ lang: sp
 - En tales casos, una persona (que debe estar protegida adecuadamente) cuida al paciente para reducir las posibilidades de infección. Esto se llama "enfermería con barrera de protección".
 - Esta persona proporciona cuidados, comida y agua, y se comunica con el paciente.
 
+![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"} Hable con la comunidad y los mayores para prevenir el estigma y el rechazo social.
+
 ### Lo que puede hacer
 - Si se decide que el aislamiento y la enfermería con barrera de protección son necesarios, usted continuará la vigilancia activa como voluntario, en busca de casos de la enfermedad (consulte la herramienta de acción 1).
 - Cuando se detectan casos, se debe explicar la necesidad de aislamiento a los enfermos y a sus familias. Esto no se hace por la fuerza y los deseos de la familia deben ser respetados. Si explica que el aislamiento protege a otros, incluyendo los miembros de la familia del paciente, puede ser más fácil para el paciente y su familia entender por qué se propone el aislamiento.
@@ -26,4 +28,4 @@ lang: sp
 - Intente evitar que el aislamiento cause estigma o rechazo social a los pacientes y sus familias. Explique a la comunidad por qué es necesario el aislamiento. Busque la ayuda de los mayores y de los líderes comunitarios para luchar contra el estigma.
 - Asegúrese de que las personas en aislamiento tengan alimentos, agua y atención médica adecuados, así como ayuda para hacer frente a cualquier pérdida de medios de subsistencia.
 
-![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"} Hable con la comunidad y los mayores para prevenir el estigma y el rechazo social.
+
