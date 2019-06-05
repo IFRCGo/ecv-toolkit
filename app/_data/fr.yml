@@ -5,9 +5,9 @@
 title: "Contrôle Épidémique pour les Volontaires"
 
 share:
-  description:    "This toolkit is designed to help volunteers define their role in the community before, during, and after an epidemic and to take the actions that are best suited to that particular epidemic."
+  description:    "Ce manuel et cette boîte à outils sont conçus pour aider les volontaires à définir leur rôle dans la communauté avant, pendant et après une épidémie et à prendre les mesures les mieux adaptées à cette épidémie particulière."
   fblink:         "http://ifrcgo.org/ecv-toolkit/fr"
-  share:          "Share this page on"
+  share:          "Partager cette page sur"
   tweet:          "Epidemic Control for Volunteers Toolkit: http://ifrcgo.org/ecv-toolkit/ via @Federation"
   ogimg:          "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/og-img_en.jpg"
   twitterimg:     "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/twitter-img_en.jpg"
@@ -28,10 +28,10 @@ collections:
   message:
     text-top:     "Messages"
     text-bottom:  "Communautaires"
-    text-nav:     "Message"
-    url:  "/fr/message/"
+    text-nav:     "Messages"
+    url:  "/fr/messages/"
 common:
-  download-pdf:   "Download PDF"
+  download-pdf:   "Télécharger le PDF"
 
 #####################
 ## LANDING CONTENT ##

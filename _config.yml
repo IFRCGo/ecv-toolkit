@@ -11,10 +11,11 @@ exclude:
 google_analytics: UA-123168500-1
 
 default_locale:     "en"
-authorized_locales: ["en", "fr"]
+authorized_locales: ["en", "fr", "es"]
 locale_names:
   en: "English"
   fr: "Français"
+  es: "Español"
 
 collections:
   disease:

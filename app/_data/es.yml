@@ -1,0 +1,94 @@
+############
+## COMMON ##
+############
+
+title: "Control de Epidemias para Voluntarios"
+
+share:
+  description:    "Este conjunto de herramientas está diseñado para ayudar a los voluntarios a definir su papel en la comunidad antes, durante y deués de una epidemia y a tomar las medidas que mejor se adapten a esa epidemia en particular."
+  fblink:         "http://ifrcgo.org/ecv-toolkit/es"
+  share:          "Compartir esta página en"
+  tweet:          "Caja de Herramientas de control de epidemias para voluntarios: http://ifrcgo.org/ecv-toolkit/ via @Federation"
+  ogimg:          "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/og-img_en.jpg"
+  twitterimg:     "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/twitter-img_en.jpg"
+
+home: "/"
+collections:
+  # `text-nav` is also used in `_plugins/custom-permalink.rb` and in naming exported pdf files
+  disease:
+    text-top:     "Entender"
+    text-bottom:  "Enfermedades"
+    text-nav:     "Enfermedades"
+    url:  "es/enfermedades/"
+  action:
+    text-top:     "Voluntarios"
+    text-bottom:  "Acción"
+    text-nav:     "Acción"
+    url:  "es/accion/"
+  message:
+    text-top:     "Mensajes"
+    text-bottom:  "Comunitarios"
+    text-nav:     "Mensajes"
+    url:  "es/mensajes/"
+common:
+  download-pdf:   "Descargar PDF"
+
+#####################
+## LANDING CONTENT ##
+#####################
+
+banner:
+  title-1:        "Control de Epidemias"
+  title-2:        "para Voluntarios"
+  description:    "Este conjunto de herramientas está diseñado para ayudar a los voluntarios a definir su papel en la comunidad antes, durante y deués de una epidemia y a tomar las medidas que mejor se adapten a esa epidemia en particular."
+  download:       "Descargue todo el kit de herramientas en formato PDF en una carpeta zip."
+
+##################
+## DISEASE LIST ##
+##################
+
+diseases:
+  title:  "Herramientas para enfermedades"
+
+#################
+## ACTION LIST ##
+#################
+
+actions:
+  title:  "Herramientas de acción"
+
+##################
+## MESSAGE LIST ##
+##################
+
+messages:
+  title:  "Herramientas para mensajes comunitarios"
+
+##################
+## DISEASE CARD ##
+##################
+disease:
+  title: "Herramientas para enfermedades"
+  linking:
+    title:  "Herramientas de acción"
+    note:   "Vea las siguientes herramientas de acción para obtener más información sobre las acciones a tomar en contra de"
+
+
+#################
+## ACTION CARD ##
+#################
+action:
+  title:  "Herramientas de acción"
+  linking:
+    title:  "Herramientas para mensajes comunitarios"
+    note:   "Vea los siguientes mensajes de la comunidad para apoyar"
+
+
+##################
+## MESSAGE CARD ##
+##################
+message:
+  title:  "Herramientas para mensajes comunitarios"
+  linking:
+    title:  ""
+    note:   ""
