@@ -19,17 +19,17 @@ collections:
     text-top:     "Entender"
     text-bottom:  "Enfermedades"
     text-nav:     "Enfermedades"
-    url:  "es/enfermedades/"
+    url:  "/es/enfermedades/"
   action:
     text-top:     "Voluntarios"
     text-bottom:  "Acción"
     text-nav:     "Acción"
-    url:  "es/accion/"
+    url:  "/es/accion/"
   message:
     text-top:     "Mensajes"
     text-bottom:  "Comunitarios"
     text-nav:     "Mensajes"
-    url:  "es/mensajes/"
+    url:  "/es/mensajes/"
 common:
   download-pdf:   "Descargar PDF"
 
