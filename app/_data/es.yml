@@ -8,11 +8,11 @@ share:
   description:    "Este conjunto de herramientas está diseñado para ayudar a los voluntarios a definir su papel en la comunidad antes, durante y deués de una epidemia y a tomar las medidas que mejor se adapten a esa epidemia en particular."
   fblink:         "http://ifrcgo.org/ecv-toolkit/es"
   share:          "Compartir esta página en"
-  tweet:          "Caja de Herramientas de control de epidemias para voluntarios: http://ifrcgo.org/ecv-toolkit/ via @Federation"
+  tweet:          "Caja de Herramientas de control de epidemias para voluntarios: http://ifrcgo.org/ecv-toolkit/es via @Federation"
   ogimg:          "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/og-img_en.jpg"
   twitterimg:     "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/twitter-img_en.jpg"
 
-home: "/"
+home: "/es/"
 collections:
   # `text-nav` is also used in `_plugins/custom-permalink.rb` and in naming exported pdf files
   disease:
