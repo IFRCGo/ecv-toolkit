@@ -22,7 +22,7 @@ lang: es
 - Una persona que este más cerca de un metro de una persona enferma (por ejemplo, con influenza) puede enfermarse al inhalar las gotitas que expulsan cuando estornudan o tosen.
 - El distanciamiento social también consiste en minimizar el contacto físico con otras personas. Cuando las personas se tocan menos, es menos probable que se transmitan gérmenes entre sí. Evite dar la mano, abrazarse o besarse en la mejilla.
 
-![at-28_sp]({% render_depth %}assets/img/graphics/at-28_sp.png){:class="my-img-class"}
+![at-28_es]({% render_depth %}assets/img/graphics/at-28_es.png){:class="my-img-class"}
 
 ### Consejos para protegerse de las enfermedades que se contagian al toser o al estornudar
 - En una epidemia o pandemia de una enfermedad que puede transmitirse por el aire, siempre protéjase utilizando el equipo adecuado. Use una máscara y guantes (vea las herramientas de acción 5<a class="crosslink" href="{% render_depth %}{% render_link action|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y 6<a class="crosslink" href="{% render_depth %}{% render_link action|6 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).

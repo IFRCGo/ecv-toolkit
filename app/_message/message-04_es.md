@@ -1,4 +1,5 @@
 ---
+
 # MESSAGE #
 # ======= #
 layout: card
@@ -8,4 +9,4 @@ title: Almacenar el agua adecuadamente
 lang: es
 ---
 
-![cmt-04_sp]({% render_depth %}assets/img/graphics/cmt-04_sp.png){:class="my-img-class"}
+![cmt-04_es]({% render_depth %}assets/img/graphics/cmt-04_es.png){:class="my-img-class"}

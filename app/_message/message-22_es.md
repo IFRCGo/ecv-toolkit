@@ -8,4 +8,4 @@ title: Buena ventilación
 lang: es
 ---
 
-![cmt-22_sp]({% render_depth %}assets/img/graphics/cmt-22_sp.png){:class="my-img-class"}
+![cmt-22_es]({% render_depth %}assets/img/graphics/cmt-22_es.png){:class="my-img-class"}

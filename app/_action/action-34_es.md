@@ -17,7 +17,7 @@ lang: es
 ### ¿Cuándo lavarse las manos?
 **Lave sus manos ANTES de:**
 - Preparar o ingerir alimentos.
-- Tratar una herida (suya o de otra persona). 
+- Tratar una herida (suya o de otra persona).
 - Cuidar a alguien que está enfermo.
 - Amamantar
 
@@ -38,4 +38,4 @@ lang: es
 - Enjuague bien las manos para que estén libres de jabón o cenizas.
 - Seque las manos con una toalla de papel. Si no hay una toalla, agítelas en el aire hasta que estén secas.
 
-![at-34_sp]({% render_depth %}assets/img/graphics/at-34_sp.png){:class="my-img-class"}
+![at-34_es]({% render_depth %}assets/img/graphics/at-34_es.png){:class="my-img-class"}

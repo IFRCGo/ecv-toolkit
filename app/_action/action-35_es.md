@@ -18,7 +18,7 @@ lang: es
 - En tales casos se necesita un lavado de manos muy vigoroso y completo.
 - Cuando se trabaja en tales epidemias, es fundamental utilizar todas las formas de protección disponibles. (Consulte las herramientas de acción 5<a class="crosslink" href="{% render_depth %}{% render_link action|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y 6<a class="crosslink" href="{% render_depth %}{% render_link action|6 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> sobre la protección de voluntarios y el uso de equipos de protección personal).
 - Cuando se lava las manos durante una epidemia, para eliminar todos los gérmenes de las manos, necesita:
-    - Usar jabón o un desinfectante a base de alcohol. 
+    - Usar jabón o un desinfectante a base de alcohol.
     - Lavarse las manos como de costumbre.
     - Luego lavarse bien entre los dedos.
     - Frotar las puntas de los dedos de las dos manos juntas.
@@ -27,4 +27,4 @@ lang: es
     - (Vea las instrucciones en el otro lado de esta tarjeta.)
 - Durante una epidemia (de una enfermedad altamente infecciosa, u otra enfermedad como diarrea o cólera, o una infección respiratoria), es una buena idea usar este método de lavado de manos cada vez que haya tocado algo que pueda transmitir una infección.
 
-![at-35_sp]({% render_depth %}assets/img/graphics/at-35_sp.png){:class="my-img-class"}
+![at-35_es]({% render_depth %}assets/img/graphics/at-35_es.png){:class="my-img-class"}

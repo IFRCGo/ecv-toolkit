@@ -17,7 +17,7 @@ lang: es
 - Demuestre cómo preparar y administrar la SRO.
 - El cuidador debe dar la cantidad de SRO indicada en la tabla abajo.
 
-| Edad | Cantidad de SRO luego de cada deposición suelta | Paquetes de SRO requeridos | 
+| Edad | Cantidad de SRO luego de cada deposición suelta | Paquetes de SRO requeridos |
 |---|---|---|
 | Menos de 24 horas | 50-100 ml (1⁄4 – 1⁄2 taza) | 1 paquete/día |
 | 2-9 años | 100–200 ml (1⁄2 – 1 taza) | 1 paquete/día |
@@ -42,4 +42,4 @@ Es importante enseñar a las madres y cuidadores a administrar correctamente la
 5. Dé al niño tanta cantidad de agua como pueda beber.
 6. Continúe evaluando la deshidratación y refiera al niño a una clínica si él o ella empeora o no mejora después de unas horas.
 
-![at-10_sp]({% render_depth %}assets/img/graphics/at-10_sp.png){:class="my-img-class"}
+![at-10_es]({% render_depth %}assets/img/graphics/at-10_es.png){:class="my-img-class"}

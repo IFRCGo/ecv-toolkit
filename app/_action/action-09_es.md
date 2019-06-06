@@ -42,7 +42,7 @@ lang: es
 7. Si aún se necesita SRO después de 24 horas, mezcle una solución nueva.
 8. Si el paciente no mejora o presenta signos de deshidratación severa, lleva al paciente a una clínica de salud.
 
-![at-09_sp]({% render_depth %}assets/img/graphics/at-09_sp.png){:class="my-img-class"}
+![at-09_es]({% render_depth %}assets/img/graphics/at-09_es.png){:class="my-img-class"}
 
 - Los remedios tradicionales son una SRO efectiva y pueden evitar que un niño pierda demasiado líquido debido a la diarrea. Informe a las madres sobre los remedios tradicionales si los paquetes de SRO no están disponibles.
 - Los remedios tradicionales incluyen: leche materna, papilla (cereales cocidos diluidos con agua), sopa de zanahoria y agua de arroz.

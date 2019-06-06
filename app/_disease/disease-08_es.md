@@ -54,7 +54,7 @@ El sarampión es un virus muy contagioso que puede enfermar gravemente a los ni
 - Aumente la movilización social y la comunicación para el cambio de comportamiento.
 - Vigile la malnutrición.
 
-![dt-08_sp]({% render_depth %}assets/img/graphics/dt-08_sp.png){:class="my-img-class"}
+![dt-08_es]({% render_depth %}assets/img/graphics/dt-08_es.png){:class="my-img-class"}
 
 ### Evaluación basada en la comunidad
 
@@ -75,4 +75,3 @@ Haga un mapa de la comunidad y marque la información que reúna en el mapa. R
 - ¿Existe un programa implementado de movilización social o de promoción de la salud?
 - ¿Qué fuentes o canales de información utilizan más las personas?
 - ¿Hay rumores o información errónea propagándose sobre la enfermedad en la comunidad?
-

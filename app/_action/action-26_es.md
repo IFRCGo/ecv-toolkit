@@ -23,7 +23,7 @@ lang: es
 - Mucha gente tose en sus manos para detener la propagación de gérmenes. Esta NO es una buena práctica porque, después, aún puede transmitir gérmenes al tocar cosas o estrechar la mano de otras personas. **NO TOSA EN SU MANO.**
 - La forma correcta de toser sin transmitir gérmenes es usar un pañuelo o su manga. Cuando tose en cualquiera de estos, es menos probable que propague gérmenes. **TOSA EN UN PAÑUELO O EN SU MANGA.**
 
-![at-026_sp]({% render_depth %}assets/img/graphics/at-26_sp.png){:class="my-img-class"}
+![at-026_es]({% render_depth %}assets/img/graphics/at-26_es.png){:class="my-img-class"}
 
 ### Lo que puede hacer
 - Explique la etiqueta de tos a las personas en su comunidad.

@@ -8,4 +8,4 @@ title: Recolectando y eliminando la basura
 lang: es
 ---
 
-![cmt-20_sp]({% render_depth %}assets/img/graphics/cmt-20_sp.png){:class="my-img-class"}
+![cmt-20_es]({% render_depth %}assets/img/graphics/cmt-20_es.png){:class="my-img-class"}

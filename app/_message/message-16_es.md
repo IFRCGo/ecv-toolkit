@@ -8,4 +8,4 @@ title: Asistiendo a campañas de vacunación
 lang: es
 ---
 
-![cmt-16_sp]({% render_depth %}assets/img/graphics/cmt-16_sp.png){:class="my-img-class"}
+![cmt-16_es]({% render_depth %}assets/img/graphics/cmt-16_es.png){:class="my-img-class"}

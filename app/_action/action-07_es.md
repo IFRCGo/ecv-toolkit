@@ -24,4 +24,4 @@ lang: es
 
 ### Después de la evaluación, y de acuerdo con el grado de deshidratación, se deben tomar las siguientes acciones:
 
-![at-07_sp]({% render_depth %}assets/img/graphics/at-07_sp.png){:class="my-img-class"}
+![at-07_es]({% render_depth %}assets/img/graphics/at-07_es.png){:class="my-img-class"}

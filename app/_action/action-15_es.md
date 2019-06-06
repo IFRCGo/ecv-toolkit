@@ -40,12 +40,12 @@ Los niños que sufren de malnutrición aguda pueden identificarse de dos maner
 ### Refiriendo a niños con malnutrición aguda.
 
 - Localice los servicios más cercanos que manejan la malnutrición en su comunidad. Por lo general, son administrados por el gobierno o una ONG fuera de los centros de salud, hospitales o unidades móviles.
-- Verifique qué tipo de servicios brindan y cómo pueden referirse las familias. Los servicios pueden incluir: 
+- Verifique qué tipo de servicios brindan y cómo pueden referirse las familias. Los servicios pueden incluir:
     - Alimentación terapéutica para la malnutrición severa (MUAC rojo, edema).
     - Alimentación suplementaria para la malnutrición moderada (MUAC amarillo).
 - Remita a cualquier niño con edema o un MUAC rojo / amarillo al centro de salud o nutrición más cercano. Algunos programas proporcionan documentos de referencia para las familias.
 
-![at-15_sp]({% render_depth %}assets/img/graphics/at-15_sp.png){:class="my-img-class"}
+![at-15_es]({% render_depth %}assets/img/graphics/at-15_es.png){:class="my-img-class"}
 
 ### Lo que puede hacer
 

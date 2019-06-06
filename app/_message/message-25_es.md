@@ -8,4 +8,4 @@ title: Manejo y matanza de animales
 lang: es
 ---
 
-![cmt-25_sp]({% render_depth %}assets/img/graphics/cmt-25_sp.png){:class="my-img-class"}
+![cmt-25_es]({% render_depth %}assets/img/graphics/cmt-25_es.png){:class="my-img-class"}

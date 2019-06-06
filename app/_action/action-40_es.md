@@ -24,4 +24,4 @@ lang: es
 - Use ropa protectora, en particular guantes, cuando maneje ropa contaminada u otros artículos que pertenezcan a una persona fallecida. Coloque los artículos con cuidado en el incinerador y déjelos quemar hasta que se conviertan en cenizas, destruyendo todos los gérmenes.
 - Dígales a las personas en la comunidad lo que está haciendo para que sepan que deben mantenerse alejados y seguros.
 
-![at-40_sp]({% render_depth %}assets/img/graphics/at-40_sp.png){:class="my-img-class"}
+![at-40_es]({% render_depth %}assets/img/graphics/at-40_es.png){:class="my-img-class"}

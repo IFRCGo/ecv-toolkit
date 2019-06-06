@@ -8,4 +8,4 @@ title: Encontrando personas enfermas
 lang: es
 ---
 
-![cmt-24_sp]({% render_depth %}assets/img/graphics/cmt-24_sp.png){:class="my-img-class"}
+![cmt-24_es]({% render_depth %}assets/img/graphics/cmt-24_es.png){:class="my-img-class"}
