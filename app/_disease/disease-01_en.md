@@ -10,9 +10,9 @@ lang: en
 
 ### Transmission
 
-- Contaminated food. 
-- Unwashed hands. 
-- Water contaminated with human waste (stools).
+- Contaminated food
+- Unwashed hands
+- Water contaminated with human waste (stools)
 
 ### Symptoms
 
@@ -32,7 +32,7 @@ lang: en
 
 ### Vulnerable people
 
-- Children under 5, malnourished children. 
+- Children under five, malnourished children. 
 - People living with HIV. 
 - Pregnant women. 
 - People living in areas that have poor water, sanitation and hygiene facilities and services. 
