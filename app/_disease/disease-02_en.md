@@ -10,15 +10,15 @@ lang: en
 
 ### Transmission
 
-- Contaminated water. 
-- Contaminated food or drink. 
-- Dirty hands. 
-- Vomit and stools of sick people.
+- Contaminated water
+- Contaminated food or drink
+- Dirty hands
+- Vomit and stools of sick people
 
 ### Symptoms
 
 - Around one in ten people with cholera will be very sick. Most people with cholera only have mild symptoms or are not sick at all but can still transmit the disease. 
-- People who have severe cholera will pass large amounts of watery diarrhoea (3 or more loose stools per day, watery like rice water), vomit, and have cramps. They quickly lose a lot of body fluids and they can become dehydrated and go into shock. Without treatment, death can occur within hours. 
+- People who have severe cholera will pass large amounts of watery diarrhoea (three or more loose stools per day, watery like rice water), vomit, and have cramps. They quickly lose a lot of body fluids and they can become dehydrated and go into shock. Without treatment, death can occur within hours. 
 - Children with severe cholera may be drowsy or confused, have seizures or become unconscious.
 
 ### Prevention
@@ -34,7 +34,7 @@ lang: en
 ### Vulnerable people
 
 - Malnourished children. 
-- Children under 5. 
+- Children under five. 
 - Individuals with chronic medical conditions. 
 - Pregnant women. 
 - People who do not have easy access to rehydration therapy and health services. 
@@ -59,7 +59,7 @@ Make a map of the community and mark the information you gather on the map. Reco
 - When did people start to fall sick with cholera or acute watery diarrhoea? 
 - How many people have fallen sick with cholera or acute watery diarrhoea? Where? 
 - How many people have died from cholera or acute watery diarrhoea? Where? 
-- How many people live in the affected community or area? How many children under 5 years of age live in the area? 
+- How many people live in the affected community or area? How many children under five years of age live in the area? 
 - Who and where are the vulnerable people? 
 - Are children in the affected community generally well nourished? 
 - Do people always have enough food? 
@@ -68,7 +68,7 @@ Make a map of the community and mark the information you gather on the map. Reco
 -	What sanitation facilities (including communal latrines) are available? Do people use them? 
 -	What hand-washing facilities are available (at households, in markets, etc.)? Do they have soap?
 - Where are the local health facilities and services? (Include traditional and community carers.) 
-- What are the community’s habits, practices and beliefs about caring for and feeding sick people? Do women continue to breastfeed babies and infants when they are sick? 
+- What are the community’s habits, practices and beliefs about caring for and feeding sick people? When babies and infants are sick, do women continue to breastfeed them?
 - Is a social mobilization or health promotion programme in place? 
 - What are the community’s habits, practices and beliefs about hygiene, sanitation and water?
 - Which sources or channels of information do people use most? 
