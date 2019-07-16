@@ -10,22 +10,22 @@ lang: en
 
 ### Transmission
 
-- Touching the mouth with hands or objects (for example, toys) that are contaminated by the faeces of a person infected with polio. 
-- Drinking water or food contaminated by the faeces of a person infected with polio. 
+- Touching the mouth with hands or objects (for example, toys) that are contaminated by the stools of a person infected with polio
+- Drinking water or food contaminated by the stools of a person infected with polio
 
 ### Symptoms
 
-- Starts with fever, tiredness, headache, vomiting, stiffness of the neck or back, or pain or stiffness in the arms or legs. 
-- Symptoms of ‘acute flaccid paralysis’ or AFP are: sudden loss of reflexes (movement), severe muscle aches or weakness, and loose and floppy arms and legs. 
-- About one in 200 people with polio is permanently paralysed (unable to move). 
-- Among those paralysed, up to a tenth (10%) die because the virus affects the muscles that help them breathe.
+- Starts with fever, tiredness, headache, vomiting, stiffness of the neck or back, or pain or stiffness in the arms or legs
+- Symptoms of "acute flaccid paralysis" or AFP are: sudden loss of reflexes (movement), severe muscle aches or weakness, and loose and floppy arms and legs
+- About one in 200 people with polio is permanently paralysed (unable to move)
+- Among those paralysed, up to a tenth (10 per cent) die because the virus affects the muscles that help them breathe
 
 ### Prevention
 
-- Routine vaccination. 
-- Hand washing with soap (especially after using the toilet or cleaning a child).
-- Use of appropriate sanitation facilities (sound, clean latrines with proper faecal sludge management). 
-- Social mobilization and behaviour change communication. 
+- Routine vaccination
+- Hand washing with soap (especially after using the toilet or cleaning a child)
+- Use of appropriate sanitation facilities (sound, clean latrines with proper faecal sludge management)
+- Social mobilization and behaviour change communication
 
 ### Vulnerable people
 
@@ -36,13 +36,13 @@ lang: en
 
 ### If an epidemic occurs
 
-- Promote mass vaccination campaigns. 
-- Initiate community-based surveillance. 
-- Rapidly detect and refer suspected cases to health facilities.
-- Increase social mobilization and behaviour change communication.
-- Promote handwashing with soap (especially after using the toilet, defecating, or cleaning a child).
-- Promote use of appropriate sanitation facilities (sound, clean latrines that are well maintained and have proper faecal sludge management). 
-- Promote safe, clean drinking water (including a clean, covered water container in the household).
+- Promote mass vaccination campaigns
+- Initiate community-based surveillance
+- Rapidly detect and refer suspected cases to health facilities
+- Increase social mobilization and behaviour change communication
+- Promote handwashing with soap (especially after using the toilet, defecating, or cleaning a child)
+- Promote use of appropriate sanitation facilities (sound, clean latrines that are well maintained and have proper faecal sludge management)
+- Promote safe, clean drinking water (including a clean, covered water container in the household)
 
 ### Community-based assessment - questions
 
