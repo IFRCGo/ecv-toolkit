@@ -10,11 +10,11 @@ lang: en
 
 ### Transmission
 
-- Via blood, faeces, vomit, urine, saliva/spit, sweat, tears, breastmilk or semen of a person sick with Ebola that enters the mouth, nose, eyes or a skin cut of another person. 
-- Can also be spread when handling the body of someone who has died from Ebola. 
-- Contact with objects (for example, bedding, clothes or needles) that have been contaminated with body fluids from a person who is sick or has died from Ebola. 
-- During unprotected sex with a man who has recovered from Ebola (for 12 months after he has recovered). 
-- Touching infected fruit bats or their faeces or waste, and touching or eating infected bush meat (bats, monkeys, apes) that is not well cooked.
+- Via blood, stools, vomit, urine, saliva/spit, sweat, tears, breastmilk or semen of a person sick with Ebola that enters the mouth, nose, eyes or a skin cut of another person
+- Can also be spread when handling the body of someone who has died from Ebola
+- Contact with objects (for example, bedding, clothes or needles) that have been contaminated with body fluids from a person who is sick or has died from Ebola
+- During unprotected sex with a man who has recovered from Ebola (for 12 months after he has recovered)
+- Touching infected fruit bats or their faeces or waste, and touching or eating infected bush meat (bats, monkeys, apes) that is not well cooked
 
 ### Symptoms
 
@@ -24,41 +24,41 @@ lang: en
 
 ### Prevention
 
-- Ebola is very serious but can be prevented.
-- Avoid touching sick or dead fruit bats, monkeys or apes or their faeces or waste. 
-- Do not eat bushmeat or animal products (blood and meat) unless they have been thoroughly cooked. 
-- Use personal protective equipment (gloves, masks, clothing) when taking care of sick people. 
-- Disinfect the homes and personal belongings of people who are sick or have died from Ebola. 
-- Wash hands with soap. 
-- Ensure safe and dignified burials. 
-- Promote social distancing.
-- Isolate sick people.
-- Dispose safely of waste that might be contaminated (by burning or burying it). 
-- Disinfect reusable supplies. 
-- Provide psychosocial support. 
-- Male survivors of Ebola must practise safe sex for 12 months after they recover.
+- Ebola is very serious but can be prevented
+- Avoid touching sick or dead fruit bats, monkeys or apes or their faeces or waste
+- Do not eat bushmeat or animal products (blood and meat) unless they have been thoroughly cooked
+- Use personal protective equipment (gloves, masks, clothing) when taking care of sick people
+- Disinfect the homes and personal belongings of people who are sick or have died from Ebola 
+- Wash hands with soap
+- Ensure safe and dignified burials
+- Promote social distancing
+- Isolate sick people
+- Dispose safely of waste that might be contaminated (by burning or burying it)
+- Disinfect reusable supplies
+- Provide psychosocial support 
+- Male survivors of Ebola must practise safe sex for 12 months from onset of symptoms or until their semen tests negative twice for Ebola virus
 
 ### Vulnerable people
 
-- Every person in the community is vulnerable to Ebola. 
-- Family and relatives of people who are sick (or who have died) from Ebola, health workers, volunteers, and people who handle dead bodies, are most at risk.
+- Every person in the community is vulnerable to Ebola
+- Family and relatives of people who are sick (or who have died) from Ebola, health workers, volunteers, and people who handle dead bodies, are most at risk
 
 ### If an epidemic occurs
 
-- Identify suspected Ebola cases rapidly and refer them to care and treatment centres. 
-- Provide safe transport for suspected Ebola cases. 
-- Trace contacts and follow them up. 
-- Use personal protective equipment (gloves, masks, clothing) when caring for sick people. 
-- Isolate sick people.
-- Promote social distancing.
-- Wash hands in communities and health centres with soap, chlorine solution or hand-sanitizer. 
-- Provide safe and dignified burials. 
-- Disinfect the homes and personal belongings of people who are sick or have died from Ebola. 
-- Dispose safely of waste that might be contaminated (by burning or burying). 
-- Disinfect reusable supplies. 
-- Male survivors of Ebola must practice safe sex for 12 months from the date when they became sick. 
-- Provide psychosocial support.
--	Involve the community in managing rumours and misinformation.
+- Identify suspected Ebola cases rapidly and refer them to care and treatment centres
+- Provide safe transport for suspected Ebola cases
+- Trace contacts and follow them up
+- Use personal protective equipment (gloves, masks, clothing) when caring for sick people
+- Isolate sick people
+- Promote social distancing
+- Wash hands in communities and health centres with soap, chlorine solution or hand-sanitizer
+- Provide safe and dignified burials
+- Disinfect the homes and personal belongings of people who are sick or have died from Ebola
+- Dispose safely of waste that might be contaminated (by burning or burying)
+- Disinfect reusable supplies
+- Male survivors of Ebola must practise safe sex for 12 months from onset of symptoms or until their semen tests negative twice for Ebola virus
+- Provide psychosocial support
+-	Involve the community in managing rumours and misinformation
 
 ### Community-based assessment - questions
 
