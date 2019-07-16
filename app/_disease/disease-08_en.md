@@ -12,8 +12,8 @@ Measles is a very contagious virus that can make children very sick. In a commun
 
 ### Transmission
 
-- Coughing, sneezing or close personal contact (infected droplets in the air are breathed in by another person).
-- Direct contact with infected nose or throat mucus.
+- Coughing, sneezing or close personal contact (infected droplets in the air are breathed in by another person)
+- Direct contact with infected nose or throat mucous
 
 ### Symptoms
 
@@ -23,23 +23,23 @@ Measles is a very contagious virus that can make children very sick. In a commun
 
 ### Prevention
 
-- Routine vaccination of children. 
-- Mass vaccination campaigns with social mobilization in countries where the disease is common and causes many deaths.
-- Rapid detection and referral of suspected cases to health facilities. 
-- Reduced overcrowding in shelters. 
-- Improved ventilation in shelters. 
-- Separation of people sick with measles for four days after they develop a rash. 
-- Coughing etiquette (cough into sleeve, handkerchief or tissue, NOT the hand).
-- Handwashing with soap. 
-- Social mobilization and behaviour change communication. 
+- Routine vaccination of children
+- Mass vaccination campaigns with social mobilization in countries where the disease is common and causes many deaths
+- Rapid detection and referral of suspected cases to health facilities
+- Reduced overcrowding in shelters
+- Improved ventilation in shelters 
+- Separation of people sick with measles for four days after they develop a rash
+- Coughing etiquette (cough into sleeve, handkerchief or tissue, NOT the hand)
+- Handwashing with soap
+- Social mobilization and behaviour change communication
 
 ### Vulnerable people
 
-- Children who are not vaccinated, especially those who are poorly nourished or have vitamin A deficiency. 
-- Adults aged more than 20 years old. 
-- Pregnant women. 
-- Displaced populations and those living in cramped or crowded conditions. 
-- People whose immune systems are compromised (for example, by leukaemia or HIV infection). 
+- Children who are not vaccinated, especially those who are poorly nourished or have vitamin A deficiency
+- Adults aged more than 20 years old
+- Pregnant women
+- Displaced populations and those living in cramped or crowded conditions
+- People whose immune systems are compromised (for example, by leukaemia or HIV infection)
 
 ![dt-08_en]({% render_depth %}assets/img/graphics/dt-08_en.png){:class="my-img-class"}
 
@@ -62,9 +62,9 @@ Make a map of the community and mark the information you gather on the map. Reco
 - When did people start to fall sick with measles? 
 - How many people have fallen sick with measles? Where? 
 - How many people have died? Where? 
-- How many people live in the affected community or area? How many children under 5 years of age live in the area? 
+- How many people live in the affected community or area? How many children under five years of age live in the area? 
 - Who and where are the vulnerable people? 
-- Are children under 5 most affected? Or are other age groups, occupations, etc., more affected? 
+- Are children under five most affected? Or are other age groups, occupations, etc., more affected? 
 - Are children in the affected community generally well nourished? 
 -	Do people always have enough food? 
 - How common is breastfeeding? 
@@ -72,7 +72,7 @@ Make a map of the community and mark the information you gather on the map. Reco
 - Is a vaccination campaign planned?
 - Do strong cultural beliefs or perceptions about vaccination prevent children from being vaccinated? 
 - Where are the local health facilities and services? (Include traditional and community carers.)
-- What are the community’s habits, practices and beliefs about caring for and feeding sick people? Do mothers continue to breastfeed babies and infants when they are sick?
+- What are the community’s habits, practices and beliefs about caring for and feeding sick people? When babies and infants are sick, do women continue to breastfeed them?
 - Is a social mobilization or health promotion programme in place? 
 - Which sources of information do people use most? 
 - Are rumours or is misinformation about the disease spreading in the community? 
