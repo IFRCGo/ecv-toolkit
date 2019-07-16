@@ -10,8 +10,8 @@ lang: en
 
 ### Transmission
 
-- Mosquito bite. 
-- Mosquitoes that spread yellow fever bite during the day.
+- Mosquito bite
+- Mosquitoes that spread yellow fever bite during the day
 
 ### Symptoms
 
@@ -22,27 +22,27 @@ lang: en
 
 ### Prevention
 
-- Routine vaccination.
-- Prevention of mosquito bites by putting insect screens on windows and doors and personal protection (application of repellents, long sleeved clothes, etc.). 
-- Community clean up campaigns to remove rubbish and cover water containers. 
-- Elimination of mosquito breeding sites by removing standing water, fogging, and applying larvicides. 
-- Social mobilization and behaviour change communication.
+- Routine vaccination
+- Prevention of mosquito bites by putting insect screens on windows and doors and personal protection (application of repellents, long sleeved clothes, etc.)
+- Community clean up campaigns to remove rubbish and cover water containers
+- Elimination of mosquito breeding sites by removing standing water, fogging, and applying larvicides
+- Social mobilization and behaviour change communication
 
 ### Vulnerable people
 
-- Every person in the community who is not vaccinated can get yellow fever. 
-- Young children and older people are more likely to become very sick or have complications.
+- Every person in the community who is not vaccinated can get yellow fever
+- Young children and older people are more likely to become very sick or have complications
 
 ### If an epidemic occurs
 
-- Support mass vaccination campaigns. 
-- Increase community-based surveillance. 
-- Rapidly detect and refer suspected cases to health facilities.
-- Increase social mobilization and behaviour change communication.
+- Support mass vaccination campaigns
+- Increase community-based surveillance
+- Rapidly detect and refer suspected cases to health facilities
+- Increase social mobilization and behaviour change communication
 - Promote community clean up campaigns to remove rubbish and cover water containers. 
-- Encourage prevention of mosquito bites by placing insect screens on windows and doors and wearing personal protection (apply repellents, wear long sleeved clothes, etc.). 
-- Eliminate mosquito breeding sites by removing standing water, fogging, and applying larvicides. 
-- Encourage young children and people who sleep during the day to sleep under a mosquito net (if windows and doors are not screened).
+- Encourage prevention of mosquito bites by placing insect screens on windows and doors and wearing personal protection (apply repellents, wear long sleeved clothes, etc.)
+- Eliminate mosquito breeding sites by removing standing water, fogging, and applying larvicides
+- Encourage young children and people who sleep during the day to sleep under a mosquito net (if windows and doors are not screened)
 
 ### Community-based assessment - questions
 
@@ -62,7 +62,7 @@ Make a map of the community and mark the information you gather on the map. Reco
 - What are the usual ways of disposing of rubbish and solid waste in the community? 
 - Have the authorities established a vector control programme?
 - Where are the local health facilities and services? (Include traditional and community carers.) 
-- What are the community’s habits, practices and beliefs about caring for and feeding sick people? Do women continue to breastfeed babies and infants when they are sick?
+- What are the community’s habits, practices and beliefs about caring for and feeding sick people? When babies and infants are sick, do women continue to breastfeed them? 
 - Is a social mobilization or health promotion programme in place? 
 - Which sources of information do people use most? 
 - Are rumours or is misinformation about the disease spreading in the community? 
