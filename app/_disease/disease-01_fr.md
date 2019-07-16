@@ -50,6 +50,7 @@ lang: fr
 - Repérer l’origine possible
 
 ### Évaluation au niveau local
+Établissez une carte de la communauté et portez-y les informations que vous récoltez. Prenez note d’autres détails.
 
 - Quand se sont déclarés les premiers cas de diarrhée ? 
 - Combien de personnes sont atteintes de diarrhée ? Où ? 
