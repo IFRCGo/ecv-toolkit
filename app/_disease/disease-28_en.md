@@ -8,12 +8,14 @@ title: Cluster of unexplained illnesses or deaths
 lang: en
 ---
 
-A ‘clusters of illness or death’ is a group of people or animals in the same area who become sick with the same symptoms (signs of illness) at about the same time. The people or animals may get sick and recover or may die from the disease.
-’Unexplained’ means that the germ or thing that is making people sick is unknown.
+### Overview
+
+- A "clusters of illness or death" is a group of people or animals in the same area who become sick with the same symptoms (signs of illness) at about the same time. The people or animals may get sick and recover or may die from the disease
+- "Unexplained" means that the germ or thing that is making people sick is unknown
 
 ### Transmission
 
-- In the beginning, how the disease spreads is not known. It might be spreading from person to person by touching or may be transmitted through the air, via animals, or through water or food.
+- In the beginning, how the disease spreads is not known. It might be spreading from person to person by touching or may be transmitted through the air, via animals, or through water or food
 
 ### Symptoms
 
@@ -22,34 +24,34 @@ A ‘clusters of illness or death’ is a group of people or animals in the same
 
 ### Prevention
 
-- Community-based surveillance.
-- Rapid detection of sick people and their referral to health facilities.
-- Social mobilization and behaviour change communication.
-- Safe and dignified funerals and burials.
-- Handwashing with soap.
-- Isolation of sic people and animals.
-- Exclusive breastfeeding for at least the first six months of life.
-- Safe clean drinking water (including a clean, covered container in the household).
-- Use of appropriate sanitation facilities (sound, clean latrines).
-- Good food hygiene (well cooked, covered food, clean utensils, etc.).
+- Community-based surveillance
+- Rapid detection of sick people and their referral to health facilities
+- Social mobilization and behaviour change communication
+- Safe and dignified funerals and burials
+- Handwashing with soap
+- Isolation of sic people and animals
+- Exclusive breastfeeding for at least the first six months of life
+- Safe clean drinking water (including a clean, covered container in the household)
+- Use of appropriate sanitation facilities (sound, clean latrines)
+- Good food hygiene (well cooked, covered food, clean utensils, etc.)
 
 ### Vulnerable people
 
-- In the beginning, it is not clear who is vulnerable to the disease.
-- If most people falling sick are near the same age (for example, young children) or members of a particular group (for example, pregnant women or men working in farming), this provides clues about who might be vulnerable to the disease.  
+- In the beginning, it is not clear who is vulnerable to the disease
+- If most people falling sick are near the same age (for example, young children) or members of a particular group (for example, pregnant women or men working in farming), this provides clues about who might be vulnerable to the disease
 
 ### If an epidemic occurs
 
-- Begin community surveillance.
-- Detect sick people rapidly and refer them to health facilities.
-- Increase social mobilization and behaviour change communication.
-- Support safe and dignified funeral and burial practices.
-- Promote heandwashing with soap.
-- Isolate sick people and animals.
-- Encourage women to breastfeed, including when their infants are sick.
-- Promote safe, clean water (including a clean, covered water container in households).
-- Promote appropriate sanitation (sound, clean latrines).
-- Promote good food hygiene (well cooked and covered food, clean utensils, etc.).
+- Begin community surveillance
+- Detect sick people rapidly and refer them to health facilities
+- Increase social mobilization and behaviour change communication
+- Support safe and dignified funeral and burial practices
+- Promote heandwashing with soap
+- Isolate sick people and animals
+- Encourage women to breastfeed, including when their infants are sick
+- Promote safe, clean water (including a clean, covered water container in households)
+- Promote appropriate sanitation (sound, clean latrines)
+- Promote good food hygiene (well cooked and covered food, clean utensils, etc.)
 
 ### Community-based assessment - questions
 
@@ -57,7 +59,7 @@ Make a map of the community and mark the information you gather on the map. Reco
 - When did people start to fall sick?
 - How many people have fallen sick? Where?
 - How many people have died? Where?
-- How many people live in the affected community or area? How many children under 5 years of age live in the area?
+- How many people live in the affected community or area? How many children under five years of age live in the area?
 - Who and where are the vulnerable people?
 - Are children in the affected area generally well nourished?
 - Do people always have enough food?
@@ -75,8 +77,8 @@ Some things are always good to do. In addition, they may help to protect you fro
 -	Inform the health authorities that members of the community are falling sick.
 -	Encourage frequent handwashing with soap.
 -	Encourage use of latrines.
--	Encourage the community to clean ay rubbish and garbage.
+-	Encourage the community to clean away rubbish and garbage.
 -	Encourage good personal hygiene.
 -	Encourage women to breastfeed their children up to six months of age.
--	Encourage women to continue breastfeeding afdter six months, while giving children a wide variety of other foods.
+-	Encourage women to continue breastfeeding after six months, while giving children a wide variety of other foods.
 -	Listen carefully to the health authorities and to community leaders when they share information.

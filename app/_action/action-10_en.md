@@ -4,33 +4,33 @@
 layout: card
 identifier: 10
 message: [1]
-title: Giving oral rehydration solution (ORS) 
+title: Giving oral rehydration solution (ORS)
 lang: en
 ---
 
 ### Overview
 
 - Oral rehydration solution (ORS) is the first step in treating people who are suffering from diarrhoea and dehydration.
-- If a patient has no signs of dehydration or signs of mild dehydration (see Action Tool 7), he or she can be treated at home.
-- Demonstrate how to prepare and give ORS. 
-- The care giver should give the amount of ORS indicated in the table below.
+- If a patient has no signs of dehydration or signs of mild dehydration (see Action tool 7<a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>), he or she can be treated at home.
+- Demonstrate how to prepare and give ORS.
+- The caregiver should give the amount of ORS indicated in the table below.
 
 ### For NO signs of dehydration
-- Demonstrate how to prepare and give ORS. 
+- Demonstrate how to prepare and give ORS.
 - The care giver should give the amount of ORS indicated in the table below.
 
 
-| Age |	Amount of ORS after each loose stool | ORS packets needed | 
+| Age |	Amount of ORS after each loose stool | ORS packets needed |
 |---|---|---|
 | Less than 24 months | 50-100 ml (¼ – ½ cup) | 1 packet/day |
 | 2-9 years | 100–200 ml (½ – 1 cup) | 1 packet/day |
 | 10 years or more | As much as wanted | 2 packets/day |
 
-### When there are *SOME* signs of dehydration
+### When there are SOME signs of dehydration
 
 - Give the recommended amount of ORS (measure against either the patient’s age or weight).
 - If the patient passes watery stools or wants more ORS than shown in the table above, give more.
-- If the patient does not improve or some of the signs of severe dehydration appear, refer the patient to a health facility (see Action Tool 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>. 
+- If the patient does not improve or some of the signs of severe dehydration appear, refer the patient to a health facility (see Action tool 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 | Age |	Less than 4 months | 4-11 months | 12-23 months | 2-4 years | 5-14 years | 15 years or older |
 |---|---|---|---|---|---|---|
@@ -39,12 +39,12 @@ lang: en
 
 ### How to give ORS
 
-It is important to teach mothers and care givers to administer ORS to children correctly, to help the child get better and prevent the epidemic from spreading. 
-1.	To a child that is under two years of age, give one teaspoonful every 1–2 minutes.
+It is important to teach mothers and caregivers to administer ORS to children correctly, to help the child get better and prevent the epidemic from spreading.
+1.	To a child that is under two years of age, give one teaspoonful every one to two minutes.
 2.	To an older child, give frequent sips from a cup.
 3.	If the child vomits, wait 10 minutes and then offer the solution again, more slowly.
 4.	If diarrhoea continues after the ORS packets are used up, give home remedies until you get more ORS packets.
-5.	Give the child as much water as he or she can drink.
+5.	Give the child as much clean water as he or she can drink.
 6.	Continue to assess dehydration and refer the child to a clinic if he or she gets worse or does not improve after a few hours.
 
 ![at-10_en]({% render_depth %}assets/img/graphics/at-10_en.png){:class="my-img-class"}

@@ -14,16 +14,16 @@ lang: en
 
 ### Why is the MUAC test important?
 
-- The MUAC test can identify children between 6 months and 5 years old who have malnutrition (wasting or thinness) and are at risk of dying.
+- The MUAC test can identify children between six months and five years old who have malnutrition (wasting or thinness) and are at risk of dying.
 
 ### What you need to know
 
 -	MUAC is a simple measurement. It uses a coloured tape that is wrapped around the left upper arm. Parents and carers can be trained to measure the MUAC.
--	Children aged 6 months to 5 years who have a MUAC reading of less than 12.5 cm or whose arm circumference falls within the red or yellow indicator on the coloured tape (see table below) should be referred to the nearest health or nutrition centre.
+-	Children aged six months to five years who have a MUAC reading of less than 12.5 cm or whose arm circumference falls within the red or yellow indicator on the coloured tape (see table below) should be referred to the nearest health or nutrition centre.
 
 ### How to measure MUAC
 
-1. Explain the procedure to the child’s mother or care giver.
+1. Explain the procedure to the child’s mother or caregiver.
 2. Ensure that the child is not wearing any clothing on his or her left arm.
 3. If possible, the child should stand straight and sideways to the measurer.
 4. Bend the child’s left arm at 90 degrees to the body.
@@ -47,17 +47,17 @@ lang: en
 |Yellow | Moderate | 11.5-12.4 cm | 115-124 mm | Refer to the nearest health or nutrition centre that provides supplementary feeding (if available). |
 |Green | Healthy | >12.5 cm | >125 mm | Encourage the carer to continue with healthy hygienic care and feeding practices, and to return if the child becomes sick or weaker. |
 
-*< means ‘less than’ and > means ‘more than’*
+*< means "less than" and > means "more than"*
 
 ### What you can do
 
 - Inform the community and parents that MUAC tapes identify children who are malnourished.
--	Use MUAC to measure children between 6 months and 59 months of age, especially those who are sick, thin or weak.
+-	Use MUAC to measure children between six months and 59 months of age, especially those who are sick, thin or weak.
 -	Find out which health facilities or centres treat malnourished children in your area. (Some facilities only address severe acute malnutrition (SAM).
 -	Refer children that have a MUAC of less than 12.5 cm or indicate red or yellow on the coloured tape, with their families, to the above centres for treatment.
 
 ### Community messages
 -	Inform the community that thin, weak children who are not growing well can obtain treatment without cost.
 -	Find out the local word for a child who is very thin and use it to help find cases.
--	Encourage care givers to seek health treatment quickly if their child is malnourished. Tell them that treatment will enable the child to grow well, prevent stunting, and help the child to avoid diseases later in life.
--	Explain the MUAC arm measurement to care givers. Tell them that it shows which children are malnourished and should receive treatment.
+-	Encourage caregivers to seek health treatment quickly if their child is malnourished. Tell them that treatment will enable the child to grow well, prevent stunting, and help the child to avoid diseases later in life.
+-	Explain the MUAC arm measurement to caregivers. Tell them that it shows which children are malnourished and should receive treatment.
