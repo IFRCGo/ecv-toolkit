@@ -10,11 +10,11 @@ lang: en
 
 ### Transmission
 
-- Contact with food or household items contaminated with rodent urine or stools. 
-- Blood, faeces/stool, vomit, urine/pee, saliva/spit, etc. from a person sick with Lassa fever enters the mouth, nose, eyes or a skin cut of another person. 
-- Contact with household objects (for example, bedding or clothes) that have been contaminated with body fluids from a person who is sick or has died from Lassa fever. 
-- Via contaminated medical equipment, such as reused needles. 
-- Unprotected sex with a man who has recovered from Lassa fever (for up to 3 months after he recovers).
+- Contact with food or household items contaminated with rodent urine or stools
+- Blood, faeces/stool, vomit, urine/pee, saliva/spit, etc. from a person sick with Lassa fever enters the mouth, nose, eyes or a skin cut of another person
+- Contact with household objects (for example, bedding or clothes) that have been contaminated with body fluids from a person who is sick or has died from Lassa fever
+- Via contaminated medical equipment, such as reused needles
+- Unprotected sex with a man who has recovered from Lassa fever (for up to three months after he recovers)
 
 ### Symptoms
 
@@ -26,37 +26,37 @@ lang: en
 
 ### Prevention
 
-- Store food in rodent-proof containers. 
-- Dispose of rubbish away from the home (good environmental hygiene). 
-- Control rodents (including by keeping cats). 
-- Isolate (separate) people with Lassa fever.
-- Use personal protective equipment (gloves, masks, clothing) when caring for sick people. 
-- Encourage handwashing with soap.
-- Provide safe and dignified burials. 
-- Disinfect the homes and personal belongings of people who are sick or have died from Lassa fever.
-- Promote social distancing.
-- Dispose safely of waste that might be contaminated (by burning or burying it). 
-- Disinfect reusable supplies. 
-- Provide psychosocial support.
+- Store food in rodent-proof containers
+- Dispose of rubbish away from the home (good environmental hygiene)
+- Control rodents (including by keeping cats)
+- Isolate (separate) people with Lassa fever
+- Use personal protective equipment (gloves, masks, clothing) when caring for sick people
+- Encourage handwashing with soap
+- Provide safe and dignified burials
+- Disinfect the homes and personal belongings of people who are sick or have died from Lassa fever
+- Promote social distancing
+- Dispose safely of waste that might be contaminated (by burning or burying it)
+- Disinfect reusable supplies
+- Provide psychosocial support
 
 ### Vulnerable people
 
-- Pregnant women in the last three months of pregnancy. 
+- Pregnant women in the last three months of pregnancy
 
 ### If an epidemic occurs
 
-- Identify suspected Lassa fever cases rapidly and refer them to care and treatment centres. 
-- Trace contacts and follow them up. 
-- Use personal protective equipment (gloves, masks, clothing) when caring for sick people. 
-- Isolate people who are sick with Lassa fever. 
-- Promote social distancing.
-- Promote handwashing in communities and health centres with soap, chlorine solution or hand-sanitizer.
-- Provide safe and dignified burials. 
-- Disinfect the homes and personal belongings of people who are sick or have died from Lassa fever.
-- Dispose safely of waste that might be contaminated (by burning or burying it). 
-- Disinfect reusable supplies. 
-- Male survivors of Lassa fever must practise safe sex for 3 months from the date on which they fell sick. 
-- Provide psychosocial support.
+- Identify suspected Lassa fever cases rapidly and refer them to care and treatment centres
+- Trace contacts and follow them up
+- Use personal protective equipment (gloves, masks, clothing) when caring for sick people
+- Isolate people who are sick with Lassa fever
+- Promote social distancing
+- Promote handwashing in communities and health centres with soap, chlorine solution or hand-sanitizer
+- Provide safe and dignified burials
+- Disinfect the homes and personal belongings of people who are sick or have died from Lassa fever
+- Dispose safely of waste that might be contaminated (by burning or burying it)
+- Disinfect reusable supplies
+- Male survivors of Lassa fever must practise safe sex for three months from the date on which they fell sick
+- Provide psychosocial support
 
 ### Community-based assessment - questions
 
@@ -64,7 +64,7 @@ Make a map of the community and mark the information you gather on the map. Reco
 - When did people start to fall sick with Lassa fever? 
 - How many people have fallen sick with Lassa fever? Where? 
 - How many have died? Where? 
-- How many people live in the affected community or area? How many children under 5 years of age live in the area? 
+- How many people live in the affected community or area? How many children under five years of age live in the area? 
 - How many pregnant women live in the affected communities? 
 - Who and where are the vulnerable people? 
 - Where are the local health facilities and services? (Include traditional and community carers.) 
