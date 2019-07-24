@@ -10,15 +10,15 @@ lang: fr
 
 ### Transmission
 
-- Eau contaminée 
-- Nourriture ou boissons contaminées 
-- Mains sales 
+- Eau contaminée
+- Nourriture ou boissons contaminées
+- Mains sales
 - Vomissures et selles de personnes malades
 
 ### Symptômes
 
-- Environ une personne sur dix atteintes de choléra tombe très malade. La plupart des personnes en souffrant ne présentent que des symptômes légers ou ne sont pas malades du tout, mais elles peuvent malgré tout transmettre la maladie. 
-- Les personnes gravement atteintes souffrent d’importantes diarrhées liquides (trois selles non formées ou plus par jour, liquides comme de l’eau de riz), de vomissements et de crampes. Elles perdent rapidement beaucoup de liquides corporels et peuvent se déshydrater et entrer en état de choc. Sans traitement, cela peut entraîner la mort en quelques heures. 
+- Environ une personne sur dix atteintes de choléra tombe très malade. La plupart des personnes en souffrant ne présentent que des symptômes légers ou ne sont pas malades du tout, mais elles peuvent malgré tout transmettre la maladie.
+- Les personnes gravement atteintes souffrent d’importantes diarrhées liquides (trois selles non formées ou plus par jour, liquides comme de l’eau de riz), de vomissements et de crampes. Elles perdent rapidement beaucoup de liquides corporels et peuvent se déshydrater et entrer en état de choc. Sans traitement, cela peut entraîner la mort en quelques heures.
 - Les enfants souffrant d’une forme grave de choléra peuvent être somnolents ou désorientés, avoir des crises d’épilepsie ou perdre connaissance.
 
 ### Prévention
@@ -33,11 +33,11 @@ lang: fr
 
 ### Personnes vulnérables
 
-- Enfants malnourris 
-- Enfants de moins de cinq ans 
-- Individus souffrant de pathologies chroniques 
-- Femmes enceintes 
-- Personnes n’ayant pas facilement accès aux thérapies de réhydratation et aux services de santé 
+- Enfants malnourris
+- Enfants de moins de cinq ans
+- Individus souffrant de pathologies chroniques
+- Femmes enceintes
+- Personnes n’ayant pas facilement accès aux thérapies de réhydratation et aux services de santé
 - Personnes vivant dans des zones où les structures et services liés à l’eau, l’assainissement et l’hygiène sont de mauvaise qualité
 
 ### En cas d’épidémie
@@ -51,28 +51,28 @@ lang: fr
 - Promouvoir une bonne hygiène alimentaire (aliments bien cuits, nourriture couverte, ustensiles propres, etc.)
 -	Promouvoir le lavage des mains avec du savon (en particulier après être allé aux toilettes ou avoir nettoyé un bébé)
 - Soutenir la campagne de vaccination de masse (vaccin anticholérique par voie orale)
--	Favoriser les pratiques d’inhumation et de funérailles en toute sécurité et dans la dignité. 
+-	Favoriser les pratiques d’inhumation et de funérailles en toute sécurité et dans la dignité
 
 ### Évaluation au niveau local
 Établissez une carte de la communauté et portez-y les informations que vous récoltez. Prenez note d’autres détails.
 
-- Quand se sont déclarés les premiers cas de choléra ou de diarrhée aqueuse aiguë ? 
-- Combien de personnes sont atteintes de choléra ou de diarrhée aqueuse aiguë ? Où ? 
-- Combien de personnes sont mortes de choléra ou de diarrhée aqueuse aiguë ? Où ? 
+- Quand se sont déclarés les premiers cas de choléra ou de diarrhée aqueuse aiguë ?
+- Combien de personnes sont atteintes de choléra ou de diarrhée aqueuse aiguë ? Où ?
+- Combien de personnes sont mortes de choléra ou de diarrhée aqueuse aiguë ? Où ?
 -	Combien de personnes vivent dans la communauté ou la zone touchée ?
 -	Combien d’enfants de moins de 5 ans vivent dans la zone ?  
-- Qui sont les personnes vulnérables et où se trouvent-elles ? 
-- Les enfants de la communauté touchée sont-ils généralement bien nourris ? 
-- Y a-t-il toujours suffisamment de nourriture pour la population ? 
-- À quel point l’allaitement est-il répandu ? 
-- D’où provient l’eau potable ? La source est-elle sûre ? L’eau est-elle traitée ? 
--	Quelles installations d’assainissement (latrines communes notamment) sont à disposition ? Sont-elles utilisées ? 
+- Qui sont les personnes vulnérables et où se trouvent-elles ?
+- Les enfants de la communauté touchée sont-ils généralement bien nourris ?
+- Y a-t-il toujours suffisamment de nourriture pour la population ?
+- À quel point l’allaitement est-il répandu ?
+- D’où provient l’eau potable ? La source est-elle sûre ? L’eau est-elle traitée ?
+-	Quelles installations d’assainissement (latrines communes notamment) sont à disposition ? Sont-elles utilisées ?
 -	Quelles installations sont mises à disposition (dans les habitations, sur les marchés, etc.) pour le lavage des mains ? Y a-t-il du savon ?
-- Où se situent les établissements et services de santé locaux (y compris les soignants traditionnels et communautaires) ? 
-- Quelles sont les habitudes, pratiques et croyances de la communauté en matière de soins et d’alimentation des malades ? Les femmes continuent-elles d’allaiter leurs enfants lorsque ceux-ci sont malades ? 
-- Un programme de mobilisation sociale ou de promotion de la santé est-il en place ? 
+- Où se situent les établissements et services de santé locaux (y compris les soignants traditionnels et communautaires) ?
+- Quelles sont les habitudes, pratiques et croyances de la communauté en matière de soins et d’alimentation des malades ? Les femmes continuent-elles d’allaiter leurs enfants lorsque ceux-ci sont malades ?
+- Un programme de mobilisation sociale ou de promotion de la santé est-il en place ?
 - Quelles sont les habitudes, pratiques et croyances de la communauté en matière d’hygiène, d’assainissement et d’eau ?
-- Quels sources ou moyens d’information sont les plus utilisés ? 
+- Quels sources ou moyens d’information sont les plus utilisés ?
 - Des rumeurs ou fausses informations au sujet du choléra ou de la diarrhée aqueuse aiguë circulent-elles dans la communauté ?
 -	Les membres de la communauté peuvent-ils repérer les signes et les symptômes de la déshydratation ?
 -	Savent-ils préparer une SRO ? Disposent-ils des ressources nécessaires pour en produire ?

@@ -4,7 +4,7 @@
 layout: card
 identifier: 17
 action: [1,2,3,4,5,6,19,20,21,25,34,35,39,40,41,42,43]
-title: Ebola virus disease 
+title: Ebola virus disease
 lang: en
 ---
 
@@ -18,8 +18,8 @@ lang: en
 
 ### Symptoms
 
-- Starts with sudden fever, tiredness, muscle pain, headache and sore throat. 
-- Usually followed by vomiting, diarrhoea and rash. Sometimes people can bleed under the skin or from the nose and gums (inside mouth), or cough blood or have bloody stools (faeces). 
+- Starts with sudden fever, tiredness, muscle pain, headache and sore throat.
+- Usually followed by vomiting, diarrhoea and rash. Sometimes people can bleed under the skin or from the nose and gums (inside mouth), or cough blood or have bloody stools (faeces).
 - A very severe and deadly disease that can kill around half or more of the people infected.
 
 ### Prevention
@@ -28,14 +28,14 @@ lang: en
 - Avoid touching sick or dead fruit bats, monkeys or apes or their faeces or waste
 - Do not eat bushmeat or animal products (blood and meat) unless they have been thoroughly cooked
 - Use personal protective equipment (gloves, masks, clothing) when taking care of sick people
-- Disinfect the homes and personal belongings of people who are sick or have died from Ebola 
+- Disinfect the homes and personal belongings of people who are sick or have died from Ebola
 - Wash hands with soap
 - Ensure safe and dignified burials
 - Promote social distancing
 - Isolate sick people
 - Dispose safely of waste that might be contaminated (by burning or burying it)
 - Disinfect reusable supplies
-- Provide psychosocial support 
+- Provide psychosocial support
 - Male survivors of Ebola must practise safe sex for 12 months from onset of symptoms or until their semen tests negative twice for Ebola virus
 
 ### Vulnerable people
@@ -63,20 +63,20 @@ lang: en
 ### Community-based assessment - questions
 
 Make a map of the community and mark the information you gather on the map. Record other details.
-- When did people start to fall sick with Ebola? 
-- How many people have fallen sick with Ebola? Where? 
-- How many have died? Where? 
-- Who and where are the vulnerable people? 
-- How many people live in the affected community or area? How many children under 5 years of age live in the area? 
-- How many pregnant women live in the affected communities? 
-- Where are the local health facilities and services? (Include traditional and community carers.) 
-- What are the community’s habits, practices and beliefs about caring for and feeding sick people? 
+- When did people start to fall sick with Ebola?
+- How many people have fallen sick with Ebola? Where?
+- How many have died? Where?
+- Who and where are the vulnerable people?
+- How many people live in the affected community or area? How many children under five years of age live in the area?
+- How many pregnant women live in the affected communities?
+- Where are the local health facilities and services? (Include traditional and community carers.)
+- What are the community’s habits, practices and beliefs about caring for and feeding sick people?
 - What are the community’s burial traditions, funeral procedures and practices?
-- Is a social mobilization or health promotion programme in place? 
-- Which sources of information do people use most? 
-- Are rumours or is misinformation about Ebola spreading in the community? 
-- Are health workers, volunteers or people who have survived Ebola stigmatized, left out, threatened or harassed? What are the main effects on them and their lives? 
-- Do people in the community know about Ebola? 
-- Do people in the community know the main signs of Ebola and what to do if someone becomes sick (phone number to call, actions to take)? 
-- Do people in the community know how to protect themselves from Ebola? 
+- Is a social mobilization or health promotion programme in place?
+- Which sources of information do people use most?
+- Are rumours or is misinformation about Ebola spreading in the community?
+- Are health workers, volunteers or people who have survived Ebola stigmatized, left out, threatened or harassed? What are the main effects on them and their lives?
+- Do people in the community know about Ebola?
+- Do people in the community know the main signs of Ebola and what to do if someone becomes sick (phone number to call, actions to take)?
+- Do people in the community know how to protect themselves from Ebola?
 - Are people in the community taking social distancing seriously? Why? Why not?

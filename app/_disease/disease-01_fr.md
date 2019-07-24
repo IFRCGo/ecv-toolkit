@@ -10,14 +10,14 @@ lang: fr
 
 ### Transmission
 
-- Aliments contaminés 
-- Mains non lavées 
-- Eau contaminée par des excréments humains (selles) 
+- Aliments contaminés
+- Mains non lavées
+- Eau contaminée par des excréments humains (selles)
 
 ### Symptômes
-- Au moins trois selles molles ou liquides sur une période de 24 heures 
-- Maux de ventre, fièvre, nausées et vomissements éventuels 
-- Peut entraîner la déshydratation, une septicémie et la mort
+- Au moins trois selles molles ou liquides sur une période de 24 heures.
+- Maux de ventre, fièvre, nausées et vomissements éventuels.
+- Peut entraîner la déshydratation, une septicémie et la mort.
 
 ### Prévention
 
@@ -31,9 +31,10 @@ lang: fr
 
 ### Personnes vulnérables
 
-- Enfants de moins de cinq ans, enfants malnourris ►Personnes vivant avec le VIH 
-- Femmes enceintes 
-- Personnes vivant dans des zones où les installations et les services liés à l’eau, l’assainissement et l’hygiène sont de mauvaise qualité 
+- Enfants de moins de cinq ans, enfants malnourris
+- Personnes vivant avec le VIH
+- Femmes enceintes
+- Personnes vivant dans des zones où les installations et les services liés à l’eau, l’assainissement et l’hygiène sont de mauvaise qualité
 
 ### En cas d’épidémie
 
@@ -52,21 +53,21 @@ lang: fr
 ### Évaluation au niveau local
 Établissez une carte de la communauté et portez-y les informations que vous récoltez. Prenez note d’autres détails.
 
-- Quand se sont déclarés les premiers cas de diarrhée ? 
-- Combien de personnes sont atteintes de diarrhée ? Où ? 
--	Combien de personnes sont mortes de diarrhée ? Où ? 
+- Quand se sont déclarés les premiers cas de diarrhée ?
+- Combien de personnes sont atteintes de diarrhée ? Où ?
+-	Combien de personnes sont mortes de diarrhée ? Où ?
 - Combien de personnes vivent dans la communauté ou la zone touchée ?
--	Combien d’enfants de moins de 5 ans vivent dans la zone ? 
-- Qui sont les personnes vulnérables et où se trouvent-elles ? 
-- Les enfants de la communauté touchée sont-ils généralement bien nourris ? 
-- Y a-t-il toujours suffisamment de nourriture pour la population ? 
-- À quel point l’allaitement est-il répandu ? 
-- D’où provient l’eau potable ? La source est-elle sûre ? L’eau est-elle traitée ? 
--	Quelles installations d’assainissement (latrines communes notamment) sont à disposition ? Sont-elles utilisées ? 
--	Quelles installations sont mises à disposition pour le lavage des mains ? Y a-t-il du savon ? 
-- Où se situent les établissements et services de santé locaux (y compris les soignants traditionnels et communautaires) ? 
-- Quelles sont les habitudes, pratiques et croyances de la communauté en matière de soins et d’alimentation des malades ? Les femmes continuent-elles d’allaiter leurs enfants lorsque ceux-ci sont malades ? 
-- Un programme de mobilisation sociale ou de promotion de la santé est-il en place ? 
+-	Combien d’enfants de moins de 5 ans vivent dans la zone ?
+- Qui sont les personnes vulnérables et où se trouvent-elles ?
+- Les enfants de la communauté touchée sont-ils généralement bien nourris ?
+- Y a-t-il toujours suffisamment de nourriture pour la population ?
+- À quel point l’allaitement est-il répandu ?
+- D’où provient l’eau potable ? La source est-elle sûre ? L’eau est-elle traitée ?
+-	Quelles installations d’assainissement (latrines communes notamment) sont à disposition ? Sont-elles utilisées ?
+-	Quelles installations sont mises à disposition pour le lavage des mains ? Y a-t-il du savon ?
+- Où se situent les établissements et services de santé locaux (y compris les soignants traditionnels et communautaires) ?
+- Quelles sont les habitudes, pratiques et croyances de la communauté en matière de soins et d’alimentation des malades ? Les femmes continuent-elles d’allaiter leurs enfants lorsque ceux-ci sont malades ?
+- Un programme de mobilisation sociale ou de promotion de la santé est-il en place ?
 - Quelles sont les habitudes, pratiques et croyances de la communauté en matière d’hygiène, d’assainissement et d’eau ?
 - Quels sources ou moyens d’information sont les plus utilisés ?
 - Des rumeurs ou fausses informations au sujet de la diarrhée circulent-elles dans la communauté ?
@@ -75,10 +76,10 @@ lang: fr
 -	Savent-ils traiter l’eau ?
 
 ![dt-01_fr]({% render_depth %}assets/img/graphics/dt-01_fr.png){:class="my-img-class"}
-### Encourager l’allaitement exclusif pendant les six premiers mois – y compris lorsqu’un enfant est malade. 
-Enfant déshydraté : 
+### Encourager l’allaitement exclusif pendant les six premiers mois – y compris lorsqu’un enfant est malade.
+Enfant déshydraté :
 - Yeux enfoncés
 - Bouche sèche
 - Léthargique/faible
-- Peau revient lentement en place lorsqu’elle est pincée 
+- Peau revient lentement en place lorsqu’elle est pincée
 - Peu ou pas d’urine
