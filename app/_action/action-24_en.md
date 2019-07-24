@@ -10,7 +10,7 @@ lang: en
 
 ### Overview
 
-- Diphtheria, tetanus, pertussis (whooping cough), polio, measles, rubella, mumps, chicken pox, meningitis, hepatitis B, yellow fever and tuberculosis are common but serious illnesses; they can kill or cripple children or adults for life. 
+- Diphtheria, tetanus, pertussis (whooping cough), polio<a class="crosslink" href="{% render_depth %}{% render_link disease|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, measles<a class="crosslink" href="{% render_depth %}{% render_link disease|8 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, rubella, mumps, chicken pox, meningitis<a class="crosslink" href="{% render_depth %}{% render_link disease|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, hepatitis B, yellow fever and tuberculosis are common but serious illnesses; they can kill or cripple children or adults for life. 
 - Vaccines protect infants, children and adults from getting and spreading these diseases and from severe forms of them.
 
 ### What you need to know
@@ -36,4 +36,3 @@ lang: en
 - Get to know all the families with babies under one year of age and visit them once a month.
 - Explain to pregnant women that they must visit the health worker for check-ups and should receive two doses of tetanus vaccine before their children are born.
 - If some members of the community are afraid of vaccinations, assist community workers to calm and remove their fears. Correct rumours and misinformation about vaccinations.
-

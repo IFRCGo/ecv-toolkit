@@ -13,7 +13,7 @@ lang: en
 - Many diseases are spread by vectors.
 - Vectors are insects or animals that spread an infectious disease through a bite, or contact with their urine, faeces, blood, etc.
 - Vectors include mosquitoes, flies, ticks, rodents, cockroaches and fleas.
-- Diseases spread by vectors include malaria, dengue fever, zika, chikungunya, yellow fever, Rift Valley fever and plague.
+- Diseases spread by vectors include malaria<a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, dengue fever<a class="crosslink" href="{% render_depth %}{% render_link disease|13 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Zika<a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, chikungunya<a class="crosslink" href="{% render_depth %}{% render_link disease|12 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, yellow fever<a class="crosslink" href="{% render_depth %}{% render_link disease|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Rift Valley fever<a class="crosslink" href="{% render_depth %}{% render_link disease|26 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and plague<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 ### How you can help
 
@@ -30,16 +30,15 @@ Keep the community clean and always ask for professionals to spray against vecto
 
 | Disease | Vector | Vector biting time | Vector/reservoir breeding site | Primary community prevention method | Secondary community prevention method |
 |---|---|---|---|---|---|
-|**Malaria** | Anopheles mosquito | Most species bite at night (with notable exceptions). | Unpolluted water. | Long-lasting insecticide-treated nets; indoor residual spraying; intermittent preventive treatment. | Insecticide treated materials; space spraying; larviciding.|
-|**Dengue** | Aedes mosquito | Morning. Afternoon. | Containers, small pools, unpolluted water. | Environmental management; vaccination. | Larviciding. |
-|**Chikungunya** | Aedes mosquito | Morning. Afternoon. | Containers, small pools. | Environmental management. | Larviciding. |
-|**Yellow fever** | Aedes mosquito | Morning. Afternoon. | Containers, small pools. | Vaccination. | Environmental management; larviciding. |
-|**Zika** | Aedes mosquito | Morning. Afternoon. | Containers, small pools, unpolluted water.  | Environmental management. | Larviciding. |
+|**Malaria** | Anopheles mosquito | Most species bite at night (with notable exceptions). | Unpolluted water. | Long-lasting insecticide-treated nets; indoor residual spraying; intermittent preventive treatment. | Insecticide-treated materials; space spraying; larviciding.|
+|**Dengue** | Aedes mosquito | Morning, afternoon. | Containers, small pools, unpolluted water. | Environmental management; vaccination. | Larviciding. |
+|**Chikungunya** | Aedes mosquito | Morning, afternoon. | Containers, small pools. | Environmental management. | Larviciding. |
+|**Yellow fever** | Aedes mosquito | Morning, afternoon. | Containers, small pools. | Vaccination. | Environmental management; larviciding. |
+|**Zika** | Aedes mosquito | Morning, afternoon. | Containers, small pools, unpolluted water.  | Environmental management. | Larviciding. |
 
 ### Other vectors
 
-- Plague bacteria are most often transmitted by the bite of an infected rodent or flea. To prevent contamination, people should: store food and water (including animal food) in rodent-proof covered containers; screen or close holes in walls and roofs; remove rubbish and environmental debris from around dwellings; sleep on a raised platform (not on the floor); and use repellents. See Action Tool 38 <a class="crosslink" href="{% render_depth %}{% render_link action|38 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and Community Message Tool 27 <a class="crosslink" href="{% render_depth %}{% render_link message|27 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
-- For flies, see Action Tool 32 <a class="crosslink" href="{% render_depth %}{% render_link action|32 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and Action Tool 33 <a class="crosslink" href="{% render_depth %}{% render_link action|33 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
+- Plague bacteria are most often transmitted by the bite of an infected rodent or flea. To prevent contamination, people should: store food and water (including animal food) in rodent-proof covered containers; screen or close holes in walls and roofs; remove rubbish and environmental debris from around dwellings; sleep on a raised platform (not on the floor); and use repellents. See Action tool 38 <a class="crosslink" href="{% render_depth %}{% render_link action|38 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and Community message tool 27 <a class="crosslink" href="{% render_depth %}{% render_link message|27 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 ![at-36b]({% render_depth %}assets/img/graphics/at-36b.png){:class="my-img-class"}
 Vectors: Mosquito, flea, fly and rat

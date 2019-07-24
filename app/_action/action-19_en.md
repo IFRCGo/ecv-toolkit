@@ -16,9 +16,9 @@ lang: en
 - Social. Risk taking, over- or under-eating, increased intake of alcohol or cigarettes, aggression, withdrawal, isolation.
 
 ### Psychosocial support
--	The term ‘psychosocial’ refers to the dynamic relationship between the psychological and social dimensions of a person, where the dimensions influence each other. The psychological dimension includes emotional and thought processes, feelings and reactions. The social dimension includes relationships, family and community networks, social values and cultural practices.
--	‘Psychosocial support’ refers to actions that meet the psychological and social needs of individuals, families and communities.
--	We provide psychosocial support to help people who have been affected by a crisis to recover. Early and adequate psychosocial support can prevent distress and suffering 
+-	The term "psychosocial" refers to the dynamic relationship between the psychological and social dimensions of a person, where the dimensions influence each other. The psychological dimension includes emotional and thought processes, feelings and reactions. The social dimension includes relationships, family and community networks, social values and cultural practices.
+-	"Psychosocial support" refers to actions that meet the psychological and social needs of individuals, families and communities.
+-	We provide psychosocial support to help people who have been affected by a crisis to recover. Early and adequate psychosocial support can prevent distress and suffering
 from turning into more severe mental health problems.
 
 #### *Hobfoll et al (2007) proposed that five principles should drive psychosocial support during emergencies.  Interventions should:*
@@ -32,21 +32,21 @@ from turning into more severe mental health problems.
 
 -	Psycho-education and awareness raising on psychosocial issues.
 -	Life skills and vocational skills.
--	Recreational and creative activities. 
+-	Recreational and creative activities.
 -	Sports and physical activities.
 -	Restoring family links.
 -	Child friendly spaces.
 -	Community committees.
 -	Supporting memorials and traditional burials.
 -	Psychological first aid.
--	Lay counselling. 
+-	Lay counselling.
 -	Support and self-help groups.
 
 ### Psychological first aid (PFA) is...
 
--	Comforting someone who in distress and helping them feel safe and calm. 
+-	Comforting someone who in distress and helping them feel safe and calm.
 -	Assessing needs and concerns.
--	Protecting people from further harm. 
+-	Protecting people from further harm.
 -	Providing emotional support.
 -	Helping to provide immediate basic needs, such as food and water, a blanket or a temporary place to stay.
 -	Listening to people but not pressuring them to talk.
@@ -58,8 +58,8 @@ from turning into more severe mental health problems.
 -	Professional counselling or therapy.
 -	Encouraging a detailed discussion of the event that has caused the distress.
 -	Asking someone to analyse what has happened to them.
--	Pressing someone for details on what happened. 
--	Pressuring people to share their feelings and reactions to an event. 
+-	Pressing someone for details on what happened.
+-	Pressuring people to share their feelings and reactions to an event.
 
 PFA is about comforting someone who is in distress and helping them feel safe and calm. It provides emotional support and helps people to address immediate basic needs and find information, services and social support. The three action principles of Look, Listen and Link indicate that PFA is a way to approach someone in distress, assess what help he or she needs, and help him or her to obtain that help.
 
