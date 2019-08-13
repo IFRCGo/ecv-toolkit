@@ -33,7 +33,7 @@ lang: en
 
 ### ORS at home
 
-- Traditional remedies are an effective ORS and can prevent a child from losing too much liquid through diarrhoea. Tell mothers about traditional remedies if ORS packets are not available.
+- Some traditional remedies can be an effective ORS and can prevent a child from losing too much liquid through diarrhoea. Tell caregivers about effective traditional remedies if ORS packets are not available and a health facility is inaccessible.
 - Traditional remedies include: breast milk, gruel (cooked cereals diluted with water), carrot soup, and rice water.
 - A very simple and effective solution for rehydrating a child can be mixed from salt, sugar and water (see illustration below).
 - A home-made salt and sugar solution should only be used when ORS packets are not available.
