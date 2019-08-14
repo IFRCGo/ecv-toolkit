@@ -29,6 +29,14 @@ lang: es
 7. Si aún se necesita SRO después de 24 horas, mezcle una solución nueva.
 8. Si el paciente no mejora o aparecen signos de deshidratación severa lleve al paciente a una clínica de salud.
 
+### SRO en casa
+- Algunos remedios tradicionales pueden ser una SRO eficaz y pueden evitar que el niño pierda demasiado líquido a causa de la diarrea. Informar a los cuidadores sobre los remedios tradicionales eficaces si no se dispone de paquetes de SRO y el centro de salud es inaccesible.
+- Los remedios tradicionales incluyen: leche materna, papilla (cereales cocidos diluidos con agua), sopa de zanahoria y agua de arroz.
+- Una solución muy simple y efectiva para rehidratar a un niño puede mezclarse con sal, azúcar y agua (vea la ilustración a continuación).
+- Una solución casera de sal y azúcar solo debe usarse cuando los paquetes de SRO no están disponibles.
+- Si se usa una solución de azúcar y sal hecha en casa, debe enseñar a los que cuidan para que preparen la solución en forma segura y correcta. Necesitan evitar errores en la mezcla de ingredientes. También es importante utilizar el agua más limpia disponible.
+- Puede agregar media taza de jugo de naranja o una banana majada a la solución para que tenga mejor sabor.
+
 ### Solución casera de azúcar y sal
 1. Lave sus manos con agua y jabón antes de preparar la solución.
 2. En un recipiente limpio mezcle:
@@ -44,7 +52,8 @@ lang: es
 
 ![at-09_es]({% render_depth %}assets/img/graphics/at-09_es.png){:class="my-img-class"}
 
-- Los remedios tradicionales son una SRO efectiva y pueden evitar que un niño pierda demasiado líquido debido a la diarrea. Informe a las madres sobre los remedios tradicionales si los paquetes de SRO no están disponibles.
+### SRO en casa
+- Algunos remedios tradicionales pueden ser una SRO eficaz y pueden evitar que el niño pierda demasiado líquido a causa de la diarrea. Informar a los cuidadores sobre los remedios tradicionales eficaces si no se dispone de paquetes de SRO y el centro de salud es inaccesible.
 - Los remedios tradicionales incluyen: leche materna, papilla (cereales cocidos diluidos con agua), sopa de zanahoria y agua de arroz.
 - Una solución muy simple y efectiva para rehidratar a un niño puede mezclarse con sal, azúcar y agua (vea la ilustración a continuación).
 - Una solución casera de sal y azúcar solo debe usarse cuando los paquetes de SRO no están disponibles.
