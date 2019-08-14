@@ -2,9 +2,10 @@
 # DISEASE #
 # ======= #
 layout: card
-identifier: #
-action: [#]
+identifier: 20
+action: [1,2,3,4,5,6,19,20,21,23,26,28,29,34,35,36,38,39,41,4]
 title: Peste
+
 lang: fr
 ---
 
