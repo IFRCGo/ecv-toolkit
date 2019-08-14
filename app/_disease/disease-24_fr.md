@@ -4,8 +4,7 @@
 layout: card
 identifier: 24
 action: [1,2,3,4,5,6,19,20,26,27,28,29,34,35,39,41,43]
-title: Coronavirus du syndrome respiratoire du Moyen-Orient
-(MERS-CoV)
+title: Coronavirus du syndrome respiratoire du Moyen-Orient (MERS-CoV)
 
 lang: fr
 ---
