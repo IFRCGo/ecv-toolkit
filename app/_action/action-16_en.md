@@ -23,8 +23,7 @@ lang: en
 ### How to measure height (length)
 
 - Children less than two years old are measured lying down (length). Children more than two years old are measured standing up (height). Height and length mean the same thing: how tall the child is.
-
-If age is not known, children shorter than 87 cm are measured lying down. If a child less than two years will not lie down, measure standing height and add 0.7 cm to the measurement. If a child older than two years cannot stand, measure length lying down and subtract 0.7 cm from the measurement.
+- If age is not known, children shorter than 87 cm are measured lying down. If a child less than two years will not lie down, measure standing height and add 0.7 cm to the measurement. If a child older than two years cannot stand, measure length lying down and subtract 0.7 cm from the measurement.
 
 #### Lying down
 
@@ -61,6 +60,7 @@ In a health facility, the scale is attached to the ceiling or a stand. In a comm
 6. Repeat the measurement. A second person should record it immediately.
 
 If weighing pants are not available, it is possible to suspend the child in a piece of the mother’s clothing, or in a basin or grass basket. In such cases, make sure the scale is appropriately readjusted to zero.
+
 If (for cultural reasons or because of the climate) it is not possible to remove clothes, an average weight for clothes should be deducted from the measurement.
 
 #### Using electronic scales

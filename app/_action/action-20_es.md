@@ -18,11 +18,11 @@ lang: es
 - En tales casos, una persona (que debe estar protegida adecuadamente) cuida al paciente para reducir las posibilidades de infección. Esto se llama "enfermería con barrera de protección".
 - Esta persona proporciona cuidados, comida y agua, y se comunica con el paciente.
 
-![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"} 
+![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"}
 
 ### Lo que puede hacer
-- Si se decide que el aislamiento y la enfermería con barrera de protección son necesarios, usted continuará la vigilancia activa como voluntario, en busca de casos de la enfermedad (consulte la herramienta de acción 1).
-- Cuando se detectan casos, se debe explicar la necesidad de aislamiento a los enfermos y a sus familias. Esto no se hace por la fuerza y los deseos de la familia deben ser respetados. Si explica que el aislamiento protege a otros, incluyendo los miembros de la familia del paciente, puede ser más fácil para el paciente y su familia entender por qué se propone el aislamiento.
+- Si se decide que el aislamiento y la enfermería con barrera de protección son necesarios, usted continuará la vigilancia activa como voluntario, en busca de casos de la enfermedad (consulte la herramienta de acción 1<a class="crosslink" href="{% render_depth %}{% render_link action|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Cuando se detectan casos, se debe explicar la necesidad de aislamiento a los enfermos y a sus familias. **Esto no se hace por la fuerza** y los deseos de la familia deben ser respetados. Si explica que el aislamiento protege a otros, incluyendo los miembros de la familia del paciente, puede ser más fácil para el paciente y su familia entender por qué se propone el aislamiento.
 - Aquellos que cuidan a un paciente en aislamiento se les debe mostrar cómo ayudarlo y cómo protegerse a sí mismos. Deben contar con el equipo de protección adecuado.
 - Proporcione apoyo psicosocial a las familias (ver herramienta de acción 19). El aislamiento de un ser querido puede ser muy difícil, tanto para la familia como para el paciente.
 - Intente evitar que el aislamiento cause estigma o rechazo social a los pacientes y sus familias. Explique a la comunidad por qué es necesario el aislamiento. Busque la ayuda de los mayores y de los líderes comunitarios para luchar contra el estigma.

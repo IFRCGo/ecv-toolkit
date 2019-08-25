@@ -10,10 +10,10 @@ lang: en
 
 ### Normal reactions to abnormal events
 
-- Emotional. Anxiety, grief, guilt, anger, irritability, frustration, sadness, shame, numbness, loss of hope, loss of meaning, feeling of emptiness.
-- Mental. Loss of concentration, memory loss, confusion, intrusive thoughts, difficulties in decision making, disorganized thought.
-- Physical. Increased heartrate, sleeping problems, aches (stomach, head), back and neck pain, muscle tremors and tension, loss of energy, inability to rest and relax.
-- Social. Risk taking, over- or under-eating, increased intake of alcohol or cigarettes, aggression, withdrawal, isolation.
+- **Emotional.** Anxiety, grief, guilt, anger, irritability, frustration, sadness, shame, numbness, loss of hope, loss of meaning, feeling of emptiness.
+- **Mental.** Loss of concentration, memory loss, confusion, intrusive thoughts, difficulties in decision making, disorganized thought.
+- **Physical.** Increased heartrate, sleeping problems, aches (stomach, head), back and neck pain, muscle tremors and tension, loss of energy, inability to rest and relax.
+- **Social.** Risk taking, over- or under-eating, increased intake of alcohol or cigarettes, aggression, withdrawal, isolation.
 
 ### Psychosocial support
 -	The term "psychosocial" refers to the dynamic relationship between the psychological and social dimensions of a person, where the dimensions influence each other. The psychological dimension includes emotional and thought processes, feelings and reactions. The social dimension includes relationships, family and community networks, social values and cultural practices.
@@ -21,7 +21,7 @@ lang: en
 -	We provide psychosocial support to help people who have been affected by a crisis to recover. Early and adequate psychosocial support can prevent distress and suffering
 from turning into more severe mental health problems.
 
-#### *Hobfoll et al (2007) proposed that five principles should drive psychosocial support during emergencies.  Interventions should:*
+##### *Hobfoll et al (2007) proposed that five principles should drive psychosocial support during emergencies.  Interventions should:*
 -	*Ensure safety and promote.*
 -	*Calm.*
 -	*Personal and collective efficacy.*
@@ -63,15 +63,30 @@ from turning into more severe mental health problems.
 
 PFA is about comforting someone who is in distress and helping them feel safe and calm. It provides emotional support and helps people to address immediate basic needs and find information, services and social support. The three action principles of Look, Listen and Link indicate that PFA is a way to approach someone in distress, assess what help he or she needs, and help him or her to obtain that help.
 
-| *LOOK* (Pay attention to a situation) | *LISTEN* (Pay attention to the person) | *LINK* (Take action to help) |
-|---|---|---|
-| Establish what has or is happening. | Introduce yourself. | Find information. |
-| Establish who needs help. | Pay attention and listen actively. | Connect with the person’s loved ones and social support.
-| Identify safety and security risks. | Accept others’ feelings. | Tackle practical problems.
-| Identify physical injuries.  | Calm the person in distress. |	Obtain services and other help.
-| Identify immediate basic and practical needs. | Ask about needs and concerns. | |
-| Observe emotional reactions.	| Help the person(s) in distress to find solutions to their needs and problems. | |
+##### *LOOK* (Pay attention to a situation)
 
+- Establish what has or is happening.
+- Establish who needs help.
+- Identify safety and security risks.
+- Identify physical injuries.
+- Identify immediate basic and practical needs.
+- Observe emotional reactions.
+
+##### *LISTEN* (Pay attention to the person)
+
+- Introduce yourself.
+- Pay attention and listen actively.
+- Accept others’ feelings.
+- Calm the person in distress.
+- Ask about needs and concerns.
+- Help the person(s) in distress to find solutions to their needs and problems.
+
+##### *LINK* (Take action to help) 
+
+- Find information.
+- Connect with the person’s loved ones and social support.
+- Tackle practical problems.
+-	Obtain services and other help.
 
 ### Active listening is a key component of PFA.
 

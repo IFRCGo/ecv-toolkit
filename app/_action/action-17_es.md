@@ -11,7 +11,8 @@ lang: es
 ### ¿Qué es una prueba MUAC?
 
 - La prueba MUAC mide la circunferencia de (o la distancia alrededor) del brazo superior medio.
-- ¿Por qué es importante la prueba MUAC?
+
+### ¿Por qué es importante la prueba MUAC?
 - La prueba MUAC puede identificar a los niños de entre 6 meses y 5 años que padecen malnutrición (emaciación o adelgazamiento) y corren el riesgo de morir.
 
 ### Lo que necesita saber
@@ -41,7 +42,7 @@ lang: es
 
 |Color | Estado Nutricional | MUAC (cm) | MUAC (mm) | Acción |
 |---|---|---:|---:|---|
-|Rojo | Severo | <1.5cm | <115 mm | Refiéralo al centro de salud que proporcione alimentación terapéutica más cercano. |
+|Rojo | Severo | <11.5cm | <115 mm | Refiéralo al centro de salud que proporcione alimentación terapéutica más cercano. |
 |Amarillo | Moderado | 11.5-12.4 cm | 115-124 mm | Refiéralo al centro de salud o de nutrición más cercano que proporcione alimentación terapéutica (si está disponible). |
 |Verde | Saludable | >12.5 cm | >125 mm | Anime al cuidador a que continúe con el cuidado higiénico y las practicas de alimentación saludables y a que regrese si el niño se enferma o debilita. |
 

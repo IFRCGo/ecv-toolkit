@@ -10,12 +10,12 @@ lang: en
 
 ### Overview
 
-- Some diseases are very serious and can kill children or adults. These diseases include plague<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, meningococcal meningitis<a class="crosslink" href="{% render_depth %}{% render_link disease|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, malaria<a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, cholera<a class="crosslink" href="{% render_depth %}{% render_link disease|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and tuberculosis.
+- Some diseases are very serious and can kill children or adults. These diseases include plague<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, meningococcal meningitis<a class="crosslink" href="{% render_depth %}{% render_link disease|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, malaria<a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and tuberculosis.
 - People who have been in close contact with a person who has these diseases can be infected very easily. However, before they show any symptoms or signs of a disease, people can take medication that will prevent them from falling sick. This is called chemoprophylaxis: it means taking medication as a preventive measure to stop a healthy close contact from falling sick.
 
 ### What you need to know
 
-- Medications are given to close contacts of a patients with plague<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, meningococcal meningitis<a class="crosslink" href="{% render_depth %}{% render_link disease|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, cholera<a class="crosslink" href="{% render_depth %}{% render_link disease|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and tuberculosis.
+- Medications are given to close contacts of a patients with plague<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, meningococcal meningitis<a class="crosslink" href="{% render_depth %}{% render_link disease|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and tuberculosis.
 - Close contacts include household members, partners, and children in the same class or dormitory.
 - Medications against malaria<a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> should be given to children in areas with moderate or severe malaria transmission. (Treatment is given three times during the first year of life at approximately 10 weeks, 14 weeks, and 9 months of age, corresponding to the routine vaccination schedule.)
 - Medications against malaria<a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> should also be given to pregnant women in areas with moderate or severe malaria transmission. (Care visits should start as soon as possible after the first three months of pregnancy. Each dose should be given at least one month apart. Three or more doses are recommended in the course of each pregnancy.)
@@ -23,8 +23,8 @@ lang: en
 ### Key messages
 
 - Some serious diseases can be prevented if the close contacts of sick people take medication (such as antibiotics).
-- The close contacts of patients with plague, meningococcal meningitis, tuberculosis and cholera are likely to become sick and may die of these diseases if they do not take chemoprophylaxis (preventive medicine).
-- Infants and pregnant women in areas with moderate or severe malaria transmission should receive chemoprophylaxis.
+- The close contacts of patients with plague<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, meningococcal meningitis<a class="crosslink" href="{% render_depth %}{% render_link disease|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and tuberculosis are likely to become sick and may die of these diseases if they do not take chemoprophylaxis (preventive medicine).
+- Infants and pregnant women in areas with moderate or severe malaria<a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> transmission should receive chemoprophylaxis.
 
 ### Key actions
 

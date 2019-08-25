@@ -30,7 +30,7 @@ lang: en
 
 - Give the recommended amount of ORS (measure against either the patient’s age or weight).
 - If the patient passes watery stools or wants more ORS than shown in the table above, give more.
-- If the patient does not improve or some of the signs of severe dehydration appear, refer the patient to a health facility (see Action tool 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
+- If the patient does not improve or some of the signs of severe dehydration appear, refer the patient to a health facility (see Action tool 4<a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 | Age |	Less than 4 months | 4-11 months | 12-23 months | 2-4 years | 5-14 years | 15 years or older |
 |---|---|---|---|---|---|---|

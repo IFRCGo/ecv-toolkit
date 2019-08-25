@@ -23,14 +23,14 @@ lang: es
 
 #### Hobfoll et al (2007) propusieron que cinco principios debieran impulsar el apoyo psicosocial durante las emergencias. Las intervenciones deben garantizar la seguridad y promover:
 
-- Calma. 
-- Eficacia personal y colectiva. 
-- Conectividad. 
+- Calma.
+- Eficacia personal y colectiva.
+- Conectividad.
 - Esperanza.
 
 ### Las actividades de apoyo psicosocial incluyen:
 
-- Psicoeducación y sensibilización sobre temas psicosociales. 
+- Psicoeducación y sensibilización sobre temas psicosociales.
 - Habilidades para la vida y habilidades vocacionales.
 - Actividades recreativas y creativas.
 - Deportes y actividades físicas.
@@ -60,15 +60,30 @@ lang: es
 
 PAP se trata de consolar a alguien que está sufriendo y ayudarlo a sentirse seguro y tranquilo. Proporciona apoyo emocional y ayuda a las personas para abordar necesidades básicas inmediatas y encontrar información, servicios y apoyo social. Los tres principios de acción de Mirar, Escuchar y Vincular indican que la PAP es una forma de acercarse a una persona que está en aprietos, evaluar qué ayuda necesita y ayudarle a obtener esa ayuda.
 
-| *MIRAR* (Prestar atención a la situación) | *ESCUCHE* (Preste atención a la persona) | *VINCULE* (Tome acción para ayudar) |
-|---|---|---|
-| Establezca lo que ha estado o está sucediendo.  | Preséntese. | Encuentre información. |
-| Establezca quién necesita ayuda. | Preste atención y escuche activamente. | Conéctese con los seres queridos de la persona y con el apoyo social.
-| Identifique riesgos de seguridad y protección.  | Acepte los sentimientos de los demás. | Aborde problemas prácticos.
-| Identifique lesiones físicas. | Tranquilice a la persona en apuros. |	Obtenga servicios y otras ayudas.
-| Identifique necesidades básicas y prácticas inmediatas.  | Pregunte acerca de las necesidades y preocupaciones. | |
-| Observe las reacciones emocionales. | Ayude a las personas en apuros a encontrar soluciones a sus necesidades y problemas.
- | |
+##### *MIRAR* (Prestar atención a la situación)
+
+- Establezca lo que ha estado o está sucediendo.
+- Establezca quién necesita ayuda.
+- Identifique riesgos de seguridad y protección.
+- Identifique lesiones físicas.
+- Identifique necesidades básicas y prácticas inmediatas.
+- Observe las reacciones emocionales.
+
+##### *ESCUCHE* (Preste atención a la persona)
+
+- Preséntese.
+- Preste atención y escuche activamente.
+- Acepte los sentimientos de los demás.
+- Tranquilice a la persona en apuros.
+- Pregunte acerca de las necesidades y preocupaciones.
+- Ayude a las personas en apuros a encontrar soluciones a sus necesidades y problemas.
+
+##### *VINCULE* (Tome acción para ayudar)
+
+-  Encuentre información. |
+- Conéctese con los seres queridos de la persona y con el apoyo social.
+- Aborde problemas prácticos.
+-	Obtenga servicios y otras ayudas.
 
 ### La escucha activa es un componente clave de PAP
 - Concéntrese activamente en lo que dice la persona afectada.

@@ -18,7 +18,7 @@ lang: en
 - ORS comes in small packets in the form of a powder. It needs to be diluted before use.
 - ORS packets can be obtained at your local National Society branch, at a health centre, or in the community oral rehydration point (see Action tool 7<a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 - Follow the instructions on the packet to find out how much water is needed to dilute the contents of each packet.
-- Always use clean water to dilute ORS (see Action tool 30<a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Always use clean water to dilute ORS (see Action tool 30<a class="crosslink" href="{% render_depth %}{% render_link action|30 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 ### Preparing and administering ORS
 

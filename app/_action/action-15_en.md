@@ -28,7 +28,7 @@ lang: en
 
 Children who suffer from acute malnutrition can be identified in two ways:
 1.	**Measure the mid upper arm circumference (MUAC).** This identifies "wasted" (thin) children. Wrap a coloured or numbered MUAC tape round the left arm of the child (see Action tool 17<a class="crosslink" href="{% render_depth %}{% render_link action|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> for instructions). If the circumference of the child’s arm falls within the red or yellow indicator, the child is malnourished. Red signals acute malnutrition: children in this condition should be referred urgently for medical care. A yellow indication also means the child should be admitted to a nutrition programme and treated as soon as possible.
-2.	**Do a bilateral oedema test.** This identifies "swollen" children (see Action tool 18<a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a). Press the tops of a child’s feet for at least three seconds and observe whether an indentation or pit (oedema) persists. If it does, bilateral oedema is present which means that the child needs to be seen at the health care centre immediately.
+2.	**Do a bilateral oedema test.** This identifies "swollen" children (see Action tool 18<a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). Press the tops of a child’s feet for at least three seconds and observe whether an indentation or pit (oedema) persists. If it does, bilateral oedema is present which means that the child needs to be seen at the health care centre immediately.
 
 ### Where can screening be done? (Appropriate screening locations)
 

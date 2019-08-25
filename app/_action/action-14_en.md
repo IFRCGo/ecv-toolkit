@@ -15,7 +15,7 @@ lang: en
 
 ### What you need to know
 
-- Breast milk is a clean, nutritious and cheap food for babies (see Action tool 13 <a class="crosslink" href="{% render_depth %}{% render_link action|13 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). It is the safest choice in emergencies when people may lack access to safe water and hygiene, a regular supply of food, income or a livelihood.
+- Breast milk is a clean, nutritious and cheap food for babies (see Action tool 13<a class="crosslink" href="{% render_depth %}{% render_link action|13 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). It is the safest choice in emergencies when people may lack access to safe water and hygiene, a regular supply of food, income or a livelihood.
 -	Breastfeeding helps fight disease. In most circumstances, a mother should continue to breastfeed when she or her child is unwell.
 -	Stressed, malnourished and hungry mothers can still make enough milk to feed their babies. If milk flow stops, it may be possible to restart it with support and counseling. Other options may also be available, such as milk banks, wet nurses, etc.
 -	Use of Breast Milk Substitutes (BMS) and bottle-feeding can increase the incidence of diarrhoea and death when bottles/teats are not adequately cleaned or sterilized, or the water used is dirty. Any distribution of artificial milk, cows’ milk or other animal milk, bottles or teats should be reported to the cluster or to another authority responsible for monitoring the WHO Code on Breast Milk Substitutes.
@@ -23,6 +23,7 @@ lang: en
 -	Find out the location of quiet areas, breastfeeding tents, caregiver support groups, mothers’ groups and other services that support families and carers who are feeding infants and young children.
 
 ### What you can do: breastfeeding
+
 -	Provide support to mothers, families and carers with babies.
     - Tell them that breastmilk is the best food, even when mothers are stressed, malnourished or hungry.
     - To sustain their milk supply, encourage mothers to give breast feeds frequently (day and night, at least eight times).
@@ -53,6 +54,7 @@ lang: en
 - Advocate that food distributions for both children and pregnant and lactating women (PLWs) should include appropriately textured first foods for young children (such as purées, mashed and finger foods), supplementary foods (if required, such as corn soya blend (CSB), micronutrient powders (MNPs), and other nutrition supplements, such as ready-to-use therapeutic foods (like Plumpy'Nut).  
 
 ### Community messages
+
 -	Breastfeeding nourishes, protects and saves infant lives, especially in emergencies. During emergencies, breastfeeding is the safest way to feed infants.
 -	Do not use bottles or teats because these can make infants sick. If a child is being given infant formula, use a cup and spoon because they are easier to keep clean in less sanitary environments.
 -	Do not give foods other than breastmilk to infants until they are about six months of age.
