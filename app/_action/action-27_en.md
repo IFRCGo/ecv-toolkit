@@ -20,7 +20,7 @@ lang: en
 - When many people live together in the same space, they can also catch infections more easily from one another. If possible, people should have enough space to move and breathe freely.
 - Always ventilate shared or communal shelters and emergency accommodation.
 - Proper shelters that protect people from rain, wind, the cold and the sun also help sick people to recover from diseases.
-- Diseases that spread via contaminated water or bad sanitation (diarrhoeal diseases, cholera, typhoid, hepatitis E, for example) will spread more easily if clean water is lacking or sound, clean toilets are not set close to where people shelter.
+- Diseases that spread via contaminated water or bad sanitation (diarrhoeal diseases<a class="crosslink" href="{% render_depth %}{% render_link action|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, cholera<a class="crosslink" href="{% render_depth %}{% render_link action|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, typhoid<a class="crosslink" href="{% render_depth %}{% render_link action|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, hepatitis E<a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, for example) will spread more easily if clean water is lacking or sound, clean toilets are not set close to where people shelter.
 
 ### What you can do
 

@@ -31,7 +31,7 @@ lang: en
 - Cook animal products thoroughly, including meat and eggs, to kill germs.
 - Wash vegetables and fruits thoroughly with clean water.
 - Wash utensils (plates, forks, knives, etc.) with clean water and soap. Use a rack for drying dishes.
-- See Action tool 31.
+- See Action tool 31 <a class="crosslink" href="{% render_depth %}{% render_link action|31 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 #### Personal hygiene
 
@@ -55,7 +55,7 @@ lang: en
 - Have a conversation with members of your community about hygiene. Include women, community leaders, caregivers and decision-makers. Make sure they understand that good hygiene is important and can stop the spread of disease.
 - Familiarize yourself with the ways in which people collect water, store food and water, dispose of rubbish, wash themselves, and use latrines.
 - Seek out households where people are sick. Help these households to identify risky hygiene practices and change their behaviour.
-- Show people in your community how to build simple handwashing facilities, such as a "tippy-tap". 
+- Show people in your community how to build simple handwashing facilities, such as a "tippy-tap".
 - Be a good role model for others in your community. Use a clean latrine, dispose of your rubbish, wash your hands often.
 - Find out if you can work with local health centres and schools to improve their hygiene and sanitation. You might hold a hygiene session for students or teachers, or help the clinic to build a handwashing station and outside latrine for patients.
 
