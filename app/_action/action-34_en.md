@@ -10,7 +10,7 @@ lang: en
 
 ### Overview
 
-- Washing your hands is one of the most important ways to prevent the spread of many epidemics, especially diarrhoeal diseases.
+- Washing your hands is one of the most important ways to prevent the spread of many epidemics, especially diarrhoeal diseases <a class="crosslink" href="{% render_depth %}{% render_link disease|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 - Handwashing is easy and everyone (including children) can do it.
 - To be able to wash their hands, people need running water, liquid soap or ash, and paper towels.
 
@@ -27,7 +27,7 @@ lang: en
 -	Washing or changing a baby or infant.
 - Coughing or sneezing.
 - Caring for someone who is ill.
-- Coming into contact with a sick person in an epidemic (see Action tool 35<a class="crosslink" href="{% render_depth %}{% render_link action|35 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Coming into contact with a sick person in an epidemic (see Action tool 35 <a class="crosslink" href="{% render_depth %}{% render_link action|35 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 -	Handling raw meat.
 - Contact with animals (including pets).
 - Handling rubbish or anything that might be contaminated.

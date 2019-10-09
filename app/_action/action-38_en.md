@@ -13,7 +13,7 @@ lang: en
 - Rubbish can attract rodents and create a breeding area for flies and mosquitoes.
 - Animal faeces near houses and in the village increase the number of flies and insects that carry germs, cause diseases, and contaminate water sources.
 - Animal faeces around houses and in the village attract and multiply the flies and insects that carry germs, cause diseases and contaminate water sources.
-- Mosquitoes (which carry malaria<a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, dengue fever<a class="crosslink" href="{% render_depth %}{% render_link disease|13 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, chikungunya<a class="crosslink" href="{% render_depth %}{% render_link disease|12 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Zika<a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and yellow fever<a class="crosslink" href="{% render_depth %}{% render_link disease|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) breed in standing water.
+- Mosquitoes (which carry malaria <a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, dengue fever <a class="crosslink" href="{% render_depth %}{% render_link disease|13 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, chikungunya <a class="crosslink" href="{% render_depth %}{% render_link disease|12 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Zika <a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and yellow fever <a class="crosslink" href="{% render_depth %}{% render_link disease|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) breed in standing water.
 - Rubbish should be burned or buried.
 - Vegetation should be cleared from river banks and ponds near the village.
 - The area around water sources (pumps, wells) should be kept clean.
@@ -28,7 +28,7 @@ Tell community members how important it is to keep their community clean. Organi
 -	Help to organize activities on agreed "clean-up" days.
 -	Ask community leaders to organize volunteer groups for each clean-up initiative.
 -	Organize special clean-up days in which all members of the community participate (twice a year or more often if possible).
--	Organize a community initiative to plan and create a central garbage disposal area. 
+-	Organize a community initiative to plan and create a central garbage disposal area.
 
 Motivate and support the community to work together to:
 -	Keep the community free of animal faeces.
