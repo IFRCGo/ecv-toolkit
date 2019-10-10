@@ -16,7 +16,7 @@ lang: es
 ### Lo que necesita saber
 
 - Las heces de animales alrededor de las casas y del pueblo atraen y multiplican las moscas e insectos que transportan gérmenes, que causan enfermedades y contaminan las fuentes de agua.
-- Los mosquitos (que son portadores de malaria, fiebre del dengue, chikungunya, Zika y fiebre amarilla) se reproducen en aguas estancadas.
+- Los mosquitos (que son portadores de malaria <a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre del dengue <a class="crosslink" href="{% render_depth %}{% render_link disease|13 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, chikungunya <a class="crosslink" href="{% render_depth %}{% render_link disease|12 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Zika <a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y fiebre amarilla <a class="crosslink" href="{% render_depth %}{% render_link disease|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) se reproducen en aguas estancadas.
 - La basura debe ser quemada o enterrada.
 - La vegetación debe ser eliminada de las orillas de los ríos y estanques cerca del pueblo.
 - El área alrededor de las fuentes de agua (bombas, pozos) debe mantenerse limpia.
@@ -32,11 +32,11 @@ lang: es
 
 ### Motive y apoye a la comunidad para trabajar juntos en:
 - Mantener a la comunidad libre de excrementos animales.
-- Mantener a la comunidad libre de charcos y otros criaderos de mosquitos. 
+- Mantener a la comunidad libre de charcos y otros criaderos de mosquitos.
 - Mantener a la comunidad libre de basura y desperdicios (quemándola o enterrándola).
 - Limpiar las áreas alrededor de las fuentes de agua (como bombas y pozos).
 - Crear y mantener canales de drenaje de agua alrededor de las fuentes de agua.
 
-![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"} 
-Asegúrese de eliminar los residuos de manera adecuada. 
+![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
+Asegúrese de eliminar los residuos de manera adecuada.
 Esto ayudará a proteger a la comunidad de los gérmenes.

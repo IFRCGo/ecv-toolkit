@@ -11,7 +11,7 @@ lang: es
 ### Resumen
 
 - En algunas epidemias, deberá evitar que los gérmenes en artículos (como sábanas y ropa contaminada por los fluidos corporales del paciente) se propaguen a otras personas.
-- Esto es especialmente importante cuando se trata de Ébola, fiebre de Marburgo, fiebre de Lassa, peste y viruela del simio.
+- Esto es especialmente importante cuando se trata de Ébola<a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre de Marburgo<a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre de Lassa<a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, peste<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y viruela del simio<a class="crosslink" href="{% render_depth %}{% render_link disease|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 - Un incinerador puede quemar tales artículos y evitar que la enfermedad se propague a otros.
 - No incinere artículos por sí mismo si hay una alternativa disponible, como la incineración en instalaciones de salud.
 - Tenga mucho cuidado al construir y usar incineradores, ya que pueden ser peligrosos. Siempre tenga a mano algo para apagar el fuego (por ejemplo, un cubo de agua o arena).

@@ -10,7 +10,7 @@ lang: es
 
 ### Resumen
 
-- Lavarse las manos es una de las formas más importantes de prevenir la propagación de muchas epidemias, especialmente las enfermedades diarreicas.
+- Lavarse las manos es una de las formas más importantes de prevenir la propagación de muchas epidemias, especialmente las enfermedades diarreicas <a class="crosslink" href="{% render_depth %}{% render_link disease|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 - Lavarse las manos es fácil y todos (incluso los niños) pueden hacerlo.
 - Para poder lavarse las manos, las personas necesitan agua corriente, jabón líquido o cenizas y toallas de papel.
 
@@ -26,7 +26,7 @@ lang: es
 - Lavar o cambiar un bebé o un infante.
 - Toser o estornudar.
 - Cuidar a alguien que está enfermo.
-- Entrar en contacto con una persona enferma en una epidemia (ver herramienta de acción 35).
+- Entrar en contacto con una persona enferma en una epidemia (ver herramienta de acción 35 <a class="crosslink" href="{% render_depth %}{% render_link action|35 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 - Manipular carne cruda.
 - Tener contacto con animales (incluyendo mascotas).
 - Manejar basura o cualquier cosa que pueda estar contaminada.

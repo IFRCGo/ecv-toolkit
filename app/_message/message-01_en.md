@@ -2,7 +2,7 @@
 # MESSAGE #
 # ======= #
 layout: card
-identifier: 1 
+identifier: 1
 title: Preparing and giving oral rehydration solution (ORS)
 
 lang: en

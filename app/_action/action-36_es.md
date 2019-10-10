@@ -13,7 +13,7 @@ lang: es
 - Muchas enfermedades se propagan por vectores.
 - Los vectores son insectos o animales que transmiten una enfermedad infecciosa a través de una picadura, o por el contacto con su orina, heces, sangre, etc.
 - Los vectores incluyen mosquitos, moscas, garrapatas, roedores, cucarachas y pulgas.
-- Las enfermedades transmitidas por vectores incluyen malaria, fiebre del dengue, Zika, chikungunya, fiebre amarilla, fiebre del Valle del Rift y la peste.
+- Las enfermedades transmitidas por vectores incluyen malaria <a class="crosslink" href="{% render_depth %}{% render_link disease|14 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre del dengue <a class="crosslink" href="{% render_depth %}{% render_link disease|13 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Zika <a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, chikungunya <a class="crosslink" href="{% render_depth %}{% render_link disease|12 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre amarilla <a class="crosslink" href="{% render_depth %}{% render_link disease|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre del Valle del Rift <a class="crosslink" href="{% render_depth %}{% render_link disease|26 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y la peste <a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 ### Como puede ayudar
 
