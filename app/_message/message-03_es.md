@@ -8,4 +8,6 @@ title: Lactancia materna
 lang: es
 ---
 
-![cmt-03_es]({% render_depth %}assets/img/graphics/cmt-03_es.png){:class="my-img-class"}
+![at-13]({% render_depth %}assets/img/graphics/at-13.png){:class="my-img-class"}
+
+### La lactancia materna es nutritiva y ¡Puede evitar que su hijo se enferme!

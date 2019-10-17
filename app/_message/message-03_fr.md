@@ -3,11 +3,11 @@
 # ======= #
 layout: card
 identifier: 3
-title: Breastfeeding
+title: Allaitement au sein
 
-lang: en
+lang: fr
 ---
 
 ![at-13]({% render_depth %}assets/img/graphics/at-13.png){:class="my-img-class"}
 
-### Breastfeeding is nutritious and can stop your child from getting sick.
+### L’allaitement au sein est nutritif et peut empêcher que votre enfant tombe malade.

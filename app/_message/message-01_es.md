@@ -10,7 +10,7 @@ lang: es
 
 ![cmt-01_es]({% render_depth %}assets/img/graphics/cmt-01_es.png){:class="my-img-class"}
 
-El cólera puede prevenirse mediante:
+### El cólera puede prevenirse mediante:
 - Beber agua potable, agua que haya sido hervida por lo menos un minuto.
 - Mantener el agua en un recipiente limpio con tapa.
 - Comer alimentos calientes y cocinados.
