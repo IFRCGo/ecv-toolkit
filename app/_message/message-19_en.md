@@ -8,4 +8,6 @@ title: Safe burial practices
 lang: en
 ---
 
-![cmt-19_en]({% render_depth %}assets/img/graphics/cmt-19_en.png){:class="my-img-class"}
+![at-21]({% render_depth %}assets/img/graphics/at-21.png){:class="my-img-class"}
+
+### Touching the body of someone who died from infectious disease is very risky. Always ask for professional help and advice before burying dead bodies.

@@ -2,10 +2,12 @@
 # MESSAGE #
 # ======= #
 layout: card
-identifier: 21 
+identifier: 21
 title: Social distancing
 
 lang: en
 ---
 
-![cmt-21_en]({% render_depth %}assets/img/graphics/cmt-21_en.png){:class="my-img-class"}
+![at-28_en]({% render_depth %}assets/img/graphics/at-28_en.png){:class="my-img-class"}
+
+### Keeping a safe distance from those who have a disease is one of the best ways to prevent its spread.

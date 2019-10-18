@@ -3,8 +3,8 @@
 # ======= #
 layout: card
 identifier: 2
-action: [2]
-title: Message communautairé 2
+title: Soins à administrer à une personne fiévreuse
+
 lang: fr
 ---
 

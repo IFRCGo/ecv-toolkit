@@ -8,4 +8,6 @@ title: Good ventilation
 lang: en
 ---
 
-![cmt-22_en]({% render_depth %}assets/img/graphics/cmt-22_en.png){:class="my-img-class"}
+![at-27]({% render_depth %}assets/img/graphics/at-27.png){:class="my-img-class"}
+
+### Having a good flow of air through your home can help to prevent diseases that are spread by coughing and sneezing. Open windows to let fresh air in.

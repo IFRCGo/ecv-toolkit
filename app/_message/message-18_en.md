@@ -8,4 +8,6 @@ title: Coughing correctly
 lang: en
 ---
 
-![cmt-18_en]({% render_depth %}assets/img/graphics/cmt-18_en.png){:class="my-img-class"}
+![at-26_en]({% render_depth %}assets/img/graphics/at-26_en.png){:class="my-img-class"}
+
+### Cough into your sleeve or a handkerchief/cloth so that you do not spread germs to others.

@@ -8,4 +8,6 @@ title: Buena ventilación
 lang: es
 ---
 
-![cmt-22_es]({% render_depth %}assets/img/graphics/cmt-22_es.png){:class="my-img-class"}
+![at-27]({% render_depth %}assets/img/graphics/at-27.png){:class="my-img-class"}
+
+### Tener un buen flujo de aire a través de su hogar puede ayudar a prevenir enfermedades que se propagan al toser y estornudar. Abra las ventanas para dejar entrar el aire fresco.

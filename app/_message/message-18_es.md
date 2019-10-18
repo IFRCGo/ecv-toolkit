@@ -8,4 +8,6 @@ title: Tosiendo correctamente
 lang: es
 ---
 
-![cmt-18_es]({% render_depth %}assets/img/graphics/cmt-18_es.png){:class="my-img-class"}
+![at-26_es]({% render_depth %}assets/img/graphics/at-26_es.png){:class="my-img-class"}
+
+### Tosa en su manga o en un pañuelo / tela para no contagiar gérmenes a otras personas.

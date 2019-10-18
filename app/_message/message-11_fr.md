@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 11
-title: 11Nettoyage des endroits où les moustiques se reproduisent
+title: Nettoyage des endroits où les moustiques se reproduisent
 
 lang: fr
 ---
