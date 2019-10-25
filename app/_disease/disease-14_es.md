@@ -22,13 +22,16 @@ lang: es
 
 - Dormir bajo un mosquitero tratado con insecticida por la noche.
 - Use cortinas tratadas con insecticida.
-- Aplicar fumigación de interiores con efecto residual (IRS por sus siglas en inglés). 
+- Aplicar fumigación de interiores con efecto residual (IRS por sus siglas en inglés).
 - Dar a los bebés y mujeres embarazadas terapia de prevención intermitente (IPT por sus siglas en inglés).
 - Elimine los criaderos de mosquitos mediante el control de vectores (eliminación de matorrales alrededor de las comunidades, fumigación, etc.).
-- Movilización social y comunicación para el cambio de comportamiento. 
+- Movilización social y comunicación para el cambio de comportamiento.
 - Uso de medicamentos anti-palúdicos (quimioprofilaxis).
 
+![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="my-img-class"}
+*Mère et enfant dormant sous une moustiquaire*
 ![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
+*Moustique*
 
 ### Personas vulnerables
 

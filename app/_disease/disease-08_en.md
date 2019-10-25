@@ -41,7 +41,8 @@ Measles is a very contagious virus that can make children very sick. In a commun
 - Displaced populations and those living in cramped or crowded conditions
 - People whose immune systems are compromised (for example, by leukaemia or HIV infection)
 
-![dt-08_en]({% render_depth %}assets/img/graphics/dt-08_en.png){:class="my-img-class"}
+![dt-08]({% render_depth %}assets/img/graphics/dt-08.png){:class="my-img-class"}
+*A child with measles*
 
 ### If an epidemic occurs
 

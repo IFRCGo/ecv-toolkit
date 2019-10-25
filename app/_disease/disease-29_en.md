@@ -22,8 +22,6 @@ lang: en
 - Measuring upper arm circumference (MUAC) test shows red or yellow.
 - Evidence of bilateral oedema (water is retained in both legs).
 
-![dt-29]({% render_depth %}assets/img/graphics/dt-29.png){:class="my-img-class"}
-
 ### Prevention
 
 - Adopt recommended care practices, including a varied supply of food

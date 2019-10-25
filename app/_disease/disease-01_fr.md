@@ -75,11 +75,5 @@ lang: fr
 -	Savent-ils préparer une SRO ? Disposent-ils des ressources nécessaires pour en produire ?
 -	Savent-ils traiter l’eau ?
 
-![dt-01_fr]({% render_depth %}assets/img/graphics/dt-01_fr.png){:class="my-img-class"}
-### Encourager l’allaitement exclusif pendant les six premiers mois – y compris lorsqu’un enfant est malade.
-Enfant déshydraté :
-- Yeux enfoncés
-- Bouche sèche
-- Léthargique/faible
-- Peau revient lentement en place lorsqu’elle est pincée
-- Peu ou pas d’urine
+![dt-01]({% render_depth %}assets/img/graphics/dt-01.png){:class="my-img-class"}
+*Encourager l’allaitement exclusif pendant les six premiers mois – y compris lorsqu’un enfant est malade. Enfant déshydraté : yeux enfoncés, bouche sèche, léthargique/faible, peau revient lentement en place lorsqu’elle est pincée, ou peu ou pas d’urine*

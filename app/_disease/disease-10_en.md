@@ -29,10 +29,11 @@ lang: en
 
 ### Vulnerable people
 
-- Children who are not vaccinated are most at risk. 
-- Children living in areas with poor hygiene, sanitation and water infrastructure and services. 
+- Children who are not vaccinated are most at risk.
+- Children living in areas with poor hygiene, sanitation and water infrastructure and services.
 
 ![dt-10]({% render_depth %}assets/img/graphics/dt-10.png){:class="my-img-class"}
+*A child with polio*
 
 ### If an epidemic occurs
 
@@ -53,12 +54,12 @@ Make a map of the community and mark the information you gather on the map. Reco
 - Was that person fully vaccinated against polio?
 - How many people live in the affected community?
 - How many children under 15 years old live in the affected community?
-- Are children in the affected community vaccinated for polio (orally or by injectable vaccine)? How many are not? 
-- Do strong cultural beliefs or perceptions about vaccination prevent children from being vaccinated? 
+- Are children in the affected community vaccinated for polio (orally or by injectable vaccine)? How many are not?
+- Do strong cultural beliefs or perceptions about vaccination prevent children from being vaccinated?
 - Who and where are the vulnerable people?
 - Are there any health services? Where?
 - Have the health services been alerted to a potential polio case?
 - Is a vaccination campaign planned?
-- Is a social mobilization or health promotion programme in place? 
-- Which sources of information do people use most? 
+- Is a social mobilization or health promotion programme in place?
+- Which sources of information do people use most?
 - Are rumours or is misinformation about the disease spreading in the community?

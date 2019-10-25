@@ -57,7 +57,7 @@ Make a map of the community and mark the information you gather on the map. Reco
 - When did people start to fall sick with diarrhoea?
 - How many people have fallen sick with diarrhoea? Where?
 - How many people have died from diarrhoea? Where?
-- How many people live in the affected community or area? How many children under five years of age live in the area? 
+- How many people live in the affected community or area? How many children under five years of age live in the area?
 - Who and where are the vulnerable people?
 - Are children in the affected community generally well nourished?
 - Do people always have enough food?
@@ -75,5 +75,5 @@ Make a map of the community and mark the information you gather on the map. Reco
 -	Do people know how to make oral rehydration solution (ORS)? Do they have resources at hand to make it?
 -	Do people know how to treat water?
 
-![dt-01_en]({% render_depth %}assets/img/graphics/dt-01_en.png){:class="my-img-class"}
-### Encourage exclusive breastfeeding for the first 6 months of life ‒ including when a child is sick. A dehydrated child may experience the following:
+![dt-01]({% render_depth %}assets/img/graphics/dt-01.png){:class="my-img-class"}
+*Encourage exclusive breastfeeding for the first 6 months of life ‒ including when a child is sick. A dehydrated child may experience the following: sunken eyes, dry mouth, lethargic/weak, skin pinch returns slowly, or little or no urine*

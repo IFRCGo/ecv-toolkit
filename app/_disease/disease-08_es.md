@@ -54,7 +54,8 @@ El sarampión es un virus muy contagioso que puede enfermar gravemente a los ni
 - Aumente la movilización social y la comunicación para el cambio de comportamiento.
 - Vigile la malnutrición.
 
-![dt-08_es]({% render_depth %}assets/img/graphics/dt-08_es.png){:class="my-img-class"}
+![dt-08]({% render_depth %}assets/img/graphics/dt-08.png){:class="my-img-class"}
+*Un niño con sarampión*
 
 ### Evaluación basada en la comunidad
 

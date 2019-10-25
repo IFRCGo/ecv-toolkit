@@ -22,8 +22,6 @@ lang: fr
 - Le test de mesure du périmètre brachial tombe dans la zone jaune ou rouge.
 - Preuve d’œdème bilatéral (rétention d’eau dans les deux jambes).
 
-![dt-29]({% render_depth %}assets/img/graphics/dt-29.png){:class="my-img-class"}
-
 ### Prévention
 
 - Adopter les pratiques recommandées en matière de soins, notamment en assurant une alimentation diversifiée

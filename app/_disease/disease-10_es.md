@@ -29,10 +29,11 @@ lang: es
 
 ### Personas vulnerables
 
-- Los niños que no están vacunados están en mayor riesgo. 
+- Los niños que no están vacunados están en mayor riesgo.
 - Niños que viven en áreas con mala higiene, saneamiento e infraestructura y servicios de agua.
 
 ![dt-10]({% render_depth %}assets/img/graphics/dt-10.png){:class="my-img-class"}
+*Niña con polio*
 
 ### Si ocurre una epidemia
 
