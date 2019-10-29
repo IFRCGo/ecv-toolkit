@@ -26,5 +26,5 @@ lang: fr
 2.	Indiquez sur la carte les cas nouveaux ou faisant l’objet de traitements. Constituez des équipes pour couvrir les zones se trouvant sur la carte. Chaque équipe doit déterminer ce qu’elle peut faire dans son secteur (combien y a-t-il de malades, qui est vulnérable, combien de malades ont été adressés aux autorités sanitaires et toute autre information pertinente). En combinant les cartes des différentes équipes, vous pourrez voir quelles zones de l’épidémie vous couvrez, lesquelles vous ne couvrez peut-être pas et les détails correspondant à chacune des zones. Cela vous aidera à planifier les mesures à prendre.
 3.	Les cartes sont souvent plus faciles à comprendre que des longs discours.
 
-### Élaboration d’une carte de la communauté
 ![at-02]({% render_depth %}assets/img/graphics/at-02.png){:class="my-img-class"}
+*Élaboration d’une carte de la communauté*

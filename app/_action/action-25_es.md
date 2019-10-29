@@ -32,3 +32,6 @@ Normalmente, los voluntarios no administran vacunas directamente a los niños, 
 - Ayude a los trabajadores de salud a garantizar que todas las personas en riesgo sean vacunadas, incluso en áreas de difícil acceso.
 - Utilice mensajes simples y directos.
 - Use información, educación y materiales de comunicación, como las tarjetas de mensajes de la comunidad en esta Caja de herramientas, porque las imágenes siempre ayudan a las personas a comprender mejor los mensajes.
+
+![at-25]({% render_depth %}assets/img/graphics/at-25.png){:class="my-img-class"}
+*Campaña de vacunación masiva*

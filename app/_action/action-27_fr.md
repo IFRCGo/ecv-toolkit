@@ -31,3 +31,4 @@ lang: fr
 - Lorsqu’une population se déplace à la suite d’un con it ou d’une catastrophe, les abris qu’elle occupe sont généralement moins bons que ceux dans lesquels elle vivait auparavant. Aidez-la à avoir le meilleur abri possible, disposant d’une aération, d’un bon approvisionnement en eau, de latrines et de structures d’élimination des déchets à proximité. Encouragez les gens à se laver les mains après être allés aux toilettes, après avoir nettoyé un enfant et avant de cuisiner et de manger. Encouragez-les également à laver régulièrement les récipients d’eau avec de l’eau et du savon, et à ne pas laisser de déchets ou de déjections animales à proximité des habitations.
 
 ![at-27]({% render_depth %}assets/img/graphics/at-27.png){:class="my-img-class"}
+*Ouvrir les portes et les fenêtres pour permettre une bonne aération du logement*

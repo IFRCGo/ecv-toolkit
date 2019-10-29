@@ -39,6 +39,9 @@ lang: fr
 - Si une solution faite maison à partir de sel et de sucre est utilisée, vous devez enseigner aux soignants comment préparer la solution de manière sûre et correcte. Ils ne doivent pas se tromper en mélangeant les ingrédients. Il est également important d’utiliser l’eau la plus propre possible.
 - Vous pouvez ajouter 1⁄2 tasse de jus d’orange ou une banane écrasée pour que la solution ait meilleur goût.
 
+![at-09]({% render_depth %}assets/img/graphics/at-09.png){:class="my-img-class"}
+*Préparation d’une solution de réhydratation orale*
+
 ### Solution faite maison à partir de sel et de sucre
 
 1. Lavez-vous les mains avec du savon et de l’eau avant de préparer la solution.
@@ -52,5 +55,3 @@ lang: fr
 6. Vous pouvez ajouter 1⁄2 tasse de jus d’orange ou une banane écrasée pour que la solution ait meilleur goût.
 7. Si une SRO est encore nécessaire au bout de 24 heures, préparez une nouvelle solution.
 8. Si le patient ne va pas mieux ou que des signes de déshydratation grave apparaissent, amenez le patient dans un dispensaire.
-
-![at-09_fr]({% render_depth %}assets/img/graphics/at-09_fr.png){:class="my-img-class"}

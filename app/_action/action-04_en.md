@@ -26,3 +26,6 @@ lang: en
 -	Decide what methods are available for referral. Are there ambulances? Find out how to call them. Is there public transport? Can the National Society provide transport? Do people have money to pay for transport?
 -	Always carry the relevant disease tool with you when you are doing surveillance to help you remember what you should know about the disease and its symptoms.
 -	When you refer, always explain clearly to the family concerned what the disease is, what its symptoms are, and why you think referral is necessary. Give them information about the health facilities available and how to reach them by different means of transport.
+
+![at-04]({% render_depth %}assets/img/graphics/at-04.png){:class="my-img-class"}
+*A volunteer talking to a health professional*

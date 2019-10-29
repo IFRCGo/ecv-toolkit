@@ -50,3 +50,6 @@ Des mains ou des ustensiles sales peuvent aussi contaminer l’eau, au même tit
 - de prélever et de manipuler l’eau avec des ustensiles propres;
 - de faire bouillir l’eau, de la filtrer ou de la traiter avec du chlore si vous estimez qu’elle pourrait ne pas être salubre;
 - de maintenir la propreté de vos sources et de les protéger des animaux.
+
+![at-30]({% render_depth %}assets/img/graphics/at-30.png){:class="my-img-class"}
+*Utiliser des sources d’eau sûres. Conserver l’eau dans de bonnes conditions.*

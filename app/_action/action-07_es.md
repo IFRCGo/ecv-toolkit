@@ -13,6 +13,9 @@ lang: es
 - Los pacientes con diarrea, especialmente los niños, pueden perder mucho líquido de sus cuerpos y sufrir deshidratación.
 - La deshidratación puede causar enfermedades muy graves y, en ocasiones, la muerte, especialmente en asociación con diarrea acuosa aguda y cólera.
 
+![at-07]({% render_depth %}assets/img/graphics/at-07.png){:class="my-img-class"}
+*Niño deshidratado. Pellizcar la piel.*
+
 ### ¿Cómo evaluar si un paciente tiene deshidratación y en qué grado?
 
 | Etapa de deshidratación |	Signos |	Tratamiento

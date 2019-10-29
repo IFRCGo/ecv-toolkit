@@ -75,3 +75,4 @@ Les balances électroniques sont très précises, qu’elles fonctionnent ave
 8. La balance montre le poids de l’enfant. Lisez le poids à voix haute ; une deuxième personne le consigne immédiatement.
 
 ![at-16]({% render_depth %}assets/img/graphics/at-16.png){:class="my-img-class"}
+*Mesure de la taille et du poids d'un enfant*

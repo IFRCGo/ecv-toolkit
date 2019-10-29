@@ -36,3 +36,6 @@ lang: fr
 - Faites connaissance avec toutes les familles ayant des enfants de moins d’un an et rendez-leur visite une fois par mois.
 - Expliquez aux femmes enceintes qu’elles doivent se soumettre à des contrôles médicaux et devraient se faire administrer deux doses de vaccin contre le tétanos avant d’accoucher.
 - Si certains membres de la communauté ont peur des vaccins, aidez les travailleurs communautaires à les calmer et apaiser leurs craintes. Corriger les rumeurs et fausses informations au sujet de la vaccination.
+
+![at-24]({% render_depth %}assets/img/graphics/at-24.png){:class="my-img-class"}
+*Un enfant qui se fait vacciner. Carnet de vaccination.*

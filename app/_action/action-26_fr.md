@@ -27,7 +27,8 @@ toux) car cela constitue un comportement plus agréable pour votre entourage et
 n’est pas une bonne pratique car après avoir toussé dans votre main, vous pouvez toujours transmettre les germes en touchant des objets ou en serrant la main des gens. **Ne toussez pas dans votre main.**
 - La bonne façon de tousser sans transmettre des germes est d’utiliser un mouchoir ou votre manche. Lorsque vous toussez de cette manière, il y a moins de risques que vous répandiez des germes. **Toussez dans un mouchoir ou dans votre manche.**
 
-![at-026_fr]({% render_depth %}assets/img/graphics/at-26_en.png){:class="my-img-class"}
+![at-026]({% render_depth %}assets/img/graphics/at-26.png){:class="my-img-class"}
+*Les bonnes et mauvaises manières de tousser*
 
 ### Ce que vous pouvez faire
 

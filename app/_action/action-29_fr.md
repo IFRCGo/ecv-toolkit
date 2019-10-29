@@ -58,3 +58,4 @@ lang: fr
 - Essayez de collaborer avec les écoles et les centres de santé locaux pour améliorer leur hygiène et leur assainissement. Vous pouvez organiser un cours sur l’hygiène pour les élèves ou les enseignants, ou aider le dispensaire à construire un poste de lavage des mains ou une latrine en extérieur pour les patients.
 
 ![at-29]({% render_depth %}assets/img/graphics/at-29.png){:class="my-img-class"}
+*Lavez-vous les mains correctement avec du savon. Parlez aux membres de votre communauté.*

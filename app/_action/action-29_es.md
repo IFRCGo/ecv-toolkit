@@ -58,5 +58,6 @@ lang: es
 - Muestre a las personas de su comunidad cómo construir instalaciones sencillas para el lavado de manos, como un lavamanos tipo 'tippy-tap'.
 - Sea un buen ejemplo para otros en su comunidad. Use una letrina limpia, deseche su basura, lave sus manos con frecuencia.
 - Averigüe si puede trabajar con centros de salud y escuelas locales para mejorar su higiene y saneamiento. Usted podría realizar una sesión de higiene para estudiantes o maestros, o ayudar a la clínica a construir una estación de lavado de manos y letrinas externas para los pacientes.
- 
+
 ![at-29]({% render_depth %}assets/img/graphics/at-29.png){:class="my-img-class"}
+*Lávese las manos adecuadamente con jabón. Hable con su comunidad.*

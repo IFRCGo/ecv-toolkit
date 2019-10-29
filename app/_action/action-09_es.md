@@ -50,7 +50,8 @@ lang: es
 7. Si aún se necesita SRO después de 24 horas, mezcle una solución nueva.
 8. Si el paciente no mejora o presenta signos de deshidratación severa, lleva al paciente a una clínica de salud.
 
-![at-09_es]({% render_depth %}assets/img/graphics/at-09_es.png){:class="my-img-class"}
+![at-09]({% render_depth %}assets/img/graphics/at-09.png){:class="my-img-class"}
+*Preparación de una solución de rehidratación oral*
 
 ### SRO en casa
 - Algunos remedios tradicionales pueden ser una SRO eficaz y pueden evitar que el niño pierda demasiado líquido a causa de la diarrea. Informar a los cuidadores sobre los remedios tradicionales eficaces si no se dispone de paquetes de SRO y el centro de salud es inaccesible.

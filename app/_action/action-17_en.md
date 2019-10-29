@@ -38,6 +38,7 @@ lang: en
 13. If a child has a MUAC of less than 12.5 cm (coloured yellow or red on the tape) a referral form must be filled out so that the child can receive treatment.
 
 ![at-17]({% render_depth %}assets/img/graphics/at-17.png){:class="my-img-class"}
+*Measuring MUAC*
 
 ### What do different measures and colours mean?
 

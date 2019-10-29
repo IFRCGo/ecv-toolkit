@@ -14,6 +14,9 @@ lang: fr
 - Par exemple, il n’y a généralement pas grand-chose à faire pour traiter les patients lors de la première phase d’une pandémie de grippe, car il n’y a pas de vaccin et pas assez de médicaments. La mission la plus importante est **d’empêcher la grippe de se propager**.
 - La distance de sécurité est importante dans le contexte d’autres maladies telles qu’Ebola<a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, la fièvre de Marburga class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, la fièvre de Lassa<a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, la rougeolea class="crosslink" href="{% render_depth %}{% render_link disease|8 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> et d’autres infections respiratoires, la peste<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, le syndrome respiratoire du Moyen-Orient<a class="crosslink" href="{% render_depth %}{% render_link disease|24 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> et la variole du singe<a class="crosslink" href="{% render_depth %}{% render_link disease|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
+![at-28]({% render_depth %}assets/img/graphics/at-28.png){:class="my-img-class"}
+*Tousser sans se mettre la main devant la bouche répand des germes*
+
 ### Ce que vous devez savoir
 
 - **La distance de sécurité consiste à faire en sorte que les personnes gardent une certaine distance entre elles pour éviter les risques lors des épidémies de maladies très contagieuses.**
@@ -22,7 +25,8 @@ lang: fr
 - Si une personne se trouve à moins de 1 mètre d’un malade (de la grippe, par exemple), elle peut être contaminée en inhalant les gouttelettes diffusées dans l’air par le malade lorsqu’il éternue ou tousse.
 - La distance de sécurité consiste aussi à réduire au minimum les contacts physiques. Quand les personnes se touchent moins, elles ont moins de risques de se transmettre des germes. Évitez les poignées de main, embrassades et baisers sur la joue.
 
-![at-28_fr]({% render_depth %}assets/img/graphics/at-28_en.png){:class="my-img-class"}
+![at-28b]({% render_depth %}assets/img/graphics/at-28b.png){:class="my-img-class"}
+*Trop proches. Distance de sécurité à respecter.*
 
 ### Conseils pour vous protéger des maladies transmises par la toux et les éternuements
 

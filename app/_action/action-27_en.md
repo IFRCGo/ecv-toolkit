@@ -31,3 +31,4 @@ lang: en
 - When people move following conflict or disaster, the shelters they move into are usually less good than those they are used to. Help people to have the best possible shelter, one that is well ventilated and has a good water supply, with latrines and waste disposal facilities close by. Encourage people to wash their hands after going to the toilet, after cleaning a child, and before preparing or eating food. Encourage people to wash water storage containers regularly with soap and water, and to keep the area around the shelter free from rubbish and animal waste.
 
 ![at-27]({% render_depth %}assets/img/graphics/at-27.png){:class="my-img-class"}
+*Open doors and windows to get proper ventilation into the shelter*

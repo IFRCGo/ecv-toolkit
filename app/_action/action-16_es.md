@@ -54,11 +54,11 @@ Si no se conoce la edad, los niños menores de 87 cm se miden acostados. Si un 
 
 En una instalación de salud, la báscula está unida al techo o un soporte. En una comunidad, la báscula puede engancharse a un árbol o trípode o suspenderse de un palo sostenido por dos personas.
 
-1. Acople los pantalones de pesaje (o una hamaca de pesaje para bebés más pequeños) a la báscula. 
+1. Acople los pantalones de pesaje (o una hamaca de pesaje para bebés más pequeños) a la báscula.
 2. Compruebe que la aguja está en cero.
 3. Retire la ropa y los zapatos del niño.
 4. Coloque al niño en los pantalones de pesaje. Asegúrese de que el niño esté seguro, permaneciendo cerca y colocando un brazo delante y un brazo detrás del niño para mantenerlo equilibrado.
-5. Tome la lectura cuando el niño esté tranquilo y la aguja de la báscula haya dejado de moverse. La báscula se debe leer al nivel de los ojos y el valor se lee en voz alta a los 100 g más cercanos. 
+5. Tome la lectura cuando el niño esté tranquilo y la aguja de la báscula haya dejado de moverse. La báscula se debe leer al nivel de los ojos y el valor se lee en voz alta a los 100 g más cercanos.
 6. Repita la medición. Una segunda persona debe registrarla inmediatamente.
     - Si no se dispone de pantalones de pesaje, es posible suspender al niño con una prenda de ropa de la madre, o en un recipiente o cesta. En tales casos, asegúrese de que la báscula se reajuste adecuadamente a cero.
     - Si (por razones culturales o por el clima) no es posible retirar la ropa, un peso promedio para la ropa debe deducirse de la medida.
@@ -76,3 +76,4 @@ Las básculas electrónicas son muy precisas, ya sea que estén alimentadas p
 8. La escala muestra el peso del niño. Lea la medida en voz alta; una segunda persona la registra de inmediato.
 
 ![at-16]({% render_depth %}assets/img/graphics/at-16.png){:class="my-img-class"}
+*Medición de la estatura y el peso de un niño*

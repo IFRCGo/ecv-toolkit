@@ -33,4 +33,4 @@ lang: fr
 - Après la  n de l’épidémie, continuez d’encourager l’allaitement.
 
 ![at-13]({% render_depth %}assets/img/graphics/at-13.png){:class="my-img-class"}
-Nourrissez votre enfant uniquement au sein jusqu’à ses six mois. Ensuite, introduisez une alimentation adaptée tout en continuant d’allaiter.
+*Nourrissez votre enfant uniquement au sein jusqu’à ses six mois. Ensuite, introduisez une alimentation adaptée tout en continuant d’allaiter.*

@@ -28,10 +28,8 @@ lang: en
 - Social mobilization and behaviour change communication
 - Use of antimalarial medicines (chemoprophylaxis)
 
-![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="my-img-class"}
-*A woman and child under a mosquito net*
 ![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
-*Mosquito*
+*A mosquito. A woman and child under a mosquito net.*
 
 ### Vulnerable people
 

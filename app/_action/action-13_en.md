@@ -33,4 +33,4 @@ lang: en
 - After the epidemic is over, keep working to encourage breastfeeding.
 
 ![at-13]({% render_depth %}assets/img/graphics/at-13.png){:class="my-img-class"}
-Breastfeed exclusively from birth to six months of age. After this age, introduce appropriate food while continuing to breastfeed.
+*Breastfeed exclusively from birth to six months of age. After this age, introduce appropriate food while continuing to breastfeed.*

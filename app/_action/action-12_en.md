@@ -20,6 +20,9 @@ Fever is caused by the body’s reaction to infection. It signals to us that an 
 - Fever can be serious. If it is very high, it can cause convulsions (violent shaking of the body) in young children.
 - Fever can cause the body to lose liquids and become dehydrated.
 
+![at-12]({% render_depth %}assets/img/graphics/at-12.png){:class="my-img-class"}
+*Checking for fever*
+
 ### What to do
 
 1. Check the person’s condition.

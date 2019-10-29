@@ -48,4 +48,8 @@ Las manos sucias y los utensilios sucios también pueden contaminar el agua, al
 - Use recipientes limpios para transportar y almacenar agua.
 - Cubra los recipientes de agua con una tapa.
 - Busque y maneje el agua con utensilios limpios.
-- Hierva, filtre o trate el agua con cloro si cree que puede no ser segura. § Mantenga sus fuentes de agua limpias y protéjalas de los animales.
+- Hierva, filtre o trate el agua con cloro si cree que puede no ser segura.
+- Mantenga sus fuentes de agua limpias y protéjalas de los animales.
+
+![at-30]({% render_depth %}assets/img/graphics/at-30.png){:class="my-img-class"}
+*Utilice fuentes de agua seguras. Almacenar el agua adecuadamente.*

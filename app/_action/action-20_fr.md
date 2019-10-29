@@ -19,8 +19,6 @@ lang: fr
 - Dans de tels cas, une seule personne (munie des protections adaptées) s’occupe du patient, en vue de limiter les risques d’infection. Cette mesure est appelée « soins en isolement ».
 - Cette personne dispensera des soins, alimentera le patient, lui donnera à boire et communiquera avec lui.
 
-![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"}
-
 ### Ce que vous pouvez faire
 
 - S’il est décidé que l’isolement et les soins en isolement sont nécessaires, vous poursuivrez votre mission de surveillance active, en tant que volontaire, en recherchant des malades (voir la  che action 1).
@@ -30,4 +28,5 @@ lang: fr
 - Essayez d’éviter que l’isolement ne devienne une cause de discrimination et de rejet social pour les patients et leur famille. Expliquez à la communauté pourquoi il est nécessaire. Pour lutter contre la discrimination, demandez l’aide des anciens et des dirigeants communautaires.
 - Assurez-vous que les personnes placées en isolement disposent de nourriture, d’eau et de soins de santé suf sants, et qu’ils béné cient d’une aide pour gérer toute perte de moyens de subsistance.
 
-[at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"}
+![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"}
+*Parlez à la communauté et aux anciens pour éviter la discrimination et le rejet social*

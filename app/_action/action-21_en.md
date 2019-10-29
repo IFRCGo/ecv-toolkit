@@ -24,7 +24,6 @@ lang: en
 
 **Remember that the main duty of the Red Cross and Red Crescent volunteers are to promote health in the community. You can make more difference in this way than in any other way.**
 
-
 ### Safe burial of dead bodies
 
 - Talk to community leaders and seek their support for what you are doing.
@@ -35,3 +34,4 @@ lang: en
 - Disinfect the room and destroy the belongings (clothes) of a person who has died of Ebola, Marburg fever, Lassa fever, or plague.
 
 ![at-21]({% render_depth %}assets/img/graphics/at-21.png){:class="my-img-class"}
+*Safe burial of dead bodies. Disinfection.*

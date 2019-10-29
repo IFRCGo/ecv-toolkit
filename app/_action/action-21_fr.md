@@ -35,3 +35,4 @@ utilisez un EPP chaque fois que cela est nécessaire (voir la  che action 6<a c
 - Désinfectez la chambre et détruisez les affaires (vêtements) des personnes mortes d’Ebola, de la  èvre de Marburg, de la  èvre de Lassa et de la peste.
 
 ![at-21]({% render_depth %}assets/img/graphics/at-21.png){:class="my-img-class"}
+*Inhumation des corps en toute sécurité. Désinfection.*

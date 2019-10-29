@@ -60,3 +60,4 @@ lang: en
 - Find out if you can work with local health centres and schools to improve their hygiene and sanitation. You might hold a hygiene session for students or teachers, or help the clinic to build a handwashing station and outside latrine for patients.
 
 ![at-29]({% render_depth %}assets/img/graphics/at-29.png){:class="my-img-class"}
+*Wash your hands properly with soap. Talk to your community.*

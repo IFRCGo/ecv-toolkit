@@ -46,3 +46,4 @@ Il est important d’enseigner aux mères et aux soignants comment administrer 
 6. Continuez d’évaluer la déshydratation et orientez l’enfant vers un dispensaire si son état empire ou ne s’améliore pas après quelques heures.
 
 ![at-10_fr]({% render_depth %}assets/img/graphics/at-10_fr.png){:class="my-img-class"}
+*Administrer une SRO à un enfant. Administrer une SRO à un adulte*

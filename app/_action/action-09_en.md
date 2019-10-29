@@ -39,6 +39,9 @@ lang: en
 - A home-made salt and sugar solution should only be used when ORS packets are not available.
 - If a homemade salt sugar solution is used, you need to teach caregivers to make the solution safely and correctly. They need to avoid mistakes in the mix of ingredients. It is also important to use the cleanest available water.
 
+![at-09]({% render_depth %}assets/img/graphics/at-09.png){:class="my-img-class"}
+*Preparing an oral rehydration solution*
+
 ##### Recipe for homemade salt sugar solution:
 1. Wash your hands with soap and water before preparing the solution.
 2. 	In a clean container mix:
@@ -51,5 +54,3 @@ lang: en
 6. 	You can add half a cup of orange juice or a mashed banana to the solution to make it taste better.
 7. 	If ORS is still needed after 24 hours, make a fresh solution.
 8. 	If the patient does not improve or signs of severe dehydration appear, take the patient to a health clinic.
-
-![at-09_en]({% render_depth %}assets/img/graphics/at-09_en.png){:class="my-img-class"}

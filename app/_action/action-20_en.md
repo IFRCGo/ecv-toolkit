@@ -19,8 +19,6 @@ lang: en
 - In such cases, one person (who must be protected appropriately) takes care of the patient, in order to reduce the chances of infection. This is called "barrier nursing".
 - This person provides care, food and water, and communicates with the patient.
 
-![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"}
-
 ### What you can do
 
 - If it is decided that isolation and barrier nursing are necessary, you will continue active surveillance as a volunteer, looking for cases of the disease (see Action Tool 1 <a class="crosslink" href="{% render_depth %}{% render_link action|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
@@ -30,4 +28,5 @@ lang: en
 - Try to stop isolation from causing stigma or social rejection of patients and their families. Explain to the community why isolation is necessary. Seek the help of elders and community leaders to fight stigma.
 -	Make sure that people in isolation have adequate food, water, and health care, as well as help to cope with any loss of livelihood.
 
-![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"}
+![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"}
+*Talk to the community and elders to prevent stigma and social rejection*

@@ -47,4 +47,5 @@ It is important to teach mothers and caregivers to administer ORS to children co
 5.	Give the child as much clean water as he or she can drink.
 6.	Continue to assess dehydration and refer the child to a clinic if he or she gets worse or does not improve after a few hours.
 
-![at-10_en]({% render_depth %}assets/img/graphics/at-10_en.png){:class="my-img-class"}
+![at-10]({% render_depth %}assets/img/graphics/at-10.png){:class="my-img-class"}
+*Giving ORS to a child. Giving ORS to an adult*

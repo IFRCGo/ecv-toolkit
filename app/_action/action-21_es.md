@@ -32,3 +32,4 @@ lang: es
 - Desinfecte la habitación y destruya las pertenencias (ropa) de una persona que ha muerto de Ébola, fiebre de Marburgo, fiebre de Lassa y peste.
 
 ![at-21]({% render_depth %}assets/img/graphics/at-21.png){:class="my-img-class"}
+*Entierro seguro de cadáveres. Desinfección.*

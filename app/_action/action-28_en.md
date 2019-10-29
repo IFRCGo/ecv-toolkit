@@ -14,6 +14,9 @@ lang: en
 - For example, it is likely that little can be done to treat patients in the first phase of an influenza pandemic, because there will not be sufficient medicines and a vaccine will not be available. The most important thing to do will be to **prevent influenza from spreading**.
 - Other diseases for which social distancing is important include Ebola<a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Marburg fever<a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, Lassa fever<a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, measles<a class="crosslink" href="{% render_depth %}{% render_link disease|8 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, other respiratory infections, plague<a class="crosslink" href="{% render_depth %}{% render_link disease|20 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, MERS<a class="crosslink" href="{% render_depth %}{% render_link disease|24 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and monkeypox<a class="crosslink" href="{% render_depth %}{% render_link disease|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
+![at-28]({% render_depth %}assets/img/graphics/at-28.png){:class="my-img-class"}
+*Coughing without covering your mouth spreads germs*
+
 ### What you need to know
 
 - **Social distancing is the practice of keeping people at a safe distance form each other during outbreaks of highly contagious diseases**.
@@ -22,7 +25,8 @@ lang: en
 - Someone who is closer than one metre to a person who is sick (with influenza, for example) may become sick from inhaling droplets they expel when they sneeze or cough.
 - Social distancing is also about minimizing physical contact with other people. When people touch less, they are less likely to pass germs to each other. Avoid shaking hands, hugging, or kissing on the cheek.
 
-![at-28_en]({% render_depth %}assets/img/graphics/at-28_en.png){:class="my-img-class"}
+![at-28b]({% render_depth %}assets/img/graphics/at-28b.png){:class="my-img-class"}
+*Too close. Safe distance to keep apart.*
 
 ### Tips to protect yourself from diseases spread by coughing or sneezing
 

@@ -35,4 +35,4 @@ lang: es
 - Después de que termine la epidemia, siga trabajando para fomentar la lactancia materna.
 
 ![at-13]({% render_depth %}assets/img/graphics/at-13.png){:class="my-img-class"}
-Amamantar exclusivamente desde el nacimiento hasta los 6 meses de edad. Después de esta edad, introduzca los alimentos apropiados mientras continúa amamantando.
+*Amamantar exclusivamente desde el nacimiento hasta los 6 meses de edad. Después de esta edad, introduzca los alimentos apropiados mientras continúa amamantando.*

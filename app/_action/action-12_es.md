@@ -20,7 +20,10 @@ lang: es
 - La fiebre es causada por la reacción del cuerpo a la infección. Nos indica que hay una infección presente.
 - La fiebre es un aumento en la temperatura corporal. Hace que la persona sienta calor, puede causar escalofríos y es muy incómoda.
 - La fiebre puede ser grave. Si es muy alta, puede causar convulsiones (sacudidas violentas del cuerpo) en niños pequeños.
-- La fiebre puede hacer que el cuerpo pierda líquidos y se deshidrate. 
+- La fiebre puede hacer que el cuerpo pierda líquidos y se deshidrate.
+
+![at-12]({% render_depth %}assets/img/graphics/at-12.png){:class="my-img-class"}
+*Bajar la temperatura del cuerpo y beber abundante agua*
 
 ### ¿Qué hacer?
 

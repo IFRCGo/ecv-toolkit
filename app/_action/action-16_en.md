@@ -77,3 +77,4 @@ Electronic scales are very precise, whether they are powered by a battery or a s
 8. The scale shows the child’s weight. Read the measurement aloud; a second person records it immediately.
 
 ![at-16]({% render_depth %}assets/img/graphics/at-16.png){:class="my-img-class"}
+*Measuring height and weight of a child*

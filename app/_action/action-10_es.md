@@ -42,4 +42,5 @@ Es importante enseñar a las madres y cuidadores a administrar correctamente la
 5. Dé al niño tanta cantidad de agua como pueda beber.
 6. Continúe evaluando la deshidratación y refiera al niño a una clínica si él o ella empeora o no mejora después de unas horas.
 
-![at-10_es]({% render_depth %}assets/img/graphics/at-10_es.png){:class="my-img-class"}
+![at-10]({% render_depth %}assets/img/graphics/at-10.png){:class="my-img-class"}
+*Administrar la SRO a un niño. Administrar la SRO a un adulto*

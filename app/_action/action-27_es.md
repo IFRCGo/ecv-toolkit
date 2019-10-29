@@ -31,3 +31,4 @@ lang: es
 - Cuando las personas se mudan después de un conflicto o desastre, los refugios a los que se mudan suelen ser menos buenos que aquellos a los que están acostumbrados. Ayude a las personas a tener el mejor refugio posible, que esté bien ventilado y tenga un buen suministro de agua, con letrinas e instalaciones cercanas para la eliminación de desechos. Aliente a las personas a lavarse las manos después de ir al baño, después de limpiar a un niño y antes de preparar o comer alimentos. Aliente a las personas a lavar los recipientes de almacenamiento de agua regularmente con agua y jabón, y a mantener el área alrededor del refugio libre de basura y desperdicios de animales.
 
 ![at-27]({% render_depth %}assets/img/graphics/at-27.png){:class="my-img-class"}
+*Abrir las puertas y ventanas para tener una ventilación adecuada en el albergue*
