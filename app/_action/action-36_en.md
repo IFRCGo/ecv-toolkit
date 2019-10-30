@@ -24,7 +24,7 @@ lang: en
 -	See the table on the other side of this card for more information on how volunteers can help.
 
 ![at-36]({% render_depth %}assets/img/graphics/at-36.png){:class="my-img-class"}
-Keep the community clean and always ask for professionals to spray against vectors.
+*Keep the community clean. Always ask for professionals to spray against vectors.*
 
 ### Main mosquito-borne diseases and control methods
 
@@ -41,4 +41,4 @@ Keep the community clean and always ask for professionals to spray against vecto
 - Plague bacteria are most often transmitted by the bite of an infected rodent or flea. To prevent contamination, people should: store food and water (including animal food) in rodent-proof covered containers; screen or close holes in walls and roofs; remove rubbish and environmental debris from around dwellings; sleep on a raised platform (not on the floor); and use repellents. See Action tool 38 <a class="crosslink" href="{% render_depth %}{% render_link action|38 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and Community message tool 27 <a class="crosslink" href="{% render_depth %}{% render_link message|27 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 ![at-36b]({% render_depth %}assets/img/graphics/at-36b.png){:class="my-img-class"}
-Vectors: Mosquito, flea, fly and rat
+*Vectors: Mosquito, flea, fly and rat*

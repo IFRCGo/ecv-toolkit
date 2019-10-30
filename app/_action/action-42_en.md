@@ -29,6 +29,9 @@ lang: en
 -	Use a male or female condom when having sex. Condoms are a barrier and block any infectious semen or fluid that may transmit an infection.
 -	Try other ways (instead of sexual intercourse) to be intimate with your partner.
 
+![at-42]({% render_depth %}assets/img/graphics/at-42.png){:class="my-img-class"}
+*Putting on a male condom*
+
 #### Key facts on Zika
 - A pregnant woman can pass Zika to her unborn baby. It can cause severe brain defects in the baby.
 - A man or woman who has Zika can pass Zika to his or her partner during sex for up to six months after acquiring the infection (whether they were sick and showed symptoms or not).
@@ -49,5 +52,3 @@ See Zika, Disease tool 18<a class="crosslink" href="{% render_depth %}{% render_
 -	Carry out social mobilization and behaviour change communication activities in an outbreak of Zika, Ebola, Marburg fever or Lassa fever. (See Important points above and Action tool 3<a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and 43<a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
 -	Remember that sex is only one way of transmitting these diseases, and often it is not the main way. Talk to your volunteer coordination/team leader or local branch health office about which prevention methods should be emphasized during your community visits.
 -	Make sure you know and can demonstrate how to use a male and female condom correctly.
-
-![at-42b]({% render_depth %}assets/img/graphics/at-42b.png){:class="my-img-class"}

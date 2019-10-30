@@ -25,4 +25,4 @@ Quel que soit le contexte, le changement de comportement implique trois élémen
 2. disposer des outils, de l’accès et des capacités adaptés. Elles ont besoin d’un environnement favorable.
 3. être motivées à changer.
 
-![at-43_fr]({% render_depth %}assets/img/graphics/at-43_en.png){:class="my-img-class"}
+![at-43_fr]({% render_depth %}assets/img/graphics/at-43_fr.png){:class="my-img-class"}

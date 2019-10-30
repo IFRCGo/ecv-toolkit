@@ -30,6 +30,9 @@ lang: fr
 - Utilisez un préservatif masculin ou féminin lors de vos relations sexuelles. Les préservatifs permettent de bloquer toute infection pouvant être transmise par le sperme ou les liquides corporels contaminés.
 - Essayez de trouver d’autres formes d’intimité avec votre partenaire (qui ne soient pas des relations sexuelles).
 
+![at-42]({% render_depth %}assets/img/graphics/at-42.png){:class="my-img-class"}
+*Porter un préservatif masculin*
+
 ### Éléments clés concernant Zika
 
 - Une femme enceinte peut transmettre Zika à son foetus. La maladie peut provoquer de graves lésions cérébrales chez l’enfant.
@@ -50,5 +53,3 @@ lang: fr
 - Mettez en place des activités de mobilisation sociale et de communication pour le changement de comportement lors des épidémies de Zika, d’Ebola, de fièvre de Marburg et de fièvre de Lassa. (Voir les éléments clés ci-dessus et les fiches action 3<a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> et 43<a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.)
 - Rappelez-vous que le sexe n’est qu’un mode de transmission de ces maladies, et qu’il n’est souvent pas le plus courant. Entretenezvous avec le coordonnateur des volontaires, le chef d’équipe ou le bureau de la santé de votre section locale au sujet des méthodes de prévention qui devraient être mises en avant lors de vos visites communautaires.
 - Assurez-vous de savoir et pouvoir montrer comment utiliser correctement les préservatifs masculins et féminins.
-
-![at-42b]({% render_depth %}assets/img/graphics/at-42b.png){:class="my-img-class"}

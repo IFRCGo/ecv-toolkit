@@ -21,8 +21,8 @@ lang: fr
 - Il faut nettoyer la végétation aux abords des rivières et dans les mares proches des habitations.
 - La zone entourant les sources d’eau (puits, pompes) doit rester propre.
 
-![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"}
-Expliquez aux membres de la communauté combien il est important de maintenir leur environnement de vie propre. Organisez régulièrement des campagnes de nettoyage visantnotamment les maisons, les latrines, etc.
+![at-38]({% render_depth %}assets/img/graphics/at-38.png){:class="my-img-class"}
+*Expliquez aux membres de la communauté combien il est important de maintenir leur environnement de vie propre. Organisez régulièrement des campagnes de nettoyage visantnotamment les maisons, les latrines, etc.*
 
 ### Ce que vous pouvez faire
 - Collaborez avec les responsables politiques et les chefs traditionnels, le comité sanitaire du village et d’autres partenaires locaux pour décider de ce qui doit être nettoyé et de la marche à suivre.

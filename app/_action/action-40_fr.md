@@ -24,4 +24,4 @@ lang: fr
 - Portez des vêtements de protection, et particulièrement des gants, lorsque vous manipulez des vêtements contaminés ou d’autres objets ayant appartenu aux malades décédés. Placez ces objets délicatement dans l’incinérateur et laissez-les brûler jusqu’à ce qu’il ne reste que des cendres afin d’éliminer tous les germes.
 - Informez les membres de la communauté de ce que vous faites afin qu’ils se tiennent éloignés et restent en sécurité.
 
-![at-40_fr]({% render_depth %}assets/img/graphics/at-40_en.png){:class="my-img-class"}
+![at-40_fr]({% render_depth %}assets/img/graphics/at-40_fr.png){:class="my-img-class"}

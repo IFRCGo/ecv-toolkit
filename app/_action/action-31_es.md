@@ -34,3 +34,4 @@ lang: es
 - Las verduras deben cocinarse bien o lavarse bien con agua. § Las frutas y verduras crudas deben lavarse con agua limpia.
 
 ![at-31]({% render_depth %}assets/img/graphics/at-31.png){:class="my-img-class"}
+*Almacene la comida adecuadamente y cúbrala con algo*

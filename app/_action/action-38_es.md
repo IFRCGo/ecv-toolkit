@@ -21,7 +21,8 @@ lang: es
 - La vegetación debe ser eliminada de las orillas de los ríos y estanques cerca del pueblo.
 - El área alrededor de las fuentes de agua (bombas, pozos) debe mantenerse limpia.
 
-![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"}Dígales a los miembros de la comunidad lo importante que es mantener su comunidad limpia. Organice campañas regulares de limpieza. Incluir casas y letrinas, etc.
+![at-38]({% render_depth %}assets/img/graphics/at-38.png){:class="my-img-class"}
+*Dígales a los miembros de la comunidad lo importante que es mantener su comunidad limpia. Organice campañas regulares de limpieza. Incluir casas y letrinas, etc.*
 
 ### Lo que puede hacer
 - Trabaje con los líderes tradicionales y políticos, el comité de salud del poblado y otros socios de la comunidad para decidir qué se necesita limpiar y cómo hacerlo.

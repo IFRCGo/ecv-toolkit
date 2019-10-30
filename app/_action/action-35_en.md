@@ -27,6 +27,4 @@ lang: en
     - Scrub the tips of the fingers of each hand on the palm of the other hand.
 - During an epidemic (of a highly infectious disease, or another disease such as diarrhoea or cholera, or a respiratory infection), it is a good idea to use this handwashing method every time you have touched something that can pass on an infection.
 
-### How to wash your hands properly with soap during a highly infectious epidemic outbreak
-
 ![at-35_en]({% render_depth %}assets/img/graphics/at-35_en.png){:class="my-img-class"}

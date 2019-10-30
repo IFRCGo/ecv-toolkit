@@ -10,7 +10,7 @@ lang: en
 
 ### Overview
 
-- Good sanitation is vital to stop the spread of many epidemics, such as diarrhoea <a class="crosslink" href="{% render_depth %}{% render_link disease|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and cholera <a class="crosslink" href="{% render_depth %}{% render_link disease|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>. 
+- Good sanitation is vital to stop the spread of many epidemics, such as diarrhoea <a class="crosslink" href="{% render_depth %}{% render_link disease|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> and cholera <a class="crosslink" href="{% render_depth %}{% render_link disease|2 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 - As volunteers, you can encourage members of the community to improve their sanitation by using latrines, disposing of rubbish and removing standing water.
 
 ### These are the most important sanitation initiatives for preventing disease
@@ -23,8 +23,8 @@ lang: en
 -	Drain or remove waste water and standing water. (Camps should be designed with this in mind.)
 -	Promote hygiene and teach people how to keep themselves safe and clean.
 
-![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"}
-Talk to your community about proper sanitation practices.
+![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
+*Talk to your community about proper sanitation practices*
 
 ### How do you support good sanitation?
 
@@ -32,5 +32,5 @@ Talk to your community about proper sanitation practices.
 - Encourage the community to burn or bury rubbish.
 - Mobilize the community to reduce standing water where mosquitoes are likely to breed.
 
-![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
-Dispose of waste safely.
+![at-32b]({% render_depth %}assets/img/graphics/at-32b.png){:class="my-img-class"}
+*Safely dispose of waste. Build and properly use latrines. Community clean-up campaign.*

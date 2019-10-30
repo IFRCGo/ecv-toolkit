@@ -25,7 +25,8 @@ lang: fr
 5. Réparer les déchirures de la moustiquaire.
 6. Remplacer les moustiquaires à intervalles réguliers, conformément aux instructions (tous les 3 à 5 ans).
 
-![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
+![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="my-img-class"}
+*Une mère et son enfant sous une moustiquaire*
 
 ### Ce que vous pouvez faire
 - Encouragez tous les membres de la communauté à dormir sous des moustiquaires chaque nuit, tout particulièrement les enfants et les femmes enceintes.

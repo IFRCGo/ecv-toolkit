@@ -27,4 +27,5 @@ lang: es
     - (Vea las instrucciones en el otro lado de esta tarjeta.)
 - Durante una epidemia (de una enfermedad altamente infecciosa, u otra enfermedad como diarrea o cólera, o una infección respiratoria), es una buena idea usar este método de lavado de manos cada vez que haya tocado algo que pueda transmitir una infección.
 
-![at-35_es]({% render_depth %}assets/img/graphics/at-35_es.png){:class="my-img-class"}
+![at-36]({% render_depth %}assets/img/graphics/at-36.png){:class="my-img-class"}
+*Vectores: mosquito, pulga, mosca y rata*

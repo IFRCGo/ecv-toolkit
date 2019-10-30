@@ -25,7 +25,7 @@ lang: es
 
 
 ![at-36]({% render_depth %}assets/img/graphics/at-36.png){:class="my-img-class"}
-Mantenga la comunidad limpia. SIEMPRE solicite a los profesionales que rocíen contra los vectores.
+*Mantenga la comunidad limpia. Siempre solicite a los profesionales que rocíen contra los vectores.*
 
 ### Principales enfermedades transmitidas por mosquitos y métodos de control.
 
@@ -41,4 +41,4 @@ Mantenga la comunidad limpia. SIEMPRE solicite a los profesionales que rocíen 
 Las bacterias de la peste se transmiten con mayor frecuencia por la picadura de un roedor o pulga infectada. Para prevenir la contaminación, las personas deben: almacenar alimentos y agua (incluyendo los alimentos para animales) en recipientes cubiertos a prueba de roedores; coloque una malla o cierre los agujeros en paredes y techos; elimine la basura y los desechos ambientales de alrededor de las viviendas; duerma en una plataforma elevada (no en el suelo); y use repelentes. Ver herramienta de acción 38<a class="crosslink" href="{% render_depth %}{% render_link action|38 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y el mensaje comunitario 27<a class="crosslink" href="{% render_depth %}{% render_link message|27 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
 ![at-36b]({% render_depth %}assets/img/graphics/at-36b.png){:class="my-img-class"}
-Vectores: mosquito, pulga, mosca y rata
+*Vectores: mosquito, pulga, mosca y rata*

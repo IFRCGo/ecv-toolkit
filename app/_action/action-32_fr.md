@@ -23,13 +23,13 @@ Voici les principales initiatives de prévention des maladies grâce à l’assa
 - Drainer ou faire s’écouler les eaux usées et stagnantes (les campements devraient être construits en tenant compte de ce paramètre).
 - Promouvoir l’hygiène et enseigner à la population comment
 
-![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"}
-Enseignez à votre communauté les bonnes pratiques en matière d’assainissement
+![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
+*Enseignez à votre communauté les bonnes pratiques en matière d’assainissement*
 
 ### Ce que vous pouvez faire
 - Favoriser la construction et l’utilisation de latrines.
 - Encourager la communauté à brûler ou à enterrer les déchets.
 - Mobiliser la communauté pour qu’elle assèche les plans d’eau stagnante, où des moustiques
 
-![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
-Éliminer les déchets en toute sécurité
+![at-32b]({% render_depth %}assets/img/graphics/at-32b.png){:class="my-img-class"}
+*Éliminer les déchets de manière hygiénique.Construire des latrines et les utiliser correctement. Mener des campagnes de nettoyage dans la communauté.*

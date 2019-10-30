@@ -39,4 +39,5 @@ lang: en
 - Bien se rincer les mains pour enlever tout le savon ou les cendres.
 - Se sécher les mains avec du papier absorbant. S’il n’y en a pas, les secouer dans l’air jusqu’à ce qu’elles soient sèches.
 
-![at-34_fr]({% render_depth %}assets/img/graphics/at-34_en.png){:class="my-img-class"}
+![at-34]({% render_depth %}assets/img/graphics/at-34.png){:class="my-img-class"}
+*1. Se mouiller les mains et utiliser du savon ou de la cendre. 2. Laver 10 à 15 secondes. 3. Bien se rincer les mains.*

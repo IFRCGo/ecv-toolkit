@@ -23,7 +23,8 @@ lang: es
 - Drene o elimine las aguas residuales y el agua estancada. (Los campamentos deben diseñarse teniendo esto en cuenta).
 - Promueva la higiene y enseñe a las personas a mantenerse seguras y limpias.
 
-![at-20b]({% render_depth %}assets/img/graphics/at-20b.png){:class="my-img-class"} Hable con su comunidad sobre las prácticas de saneamiento adecuadas.
+![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
+*Hable con su comunidad sobre las prácticas sanitarias adecuadas*
 
 ### ¿Cómo apoya usted un buen saneamiento?
 - Promueva la construcción y el uso de letrinas.
@@ -31,4 +32,5 @@ lang: es
 - Movilice a la comunidad para reducir el agua estancada donde es probable que los mosquitos se reproduzcan.
 
 
-![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}Deseche los residuos de forma segura.
+![at-32b]({% render_depth %}assets/img/graphics/at-32b.png){:class="my-img-class"}
+*Eliminar los desechos de manera segura. Construir y utilizar adecuadamente las letrinas.Campaña de limpieza de la comunidad.*

@@ -26,6 +26,9 @@ Las mallas contra mosquitos ayudan significativamente a prevenir enfermedades, c
 - Repare cualquier rasgaduras o roturas en el mosquitero.
 - Reemplace los mosquiteros a intervalos regulares, como se recomienda (cada 3-5 años).
 
+![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="my-img-class"}
+*Una madre y un niño duermen bajo un mosquitero*
+
 ### Lo que puede hacer
 - Anime a todos los miembros de la comunidad a dormir bajo un mosquitero todas las noches. Es particularmente importante que los niños y las mujeres embarazadas lo hagan.
 - Promueva el uso de mosquiteros tratados con insecticida de larga duración (MTILD).

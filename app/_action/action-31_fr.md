@@ -35,3 +35,4 @@ lang: fr
 - Les fruits et légumes crus doivent être lavés à l’eau propre.
 
 ![at-31]({% render_depth %}assets/img/graphics/at-31.png){:class="my-img-class"}
+*Couvrez les aliments et conservez-les de manière hygiénique*

@@ -32,6 +32,9 @@ lang: es
 - Use un condón masculino o femenino cuando tenga relaciones sexuales. Los condones son una barrera y bloquean cualquier semen o líquido infeccioso que pueda transmitir una infección.
 - Pruebe otras formas (en lugar de las relaciones sexuales) para tener intimidad con su pareja.
 
+![at-42]({% render_depth %}assets/img/graphics/at-42.png){:class="my-img-class"}
+*Usar un condón masculino*
+
 ### Datos clave sobre el Zika.
 - Una mujer embarazada puede pasar el Zika a su bebé por nacer. Este puede causar defectos cerebrales graves en el bebé.
 - Un hombre o una mujer que tiene Zika puede transmitir el Zika a su pareja durante las relaciones sexuales hasta 6 meses después de adquirir la infección (ya sea que al estar enferma mostrara síntomas o no).
@@ -49,5 +52,3 @@ lang: es
 - Lleve a cabo actividades de comunicación de movilización social para el de cambio de comportamiento en un brote de Zika, Ébola, fiebre de Marburgo y fiebre de Lassa. Ver los puntos importantes arriba y la herramienta de acción 3<a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y 43<a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 - Recuerde que el sexo es solo una forma de transmitir estas enfermedades, y muchas veces no es la vía principal. Hable con su voluntario líder coordinador/de equipo o con la oficina de salud de la filial local sobre los métodos de prevención que deben enfatizarse durante sus visitas a la comunidad.
 - Asegúrese de que sabe y puede demostrar cómo usar un condón masculino y femenino correctamente.
-
-![at-42b]({% render_depth %}assets/img/graphics/at-42b.png){:class="my-img-class"}
