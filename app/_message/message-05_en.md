@@ -8,7 +8,7 @@ title: Using clean safe drinking water
 lang: en
 ---
 
-![cmt-05_en]({% render_depth %}assets/img/graphics/cmt-05_en.png){:class="my-img-class"}
+![cmt-05]({% render_depth %}assets/img/graphics/cmt-05.png){:class="my-img-class"}
 
 ### Germs in water can spread disease. Always use a protected water source – or treat with chemicals, boil or filter to make sure the water you and your family drink will not make you sick.
 

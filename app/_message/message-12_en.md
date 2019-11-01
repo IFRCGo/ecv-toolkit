@@ -8,6 +8,6 @@ title: Good food hygiene
 lang: en
 ---
 
-![cmt-12_en]({% render_depth %}assets/img/graphics/cmt-12_en.png){:class="my-img-class"}
+![cmt-12]({% render_depth %}assets/img/graphics/cmt-12.png){:class="my-img-class"}
 
 ### Keep food covered and utensils clean.

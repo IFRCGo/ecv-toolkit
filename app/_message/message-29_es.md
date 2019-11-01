@@ -8,6 +8,6 @@ title: Asistiendo a los controles de nutrición
 lang: es
 ---
 
-![cmt-29_es]({% render_depth %}assets/img/graphics/cmt-29_es.png){:class="my-img-class"}
+![cmt-29]({% render_depth %}assets/img/graphics/cmt-29.png){:class="my-img-class"}
 
 ### ¡Los niños bien nutridos pueden combatir mejor las enfermedades! Es importante llevar a su hijo para que lo revisen.

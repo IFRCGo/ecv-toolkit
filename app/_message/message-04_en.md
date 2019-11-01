@@ -8,6 +8,6 @@ title: Storing water properly
 lang: en
 ---
 
-![cmt-04_en]({% render_depth %}assets/img/graphics/cmt-04_en.png){:class="my-img-class"}
+![cmt-04]({% render_depth %}assets/img/graphics/cmt-04.png){:class="my-img-class"}
 
 ### Dirty water can cause sickness: keep your water containers clean and covered.

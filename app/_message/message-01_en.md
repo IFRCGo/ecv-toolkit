@@ -8,7 +8,11 @@ title: Preparing and giving oral rehydration solution (ORS)
 lang: en
 ---
 
-![cmt-01_en]({% render_depth %}assets/img/graphics/cmt-01_en.png){:class="my-img-class"}
+![cmt-01]({% render_depth %}assets/img/graphics/cmt-01.png){:class="my-img-class"}
+*Home-made salt sugar solution: Eight teaspoons of sugar + half a teaspoon of salt. Mix in one litre (or 5 cups) of water. ORS sachet: Mix in 1 litre safe drinking water.*
+
+![cmt-01b]({% render_depth %}assets/img/graphics/cmt-01b.png){:class="my-img-class"}
+*Children with diarrhoea need rehydration, give them ORS!*
 
 ### Cholera can be prevented by:
 - Drinking safe water, water that has been boiled at least one minute.

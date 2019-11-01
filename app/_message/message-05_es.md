@@ -8,7 +8,7 @@ title: Usar agua potable limpia y segura
 lang: es
 ---
 
-![cmt-05_es]({% render_depth %}assets/img/graphics/cmt-05_es.png){:class="my-img-class"}
+![cmt-05]({% render_depth %}assets/img/graphics/cmt-05.png){:class="my-img-class"}
 
 ### Los gérmenes en el agua pueden propagar enfermedades. Siempre use una fuente de agua protegida – o trátela con productos químicos, hiérvala o fíltrela para asegurarse de que el agua que usted y su familia beben no lo enfermará.
 

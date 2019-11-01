@@ -8,7 +8,11 @@ title: Preparar y administrar solución de rehidratación oral (SRO)
 lang: es
 ---
 
-![cmt-01_es]({% render_depth %}assets/img/graphics/cmt-01_es.png){:class="my-img-class"}
+![cmt-01]({% render_depth %}assets/img/graphics/cmt-01.png){:class="my-img-class"}
+*Solución casera de azúcar y sal: 8 cucharaditas de azúcar + media cucharadita de sal. Mezclar en 1 litro (o 5 tazas) de agua. Bolsita de SRO: Mezclar con 1 litro de agua segure.*
+
+![cmt-01b]({% render_depth %}assets/img/graphics/cmt-01b.png){:class="my-img-class"}
+*¡Los niños con diarrea necesitan rehidratación, deles SRO!*
 
 ### El cólera puede prevenirse mediante:
 - Beber agua potable, agua que haya sido hervida por lo menos un minuto.
