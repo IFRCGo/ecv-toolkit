@@ -5,7 +5,7 @@ layout: card
 identifier: 34
 message: [8,9]
 title: Handwashing with soap
-lang: en
+lang: fr
 ---
 
 ### Aperçu

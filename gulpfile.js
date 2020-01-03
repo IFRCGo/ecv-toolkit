@@ -123,6 +123,9 @@ gulp.task('jekyll', function (done) {
     case 'development':
       args.push('--config=_config.yml,_config-dev.yml');
     break
+    case 'pdfs':
+      args.push('--config=_config.yml,_config-pdfs.yml');
+    break;
     case 'android':
       args.push('--config=_config.yml,_config-android.yml');
     break;
@@ -187,6 +190,11 @@ gulp.task('prod', function(done) {
   environment = 'production';
   runSequence('clean', 'get-humans', 'build', 'pdfs', 'android', done);
 });
+gulp.task('pdfs', function(done) {
+  environment = 'pdfs';
+  runSequence('build','webserver-start','print','webserver-stop',done);
+});
+
 gulp.task('android', function(done) {
   environment = 'android';
   runSequence('build', 'modify-links', 'copy:config', 'copy:app-icons', done);
@@ -287,7 +295,7 @@ gulp.task('modify-links', function(done) {
 
 // Pdfs task
 // ---------
-var myserver = gls.static('_site', 3000);
+var myserver = gls.static('_pdfs', 3000);
 gulp.task('webserver-start', function() {
   myserver.start();
 });
@@ -411,10 +419,6 @@ gulp.task('print', function(done) {
     }
   )
 
-});
-
-gulp.task('pdfs', function(done) {
-  runSequence('webserver-start','print','webserver-stop',done);
 });
 
 

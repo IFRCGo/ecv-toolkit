@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/IFRCGo/ecv-toolkit#readme",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.1.1",
+    "@fortawesome/fontawesome-free": "^5.12.0",
     "archiver": "^2.1.1",
     "async": "^2.6.1",
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.26.7",
     "d3-queue": "^3.0.7",
     "foundation-sites": "^6.4.4-rc1",
     "gulp": "^3.9.1",
@@ -38,7 +38,7 @@
     "line-replace": "^1.0.2",
     "node-dir": "^0.1.17",
     "path": "^0.12.7",
-    "puppeteer": "^1.1.1",
+    "puppeteer": "^1.20.0",
     "request": "^2.83.0",
     "run-sequence": "^2.2.1"
   }
