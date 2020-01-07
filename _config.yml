@@ -8,7 +8,7 @@ exclude:
   - README.md
   - assets/img/img-src
 
-google_analytics: UA-123168500-1
+google_analytics: UA-123168500-3
 
 default_locale:     "en"
 authorized_locales: ["en", "fr", "es"]
