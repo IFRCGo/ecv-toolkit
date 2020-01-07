@@ -1,34 +1,43 @@
-var gulp = require('gulp');
+const archiver = require('archiver');
+const async = require('async');
+const autoprefixer = require('gulp-autoprefixer');
+const browserSync = require('browser-sync');
+const cleaner = require('gulp-clean');
+const concat = require('gulp-concat');
+const cp = require('child_process');
+const doWhilst =require('async/doWhilst');
+const dir = require('node-dir');
+const fs = require('fs');
+const gls = require('gulp-live-server');
+const gulp = require('gulp');
+const lineReplace = require('line-replace');
+const path = require('path');
+const plumber = require('gulp-plumber');
+const puppeteer = require('puppeteer');
+const queue = require('d3-queue');
+const readline = require('readline');
+const request = require('request');
+const sass = require('gulp-sass');
+const sourcemaps = require('gulp-sourcemaps');
+const uglify = require('gulp-uglify');
 
-var archiver = require('archiver');
-var autoprefixer = require('gulp-autoprefixer');
-var browserSync = require('browser-sync');
-var clean = require('gulp-clean');
-var concat = require('gulp-concat');
-var cp = require('child_process');
-var dir = require('node-dir');
-var fs = require('fs');
-var gls = require('gulp-live-server');
-var lineReplace = require('line-replace');
-var path = require('path');
-var plumber = require('gulp-plumber');
-var puppeteer = require('puppeteer');
-var queue = require('d3-queue');
-var request = require('request');
-var readline = require('readline');
-var runSequence = require('run-sequence').use(gulp);
-var sass = require('gulp-sass');
-var sourcemaps = require('gulp-sourcemaps');
-var uglify = require('gulp-uglify');
-var async = require("async");
-var doWhilst =require('async/doWhilst');
 
-// Copy from the .tmp to _site directory.
-// To reduce build times the assets are compiles at the same time as jekyll
-// renders the site. Once the rendering has finished the assets are copied.
-gulp.task('copy:assets', function() {
+function clean() {
+  return gulp.src(['_site', '_android', '_pdf', '.tmp'], {read: false, allowEmpty: true})
+    .pipe(cleaner());
+}
+exports.clean = clean;
 
+
+function copyAssets() {
+  /* copy from the .tmp to _site directory. */
+  /* to reduce build times the assets are compiles at the same time as jekyll */
+  /* renders the site. Once the rendering has finished the assets are copied. */
   switch (environment) {
+    case 'pdf':
+      return gulp.src('.tmp/assets/**')
+        .pipe(gulp.dest('_pdf/assets'));
+    break;
     case 'android':
       return gulp.src('.tmp/assets/**')
         .pipe(gulp.dest('_android/www/assets'));
@@ -38,91 +47,82 @@ gulp.task('copy:assets', function() {
         .pipe(gulp.dest('_site/assets'));
     break;
   }
+}
+exports.copyAssets = copyAssets;
 
-});
 
-gulp.task('copy:config', function() {
-
+function copyConfig() {
   return gulp.src('./config.xml')
     .pipe(gulp.dest('_android'));
+}
+exports.copyConfig= copyConfig;
 
-});
 
-gulp.task('copy:app-icons', function() {
-
+function copyAppIcons() {
   return gulp.src('./app-icons/res/**')
     .pipe(gulp.dest('_android/res/'));
+}
+exports.copyAppIcons= copyAppIcons;
 
-});
 
-
-var sassInput = 'app/assets/styles/*.scss';
-var sassOptions = {
-  includePaths: ['node_modules/foundation-sites/scss','node_modules/@fortawesome/fontawesome-free/scss'],
-  errLogToConsole: true,
-  outputStyle: 'expanded'
-};
-var autoprefixerOptions = {
-  browsers: ['last 2 versions', 'ie >= 9', 'Android >= 2.3', 'ios >= 7']
-};
-
-// TODO: clean this up
-// ===================
-gulp.task('sass', function() {
+function styles() { 
+  const sassInput = 'app/assets/styles/*.scss';
+  const sassOptions = {
+    includePaths: ['node_modules/foundation-sites/scss','node_modules/@fortawesome/fontawesome-free/scss'],
+    errLogToConsole: true,
+    outputStyle: 'expanded'
+  }
   return gulp.src(sassInput)
     .pipe(plumber())
     .pipe(sourcemaps.init())
     .pipe(sass(sassOptions).on('error', sass.logError))
-    .pipe(autoprefixer(autoprefixerOptions))
+    .pipe(autoprefixer())
     .pipe(sourcemaps.write('.'))
-    // .pipe($.if(isProduction, uglify({ mangle: false })))
-    // .pipe($.if(!isProduction, $.sourcemaps.write()))
     .pipe(browserSync.reload({stream:true}))
     .pipe(gulp.dest('.tmp/assets/styles'));
-});
+};
+exports.styles = styles;
 
-gulp.task('fonts', function() {
+
+function fonts() {
   return gulp.src('node_modules/@fortawesome/fontawesome-free/webfonts/**.*')
     .pipe(gulp.dest('.tmp/assets/webfonts'));
-});
+}
+exports.fonts = fonts;
 
-var javascriptPaths = [
-  // the order of these matter
-  "node_modules/jquery/dist/jquery.js",
-  "node_modules/what-input/what-input.js",
-  // "node_modules/foundation-sites/dist/js/foundation.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.core.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js",
-  // https://foundation.zurb.com/sites/docs/equalizer.html#javascript-reference
-  "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js"
 
-]
-
-// TODO: clean this up
-// ===================
-gulp.task('javascripts', function() {
-  // # https://github.com/Foundation-for-Jekyll-sites/jekyll-foundation/blob/master/gulp/tasks/javascript.js
+function javascripts() {
+  const javascriptPaths = [
+    /* the order of these matter */
+    "node_modules/jquery/dist/jquery.js",
+    "node_modules/what-input/dist/what-input.js",
+    // "node_modules/foundation-sites/dist/js/foundation.js",
+    "node_modules/foundation-sites/dist/js/plugins/foundation.core.js",
+    "node_modules/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js",
+    "node_modules/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js",
+    /* https://foundation.zurb.com/sites/docs/equalizer.html#javascript-reference */
+    "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js"
+  ]
+  /* https://github.com/Foundation-for-Jekyll-sites/jekyll-foundation/blob/master/gulp/tasks/javascript.js */
   return gulp.src(javascriptPaths)
-    // .pipe(sourcemaps.init())
-    // .pipe(babel())
     .pipe(concat('vendor.min.js'))
     .pipe(uglify({ mangle: false }))
-    // .pipe($.if(isProduction, uglify({ mangle: false })))
-    // .pipe($.if(!isProduction, $.sourcemaps.write()))
-    // Write the file to source dir and build dir
     .pipe(gulp.dest('.tmp/assets/js'))
-});
+}
+exports.javascripts = javascripts;
 
-// Build the jekyll website.
-gulp.task('jekyll', function (done) {
-  var args = ['exec', 'jekyll', 'build'];
-  var options = {stdio: 'inherit'};
 
+/* Build the jekyll website. */
+function jekyll(done) {
+  const args = ['exec', 'jekyll', 'build'];
+  const options = {stdio: 'inherit'};
   switch (environment) {
     case 'development':
       args.push('--config=_config.yml,_config-dev.yml');
     break
+    case 'pdf':
+      args.push('--config=_config.yml,_config-pdf.yml');
+    break;
     case 'android':
       args.push('--config=_config.yml,_config-android.yml');
     break;
@@ -133,90 +133,56 @@ gulp.task('jekyll', function (done) {
       options.env = env;
     break;
   }
-
   return cp.spawn('bundle', args, options)
     .on('close', done);
-});
-
-// Build the jekyll website. Reload all the browsers.
-gulp.task('jekyll:rebuild', ['jekyll'], function () {
-  browserSync.reload();
-});
-
-gulp.task('build', function(done) {
-  runSequence(['jekyll', 'sass', 'javascripts', 'fonts'], ['copy:assets'], done);
-});
-
-// Default task.
-gulp.task('default', function(done) {
-  runSequence('build', done);
-});
-
-gulp.task('serve', ['build'], function () {
-  browserSync({
-    port: 3000,
-    server: {
-      baseDir: ['.tmp', '_site']
-    }
-  });
-
-  // TODO: clean this up
-  // ===================
-  var watching = [
-    'app/**/*.html',
-    'app/**/*.yml',
-    'app/**/*.md',
-    '_config*',
-    // './app/assets/scripts/*.js',
-    './app/assets/styles/*.scss'
-  ]
-  gulp.watch(watching, function() {
-    runSequence('build', browserReload);
-  });
-
-});
-
-var shouldReload = true;
-gulp.task('no-reload', function(done) {
-  shouldReload = false;
-  runSequence('serve', done);
-});
-
-var environment = 'development';
-gulp.task('prod', function(done) {
-  environment = 'production';
-  runSequence('clean', 'get-humans', 'build', 'pdfs', 'android', done);
-});
-gulp.task('android', function(done) {
-  environment = 'android';
-  runSequence('build', 'modify-links', 'copy:config', 'copy:app-icons', done);
-});
-
-// Removes jekyll's _site folder
-gulp.task('clean', function() {
-  return gulp.src(['_site', '_android', '.tmp'], {read: false})
-    .pipe(clean());
-});
+};
+exports.jekyll = jekyll;
 
 
-// Helper functions
-// ----------------
+function getHumans(cb){
 
-function browserReload() {
-  if (shouldReload) {
-    browserSync.reload();
+  function askGitHub(callback){
+    const options = {
+      url: 'https://api.github.com/repos/IFRCGo/ecv-toolkit/contributors',
+      headers: {
+        'User-Agent': 'request'
+      }
+    };
+    request(options, function (err, res) {
+      var humans = JSON.parse(res.body).map(function(human){
+        return {login: human.login, html_url: human.html_url, contributions: human.contributions}
+      });
+      humans.sort(function(a,b){
+        return b.contributions - a.contributions;
+      })
+      callback(humans);
+    });
   }
+  
+  askGitHub(function(humans){
+    fs.readFile('./humans-template.txt', 'utf8', function (err, doc) {
+      if (err) throw err;
+      for (i = 0; i < humans.length; i++) {
+        doc = doc + '\nContributor: '+humans[i].login + '\nGithub: '+humans[i].html_url +'\n';
+      }
+      fs.writeFile('./_site/humans.txt', doc, function(err) {
+        if (err) throw err;
+        cb()
+      });
+    });
+  });
+
 }
+exports.getHumans = getHumans;
 
-// android webview
-// ---------------
 
+/* stuff for android apk customized web view */
+/* ========================================= */
 var replacements = [];
 var filecount = 0;
 var processedcount = 0;
 
-// all page links need an 'index.html' added to the end
-gulp.task('modify-links', function(done) {
+function modifyLinks(done) {
 
   function processFile(file, cb) {
     var myfile = file;
@@ -282,20 +248,27 @@ gulp.task('modify-links', function(done) {
     }
   });
 
-});
+};
+exports.modifyLinks = modifyLinks;
 
 
-// Pdfs task
-// ---------
-var myserver = gls.static('_site', 3000);
-gulp.task('webserver-start', function() {
+/* stuff for pdf generation */
+/* ======================== */
+var myserver = gls.static('_pdf', 3000);
+
+function webserverStart(cb) {
   myserver.start();
-});
-gulp.task('webserver-stop', function() {
-  myserver.stop();
-});
+  cb();
+}
+exports.webserverStart = webserverStart;
 
-gulp.task('print', function(done) {
+function webserverStop(cb) {
+  myserver.stop();
+  cb();
+}
+exports.webserverStop = webserverStop;
+
+function print(done) {
 
   // create a variable to hold language directory paths, so we can find and zip them
   var languages = [];
@@ -411,50 +384,50 @@ gulp.task('print', function(done) {
     }
   )
 
-});
-
-gulp.task('pdfs', function(done) {
-  runSequence('webserver-start','print','webserver-stop',done);
-});
+}
+exports.print = print;
 
 
+/* different build options */
+/* ======================= */
 
-// Humans task
-// -----------
-gulp.task('get-humans', function(done){
-  var getHumans = function(callback){
-    var options = {
-      url: 'https://api.github.com/repos/IFRCGo/ecv-toolkit/contributors',
-      headers: {
-        'User-Agent': 'request'
-      }
-    };
+const build = gulp.series( gulp.parallel(jekyll, styles, javascripts, fonts), copyAssets )
 
-    request(options, function (err, res, body) {
-      if (!err && res.statusCode == 200) {
-        var humans = JSON.parse(res.body).map(function(human){
-          return {login: human.login, html_url: human.html_url, contributions: human.contributions}
-        });
-        humans.sort(function(a,b){
-          return b.contributions - a.contributions;
-        })
-        callback(humans, done);
-      } else {
-        callback([], done);
-      }
-    });
-  }
-
-  getHumans(function(humans, done){
-    fs.readFile('./humans-template.txt', 'utf8', function (err, doc) {
-      if (err) throw err;
-      for (i = 0; i < humans.length; i++) {
-        doc = doc + '\nContributor: '+humans[i].login + '\nGithub: '+humans[i].html_url +'\n';
-      }
-      fs.writeFile('./app/humans.txt', doc, function(err) {
-        if (err) throw err;
-        else done();
-      });
-    });
+function watching() {
+  function browserReload() { browserSync.reload(); }
+  browserSync({
+    port: 4000,
+    server: {
+      baseDir: ['_site']
+    }
   });
-});
+  gulp.watch(['app/', '_config*'], gulp.series(build, browserReload));   
+}
+exports.serve = gulp.series(build, watching);
+
+var environment = 'development';
+function setProd(cb) { environment = 'production'; cb(); }
+function setPdfs(cb) { environment = 'pdf'; cb(); }
+function setAndroid(cb) { environment = 'android'; cb(); }
+exports.prod = gulp.series(
+  clean,
+  /* web */
+  setProd, 
+  gulp.parallel(jekyll, styles, javascripts, fonts), 
+  copyAssets,
+  getHumans,
+  /* pdf */
+  setPdfs, 
+  gulp.parallel(jekyll, styles, javascripts, fonts), 
+  copyAssets, 
+  webserverStart, 
+  print, 
+  webserverStop,
+  /* android */
+  setAndroid, 
+  gulp.parallel(jekyll, styles, javascripts, fonts), 
+  copyAssets,
+  modifyLinks, 
+  copyConfig, 
+  copyAppIcons
+);
