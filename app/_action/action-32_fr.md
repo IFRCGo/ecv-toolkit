@@ -5,7 +5,7 @@ layout: card
 identifier: 32
 message: [6,7,8,11,23,27]
 title: Assainissement
-lang: en
+lang: fr
 ---
 
 ### Aperçu
