@@ -16,7 +16,7 @@ lang: en
 
 ### Why learn sneezing etiquette?
 
-- Some diseases can be transmitted from one person to another indroplets of saliva or mucous or in the air.
+- Some diseases can be transmitted from one person to another in droplets of saliva or mucous or in the air.
 - This means that, when we sneeze, we can spread diseases that we have to other people and make them sick.
 - To avoid giving diseases to other people, sneeze in the recommended manner, which does not spread germs.
 
