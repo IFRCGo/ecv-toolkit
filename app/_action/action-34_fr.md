@@ -4,7 +4,7 @@
 layout: card
 identifier: 34
 message: [8,9]
-title: Handwashing with soap
+title: Lavage des mains avec du savon
 lang: fr
 ---
 
