@@ -401,7 +401,7 @@ function watching() {
       baseDir: ['_site']
     }
   });
-  gulp.watch(['app/', '_config*'], gulp.series(build, browserReload));   
+  gulp.watch(['app/', '_config*'], gulp.series(build, styles, copyAssets, browserReload));   
 }
 exports.serve = gulp.series(build, watching);
 
