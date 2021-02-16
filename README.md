@@ -113,7 +113,7 @@ Cleans the compiled site.
 ```
 $ gulp prod
 ```
-Compiles the site loading the `_config-prod.yml` alongside `_config.yml`.
+Compiles the site for production.
 
 ### Travis-CI
 
