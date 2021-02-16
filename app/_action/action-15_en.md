@@ -27,8 +27,8 @@ lang: en
 ### How to screen for acute malnutrition children who are between six months and five years old
 
 Children who suffer from acute malnutrition can be identified in two ways:
-1.	**Measure the mid upper arm circumference (MUAC).** This identifies "wasted" (thin) children. Wrap a coloured or numbered MUAC tape round the left arm of the child (see Action tool 17<a class="crosslink" href="{% render_depth %}{% render_link action|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> for instructions). If the circumference of the child’s arm falls within the red or yellow indicator, the child is malnourished. Red signals acute malnutrition: children in this condition should be referred urgently for medical care. A yellow indication also means the child should be admitted to a nutrition programme and treated as soon as possible.
-2.	**Do a bilateral oedema test.** This identifies "swollen" children (see Action tool 18<a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). Press the tops of a child’s feet for at least three seconds and observe whether an indentation or pit (oedema) persists. If it does, bilateral oedema is present which means that the child needs to be seen at the health care centre immediately.
+1.	**Measure the mid upper arm circumference (MUAC).** This identifies "wasted" (thin) children. Wrap a coloured or numbered MUAC tape round the left arm of the child (see Action tool 17 <a class="crosslink" href="{% render_depth %}{% render_link action|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> for instructions). If the circumference of the child’s arm falls within the red or yellow indicator, the child is malnourished. Red signals acute malnutrition: children in this condition should be referred urgently for medical care. A yellow indication also means the child should be admitted to a nutrition programme and treated as soon as possible.
+2.	**Do a bilateral oedema test.** This identifies "swollen" children (see Action tool 18 <a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). Press the tops of a child’s feet for at least three seconds and observe whether an indentation or pit (oedema) persists. If it does, bilateral oedema is present which means that the child needs to be seen at the health care centre immediately.
 
 ### Where can screening be done? (Appropriate screening locations)
 
@@ -45,11 +45,19 @@ Children who suffer from acute malnutrition can be identified in two ways:
     -	Supplementary feeding for moderate malnutrition (yellow MUAC).
 -	Refer any child with oedema or a red/yellow MUAC to the closest health or nutrition centre. Some programmes provide referral papers for families.
 
-![at-15_en]({% render_depth %}assets/img/graphics/at-15_en.png){:class="my-img-class"}
+#### Measure child
+
+- MUAC (Action tool 17 <a class="crosslink" href="{% render_depth %}{% render_link action|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Low (red/yellow): refer
+  - Normal (green): healthy
+- Oedema test (Action tool 18 <a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Oedema present: refer
+  - No oedema: healthy
 
 ### What you can do
 
 It is important to link up with the services that manage acute malnutrition. As volunteers you can play an important role in supporting these services, through the following activities:
+
 -	Community sensitization and mobilization. Inform members of the community about the signs of malnutrition, the services that are available, and who should receive care. Children who are identified early can be treated more easily and have a better chance of recovery.
 -	Screening. Measure the MUAC of children and test for oedema; pay special attention to children who are weak, thin or swollen.
 -	Referral. Children with red or yellow MUAC or oedema should be referred. Check that referred children go for care and follow up.

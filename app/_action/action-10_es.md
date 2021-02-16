@@ -14,6 +14,7 @@ lang: es
 - Si un paciente no tiene signos de deshidratación o signos de deshidratación leve (consulte la Herramienta de acción 7 <a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>), puede ser tratado en el hogar.
 
 ## Para AUSENCIA de deshidratación
+
 - Demuestre cómo preparar y administrar la SRO.
 - El cuidador debe dar la cantidad de SRO indicada en la tabla abajo.
 
@@ -24,6 +25,7 @@ lang: es
 | 10 años o más | Tanto como se desee | 2 paquetes/día |
 
 ### Cuando hay algunos signos de deshidratación
+
 - Dé la cantidad recomendada de SRO (medida contra la edad o el peso del paciente).
 - Si el paciente pasa heces acuosas o quiere más SRO de lo que se muestra en la tabla anterior, dé más.
 - Si el paciente no mejora o aparecen algunos signos de deshidratación severa, refiérelo a un centro de salud (vea la Herramienta de acción 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
@@ -34,6 +36,7 @@ lang: es
 | Solución oral | 200-400 (1-2 tazas) | 400-600 (2-3 tazas) | 600-800 (3-4 tazas)| 800-1200 (4-6 tazas) | 1200-2200 (6-11 tazas) | 2200-4000 (11-20 tazas) |
 
 ### ¿Cómo dar SRO?
+
 Es importante enseñar a las madres y cuidadores a administrar correctamente la SRO a los niños, para ayudar a que el niño mejore y prevenir la propagación de la epidemia.
 1. A un niño menor de dos años, dé una cucharadita cada 1-2 minutos.
 2. A un niño mayor, dé sorbos frecuentes de una taza.
@@ -42,5 +45,6 @@ Es importante enseñar a las madres y cuidadores a administrar correctamente la
 5. Dé al niño tanta cantidad de agua como pueda beber.
 6. Continúe evaluando la deshidratación y refiera al niño a una clínica si él o ella empeora o no mejora después de unas horas.
 
-![at-10]({% render_depth %}assets/img/graphics/at-10.png){:class="my-img-class"}
+![at-10]({% render_depth %}assets/img/graphics/at-10.jpg){:class="img-md-wide"}
+
 *Administrar la SRO a un niño. Administrar la SRO a un adulto*

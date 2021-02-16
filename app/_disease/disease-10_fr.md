@@ -34,6 +34,7 @@ lang: fr
 - Enfants vivant dans des zones où les structures et services liés à l’eau, l’assainissement et l’hygiène sont de mauvaise qualité
 
 ![dt-10]({% render_depth %}assets/img/graphics/dt-10.png){:class="my-img-class"}
+
 *Enfant atteint de poliomyélite*
 
 ### En cas d’épidémie

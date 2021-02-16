@@ -8,6 +8,7 @@ title: Sleeping under mosquito nets
 lang: en
 ---
 
-![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="my-img-class"}
+![cmt-17]({% render_depth %}assets/img/graphics/cmt-17.png){:class="img-xl-wide"}
 
 ### Sleeping under a mosquito net is one of the best ways to protect against mosquito bites that spread malaria.
+{:class="center-text"}

@@ -24,8 +24,10 @@ lang: es
 - Consulte la tabla en el otro lado de esta tarjeta para obtener más información sobre cómo pueden ayudar los voluntarios.
 
 
-![at-36]({% render_depth %}assets/img/graphics/at-36.png){:class="my-img-class"}
+![at-36-1]({% render_depth %}assets/img/graphics/at-36-1.jpg){:class="img-lg-wide"}
+
 *Mantenga la comunidad limpia. Siempre solicite a los profesionales que rocíen contra los vectores.*
+{:class="center-text"}
 
 ### Principales enfermedades transmitidas por mosquitos y métodos de control.
 
@@ -40,5 +42,7 @@ lang: es
 ### Otros vectores
 Las bacterias de la peste se transmiten con mayor frecuencia por la picadura de un roedor o pulga infectada. Para prevenir la contaminación, las personas deben: almacenar alimentos y agua (incluyendo los alimentos para animales) en recipientes cubiertos a prueba de roedores; coloque una malla o cierre los agujeros en paredes y techos; elimine la basura y los desechos ambientales de alrededor de las viviendas; duerma en una plataforma elevada (no en el suelo); y use repelentes. Ver herramienta de acción 38<a class="crosslink" href="{% render_depth %}{% render_link action|38 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y el mensaje comunitario 27<a class="crosslink" href="{% render_depth %}{% render_link message|27 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 
-![at-36b]({% render_depth %}assets/img/graphics/at-36b.png){:class="my-img-class"}
+![at-36-2]({% render_depth %}assets/img/graphics/at-36-2.jpg){:class="img-lg-wide"}
+
 *Vectores: mosquito, pulga, mosca y rata*
+{:class="center-text"}

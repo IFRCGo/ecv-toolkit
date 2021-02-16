@@ -37,7 +37,8 @@ lang: en
 12. Read and record the measurement at the window of the MUAC tape to the nearest millimetre (mm).
 13. If a child has a MUAC of less than 12.5 cm (coloured yellow or red on the tape) a referral form must be filled out so that the child can receive treatment.
 
-![at-17]({% render_depth %}assets/img/graphics/at-17.png){:class="my-img-class"}
+![at-17]({% render_depth %}assets/img/graphics/at-17.jpg){:class="img-md-tall"}
+
 *Measuring MUAC*
 
 ### What do different measures and colours mean?

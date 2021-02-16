@@ -8,6 +8,7 @@ title: Pasos para lavarse las manos en epidemias
 lang: es
 ---
 
-![at-35_es]({% render_depth %}assets/img/graphics/at-35_es.png){:class="my-img-class"}
+![cmt-10]({% render_depth %}assets/img/graphics/cmt-10.jpg){:class="img-xl-wide"}
 
 ### ¡Lave sus manos correctamente durante una epidemia para protegerse y detener la propagación de gérmenes!
+{:class="center-text"}

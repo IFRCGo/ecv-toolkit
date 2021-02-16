@@ -26,5 +26,6 @@ Pendant une épidémie, les malades ne peuvent souvent pas être soignés chez e
 -	Munissez-vous toujours de la fiche maladie pertinente lorsque vous faites de la surveillance afin de vous aider à vous rappeler ce que vous devriez savoir sur la maladie et ses symptômes.
 -	Lorsque vous aiguillez un malade, expliquez toujours clairement à la famille concernée quelle est la maladie, quels sont ses symptômes, et quelles sont les raisons de votre décision. Donnez-leur des informations au sujet des établissements de santé existants et expliquez-leur comment s’y rendre grâce aux différents moyens de transport.
 
-![at-04]({% render_depth %}assets/img/graphics/at-04.png){:class="my-img-class"}
+![at-04]({% render_depth %}assets/img/graphics/at-04.jpg){:class="img-md-wide"}
+
 *Volontaire s’entretenant avec un professionnel de la santé*

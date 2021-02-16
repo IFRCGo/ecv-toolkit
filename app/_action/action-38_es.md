@@ -21,7 +21,8 @@ lang: es
 - La vegetación debe ser eliminada de las orillas de los ríos y estanques cerca del pueblo.
 - El área alrededor de las fuentes de agua (bombas, pozos) debe mantenerse limpia.
 
-![at-38]({% render_depth %}assets/img/graphics/at-38.png){:class="my-img-class"}
+![at-38-1]({% render_depth %}assets/img/graphics/at-38-1.jpg){:class="img-md-wide"}
+
 *Dígales a los miembros de la comunidad lo importante que es mantener su comunidad limpia. Organice campañas regulares de limpieza. Incluir casas y letrinas, etc.*
 
 ### Lo que puede hacer
@@ -38,6 +39,6 @@ lang: es
 - Limpiar las áreas alrededor de las fuentes de agua (como bombas y pozos).
 - Crear y mantener canales de drenaje de agua alrededor de las fuentes de agua.
 
-![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
-Asegúrese de eliminar los residuos de manera adecuada.
-Esto ayudará a proteger a la comunidad de los gérmenes.
+![at-38-2]({% render_depth %}assets/img/graphics/at-38-2.jpg){:class="img-md-wide"}
+
+*Asegúrese de eliminar los residuos de manera adecuada. Esto ayudará a proteger a la comunidad de los gérmenes.*

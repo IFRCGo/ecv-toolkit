@@ -8,6 +8,7 @@ title: Cuidar a una persona con fiebre
 lang: es
 ---
 
-![at-12]({% render_depth %}assets/img/graphics/at-12.png){:class="my-img-class"}
+![cmt-02]({% render_depth %}assets/img/graphics/cmt-02.jpg){:class="img-xl-wide"}
 
 ### ¡Para cuidar a alguien con fiebre, refresque el cuerpo y hágales beber muchos líquidos!
+{:class="center-text"}

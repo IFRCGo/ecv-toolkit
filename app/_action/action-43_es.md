@@ -22,9 +22,11 @@ lang: es
 - Cualquier movilización social o estrategia para el cambio de comportamiento que utilice debe colocar a la comunidad en su centro, incluso cuando identifique soluciones y estrategias.
 
 ### ¿Qué es el cambio de comportamiento en una epidemia?
+
 En cualquier contexto, el cambio de comportamiento involucra tres elementos. Antes de que la gente cambie su comportamiento:
+
 1. Necesitan saber qué, porqué y cómo deben cambiar. Ellos necesitan conocimiento.
 2. Necesitan tener el equipo adecuado, acceso y capacidad. Necesitan un entorno propicio.
 3. Necesitan estar motivados para cambiar.
 
-![at-43_es]({% render_depth %}assets/img/graphics/at-43_es.png){:class="my-img-class"}
+![at-43_es]({% render_depth %}assets/img/graphics/at-43_es.jpg){:class="img-lg-wide"}

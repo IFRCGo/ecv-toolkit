@@ -23,7 +23,7 @@ lang: es
 ### Lo que puede hacer
 
 - Asegúrese de conocer la política de su Sociedad Nacional sobre cuándo los voluntarios pueden dar vitamina  ̈A ̈ a los niños. Siga la política.
-- Lleve a cabo actividades de movilización social antes de una campaña de vacunación (consulte la herramienta de acción 25) para informar a la comunidad sobre los suplementos de vitamina A.
+- Lleve a cabo actividades de movilización social antes de una campaña de vacunación (consulte la herramienta de acción 25 <a class="crosslink" href="{% render_depth %}{% render_link action|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) para informar a la comunidad sobre los suplementos de vitamina A.
 - Coordine con los profesionales de salud de sus establecimientos de salud locales. Ellos le pueden decir cómo administrar la vitamina A y qué dosis administrar.
 - Asegúrese de que se prepare un buen plan para proporcionar suplementos de vitamina A.
 - Asegúrese que a todos los niños de entre los 6 meses y los 5 años les sea dada la vitamina A correctamente.

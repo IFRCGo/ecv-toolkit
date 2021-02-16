@@ -8,13 +8,18 @@ title: Préparation et administration d’une solution de réhydratation orale (
 lang: fr
 ---
 
-![cmt-01]({% render_depth %}assets/img/graphics/cmt-01.png){:class="my-img-class"}
+![cmt-01-1]({% render_depth %}assets/img/graphics/cmt-01-1.jpg){:class="img-lg-wide"}
+
 *Solution faite maison à partir de sel et de sucre : 8 cuillères à café de sucre + une demi-cuillère à café de sel. Mélangez dans 1 litre (ou 5 tasses) d’eau. Sachets de SRO : Mélanger dans 1 litre d'eau de consommation salubre.*
+{:class="center-text"}
 
-![cmt-01b]({% render_depth %}assets/img/graphics/cmt-01b.png){:class="my-img-class"}
-*Les enfants souffrant de diarrhée doivent être réhydratés, donnez-leur une SRO !*
+![cmt-01-2]({% render_depth %}assets/img/graphics/cmt-01-2.jpg){:class="img-lg-wide"}
 
-### Pour prévenir le choléra :
+*Les enfants souffrant de diarrhée doivent être réhydratés, donnez-leur une SRO!*
+{:class="center-text"}
+
+### Pour prévenir le choléra:
+
 - Boire de l’eau potable, de l’eau qui a été bouillie au moins une minute.
 - Conserver l’eau dans un récipient propre avec un couvercle.
 - Manger des aliments chauds et cuits.

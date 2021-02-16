@@ -18,7 +18,7 @@ lang: fr
 
 - Les infections sexuellement transmissibles (IST) telles que la chlamydia, l’herpès, la gonorrhée, la syphilis et le VIH.
 - Le virus Zika.
-- Les fièvres hémorragiques virales (Ebola<a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fièvre de Marburg<a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fièvre de Lassa<a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Les fièvres hémorragiques virales (Ebola <a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fièvre de Marburg <a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fièvre de Lassa <a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 ### Quand promouvoir les rapports sexuels protégés
 
@@ -30,8 +30,10 @@ lang: fr
 - Utilisez un préservatif masculin ou féminin lors de vos relations sexuelles. Les préservatifs permettent de bloquer toute infection pouvant être transmise par le sperme ou les liquides corporels contaminés.
 - Essayez de trouver d’autres formes d’intimité avec votre partenaire (qui ne soient pas des relations sexuelles).
 
-![at-42]({% render_depth %}assets/img/graphics/at-42.png){:class="my-img-class"}
+![at-42]({% render_depth %}assets/img/graphics/at-42.jpg){:class="img-lg-wide"}
+
 *Porter un préservatif masculin*
+{:class="center-text}
 
 ### Éléments clés concernant Zika
 
@@ -50,6 +52,6 @@ lang: fr
 
 - Assurez-vous de comprendre les faits ainsi que la manière dont des maladies comme Zika, Ebola, la fièvre de Marburg et la fièvre de Lassa peuvent être transmises sexuellement.
 - N’oubliez pas que le sexe peut être un sujet très sensible, tabou ou embarrassant. Il est possible que vous deviez changer d’approche ou de manière de communiquer pour faire passer votre message.
-- Mettez en place des activités de mobilisation sociale et de communication pour le changement de comportement lors des épidémies de Zika, d’Ebola, de fièvre de Marburg et de fièvre de Lassa. (Voir les éléments clés ci-dessus et les fiches action 3<a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> et 43<a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.)
+- Mettez en place des activités de mobilisation sociale et de communication pour le changement de comportement lors des épidémies de Zika, d’Ebola, de fièvre de Marburg et de fièvre de Lassa. (Voir les éléments clés ci-dessus et les fiches action 3 <a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> et 43 <a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.)
 - Rappelez-vous que le sexe n’est qu’un mode de transmission de ces maladies, et qu’il n’est souvent pas le plus courant. Entretenezvous avec le coordonnateur des volontaires, le chef d’équipe ou le bureau de la santé de votre section locale au sujet des méthodes de prévention qui devraient être mises en avant lors de vos visites communautaires.
 - Assurez-vous de savoir et pouvoir montrer comment utiliser correctement les préservatifs masculins et féminins.

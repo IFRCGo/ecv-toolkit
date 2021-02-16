@@ -28,7 +28,7 @@ lang: es
 1. Retire los zapatos y los calcetines del niño. Presione ambos pulgares en la parte superior de cada pie durante tres segundos. Mantenga una presión firme y constante.
 2. Retire sus pulgares. Siunhoyoohundimientopermaneceenlapielde ambos pies después de 3 segundos, el niño puede tener edema.
 
-![at-18]({% render_depth %}assets/img/graphics/at-18.png){:class="my-img-class"}
+![at-18]({% render_depth %}assets/img/graphics/at-18.jpg){:class="img-lg-wide"}
 
 Cualquier niño que tenga edema debe ser referido a un establecimiento de salud tan pronto como sea posible.
 

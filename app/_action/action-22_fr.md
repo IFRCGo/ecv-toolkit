@@ -24,7 +24,7 @@ s’ils sont atteints de rougeole, de paludisme ou de diarrhée.
 ### Ce que vous pouvez faire
 
 - Prenez connaissance de la politique de votre Société nationale en matière d’administration de vitamine A aux enfants par les volontaires et suivez-la.
-- Menez des activités de mobilisation sociale avant les campagnes de vaccination (voir la  che action 25<a class="crosslink" href="{% render_depth %}{% render_link action|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) pour informer la communauté sur les compléments en vitamine A.
+- Menez des activités de mobilisation sociale avant les campagnes de vaccination (voir la  che action 25 <a class="crosslink" href="{% render_depth %}{% render_link action|25 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) pour informer la communauté sur les compléments en vitamine A.
 - Travaillez en collaboration avec les professionnels de la santé de l’établissement de soin local. Ils peuvent vous indiquer les doses et les méthodes d’administration de la vitamine A.
 - Assurez-vous qu’un plan satisfaisant soit mis en place pour l’administration de compléments de vitamine A.
 - Assurez-vous que chaque enfant âgé de 6 mois à 5 ans se voie administrer de la vitamine A correctement.

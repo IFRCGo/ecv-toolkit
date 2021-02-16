@@ -35,5 +35,6 @@ lang: en
 - Vegetables should either be cooked thoroughly or washed well with water.
 - Raw fruits and vegetables should be washed with clean water.
 
-![at-31]({% render_depth %}assets/img/graphics/at-31.png){:class="my-img-class"}
+![at-31]({% render_depth %}assets/img/graphics/at-31.jpg){:class="img-sm-wide"}
+
 *Keep food properly stored and covered*

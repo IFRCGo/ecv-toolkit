@@ -38,5 +38,6 @@ lang: es
 - Enjuague bien las manos para que estén libres de jabón o cenizas.
 - Seque las manos con una toalla de papel. Si no hay una toalla, agítelas en el aire hasta que estén secas.
 
-![at-34]({% render_depth %}assets/img/graphics/at-34.png){:class="my-img-class"}
+![at-34]({% render_depth %}assets/img/graphics/at-34.jpg){:class="img-md-tall"}
+
 *1. Lávese las manos con jabón o cenizas. 2. Lave por 10 a 15 segundos. 3. Lávese bien las manos.*

@@ -21,7 +21,8 @@ lang: fr
 - Il faut nettoyer la végétation aux abords des rivières et dans les mares proches des habitations.
 - La zone entourant les sources d’eau (puits, pompes) doit rester propre.
 
-![at-38]({% render_depth %}assets/img/graphics/at-38.png){:class="my-img-class"}
+![at-38-1]({% render_depth %}assets/img/graphics/at-38-1.jpg){:class="img-md-wide"}
+
 *Expliquez aux membres de la communauté combien il est important de maintenir leur environnement de vie propre. Organisez régulièrement des campagnes de nettoyage visantnotamment les maisons, les latrines, etc.*
 
 ### Ce que vous pouvez faire
@@ -37,5 +38,6 @@ Mettre en place une initiative communautaire destinée à imaginer et créer une
 - Nettoyer la zone autour des sources d’eau (comme les pompes et les puits).
 - Créer et entretenir des réservoirs d’eau à proximité des sources d’eau.
 
-![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
-Veillez à éliminer les déchets de manière hygiénique afin de préserver la communauté des germes.
+![at-38-2]({% render_depth %}assets/img/graphics/at-38-2.jpg){:class="img-md-wide"}
+
+*Veillez à éliminer les déchets de manière hygiénique afin de préserver la communauté des germes.*

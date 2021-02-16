@@ -75,5 +75,7 @@ Las básculas electrónicas son muy precisas, ya sea que estén alimentadas p
 7. El niño que se va a pesar se pasa al adulto en la báscula, quien permanece inmóvil.
 8. La escala muestra el peso del niño. Lea la medida en voz alta; una segunda persona la registra de inmediato.
 
-![at-16]({% render_depth %}assets/img/graphics/at-16.png){:class="my-img-class"}
+![at-16-1]({% render_depth %}assets/img/graphics/at-16-1.jpg){:class="img-wide-double"}
+![at-16-2]({% render_depth %}assets/img/graphics/at-16-2.jpg){:class="img-wide-double"}
+
 *Medición de la estatura y el peso de un niño*

@@ -18,7 +18,8 @@ lang: en
 - Vegetation should be cleared from river banks and ponds near the village.
 - The area around water sources (pumps, wells) should be kept clean.
 
-![at-38]({% render_depth %}assets/img/graphics/at-38.png){:class="my-img-class"}
+![at-38-1]({% render_depth %}assets/img/graphics/at-38-1.jpg){:class="img-md-wide"}
+
 *Tell community members how important it is to keep their community clean. Organize regular clean-up campaigns. Include houses and latrines, etc.*
 
 ### What you can do
@@ -36,5 +37,6 @@ Motivate and support the community to work together to:
 - Clean the areas around water sources (such as pumps and wells).
 - Create and maintain water soak pits around water sources.
 
-![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
-Make sure to dispose of waste properly. This will help to protect the community from germs.
+![at-38-2]({% render_depth %}assets/img/graphics/at-38-2.jpg){:class="img-md-wide"}
+
+*Make sure to dispose of waste properly. This will help to protect the community from germs.*

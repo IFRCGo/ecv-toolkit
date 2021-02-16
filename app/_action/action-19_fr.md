@@ -21,11 +21,12 @@ lang: fr
 - Le « soutien psychosocial » renvoie aux actions qui répondent aux besoins psychologiques et sociaux des individus, familles et communautés.
 - Nous fournissons un soutien psychosocial pour aider les personnes qui ont subi une crise à s’en remettre. Apporté en temps voulu et de manière adéquate, ce soutien peut empêcher que l’angoisse et la souffrance donnent lieu à des problèmes mentaux plus graves.
 
-#####  *Hobfoll et al. (2007) propose cinq principes qui devraient orienter le soutien psychosocial dans les situations d’urgence. Les interventions devraient garantir la sécurité et favoriser :*
-- *le calme;*
-- *l’ef cacité personnelle et collective;*
-- *les liens sociaux;*
-- *l’espoir.*
+####  Hobfoll et al. (2007) propose cinq principes qui devraient orienter le soutien psychosocial dans les situations d’urgence. Les interventions devraient garantir la sécurité et favoriser:
+
+- le calme.
+- l’ef cacité personnelle et collective.
+- les liens sociaux.
+- l’espoir.
 
 ### Les activités de soutien psychosocial comprennent:
 
@@ -62,7 +63,7 @@ lang: fr
 
 Les premiers soins psychologiques visent à réconforter une personne en détresse et à l’aider à se calmer et à se sentir en sécurité. Ils apportent un soutien émotionnel et aident les individus à satisfaire leurs besoins essentiels immédiats et à trouver des informations, des services et une aide sociale. Les trois principes d’action que sont « Regardez, écoutez et connectez » indiquent que les premiers soins psychologiques sont une manière d’entrer en contact avec une personne en détresse, d’évaluer l’aide dont elle a besoin et de lui apporter un soutien pour l’obtenir.
 
-##### *REGARDER* (Être attentif à la situation)
+#### *REGARDER* (Être attentif à la situation)
 
 - Déterminer ce qui se passe ou s’est passé
 - Dé nir qui a besoin d’aide
@@ -71,7 +72,7 @@ Les premiers soins psychologiques visent à réconforter une personne en dét
 - Identi er les besoins pratiques et essentiels immédiats
 - Observer les réactions émotionnelles
 
-##### *ÉCOUTER* (Être attentif à la personne)
+#### *ÉCOUTER* (Être attentif à la personne)
 
 - Se présenter
 - Être attentif et écouter activement
@@ -80,7 +81,7 @@ Les premiers soins psychologiques visent à réconforter une personne en dét
 - S’informer de ses besoins et préoccupations
 - Aider la ou les personne(s) en détresse à trouver des solutions à leurs besoins et problèmes
 
-##### *CONNECTER* (Prendre des initiatives pour aider)
+#### *CONNECTER* (Prendre des initiatives pour aider)
 
 - Trouver des informations
 - Entrer en contact avec les proches de la personne et l’aide sociale

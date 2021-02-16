@@ -37,7 +37,8 @@ lang: fr
 12. Lisez et consignez la mesure apparaissant dans la fenêtre du ruban en arrondissant au millimètre.
 13. Si l’enfant a un périmètre brachial de moins de 12,5 cm (couleur jaune ou rouge sur le ruban), un formulaire d’orientation doit être rempli afin que l’enfant puisse recevoir un traitement.
 
-![at-17]({% render_depth %}assets/img/graphics/at-17.png){:class="my-img-class"}
+![at-17]({% render_depth %}assets/img/graphics/at-17.jpg){:class="img-md-tall"}
+
 *Mesure du MUAC*
 
 ### Que veulent dire les différentes mesures et couleurs?

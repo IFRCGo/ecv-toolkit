@@ -36,7 +36,8 @@ lang: es
 12. Lea y registre la medida que aparece en la ventana de la cinta MUAC al milímetro más cercano (mm).
 13. Si un niño tiene un MUAC de menos de 12,5 cm (color amarillo o rojo en la cinta) se debe completar un formulario de referencia para que el niño pueda recibir tratamiento.
 
-![at-17]({% render_depth %}assets/img/graphics/at-17.png){:class="my-img-class"}
+![at-17]({% render_depth %}assets/img/graphics/at-17.jpg){:class="img-md-tall"}
+
 *Medición del MUAC*
 
 ### What do different measures and colours mean?

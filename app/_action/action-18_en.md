@@ -28,7 +28,7 @@ lang: en
 1. Remove the child’s shoes and socks. Press both your thumbs on the top of each foot for three seconds. Keep a firm, constant pressure.
 2. Remove your thumbs. If a pit or dip remains in the skin of both feet after three seconds, the child may have oedema.
 
-![at-18]({% render_depth %}assets/img/graphics/at-18.png){:class="my-img-class"}
+![at-18]({% render_depth %}assets/img/graphics/at-18.jpg){:class="img-lg-wide"}
 
 Any child found to have oedema should be referred to a health facility as soon as possible.
 

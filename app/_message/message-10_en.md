@@ -8,6 +8,7 @@ title: Steps for washing hands in epidemics
 lang: en
 ---
 
-![at-35_en]({% render_depth %}assets/img/graphics/at-35_en.png){:class="my-img-class"}
+![cmt-10]({% render_depth %}assets/img/graphics/cmt-10.jpg){:class="img-xl-wide"}
 
 ### Wash your hands correctly during an epidemic to protect yourself and stop the spread of germs.
+{:class="center-text"}

@@ -27,4 +27,4 @@ lang: fr
   - (Voir les instructions au verso.)
 - Pendant une épidémie (de maladie très contagieuse ou d’une autre maladie telle que la diarrhée ou le choléra, ou d’une infection respiratoire), cette méthode de lavage des mains est recommandée à chaque fois que vous avez touché un objet susceptible de vous transmettre une infection
 
-![at-35_fr]({% render_depth %}assets/img/graphics/at-35_en.png){:class="my-img-class"}
+![at-35]({% render_depth %}assets/img/graphics/at-35.jpg){:class="img-lg-wide"}

@@ -37,5 +37,7 @@ lang: es
 - Explique a las mujeres embarazadas que deben visitar al trabajador de salud para chequeos y que deben recibir dos dosis de vacuna contra el tétano antes de que nazcan sus hijos.
 - Si algunos miembros de la comunidad tienen miedo de las vacunas, asista a los trabajadores de la comunidad a calmar y eliminar sus miedos. Corrija los rumores y la desinformación sobre vacunaciones.
 
-![at-24]({% render_depth %}assets/img/graphics/at-24.png){:class="my-img-class"}
+![at-24]({% render_depth %}assets/img/graphics/at-24.jpg){:class="img-lg-wide"}
+
 *Un niño que se está vacunando. Tener una tarjeta de vacuna.*
+{:class="center-text"}

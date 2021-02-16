@@ -27,8 +27,8 @@ Cuando los niños no tienen suficientes alimentos o nutrientes, esto puede afec
 ### Cómo detectar niños con malnutrición aguda que tengan entre 6 meses y 5 años edad
 
 Los niños que sufren de malnutrición aguda pueden identificarse de dos maneras:
-1. Mida la circunferencia media del brazo superior (MUAC). Esto identifica a los niños "emaciados" (delgados). Envuelva una cinta MUAC de color o numerada alrededor del brazo izquierdo del niño (consulte la herramienta de acción 17 para obtener instrucciones). Si la circunferencia del brazo del niño cae dentro del indicador rojo o amarillo, el niño está desnutrido. El rojo indica malnutrición aguda: los niños en esta condición deben ser remitidos urgentemente para recibir atención médica. Una indicación amarilla también significa que el niño debe ser admitido en un programa de nutrición y ser tratado tan pronto como sea posible.
-2. Haga una prueba de edema bilateral. Esto identifica a los niños "hinchados" (ver la herramienta de acción 18). Presione la parte superior de los pies de un niño durante al menos 3 segundos y observe si persiste una hendidura o un hoyo (edema). Si lo hace, existe un edema bilateral, lo que significa que el niño debe ser atendido en el centro de atención médica de inmediato.
+1. **Mida la circunferencia media del brazo superior (MUAC).** Esto identifica a los niños "emaciados" (delgados). Envuelva una cinta MUAC de color o numerada alrededor del brazo izquierdo del niño (consulte la herramienta de acción 17 para obtener instrucciones). Si la circunferencia del brazo del niño cae dentro del indicador rojo o amarillo, el niño está desnutrido. El rojo indica malnutrición aguda: los niños en esta condición deben ser remitidos urgentemente para recibir atención médica. Una indicación amarilla también significa que el niño debe ser admitido en un programa de nutrición y ser tratado tan pronto como sea posible.
+2. **Haga una prueba de edema bilateral.** Esto identifica a los niños "hinchados" (ver la herramienta de acción 18). Presione la parte superior de los pies de un niño durante al menos 3 segundos y observe si persiste una hendidura o un hoyo (edema). Si lo hace, existe un edema bilateral, lo que significa que el niño debe ser atendido en el centro de atención médica de inmediato.
 
 ### ¿Dónde se puede hacer el examen? (Ubicaciones de detección apropiadas)
 
@@ -45,11 +45,19 @@ Los niños que sufren de malnutrición aguda pueden identificarse de dos maner
     - Alimentación suplementaria para la malnutrición moderada (MUAC amarillo).
 - Remita a cualquier niño con edema o un MUAC rojo / amarillo al centro de salud o nutrición más cercano. Algunos programas proporcionan documentos de referencia para las familias.
 
-![at-15_es]({% render_depth %}assets/img/graphics/at-15_es.png){:class="my-img-class"}
+#### Medición del niño
+
+- MUAC (Herramienta de acción 17 <a class="crosslink" href="{% render_depth %}{% render_link action|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Bajo (rojo/amarillo): referir
+  - Normal (verde): saludable
+- Prueba de edema (Herramienta de acción 18 <a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Presencia de edema: referir
+  - Sin edema: saludable
 
 ### Lo que puede hacer
 
 Es importante vincularse con los servicios que manejan la malnutrición aguda. Como voluntarios, pueden desempeñar un papel importante en el apoyo a estos servicios, a través de las siguientes actividades:
+
 - Sensibilización y movilización comunitaria. Informar a los miembros de la comunidad sobre los signos de malnutrición, los servicios disponibles y quiénes deben recibir atención. Los niños que se identifican tempranamente pueden ser tratados más fácilmente y tienen una mejor oportunidad de recuperación.
 - Detección. Mida el MUAC de los niños y realice una prueba de edema; preste especial atención a los niños débiles, delgados o hinchados.
 - Referencia. Los niños con MUAC rojo o amarillo o edema deben ser referidos. Verifique que los niños referidos vayan por cuidado y seguimiento.

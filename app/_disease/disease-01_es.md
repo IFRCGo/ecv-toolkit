@@ -78,5 +78,6 @@ Haga un mapa de la comunidad y marque la información que reúna en el mapa. R
 - ¿Las personas saben cómo tratar el agua?
 
 
-![dt-01]({% render_depth %}assets/img/graphics/dt-01.png){:class="my-img-class"}
+![dt-01]({% render_depth %}assets/img/graphics/dt-01.jpg){:class="img-md-wide"}
+
 *Fomente la lactancia materna exclusiva durante los primeros 6 meses de vida, incluso cuando el niño está enfermo. Un niño deshidratado ojos hundidos, boca seca, letárgico/débil, la piel pellizcada regresa lentamente, y pocaoningunaorina.*

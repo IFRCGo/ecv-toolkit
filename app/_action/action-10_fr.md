@@ -11,7 +11,7 @@ lang: fr
 ### Aperçu
 
 - Les solutions de réhydratation orale (SRO) constituent la première étape dans le traitement des personnes souffrant de diarrhée et de déshydratation.
-- Lorsqu’un patient ne montre aucun signe de déshydratation ou seulement des signes d’une légère déshydratation (voir la fiche action 7<a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>), il peut être soigné à domicile.
+- Lorsqu’un patient ne montre aucun signe de déshydratation ou seulement des signes d’une légère déshydratation (voir la fiche action 7 <a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>), il peut être soigné à domicile.
 
 ### En l’ABSENCE de signes de déshydratation
 
@@ -28,7 +28,7 @@ lang: fr
 
 - Administrer la quantité de SRO recommandée (déterminée en fonction de l’âge ou du poids du patient).
 - Si le patient a des selles liquides ou s’il veut plus de SRO qu’indiqué dans le tableau ci-dessus, donnez-lui-en plus.
-- Si l’état du patient ne s’améliore pas ou s’il présente certains signes de déshydratation grave, aiguillez-le vers un centre de santé (voir la fiche action 4<a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Si l’état du patient ne s’améliore pas ou s’il présente certains signes de déshydratation grave, aiguillez-le vers un centre de santé (voir la fiche action 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 | Âge | Moins de 4 mois | 4à 11 mois | 12 à 23 mois | 2 à 4 ans | 5 à 14 ans | 15 ans ou plus |
 |---|---|---|---|---|---|---|
@@ -45,5 +45,6 @@ Il est important d’enseigner aux mères et aux soignants comment administrer 
 5. Donnez à l’enfant autant d’eau qu’il peut boire.
 6. Continuez d’évaluer la déshydratation et orientez l’enfant vers un dispensaire si son état empire ou ne s’améliore pas après quelques heures.
 
-![at-10_fr]({% render_depth %}assets/img/graphics/at-10_fr.png){:class="my-img-class"}
+![at-10_fr]({% render_depth %}assets/img/graphics/at-10_fr.jpg){:class="img-md-wide"}
+
 *Administrer une SRO à un enfant. Administrer une SRO à un adulte*

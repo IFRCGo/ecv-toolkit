@@ -23,7 +23,8 @@ lang: en
 -	Drain or remove waste water and standing water. (Camps should be designed with this in mind.)
 -	Promote hygiene and teach people how to keep themselves safe and clean.
 
-![at-32]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
+![at-32-1]({% render_depth %}assets/img/graphics/at-32-1.jpg){:class="img-md-wide"}
+
 *Talk to your community about proper sanitation practices*
 
 ### How do you support good sanitation?
@@ -32,5 +33,7 @@ lang: en
 - Encourage the community to burn or bury rubbish.
 - Mobilize the community to reduce standing water where mosquitoes are likely to breed.
 
-![at-32b]({% render_depth %}assets/img/graphics/at-32b.png){:class="my-img-class"}
+![at-32-2]({% render_depth %}assets/img/graphics/at-32-2.jpg){:class="img-lg-wide"}
+
 *Safely dispose of waste. Build and properly use latrines. Community clean-up campaign.*
+{:class="center-text"}

@@ -20,7 +20,8 @@ lang: fr
 - La  èvre peut être grave. Si elle est très forte, elle peut provoquer des convulsions (le corps est parcouru de violents tremblements) chez les enfants en bas âge.
 - La  èvre peut provoquer la perte de liquides et la déshydratation.
 
-![at-12]({% render_depth %}assets/img/graphics/at-12.png){:class="my-img-class"}
+![at-12]({% render_depth %}assets/img/graphics/at-12.jpg){:class="img-md-wide"}
+
 *Vérifier la présence de fièvre*
 
 ### Ce que vous pouvez faire

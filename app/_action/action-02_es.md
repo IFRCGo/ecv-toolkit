@@ -27,5 +27,7 @@ lang: es
 - Los mapas son a menudo más fáciles de entender que las palabras.
 
 
-![at-02]({% render_depth %}assets/img/graphics/at-02.png){:class="my-img-class"}
+![at-02]({% render_depth %}assets/img/graphics/at-02.jpg){:class="img-lg-wide"}
+
 *Haciendo un mapa de la comunidad*
+{:class="center-text"}

@@ -75,5 +75,6 @@ Make a map of the community and mark the information you gather on the map. Reco
 -	Do people know how to make oral rehydration solution (ORS)? Do they have resources at hand to make it?
 -	Do people know how to treat water?
 
-![dt-01]({% render_depth %}assets/img/graphics/dt-01.png){:class="my-img-class"}
+![dt-01]({% render_depth %}assets/img/graphics/dt-01.jpg){:class="img-md-wide"}
+
 *Encourage exclusive breastfeeding for the first 6 months of life ‒ including when a child is sick. A dehydrated child may experience the following: sunken eyes, dry mouth, lethargic/weak, skin pinch returns slowly, or little or no urine*

@@ -28,5 +28,6 @@ lang: fr
 - Essayez d’éviter que l’isolement ne devienne une cause de discrimination et de rejet social pour les patients et leur famille. Expliquez à la communauté pourquoi il est nécessaire. Pour lutter contre la discrimination, demandez l’aide des anciens et des dirigeants communautaires.
 - Assurez-vous que les personnes placées en isolement disposent de nourriture, d’eau et de soins de santé suf sants, et qu’ils béné cient d’une aide pour gérer toute perte de moyens de subsistance.
 
-![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"}
+![at-20]({% render_depth %}assets/img/graphics/at-20.jpg){:class="img-md-wide"}
+
 *Parlez à la communauté et aux anciens pour éviter la discrimination et le rejet social*

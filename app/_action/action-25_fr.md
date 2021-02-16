@@ -30,5 +30,6 @@ En principe, les volontaires n’administrent pas de vaccins directement aux enf
 - Ayez recours à des messages simples et directs.
 - Utilisez du matériel d’information, d’éducation et de communication, notamment les messages à la population contenus dans la présente boîte à outils, les images aidant toujours les gens à mieux saisir le message.
 
-![at-25]({% render_depth %}assets/img/graphics/at-25.png){:class="my-img-class"}
+![at-25]({% render_depth %}assets/img/graphics/at-25.jpg){:class="img-md-wide"}
+
 *Campagne de vaccination de masse*

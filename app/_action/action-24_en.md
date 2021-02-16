@@ -37,5 +37,7 @@ lang: en
 - Explain to pregnant women that they must visit the health worker for check-ups and should receive two doses of tetanus vaccine before their children are born.
 - If some members of the community are afraid of vaccinations, assist community workers to calm and remove their fears. Correct rumours and misinformation about vaccinations.
 
-![at-24]({% render_depth %}assets/img/graphics/at-24.png){:class="my-img-class"}
+![at-24]({% render_depth %}assets/img/graphics/at-24.jpg){:class="img-lg-wide"}
+
 *A child getting vaccinated. A vaccination card.*
+{:class="center-text"}

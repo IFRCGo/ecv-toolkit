@@ -33,5 +33,6 @@ lang: es
 - Todos los productos animales, incluidos la carne y los huevos, deben cocinarse bien antes de comerlos, para eliminar todos los gérmenes.
 - Las verduras deben cocinarse bien o lavarse bien con agua. § Las frutas y verduras crudas deben lavarse con agua limpia.
 
-![at-31]({% render_depth %}assets/img/graphics/at-31.png){:class="my-img-class"}
+![at-31]({% render_depth %}assets/img/graphics/at-31.jpg){:class="img-sm-wide"}
+
 *Almacene la comida adecuadamente y cúbrala con algo*

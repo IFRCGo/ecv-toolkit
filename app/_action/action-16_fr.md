@@ -74,5 +74,7 @@ Les balances électroniques sont très précises, qu’elles fonctionnent ave
 7. L’enfant à peser est tendu à l’adulte sur la balance, qui reste immobile.
 8. La balance montre le poids de l’enfant. Lisez le poids à voix haute ; une deuxième personne le consigne immédiatement.
 
-![at-16]({% render_depth %}assets/img/graphics/at-16.png){:class="my-img-class"}
+![at-16-1]({% render_depth %}assets/img/graphics/at-16-1.jpg){:class="img-wide-double"}
+![at-16-2]({% render_depth %}assets/img/graphics/at-16-2.jpg){:class="img-wide-double"}
+
 *Mesure de la taille et du poids d'un enfant*

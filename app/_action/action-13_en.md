@@ -32,5 +32,6 @@ lang: en
 - Repeat the same message: breastfeeding saves the lives of babies in diarrhoea epidemics. Talk to women to find out what support they need and the difficulties they face in continuing to breastfeed. Work with women and health workers to try to resolve their problems and concerns.
 - After the epidemic is over, keep working to encourage breastfeeding.
 
-![at-13]({% render_depth %}assets/img/graphics/at-13.png){:class="my-img-class"}
+![at-13]({% render_depth %}assets/img/graphics/at-13.jpg){:class="img-sm-tall"}
+
 *Breastfeed exclusively from birth to six months of age. After this age, introduce appropriate food while continuing to breastfeed.*

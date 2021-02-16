@@ -25,5 +25,6 @@ lang: es
 - Cuandoestéhaciendovigilanciasiemprelleveconsigolaherramienta relevante para la enfermedad para ayudarlo a recordar lo que debe saber sobre la patología y sus síntomas.
 - Cuandorefiera,siempreexpliqueclaramentealafamiliacorrespondiente qué es la enfermedad, cuáles son sus síntomas y por qué cree que referir es necesario. Dé información sobre los servicios de salud disponibles y cómo llegar a ellos por medio de diferentes medios de transporte.
 
-![at-04]({% render_depth %}assets/img/graphics/at-04.png){:class="my-img-class"}
+![at-04]({% render_depth %}assets/img/graphics/at-04.jpg){:class="img-md-wide"}
+
 *Un voluntario hablando con un profesional de la salud*

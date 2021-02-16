@@ -41,7 +41,8 @@ La rougeole est un virus particulièrement contagieux qui peut rendre les enfant
 - Populations déplacées, vivant à l’étroit ou dans des conditions de surpeuplement
 - Personnes dont le système immunitaire est compromis (par exemple en raison d’une leucémie ou d’une infection par le VIH)
 
-![dt-08]({% render_depth %}assets/img/graphics/dt-08.png){:class="my-img-class"}
+![dt-08]({% render_depth %}assets/img/graphics/dt-08.jpg){:class="img-sm-tall"}
+
 *Enfant malade de la rougeole*
 
 ### En cas d’épidémie

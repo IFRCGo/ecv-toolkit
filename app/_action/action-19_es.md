@@ -10,10 +10,10 @@ lang: es
 
 ### Reacciones normales a eventos anormales
 
-- Emocional. Ansiedad, pena, culpa, enojo, irritabilidad, frustración, tristeza, vergüenza, insensibilidad, pérdida de esperanza, pérdida de sentido, sensación de vacío.
-- Mental. Pérdida de concentración, pérdida de memoria, confusión, pensamientos intrusivos, dificultades en la toma de decisiones, pensamiento desorganizado.
-- Físico. Aumento del ritmo cardíaco, problemas para dormir, dolores (estómago, cabeza), dolor de espalda y cuello, temblores musculares y tensión, pérdida de energía, incapacidad para descansar y relajarse.
-- Social. Tomar riesgos, comer más o menos, aumentar el consumo de alcohol o cigarrillos, agresión, retiro, aislamiento.
+- **Emocional.** Ansiedad, pena, culpa, enojo, irritabilidad, frustración, tristeza, vergüenza, insensibilidad, pérdida de esperanza, pérdida de sentido, sensación de vacío.
+- **Mental.** Pérdida de concentración, pérdida de memoria, confusión, pensamientos intrusivos, dificultades en la toma de decisiones, pensamiento desorganizado.
+- **Físico.** Aumento del ritmo cardíaco, problemas para dormir, dolores (estómago, cabeza), dolor de espalda y cuello, temblores musculares y tensión, pérdida de energía, incapacidad para descansar y relajarse.
+- **Social.** Tomar riesgos, comer más o menos, aumentar el consumo de alcohol o cigarrillos, agresión, retiro, aislamiento.
 
 ### Apoyo psicosocial
 
@@ -60,7 +60,7 @@ lang: es
 
 PAP se trata de consolar a alguien que está sufriendo y ayudarlo a sentirse seguro y tranquilo. Proporciona apoyo emocional y ayuda a las personas para abordar necesidades básicas inmediatas y encontrar información, servicios y apoyo social. Los tres principios de acción de Mirar, Escuchar y Vincular indican que la PAP es una forma de acercarse a una persona que está en aprietos, evaluar qué ayuda necesita y ayudarle a obtener esa ayuda.
 
-##### *MIRAR* (Prestar atención a la situación)
+#### *MIRAR* (Prestar atención a la situación)
 
 - Establezca lo que ha estado o está sucediendo.
 - Establezca quién necesita ayuda.
@@ -69,7 +69,7 @@ PAP se trata de consolar a alguien que está sufriendo y ayudarlo a sentirse se
 - Identifique necesidades básicas y prácticas inmediatas.
 - Observe las reacciones emocionales.
 
-##### *ESCUCHE* (Preste atención a la persona)
+#### *ESCUCHE* (Preste atención a la persona)
 
 - Preséntese.
 - Preste atención y escuche activamente.
@@ -78,7 +78,7 @@ PAP se trata de consolar a alguien que está sufriendo y ayudarlo a sentirse se
 - Pregunte acerca de las necesidades y preocupaciones.
 - Ayude a las personas en apuros a encontrar soluciones a sus necesidades y problemas.
 
-##### *VINCULE* (Tome acción para ayudar)
+#### *VINCULE* (Tome acción para ayudar)
 
 -  Encuentre información. |
 - Conéctese con los seres queridos de la persona y con el apoyo social.
