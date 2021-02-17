@@ -29,12 +29,12 @@ Ils fournissent le premier niveau de traitement contre le choléra et amélior
 - Rappelez-vous : **lavez-vous les mains régulièrement ! Un traitement précoce et rapide peut généralement empêcher que le choléra soit fatal ! Utilisez des latrines propres ! Assurez-vous que l’eau consommée soit traitée et ne contienne pas de germes !**
 
 ### Les points communautaires de réhydratation orale :
-1. commencent le traitement précoce des cas légers et modérés de déshydratation en distribuant des SRO et du zinc au besoin (voir les fiches action 9, 10 et 11).
+1. commencent le traitement précoce des cas légers et modérés de déshydratation en distribuant des SRO et du zinc au besoin (voir les fiches action 9 <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 2. distribuent les produits de base essentiels, tels que les SRO, du savon et du matériel de traitement de l’eau à domicile.
-3. orientent les cas graves ou à risque vers des établissements de santé pour traitement (voir la fiche action 4).
-4. jouent le rôle de poste communautaire de surveillance de la maladie, en faisant en sorte que tous les cas suspects soient enregistrés (voir la fiche action 1).
-5. sont un point de référence clé pour les activités en faveur du changement de comportement et de la mobilisation sociale (voir la fiche action 43).
-6. distribuent (sous réserve d’approbation) des compléments de zinc (voir la fiche action 11).
+3. orientent les cas graves ou à risque vers des établissements de santé pour traitement (voir la fiche action 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+4. jouent le rôle de poste communautaire de surveillance de la maladie, en faisant en sorte que tous les cas suspects soient enregistrés (voir la fiche action 1 <a class="crosslink" href="{% render_depth %}{% render_link action|1 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+5. sont un point de référence clé pour les activités en faveur du changement de comportement et de la mobilisation sociale (voir la fiche action 43 <a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+6. distribuent (sous réserve d’approbation) des compléments de zinc (voir la fiche action 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 La Fédération internationale met à disposition un kit pour les points communautaires de réhydratation orale, contenant les objets suivants. (Le contenu des kits fournis et assemblés localement devrait être semblable.)
 
@@ -42,7 +42,7 @@ La Fédération internationale met à disposition un kit pour les points comm
 
 | No. | Objet|
 |---:|---|
-|  | Récipient, 20 litres, avec deux  ltres à eau à bougie
+| 1 | Récipient, 20 litres, avec deux  ltres à eau à bougie
 | 1 | Carnet format A5 avec couverture rigide
 | 5 | Stylo bille bleu
 | 10 | Tasse en plastique, 200 ml, sans anse
@@ -64,6 +64,5 @@ La Fédération internationale met à disposition un kit pour les points comm
 | 1 | Corde en nylon, diamètre 3 mm, tressée, 5 mètres
 | 1 | Brosse pour le lavage des mains
 
-Les SRO, le zinc, et le chlore pour désinfection ne sont pas compris dans le kit et doivent être ajoutés.
-
-Lors de la sélection de l’emplacement du point de réhydratation communautaire, il est aussi important de tenir compte de l’ombre ainsi que de l’accès à l’eau et à des latrines.
+- Les SRO, le zinc, et le chlore pour désinfection ne sont pas compris dans le kit et doivent être ajoutés.
+- Lors de la sélection de l’emplacement du point de réhydratation communautaire, il est aussi important de tenir compte de l’ombre ainsi que de l’accès à l’eau et à des latrines.

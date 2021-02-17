@@ -33,3 +33,5 @@ National Societies should also supply volunteers with necessary health checks, a
 Volunteers should be informed of and understand the National Society’s security policy and follow the rules and regulations it sets out. You should also be informed of any changes in the policy and asked to report any incidents of concern.
 
 Safety in the community depends on the personal attributes of volunteers, trainers and other team members – how they work together and how they work with people in the community. Volunteers should be culturally sensitive. Your personal behaviour should never cause offence. You should show integrity and should never become a problem for the community. Correct, polite, impartial behaviour is expected at all times.
+
+![at-05]({% render_depth %}assets/img/graphics/at-05.jpg){:class="img-md-wide"}

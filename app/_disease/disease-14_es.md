@@ -28,7 +28,9 @@ lang: es
 - Movilización social y comunicación para el cambio de comportamiento.
 - Uso de medicamentos anti-palúdicos (quimioprofilaxis).
 
-![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
+![dt-14]({% render_depth %}assets/img/graphics/dt-14-1.jpg){:class="img-wide-double"}
+![dt-14]({% render_depth %}assets/img/graphics/dt-14-2.jpg){:class="img-wide-double"}
+
 *Un mosquito. Mamá e hijo durmiendo bajo un mosquitero colocado sobre su cama.*
 
 ### Personas vulnerables

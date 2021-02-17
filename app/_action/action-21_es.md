@@ -31,5 +31,7 @@ lang: es
 - Siempre cuídese, ante todo, para protegerse (ver herramienta de acción 5<a class="crosslink" href="{% render_depth %}{% render_link action|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) y use el equipo de protección personal siempre que sea requerido (ver herramienta de acción 6<a class="crosslink" href="{% render_depth %}{% render_link action|6 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 - Desinfecte la habitación y destruya las pertenencias (ropa) de una persona que ha muerto de Ébola, fiebre de Marburgo, fiebre de Lassa y peste.
 
-![at-21]({% render_depth %}assets/img/graphics/at-21.png){:class="my-img-class"}
+![at-21]({% render_depth %}assets/img/graphics/at-21.jpg){:class="img-lg-wide"}
+
 *Entierro seguro de cadáveres. Desinfección.*
+{:class="center-text"}

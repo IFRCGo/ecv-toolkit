@@ -51,5 +51,6 @@ Dirty hands and dirty utensils can also contaminate water, as can flies, other i
 - Boil, filter or treat water with chlorine if you believe that it may not be safe,.
 - Keep your water sources clean and protect them from animals.
 
-![at-30]({% render_depth %}assets/img/graphics/at-30.png){:class="my-img-class"}
+![at-30]({% render_depth %}assets/img/graphics/at-30.jpg){:class="img-md-wide"}
+
 *Use safe water sources. Store water properly.*

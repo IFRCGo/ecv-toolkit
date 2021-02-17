@@ -16,17 +16,19 @@ lang: en
 - **Social.** Risk taking, over- or under-eating, increased intake of alcohol or cigarettes, aggression, withdrawal, isolation.
 
 ### Psychosocial support
+
 -	The term "psychosocial" refers to the dynamic relationship between the psychological and social dimensions of a person, where the dimensions influence each other. The psychological dimension includes emotional and thought processes, feelings and reactions. The social dimension includes relationships, family and community networks, social values and cultural practices.
 -	"Psychosocial support" refers to actions that meet the psychological and social needs of individuals, families and communities.
 -	We provide psychosocial support to help people who have been affected by a crisis to recover. Early and adequate psychosocial support can prevent distress and suffering
 from turning into more severe mental health problems.
 
-##### *Hobfoll et al (2007) proposed that five principles should drive psychosocial support during emergencies.  Interventions should:*
--	*Ensure safety and promote.*
--	*Calm.*
--	*Personal and collective efficacy.*
--	*Connectedness.*
--	*Hope.*
+#### Hobfoll et al (2007) proposed that five principles should drive psychosocial support during emergencies.  Interventions should:
+
+-	Ensure safety and promote.
+-	Calm.
+-	Personal and collective efficacy.
+-	Connectedness.
+-	Hope.
 
 ### Psychosocial support activities include:
 
@@ -63,7 +65,7 @@ from turning into more severe mental health problems.
 
 PFA is about comforting someone who is in distress and helping them feel safe and calm. It provides emotional support and helps people to address immediate basic needs and find information, services and social support. The three action principles of Look, Listen and Link indicate that PFA is a way to approach someone in distress, assess what help he or she needs, and help him or her to obtain that help.
 
-##### *LOOK* (Pay attention to a situation)
+#### *LOOK* (Pay attention to a situation)
 
 - Establish what has or is happening.
 - Establish who needs help.
@@ -72,7 +74,7 @@ PFA is about comforting someone who is in distress and helping them feel safe an
 - Identify immediate basic and practical needs.
 - Observe emotional reactions.
 
-##### *LISTEN* (Pay attention to the person)
+#### *LISTEN* (Pay attention to the person)
 
 - Introduce yourself.
 - Pay attention and listen actively.
@@ -81,7 +83,7 @@ PFA is about comforting someone who is in distress and helping them feel safe an
 - Ask about needs and concerns.
 - Help the person(s) in distress to find solutions to their needs and problems.
 
-##### *LINK* (Take action to help) 
+#### *LINK* (Take action to help) 
 
 - Find information.
 - Connect with the person’s loved ones and social support.
@@ -94,4 +96,4 @@ PFA is about comforting someone who is in distress and helping them feel safe an
 - Do not interrupt or try to assure them that everything will be all right.
 - Make frequent eye contact and ensure that your body language signals that you are listening.
 - Gently touch the hand or shoulder of the affected person, if appropriate.
-- Take time to listen when peple describe what happened.  Telling their story will help people understand and eventually accept the event.
+- Take time to listen when people describe what happened.  Telling their story will help people understand and eventually accept the event.

@@ -28,5 +28,6 @@ lang: en
 - Try to stop isolation from causing stigma or social rejection of patients and their families. Explain to the community why isolation is necessary. Seek the help of elders and community leaders to fight stigma.
 -	Make sure that people in isolation have adequate food, water, and health care, as well as help to cope with any loss of livelihood.
 
-![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"}
+![at-20]({% render_depth %}assets/img/graphics/at-20.jpg){:class="img-md-wide"}
+
 *Talk to the community and elders to prevent stigma and social rejection*

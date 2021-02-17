@@ -34,5 +34,6 @@ lang: es
 - Repita el mismo mensaje: la lactancia materna salva las vidas de los bebés en las epidemias de diarrea. Hable con las mujeres para averiguar qué apoyo necesitan y cuáles dificultades enfrentan para continuar amamantando. Trabaje con mujeres y trabajadores de salud para tratar de resolver sus problemas y preocupaciones.
 - Después de que termine la epidemia, siga trabajando para fomentar la lactancia materna.
 
-![at-13]({% render_depth %}assets/img/graphics/at-13.png){:class="my-img-class"}
+![at-13]({% render_depth %}assets/img/graphics/at-13.jpg){:class="img-sm-tall"}
+
 *Amamantar exclusivamente desde el nacimiento hasta los 6 meses de edad. Después de esta edad, introduzca los alimentos apropiados mientras continúa amamantando.*

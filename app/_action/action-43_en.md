@@ -24,8 +24,9 @@ lang: en
 ### What is behaviour change in an epidemic? 
 
 In any context, behaviour change involves three elements. Before people will change their behaviour:
+
 1. They need to know what, why and how they should change. They need knowledge. 
 2. They need to have the right equipment, access and capacity. They need an enabling environment.
 3. They need to be motivated to change.
 
-![at-43_en]({% render_depth %}assets/img/graphics/at-43_en.png){:class="my-img-class"}
+![at-43_en]({% render_depth %}assets/img/graphics/at-43_en.jpg){:class="img-lg-wide"}

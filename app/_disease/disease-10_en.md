@@ -32,8 +32,9 @@ lang: en
 - Children who are not vaccinated are most at risk.
 - Children living in areas with poor hygiene, sanitation and water infrastructure and services.
 
-![dt-10]({% render_depth %}assets/img/graphics/dt-10.png){:class="my-img-class"}
-*A child with polio*
+![dt-10]({% render_depth %}assets/img/graphics/dt-10.png){:class="img-sm-tall"}
+
+*A child with polio* 
 
 ### If an epidemic occurs
 

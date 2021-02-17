@@ -47,8 +47,9 @@ Solicite información al punto focal de WASH o a su supervisor voluntario sobre
 - La construcción de letrinas es la parte fácil. Muchos problemas sociales y culturales pueden hacer que las personas no las usen. Averigüe qué motivará a las personas a usar las letrinas y aliéntelos como corresponda.
 - Los hoyos y tanques de letrina se llenan y necesitan ser vaciados. La rapidez con que esto ocurra depende de la cantidad de personas que los utilicen, del tamaño del pozo o del tanque, del tipo de suelo y de si las personas arrojan desperdicios o almohadillas menstruales al pozo.
 
-![at-33]({% render_depth %}assets/img/graphics/at-32.png){:class="my-img-class"}
-Evite: letrinas sucias mal mantenidas sin tapa. 
+![at-33]({% render_depth %}assets/img/graphics/at-33.jpg){:class="img-lg-wide"}
+
+**Evite:** letrinas sucias mal mantenidas sin tapa. 
 Recomiende: cubrir las fosas de las letrinas para controlar las moscas.
 Recomiende: letrinas limpias con un lugar para lavarse las manos.
 Recomiende: un lugar para lavarse las manos con jabón.

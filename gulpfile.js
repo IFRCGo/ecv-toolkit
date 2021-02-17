@@ -139,43 +139,6 @@ function jekyll(done) {
 exports.jekyll = jekyll;
 
 
-function getHumans(cb){
-
-  function askGitHub(callback){
-    const options = {
-      url: 'https://api.github.com/repos/IFRCGo/ecv-toolkit/contributors',
-      headers: {
-        'User-Agent': 'request'
-      }
-    };
-    request(options, function (err, res) {
-      var humans = JSON.parse(res.body).map(function(human){
-        return {login: human.login, html_url: human.html_url, contributions: human.contributions}
-      });
-      humans.sort(function(a,b){
-        return b.contributions - a.contributions;
-      })
-      callback(humans);
-    });
-  }
-  
-  askGitHub(function(humans){
-    fs.readFile('./humans-template.txt', 'utf8', function (err, doc) {
-      if (err) throw err;
-      for (i = 0; i < humans.length; i++) {
-        doc = doc + '\nContributor: '+humans[i].login + '\nGithub: '+humans[i].html_url +'\n';
-      }
-      fs.writeFile('./_site/humans.txt', doc, function(err) {
-        if (err) throw err;
-        cb()
-      });
-    });
-  });
-
-}
-exports.getHumans = getHumans;
-
-
 /* stuff for android apk customized web view */
 /* ========================================= */
 var replacements = [];
@@ -415,7 +378,6 @@ exports.prod = gulp.series(
   setProd, 
   gulp.parallel(jekyll, styles, javascripts, fonts), 
   copyAssets,
-  getHumans,
   /* pdf */
   setPdfs, 
   gulp.parallel(jekyll, styles, javascripts, fonts), 

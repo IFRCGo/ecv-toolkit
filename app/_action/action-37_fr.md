@@ -25,7 +25,8 @@ lang: fr
 5. Réparer les déchirures de la moustiquaire.
 6. Remplacer les moustiquaires à intervalles réguliers, conformément aux instructions (tous les 3 à 5 ans).
 
-![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="my-img-class"}
+![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="img-md-wide"}
+
 *Une mère et son enfant sous une moustiquaire*
 
 ### Ce que vous pouvez faire

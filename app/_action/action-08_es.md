@@ -62,6 +62,5 @@ Recipiente, 20 litros, con 2 filtros de agua de vela.
 | Cuerda, nilón, 3 mm diámetro, trenzada, 5 metros | 1 | 
 | Cepillo, cepillo de mano para limpiar | 1 | 
 
-SRO, zinc y cloro para la desinfección no están incluidos en el equipo y deben agregarse.
-
-La sombra, el acceso al agua y una letrina también son importantes y deben incluirse al seleccionar la ubicación del punto de la ROC.
+- SRO, zinc y cloro para la desinfección no están incluidos en el equipo y deben agregarse.
+- La sombra, el acceso al agua y una letrina también son importantes y deben incluirse al seleccionar la ubicación del punto de la ROC.

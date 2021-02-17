@@ -17,8 +17,8 @@ lang: es
 ### ¿Qué enfermedades pueden transmitirse a otra persona a través del sexo?
 
 - Infecciones de transmisión sexual (ITS) tales como clamidia, herpes, gonorrea, sífilis y VIH.
-- El virus del Zika<a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
-- Fiebres hemorrágicas virales (Ébola<a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre de Marburgo<a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre de Lassa<a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- El virus del Zika <a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
+- Fiebres hemorrágicas virales (Ébola <a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre de Marburgo <a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, fiebre de Lassa <a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 ### ¿Cuándo promover el sexo seguro?
 
@@ -32,8 +32,10 @@ lang: es
 - Use un condón masculino o femenino cuando tenga relaciones sexuales. Los condones son una barrera y bloquean cualquier semen o líquido infeccioso que pueda transmitir una infección.
 - Pruebe otras formas (en lugar de las relaciones sexuales) para tener intimidad con su pareja.
 
-![at-42]({% render_depth %}assets/img/graphics/at-42.png){:class="my-img-class"}
+![at-42]({% render_depth %}assets/img/graphics/at-42.jpg){:class="img-lg-wide"}
+
 *Usar un condón masculino*
+{:class="center-text}
 
 ### Datos clave sobre el Zika.
 - Una mujer embarazada puede pasar el Zika a su bebé por nacer. Este puede causar defectos cerebrales graves en el bebé.
@@ -43,12 +45,12 @@ lang: es
 
 ### Datos clave para el Ébola, Marburgo y Lassa
 - Los hombres que se han recuperado del Ébola, la fiebre de Marburgo o la fiebre de Lassa pueden transmitir la enfermedad a otra persona durante el sexo oral, vaginal o anal.
-- Los hombres que se han recuperado del Ébola<a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> o Marburgo<a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> deben usar un condón durante al menos 12 meses a partir de la fecha en que se enfermaron o hasta que su semen arroje un resultado negativo al virus dos veces.
-- Los hombres que se han recuperado de la fiebre de Lassa<a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> deben usar un condón durante al menos 3 meses después de que mejoren.
+- Los hombres que se han recuperado del Ébola <a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> o Marburgo <a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> deben usar un condón durante al menos 12 meses a partir de la fecha en que se enfermaron o hasta que su semen arroje un resultado negativo al virus dos veces.
+- Los hombres que se han recuperado de la fiebre de Lassa <a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> deben usar un condón durante al menos 3 meses después de que mejoren.
 
 ### Lo que puede hacer
-- Asegúrese de comprender los hechos y cómo las enfermedades como el Zika<a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, el Ébola<a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, la fiebre de Marburgo<a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y la fiebre de Lassa<a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> se pueden transmitir a través del sexo.
+- Asegúrese de comprender los hechos y cómo las enfermedades como el Zika <a class="crosslink" href="{% render_depth %}{% render_link disease|15 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, el Ébola <a class="crosslink" href="{% render_depth %}{% render_link disease|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, la fiebre de Marburgo <a class="crosslink" href="{% render_depth %}{% render_link disease|19 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y la fiebre de Lassa <a class="crosslink" href="{% render_depth %}{% render_link disease|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> se pueden transmitir a través del sexo.
 - Recuerde que el sexo puede ser un tema muy delicado, tabú o embarazoso para que las personas hablen al respecto. Es posible que tenga que cambiar su enfoque o forma de comunicarse para transmitir sus mensajes.
-- Lleve a cabo actividades de comunicación de movilización social para el de cambio de comportamiento en un brote de Zika, Ébola, fiebre de Marburgo y fiebre de Lassa. Ver los puntos importantes arriba y la herramienta de acción 3<a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y 43<a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
+- Lleve a cabo actividades de comunicación de movilización social para el de cambio de comportamiento en un brote de Zika, Ébola, fiebre de Marburgo y fiebre de Lassa. Ver los puntos importantes arriba y la herramienta de acción 3 <a class="crosslink" href="{% render_depth %}{% render_link action|3 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> y 43 <a class="crosslink" href="{% render_depth %}{% render_link action|43 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.
 - Recuerde que el sexo es solo una forma de transmitir estas enfermedades, y muchas veces no es la vía principal. Hable con su voluntario líder coordinador/de equipo o con la oficina de salud de la filial local sobre los métodos de prevención que deben enfatizarse durante sus visitas a la comunidad.
 - Asegúrese de que sabe y puede demostrar cómo usar un condón masculino y femenino correctamente.

@@ -45,4 +45,4 @@ lang: fr
 - La construction des latrines est la partie la plus facile. De nombreuses questions sociales et culturelles peuvent conduire la population à ne pas s’en servir. Trouvez ce qui poussera les habitants à utiliser les latrines et encouragez-les dans ce sens.
 - Les fosses et cuves des latrines se remplissent et doivent être vidées. La vitesse à laquelle elles se remplissent dépend du nombre de personnes qui les utilisent, de la taille de la fosse ou de la cuve, du type de sol, et du fait que les déchets et serviettes hygiéniques soient jetés dans la fosse ou non.
 
-![at-31_fr]({% render_depth %}assets/img/graphics/at-31.png){:class="my-img-class"}
+![at-33]({% render_depth %}assets/img/graphics/at-33.jpg){:class="img-lg-wide"}

@@ -16,9 +16,9 @@ lang: en
 ### What you need to know
 
 - ORS comes in small packets in the form of a powder. It needs to be diluted before use.
-- ORS packets can be obtained at your local National Society branch, at a health centre, or in the community oral rehydration point (see Action tool 7<a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- ORS packets can be obtained at your local National Society branch, at a health centre, or in the community oral rehydration point (see Action tool 8 <a class="crosslink" href="{% render_depth %}{% render_link action|8 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 - Follow the instructions on the packet to find out how much water is needed to dilute the contents of each packet.
-- Always use clean water to dilute ORS (see Action tool 30<a class="crosslink" href="{% render_depth %}{% render_link action|30 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Always use clean water to dilute ORS (see Action tool 30 <a class="crosslink" href="{% render_depth %}{% render_link action|30 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 ### Preparing and administering ORS
 
@@ -39,7 +39,8 @@ lang: en
 - A home-made salt and sugar solution should only be used when ORS packets are not available.
 - If a homemade salt sugar solution is used, you need to teach caregivers to make the solution safely and correctly. They need to avoid mistakes in the mix of ingredients. It is also important to use the cleanest available water.
 
-![at-09]({% render_depth %}assets/img/graphics/at-09.png){:class="my-img-class"}
+![at-09]({% render_depth %}assets/img/graphics/at-09.jpg){:class="img-sm-tall"}
+
 *Preparing an oral rehydration solution*
 
 ##### Recipe for homemade salt sugar solution:

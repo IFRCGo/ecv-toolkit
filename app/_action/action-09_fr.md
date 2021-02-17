@@ -9,15 +9,16 @@ lang: fr
 ---
 
 ### Aperçu
+
 - Les SRO constituent la première étape dans le traitement des personnes souffrant de diarrhée et de déshydratation.
 - Elles peuvent être préparées à partir de sachets de SRO ou à la maison, avec de l’eau, du sucre et du sel.
 
 ###Ce que vous devez savoir
 
 - Les SRO sont disponibles en petits sachets, sous forme de poudre. Celle-ci doit être diluée avant utilisation.
-- Vous pouvez obtenir des sachets de SRO auprès de la section locale de votre Société nationale, dans un centre de santé ou au point communautaire de réhydratation orale (voir la  che action 7<a class="crosslink" href="{% render_depth %}{% render_link action|7 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Vous pouvez obtenir des sachets de SRO auprès de la section locale de votre Société nationale, dans un centre de santé ou au point communautaire de réhydratation orale (voir la  che action 8 <a class="crosslink" href="{% render_depth %}{% render_link action|8 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 - Suivez les instructions  gurant sur le sachet pour savoir dans quelle quantité d’eau diluer le contenu de chaque sachet.
-- Utilisez toujours de l’eau propre pour diluer les SRO (voir la  che action 30<a class="crosslink" href="{% render_depth %}{% render_link action|30 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
+- Utilisez toujours de l’eau propre pour diluer les SRO (voir la  che action 30 <a class="crosslink" href="{% render_depth %}{% render_link action|30 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 
 ### Préparer et administrer une SRO
 
@@ -39,7 +40,8 @@ lang: fr
 - Si une solution faite maison à partir de sel et de sucre est utilisée, vous devez enseigner aux soignants comment préparer la solution de manière sûre et correcte. Ils ne doivent pas se tromper en mélangeant les ingrédients. Il est également important d’utiliser l’eau la plus propre possible.
 - Vous pouvez ajouter 1⁄2 tasse de jus d’orange ou une banane écrasée pour que la solution ait meilleur goût.
 
-![at-09]({% render_depth %}assets/img/graphics/at-09.png){:class="my-img-class"}
+![at-09]({% render_depth %}assets/img/graphics/at-09.jpg){:class="img-sm-tall"}
+
 *Préparation d’une solution de réhydratation orale*
 
 ### Solution faite maison à partir de sel et de sucre

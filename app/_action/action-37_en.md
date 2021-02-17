@@ -28,7 +28,8 @@ lang: en
 -	Repair any rips or tears in the net.
 -	Replace the nets at regular intervals, as advised (every three-five years).
 
-![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="my-img-class"}
+![at-37]({% render_depth %}assets/img/graphics/at-37.png){:class="img-md-wide"}
+
 *A mother and child under a mosquito net*
 
 ### What you can do

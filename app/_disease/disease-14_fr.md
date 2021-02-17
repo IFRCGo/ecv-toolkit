@@ -28,7 +28,9 @@ lang: fr
 -	Favoriser la mobilisation sociale et la communication pour le changement de comportement
 - Utiliser des médicaments antipaludiques (chimioprophylaxie)
 
-![dt-14]({% render_depth %}assets/img/graphics/dt-14.png){:class="my-img-class"}
+![dt-14]({% render_depth %}assets/img/graphics/dt-14-1.jpg){:class="img-wide-double"}
+![dt-14]({% render_depth %}assets/img/graphics/dt-14-2.jpg){:class="img-wide-double"}
+
 *Moustique. Mère et enfant dormant sous une moustiquaire.*
 
 ### Personnes vulnérables

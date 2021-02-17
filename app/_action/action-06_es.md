@@ -15,11 +15,11 @@ lang: es
 - Consulte la herramienta de acción 5 para obtener más información sobre la protección para los voluntarios.
 
 ### Pasos para ponerse la ropa protectora.
-![at-06_es]({% render_depth %}assets/img/graphics/at-06_es.png){:class="my-img-class"}
+![at-06-1]({% render_depth %}assets/img/graphics/at-06-1.jpg){:class="img-lg-wide"}
 
 ### Pasos para quitarse la ropa de protección
-![at-06b_es]({% render_depth %}assets/img/graphics/at-06b_es.png){:class="my-img-class"}
+![at-06-2]({% render_depth %}assets/img/graphics/at-06-2.jpg){:class="img-lg-wide"}
 
-Nota: el lavado de manos (manos enguantadas) debe realizarse antes de comenzar a quitarse la ropa protectora, entre los pasos a seguir y al final para las manos sin guantes.
+**Nota:** el lavado de manos (manos enguantadas) debe realizarse antes de comenzar a quitarse la ropa protectora, entre los pasos a seguir y al final para las manos sin guantes.
 
-Nota: Se utilizan diferentes tipos de EPP en diferentes contextos afectando los procedimientos operativos. Siempre asegúrese de haber recibido la capacitación adecuada para utilizar el tipo de EPP disponible en su contexto.
+**Nota:** Se utilizan diferentes tipos de EPP en diferentes contextos afectando los procedimientos operativos. Siempre asegúrese de haber recibido la capacitación adecuada para utilizar el tipo de EPP disponible en su contexto.

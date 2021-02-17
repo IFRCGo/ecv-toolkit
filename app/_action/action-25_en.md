@@ -34,5 +34,6 @@ Normally, volunteers do not administer vaccines directly to children, but you ca
 - Use simple and straightforward messages.
 - Use information, education and communication materials, such as the Community message tools in this toolkit, because pictures always help people to understand messages better.
 
-![at-25]({% render_depth %}assets/img/graphics/at-25.png){:class="my-img-class"}
+![at-25]({% render_depth %}assets/img/graphics/at-25.jpg){:class="img-md-wide"}
+
 *Mass vaccination campaign*

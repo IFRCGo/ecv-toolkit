@@ -27,8 +27,8 @@ Lorsque les enfants ne reçoivent pas assez de nourriture ou de nutriments, leu
 ### Comment détecter la malnutrition aiguë chez les enfants de 6 mois à 5 ans
 
 Les enfants atteints de malnutrition aiguë peuvent être repérés de deux manières :
-1. **En mesurant leur périmètre brachial.** Vous identifierez ainsi les enfants « émaciés » (maigres). Enroulez un ruban coloré ou numéroté destiné à mesurer le périmètre brachial autour du bras gauche de l’enfant (voir la fiche action 17<a class="crosslink" href="{% render_depth %}{% render_link action|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> contenant les instructions). Si le périmètre brachial de l’enfant tombe dans les sections rouge ou jaune, l’enfant est malnourri. Le rouge correspond à la malnutrition aiguë : les enfants en souffrant doivent recevoir un traitement médical de toute urgence. La section jaune indique également que l’enfant doit être admis dans un programme de nutrition et traité au plus vite.
-2. **En contrôlant la présence d’un œdème bilatéral.** Ce la permet d’identifier les enfants «gonflés» (voir la fiche action 18<a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). Appuyez sur le haut des pieds de l’enfant pendant au moins trois secondes et observez si un enfoncement ou trou (œdème) subsiste quand vous cessez d’appuyer. Si c’est le cas, il y a un œdème bilatéral, ce qui signifie que l’enfant doit être envoyé immédiatement dans un centre de santé.
+1. **En mesurant leur périmètre brachial.** Vous identifierez ainsi les enfants « émaciés » (maigres). Enroulez un ruban coloré ou numéroté destiné à mesurer le périmètre brachial autour du bras gauche de l’enfant (voir la fiche action 17 <a class="crosslink" href="{% render_depth %}{% render_link action|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a> contenant les instructions). Si le périmètre brachial de l’enfant tombe dans les sections rouge ou jaune, l’enfant est malnourri. Le rouge correspond à la malnutrition aiguë : les enfants en souffrant doivent recevoir un traitement médical de toute urgence. La section jaune indique également que l’enfant doit être admis dans un programme de nutrition et traité au plus vite.
+2. **En contrôlant la présence d’un œdème bilatéral.** Ce la permet d’identifier les enfants «gonflés» (voir la fiche action 18 <a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>). Appuyez sur le haut des pieds de l’enfant pendant au moins trois secondes et observez si un enfoncement ou trou (œdème) subsiste quand vous cessez d’appuyer. Si c’est le cas, il y a un œdème bilatéral, ce qui signifie que l’enfant doit être envoyé immédiatement dans un centre de santé.
 
 ### Où peut être fait le dépistage? (emplacements appropriés)
 
@@ -45,11 +45,19 @@ Les enfants atteints de malnutrition aiguë peuvent être repérés de deux 
     - Une alimentation complémentaire pour la malnutrition modérée (périmètre brachial dans le jaune).
 - Aiguillez tout enfant souffrant d’œdème ou dont le périmètre brachial est dans le rouge/ jaune au centre de santé ou de nutrition le plus proche. Certains programmes fournissent des documents d’orientation aux familles.
 
-![at-15_fr]({% render_depth %}assets/img/graphics/at-15_fr.png){:class="my-img-class"}
+#### Diagnostiquer l’enfant
+
+- Mesure du périmètre brachial (Fiche action 17 <a class="crosslink" href="{% render_depth %}{% render_link action|17 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Bas (rouge/jaune): orienter vers un centre de santé
+  - Normal (vert): en bonne santé
+- Contrôle de la présence d’un oedème (Fiche action 18 <a class="crosslink" href="{% render_depth %}{% render_link action|18 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Oedème présent: orienter vers un centre de santé
+  - Pas d’oedème: en bonne santé
 
 ### Ce que vous pouvez faire
 
 Il est important de se tenir en contact avec les services de prise en charge de la malnutrition aiguë. En tant que volontaires, vous pouvez jouer un rôle important en soutenant ces services, par le biais des activités suivantes:
+
 - Sensibilisation et mobilisation communautaire. Informez les membres de la communauté des signes correspondant à la malnutrition, des services disponibles et des personnes qui devraient recevoir des soins. Les enfants qui sont dépistés tôt peuvent être soignés plus facilement et ont plus de chances de guérir.
 - Dépistage. Mesurez le périmètre brachial des enfants et contrôlez la présence d’œdème ; faites particulièrement attention aux enfants faibles, maigres ou gon és.
 - Orientation. Les enfants dont le périmètre brachial est dans le rouge ou le jaune, ou qui souffrent d’œdème, doivent recevoir un traitement. Véri ez que les enfants aiguillés vers un établissement de santé s’y rendent pour recevoir des soins et pour leurs visites de suivi.
@@ -58,5 +66,6 @@ Il est important de se tenir en contact avec les services de prise en charge de 
 - Hospitalisation. Si un enfant est très malade et doit être aiguillé vers un centre de traitement en interne ou un hôpital, aidez la famille à y amener l’enfant. Si celle-ci refuse, faites des visites à domicile et continuez d’encourager l’hospitalisation de l’enfant.
 
 ### Messages à la population
+
 - Expliquez à la population et aux dirigeants communautaires que la malnutrition affaiblit les enfants, qui ont ainsi plus de risque de tomber malades.
 - Dites-leur (si les services sont disponibles) que les enfants maigres ou gon és peuvent obtenir un traitement.

@@ -33,5 +33,7 @@ lang: en
 - Always take care, first and foremost, to protect yourself (see Action tool 5<a class="crosslink" href="{% render_depth %}{% render_link action|5 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>) and use personal protection equipment whenever it is required (see Action tool 6<a class="crosslink" href="{% render_depth %}{% render_link action|6 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>).
 - Disinfect the room and destroy the belongings (clothes) of a person who has died of Ebola, Marburg fever, Lassa fever, or plague.
 
-![at-21]({% render_depth %}assets/img/graphics/at-21.png){:class="my-img-class"}
+![at-21]({% render_depth %}assets/img/graphics/at-21.jpg){:class="img-lg-wide"}
+
 *Safe burial of dead bodies. Disinfection.*
+{:class="center-text"}

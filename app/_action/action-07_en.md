@@ -13,7 +13,8 @@ lang: en
 - Patients with diarrhoea, especially children, can lose a lot of fluid from their bodies and suffer dehydration.
 - Dehydration can cause very severe illness and sometimes death, especially in association with acute watery diarrhoea and cholera.
 
-![at-07]({% render_depth %}assets/img/graphics/at-07.png){:class="my-img-class"}
+![at-07]({% render_depth %}assets/img/graphics/at-07.jpg){:class="img-md-wide"}
+
 *A dehydrated child.  Skin pinch.*
 
 ### How to assess whether a patient has dehydration, and its extent:
@@ -28,4 +29,7 @@ lang: en
 
 ### After the assessment, and according to the degree of dehydration, the following actions should be taken:
 
-![at-07_en]({% render_depth %}assets/img/graphics/at-07_en.png){:class="my-img-class"}
+- Diarrhoea patient
+  - No dehydration ➜ Give ORS and zinc. (Action tools 9 <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Some dehydration ➜ Give ORS and zinc.(Action tools 9 <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, and 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Severe dehydration ➜ Refer immediately to health facility or hospital. (Action tool 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)

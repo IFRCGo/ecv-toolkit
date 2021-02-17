@@ -8,6 +8,7 @@ title: Social distancing
 lang: en
 ---
 
-![at-28b]({% render_depth %}assets/img/graphics/at-28b.png){:class="my-img-class"}
+![cmt-21]({% render_depth %}assets/img/graphics/cmt-21.jpg){:class="img-xl-wide"}
 
 ### Keeping a safe distance from those who have a disease is one of the best ways to prevent its spread.
+{:class="center-text"}

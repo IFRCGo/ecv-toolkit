@@ -31,3 +31,5 @@ Las Sociedades Nacionales deben también proporcionar a los voluntarios los con
 Los voluntarios deben ser informados y comprender la política de seguridad de la Sociedad Nacional y seguir las reglas y reglamentos que establece. También se le debe informar acerca de cualquier cambio en la política y se le debe solicitar que informe sobre cualquier incidente de interés.
 
 La seguridad en la comunidad depende de los atributos personales de los voluntarios, capacitadores y otros miembros del equipo – cómo trabajan juntos y cómo trabajan con las personas de la comunidad. Los voluntarios deben ser culturalmente sensibles. Su comportamiento personal nunca debe causar ofensa. Deben mostrar integridad y nunca deben convertirse en un problema para la comunidad. Se espera un comportamiento correcto, educado e imparcial en todo momento.
+
+![at-05]({% render_depth %}assets/img/graphics/at-05.jpg){:class="img-md-wide"}

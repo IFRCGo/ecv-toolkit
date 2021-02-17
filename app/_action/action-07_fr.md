@@ -12,7 +12,8 @@ lang: fr
 - Les patients souffrant de diarrhée, en particulier les enfants, peuvent perdre beaucoup de liquides corporels et souffrir de déshydratation.
 - La déshydratation peut provoquer de très graves maladies et parfois la mort, en particulier lorsqu’elle est associée à la diarrhée aqueuse aiguë et au choléra.
 
-![at-07]({% render_depth %}assets/img/graphics/at-07.png){:class="my-img-class"}
+![at-07]({% render_depth %}assets/img/graphics/at-07.jpg){:class="img-md-wide"}
+
 *Enfant déshydraté. Pincement de la peau.*
 
 ### Comment déterminer si un patient est déshydraté et dans quelle mesure
@@ -26,4 +27,7 @@ lang: fr
 
 ### À l’issue de l’évaluation et en fonction du degré de déshydratation, les mesures suivantes devraient être prises :
 
-![at-07_fr]({% render_depth %}assets/img/graphics/at-07_en.png){:class="my-img-class"}
+- Patient atteint de diarrhée
+  - Pas de déshydratation ➜ Administrer une SRO et du zinc. (Fiches action <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, et 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Déshydratation modérée ➜ Administrer une SRO et du zinc. (Fiches action <a class="crosslink" href="{% render_depth %}{% render_link action|9 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, 10 <a class="crosslink" href="{% render_depth %}{% render_link action|10 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>, et 11 <a class="crosslink" href="{% render_depth %}{% render_link action|11 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+  - Déshydratation grave ➜ Orienter immédiatement vers un centre de santé ou un hôpital. (Fiche action 4 <a class="crosslink" href="{% render_depth %}{% render_link action|4 %}"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)

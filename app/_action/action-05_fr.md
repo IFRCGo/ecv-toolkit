@@ -32,3 +32,5 @@ Les Sociétés nationales devraient aussi soumettre les volontaires aux contrôl
 Les volontaires devraient être informés de la politique de sécurité de la Société nationale, la comprendre, et en suivre les règles et réglementations. Ils devraient également être mis au courant de toute modification de la politique et priés de signaler tout incident préoccupant.
 
 La sécurité dans la communauté dépend du profil de chacun des volontaires, formateurs et autres membres de l’équipe, de la manière dont ils travaillent ensemble et collaborent avec les membres de la communauté. Les volontaires doivent être sensibles aux spécificités culturelles. Leur comportement personnel ne doit jamais offenser. Ils doivent faire preuve d’intégrité et ne jamais devenir un problème pour la communauté. Une attitude correcte, polie et impartiale est attendue en toutes circonstances.
+
+![at-05]({% render_depth %}assets/img/graphics/at-05.jpg){:class="img-md-wide"}

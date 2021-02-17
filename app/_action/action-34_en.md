@@ -40,5 +40,6 @@ lang: en
 - Rinse hands well so they are free of soap or ash.
 - Dry hands with a paper towel. If there is no towel, wave them in the air until they are dry.
 
-![at-34]({% render_depth %}assets/img/graphics/at-34.png){:class="my-img-class"}
-*1. Wet your hands and use soap or ash. 2. Wash for 10 to 15 seconds. 3.Rinse hands well.*
+![at-34]({% render_depth %}assets/img/graphics/at-34.jpg){:class="img-md-tall"}
+
+*1. Wet your hands and use soap or ash. 2. Wash for 10 to 15 seconds. 3. Rinse hands well.*

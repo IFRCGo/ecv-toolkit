@@ -43,6 +43,7 @@ lang: en
 - Women and girls, use clean, dry materials of your choice (disposable or reusable) when you menstruate. Change the materials and bathe as often as needed. Do not share pads with anyone else.
 
 #### Domestic (environmental) hygiene
+
 - Use a latrine and keep it clean. Plan in advance what you will do when the pit is full.
 - Dispose of baby and child stools (faeces) safely, in the latrine.
 - Keep your house, backyard and community free of animal waste and rubbish.
@@ -59,5 +60,7 @@ lang: en
 - Be a good role model for others in your community. Use a clean latrine, dispose of your rubbish, wash your hands often.
 - Find out if you can work with local health centres and schools to improve their hygiene and sanitation. You might hold a hygiene session for students or teachers, or help the clinic to build a handwashing station and outside latrine for patients.
 
-![at-29]({% render_depth %}assets/img/graphics/at-29.png){:class="my-img-class"}
+![at-29]({% render_depth %}assets/img/graphics/at-29.jpg){:class="img-lg-wide"}
+
 *Wash your hands properly with soap. Talk to your community.*
+{:class="center-text"}

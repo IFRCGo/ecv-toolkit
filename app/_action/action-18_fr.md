@@ -28,7 +28,7 @@ lang: fr
 1. Retirez les chaussures et chaussettes de l’enfant. Appuyez sur le dessus de chaque pied avec vos pouces pendant trois secondes. Gardez une pression ferme et constante.
 2. Enlevez vos doigts. Si un trou ou un creux subsiste sur les deux pieds après trois secondes, il est possible que l’enfant soit atteint d’œdème.
 
-![at-18]({% render_depth %}assets/img/graphics/at-18.png){:class="my-img-class"}
+![at-18]({% render_depth %}assets/img/graphics/at-18.jpg){:class="img-lg-wide"}
 
 Tout enfant diagnostiqué avec de l’œdème devrait être aiguillé au plus vite vers un établissement de santé.
 

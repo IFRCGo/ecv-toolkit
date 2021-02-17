@@ -26,5 +26,6 @@ lang: es
 - Intente evitar que el aislamiento cause estigma o rechazo social a los pacientes y sus familias. Explique a la comunidad por qué es necesario el aislamiento. Busque la ayuda de los mayores y de los líderes comunitarios para luchar contra el estigma.
 - Asegúrese de que las personas en aislamiento tengan alimentos, agua y atención médica adecuados, así como ayuda para hacer frente a cualquier pérdida de medios de subsistencia.
 
-![at-20]({% render_depth %}assets/img/graphics/at-20.png){:class="my-img-class"}
+![at-20]({% render_depth %}assets/img/graphics/at-20.jpg){:class="img-md-wide"}
+
 *Hable con la comunidad y los mayores para prevenir el estigma y el rechazo social*
