@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.data[page.lang].title }}</title>
+    <title>{% if page.title %}{{ page.title }} {% else %}{{ site.data[page.lang].title }}{% endif %}</title>
     <link rel="shortcut icon" href="{% render_depth %}assets/img/ifrc-digital-32x32.png" />
 
     <meta name="twitter:card" content="summary" />

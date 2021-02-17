@@ -6,6 +6,7 @@ const cleaner = require('gulp-clean');
 const concat = require('gulp-concat');
 const cp = require('child_process');
 const doWhilst =require('async/doWhilst');
+const eachLimit =require('async/eachLimit');
 const dir = require('node-dir');
 const fs = require('fs');
 const gls = require('gulp-live-server');
@@ -249,12 +250,16 @@ function print(done) {
       // add the pdf to the same folder as the index.html file for that page
       await page.pdf({
         path: "./_site"+json.url+filename,
-        format: 'A4'
+        format: 'A4',
+        displayHeaderFooter: true,
+        footerTemplate: '<span style="font-size: 12px; font-width: 100%; height: 24px; color:black; font-family: Arial,sans-serif;"><span class="title"></span> - <span class="pageNumber"></span> / <span class="totalPages"></span></span>'
       });
       // add the pdf to a tmp language folder, that we will zip when done
       await page.pdf({
         path: './.tmp/pdf/'+json.lang+"/"+filename,
-        format: 'A4'
+        format: 'A4',
+        displayHeaderFooter: true,
+        footerTemplate:  '<span style="font-size: 12px; font-width: 100%; height: 24px; color:black; font-family: Arial,sans-serif;"><span class="title"></span> - <span class="pageNumber"></span> / <span class="totalPages"></span></span>'
       });
       await browser.close();
       await cb();
@@ -317,35 +322,55 @@ function print(done) {
   // > (node:87277) MaxListenersExceededWarning: Possible EventEmitter memory
   // > leak detected. 11 exit listeners added. Use emitter.setMaxListeners()
   // > to increase limit
-  doWhilst(
-    // ## iteratee
-    // a function which is called each time test passes, invoked with (callback)
-    function(cb) {
-      var dir = '.tmp/pdf/'+ json[count].lang;
-      if (!fs.existsSync(dir)){
-        languages.push({"dir":dir, "lang":json[count].lang}); // the languages object stores data that we use to create zip archives later
-        fs.mkdirSync(dir);
-      }
-      printUrl(json[count], function() {
-        count++;
-        console.log("generated PDF " + count + " of " + goal);
-        cb();
-      });
-    },
-    // ## test
-    // synchronous truth test to perform after each execution of iteratee
-    // invoked with any non-error callback results of iteratee
-    function() {
-      return count < goal;
-    },
-    // # callback
-    // called after the test function has failed and repeated execution of iteratee has stopped
-    // will be passed an error and any arguments passed to the final iteratee's callback
-    function(err) {
-      console.log('done generating PDFs.')
-      zipPdfs();
+  
+  eachLimit(json, 1, function(item,callback){
+    var dir = '.tmp/pdf/'+ item.lang;
+    if (!fs.existsSync(dir)){
+      languages.push({"dir":dir, "lang":item.lang}); // the languages object stores data that we use to create zip archives later
+      fs.mkdirSync(dir);
     }
-  )
+    printUrl(item, function() {
+      count++;
+      console.log("generated PDF " + count + " of " + goal);
+      callback();
+    });
+    
+  },function(err){
+    console.log('done generating PDFs.')
+    zipPdfs();
+    
+  })
+  
+  
+  // doWhilst(
+  //   // ## iteratee
+  //   // a function which is called each time test passes, invoked with (callback)
+  //   function(cb) {
+  //     var dir = '.tmp/pdf/'+ json[count].lang;
+  //     if (!fs.existsSync(dir)){
+  //       languages.push({"dir":dir, "lang":json[count].lang}); // the languages object stores data that we use to create zip archives later
+  //       fs.mkdirSync(dir);
+  //     }
+  //     printUrl(json[count], function() {
+  //       count++;
+  //       console.log("generated PDF " + count + " of " + goal);
+  //       cb();
+  //     });
+  //   },
+  //   // ## test
+  //   // synchronous truth test to perform after each execution of iteratee
+  //   // invoked with any non-error callback results of iteratee
+  //   function() {
+  //     return count < goal;
+  //   },
+  //   // # callback
+  //   // called after the test function has failed and repeated execution of iteratee has stopped
+  //   // will be passed an error and any arguments passed to the final iteratee's callback
+  //   function(err) {
+  //     console.log('done generating PDFs.')
+  //     zipPdfs();
+  //   }
+  // )
 
 }
 exports.print = print;
