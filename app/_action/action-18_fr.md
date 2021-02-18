@@ -4,7 +4,7 @@
 layout: card
 identifier: 18
 message: [29]
-title: Mesure de l’œdème (rétention d’eau) chez les enfants
+title: Mesure de l'œdème (rétention d'eau) chez les enfants
 lang: fr
 ---
 

@@ -4,7 +4,7 @@
 layout: card
 identifier: 21
 message: [19]
-title: Inhumations en toute sécurité et dans la dignité
+title: Inhumations en toute sécurité et dans la dignité
 lang: fr
 ---
 

@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 5
-title: Consommation d’eau propre et salubre
+title: Consommation d'eau propre et salubre
 
 lang: fr
 ---

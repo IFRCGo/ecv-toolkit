@@ -4,7 +4,7 @@
 layout: card
 identifier: 30
 message: [4,5]
-title: Propreté et sûreté de l’eau dans les habitations
+title: Propreté et sûreté de l'eau dans les habitations
 lang: fr
 ---
 

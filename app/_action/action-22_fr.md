@@ -4,7 +4,7 @@
 layout: card
 identifier: 22
 message: []
-title: Complément de vitamine A
+title: Complément de vitamine A
 lang: fr
 ---
 

@@ -4,7 +4,7 @@
 layout: card
 identifier: 29
 message: [4,5,6,8,9,11,12,13,20]
-title: Promotion de l’hygiène
+title: Promotion de l'hygiène
 lang: fr
 ---
 

@@ -4,7 +4,7 @@
 layout: card
 identifier: 17
 message: [29]
-title: Mesure du périmètre brachial
+title: Mesure du périmètre brachial
 lang: fr
 ---
 

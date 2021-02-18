@@ -4,7 +4,7 @@
 layout: card
 identifier: 10
 message: [1]
-title: Administration d’une solution
+title: Administration d'une solution
 lang: fr
 ---
 

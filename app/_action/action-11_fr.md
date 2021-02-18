@@ -4,7 +4,7 @@
 layout: card
 identifier: 11
 message: [28]
-title: Complément de zinc
+title: Complément de zinc
 lang: fr
 ---
 

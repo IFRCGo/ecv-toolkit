@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 29
-title: Réalisation d’examens nutritionnels
+title: Réalisation d'examens nutritionnels
 
 lang: fr
 ---

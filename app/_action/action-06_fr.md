@@ -4,7 +4,7 @@
 layout: card
 identifier: 6
 message: []
-title: Utilisation de l’équipement de protection personnel (EPP) pour les maladies très contagieuses
+title: Utilisation de l'équipement de protection personnel (EPP) pour les maladies très contagieuses
 lang: fr
 ---
 

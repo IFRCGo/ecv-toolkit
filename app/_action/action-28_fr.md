@@ -4,7 +4,7 @@
 layout: card
 identifier: 28
 message: [21]
-title: Distance de sécurité
+title: Distance de sécurité
 lang: fr
 ---
 
