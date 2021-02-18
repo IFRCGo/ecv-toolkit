@@ -4,7 +4,7 @@
 layout: card
 identifier: 17
 message: [29]
-title: Medición de la circunferencia del brazo superior (MUAC)
+title: Medición de la circunferencia del brazo superior (MUAC)
 lang: es
 ---
 

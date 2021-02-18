@@ -4,7 +4,7 @@
 layout: card
 identifier: 44
 message: []
-title: Bonnes pratiques en matière d’éternuement
+title: Bonnes pratiques en matière d'éternuement
 lang: fr
 ---
 

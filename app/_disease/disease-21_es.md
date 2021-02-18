@@ -4,7 +4,7 @@
 layout: card
 identifier: 21
 action: [1,2,3,4,5,19,29,31,34,41,43]
-title: Ántrax
+title: Ántrax
 lang: es
 ---
 

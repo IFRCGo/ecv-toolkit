@@ -4,7 +4,7 @@
 layout: card
 identifier: 40
 message: []
-title: Construction d’un incinérateur pour les déchets médicaux
+title: Construction d'un incinérateur pour les déchets médicaux
 lang: fr
 ---
 

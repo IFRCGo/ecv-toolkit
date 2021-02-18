@@ -4,7 +4,7 @@
 layout: card
 identifier: 34
 message: [8,9]
-title: Lavado de manos con jabón
+title: Lavado de manos con jabón
 lang: es
 ---
 

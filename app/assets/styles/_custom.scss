@@ -57,6 +57,7 @@
   border-right: 3px solid #fff;
 }
 .card-number-lg {
+  -webkit-print-color-adjust: exact;
   font-size: rem-calc(48);
   text-align: center;
   color: #fff;
@@ -70,6 +71,7 @@
   padding-left: rem-calc(12);
 }
 .card-number {
+  -webkit-print-color-adjust: exact;
   font-style: italic;
   font-weight: 300;
   font-size: rem-calc(18);
@@ -77,6 +79,7 @@
   padding-top: rem-calc(6);
 }
 .card-title {
+  -webkit-print-color-adjust: exact;
   font-size: rem-calc(36);
   color: #fff;
   font-weight: 600;
@@ -93,9 +96,6 @@
   }
   .card-number-lg {
     font-size: rem-calc(32);
-    text-align: center;
-    color: #fff;
-    font-weight: 900;
   }
   .card-number {
     font-size: rem-calc(14);
@@ -409,12 +409,15 @@ footer {
     display: none;
   }
   .card-number {
-    color: #fff !important;;
+    -webkit-print-color-adjust: exact;
+    color: #fff !important;
   }
   .card-title {
+    -webkit-print-color-adjust: exact;
     color: #fff !important;
   }
   .card-number-lg span {
+    -webkit-print-color-adjust: exact;
     color: #fff !important;
   }
   .card-header.primary-background.disease {

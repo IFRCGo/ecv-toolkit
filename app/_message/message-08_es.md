@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 8
-title: Lavarse las manos con jabón
+title: Lavarse las manos con jabón
 
 lang: es
 ---

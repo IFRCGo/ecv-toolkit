@@ -4,7 +4,7 @@
 layout: card
 identifier: 18
 message: [29]
-title: Medición del edema (retención de agua) en niños
+title: Medición del edema (retención de agua) en niños
 lang: es
 ---
 

@@ -4,7 +4,7 @@
 layout: card
 identifier: 14
 message: [3,23,29]
-title: Alimentation des nourrissons et jeunes enfants dans les situations d’urgence
+title: Alimentation des nourrissons et jeunes enfants dans les situations d'urgence
 lang: fr
 ---
 

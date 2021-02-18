@@ -4,7 +4,7 @@
 layout: card
 identifier: 05
 message: []
-title: Protección y seguridad de los voluntarios
+title: Protección y seguridad de los voluntarios
 lang: es
 ---
 

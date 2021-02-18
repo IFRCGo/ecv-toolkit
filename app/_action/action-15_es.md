@@ -4,7 +4,7 @@
 layout: card
 identifier: 15
 message: [23,29]
-title: Medición de la malnutrición aguda en emergencias
+title: Medición de la malnutrición aguda en emergencias
 lang: es
 ---
 

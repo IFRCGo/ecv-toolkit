@@ -4,7 +4,7 @@
 layout: card
 identifier: 40
 message: []
-title: Construcción de un incinerador para residuos médicos
+title: Construcción de un incinerador para residuos médicos
 lang: es
 ---
 

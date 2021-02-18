@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 16
-title: Asistiendo a campañas de vacunación
+title: Asistiendo a campañas de vacunación
 
 lang: es
 ---

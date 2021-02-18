@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 1
-title: Préparation et administration d’une solution de réhydratation orale (SRO)
+title: Préparation et administration d'une solution de réhydratation orale (SRO)
 
 lang: fr
 ---

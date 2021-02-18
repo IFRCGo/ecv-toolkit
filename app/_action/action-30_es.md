@@ -4,7 +4,7 @@
 layout: card
 identifier: 30
 message: [4,5]
-title: Agua limpia y segura de uso doméstico
+title: Agua limpia y segura de uso doméstico
 lang: es
 ---
 

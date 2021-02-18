@@ -4,7 +4,7 @@
 layout: card
 identifier: 7
 action: [1,2,3,4,5,12,13,14,15,16,17,18,19,24,25,26,27,28,29,34,43]
-title: Infecciones respiratorias agudas prevenibles por vacuna – Difteria, paperas, rubéola, varicela, tosferina
+title: Infecciones respiratorias agudas prevenibles por vacuna - Difteria, paperas, rubéola, varicela, tosferina
 lang: es
 ---
 

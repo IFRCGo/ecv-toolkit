@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 29
-title: Asistiendo a los controles de nutrición
+title: Asistiendo a los controles de nutrición
 
 lang: es
 ---

@@ -38,7 +38,7 @@
     "line-replace": "^1.0.3",
     "node-dir": "^0.1.17",
     "path": "^0.12.7",
-    "puppeteer": "^1.20.0",
+    "puppeteer": "^7.1.0",
     "request": "^2.88.2",
     "what-input": "^5.2.10"
   },

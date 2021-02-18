@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 15
-title: Usando tarjetas de vacunación
+title: Usando tarjetas de vacunación
 
 lang: es
 ---

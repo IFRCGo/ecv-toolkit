@@ -4,7 +4,7 @@
 layout: card
 identifier: 29
 action: [1,2,3,4,13,14,16,17,18,19,22,24,25,29,30,31,32,34,37,43]
-title: Malnutrición aguda
+title: Malnutrición aguda
 lang: es
 ---
 

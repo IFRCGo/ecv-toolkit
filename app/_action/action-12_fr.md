@@ -4,7 +4,7 @@
 layout: card
 identifier: 12
 message: [2]
-title: Lutte contre la  fièvre
+title: Lutte contre la fièvre
 lang: fr
 ---
 

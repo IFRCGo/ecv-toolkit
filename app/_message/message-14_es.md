@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 14
-title: Vacunaciones para niños
+title: Vacunaciones para niños
 
 lang: es
 ---

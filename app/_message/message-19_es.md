@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 19
-title: Prácticas seguras de entierro
+title: Prácticas seguras de entierro
 
 lang: es
 ---
