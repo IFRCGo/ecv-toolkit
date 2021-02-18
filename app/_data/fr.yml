@@ -9,8 +9,8 @@ share:
   fblink:         "http://ifrcgo.org/ecv-toolkit/fr"
   share:          "Partager cette page sur"
   tweet:          "Epidemic Control for Volunteers Toolkit: http://ifrcgo.org/ecv-toolkit/fr via @Federation"
-  ogimg:          "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/og-img_en.jpg"
-  twitterimg:     "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/twitter-img_en.jpg"
+  ogimg:          "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/og-img_fr.jpg"
+  twitterimg:     "https://raw.githubusercontent.com/IFRCGo/ecv-toolkit/publish/app/assets/img/twitter-img_fr.jpg"
 
 home: "/fr/"
 collections:
