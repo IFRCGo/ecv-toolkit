@@ -4,7 +4,7 @@
 layout: card
 identifier: 15
 message: [23, 29]
-title: Mesure de la malnutrition aiguë dans les situations d’urgence
+title: Mesure de la malnutrition aiguë dans les situations d'urgence
 lang: fr
 ---
 
