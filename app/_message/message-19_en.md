@@ -1,4 +1,4 @@
-{:class="center-text"}---
+---
 # MESSAGE #
 # ======= #
 layout: card
