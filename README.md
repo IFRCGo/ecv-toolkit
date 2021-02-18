@@ -1,7 +1,5 @@
 ## Epidemic control for volunteers - Toolkit
 
-**NOTE: This site is currently being updated with revised content. Thank you for your patience.**
-
 ### Project overview
 
 The intention of this project is to deliver the toolkit as a static HTML website, PDF, and as an offline Android app from a single source of data/content. The content is stored in plain text files in the 'app/\_disease', 'app/\_action', and 'app/\_message' directories. Site translations are stored in plain text files in the 'app/\_data' folder. The website is built using [Jekyll](https://jekyllrb.com/). PDFs will be generated via a TBD javascript library.
