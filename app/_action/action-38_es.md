@@ -4,7 +4,7 @@
 layout: card
 identifier: 38
 message: [11,20]
-title: Eliminación de deshechos y campañas de limpieza
+title: Eliminación de deshechos y campañas de limpieza
 lang: es
 ---
 

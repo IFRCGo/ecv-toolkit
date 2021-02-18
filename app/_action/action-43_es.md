@@ -4,7 +4,7 @@
 layout: card
 identifier: 43
 message: [23]
-title: Movilización social para el cambio de comportamiento
+title: Movilización social para el cambio de comportamiento
 lang: es
 ---
 

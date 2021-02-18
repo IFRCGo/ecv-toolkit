@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 22
-title: Buena ventilación
+title: Buena ventilación
 
 lang: es
 ---

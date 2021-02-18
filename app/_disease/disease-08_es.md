@@ -4,7 +4,7 @@
 layout: card
 identifier: 8
 action: [1,2,3,4,5,12,13,14,15,16,17,18,19,20,22,24,25,26,27,28,34,43]
-title: Sarampión
+title: Sarampión
 lang: es
 ---
 

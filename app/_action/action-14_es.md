@@ -4,7 +4,7 @@
 layout: card
 identifier: 14
 message: [3, 23, 29]
-title: Alimentación de lactantes y niños pequeños en emergencias
+title: Alimentación de lactantes y niños pequeños en emergencias
 lang: es
 ---
 

@@ -4,7 +4,7 @@
 layout: card
 identifier: 9
 action: [1,2,3,4,5,12,19,20,23,24,25,26,27,28,34,43]
-title: Meningitis meningocócica
+title: Meningitis meningocócica
 lang: es
 ---
 

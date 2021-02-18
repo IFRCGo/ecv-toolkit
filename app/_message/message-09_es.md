@@ -3,7 +3,7 @@
 # ======= #
 layout: card
 identifier: 9
-title: ¿Cuándo lavarse las manos?
+title: ¿Cuándo lavarse las manos?
 
 lang: es
 ---

@@ -4,7 +4,7 @@
 layout: card
 identifier: 10
 message: [1]
-title: Dar una solución de rehidratación oral (SRO)
+title: Dar una solución de rehidratación oral (SRO)
 lang: es
 ---
 

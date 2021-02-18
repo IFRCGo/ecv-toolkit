@@ -4,7 +4,7 @@
 layout: card
 identifier: 16
 message: [29]
-title: Medición de la altura y el peso de los niños
+title: Medición de la altura y el peso de los niños
 lang: es
 ---
 

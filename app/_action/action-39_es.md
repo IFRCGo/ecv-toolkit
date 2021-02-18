@@ -4,7 +4,7 @@
 layout: card
 identifier: 39
 message: []
-title: Preparación y uso de desinfectantes
+title: Preparación y uso de desinfectantes
 lang: es
 ---
 

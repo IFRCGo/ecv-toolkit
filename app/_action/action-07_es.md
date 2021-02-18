@@ -4,7 +4,7 @@
 layout: card
 identifier: 7
 message: [1, 3]
-title: Evaluación de deshidratación
+title: Evaluación de deshidratación
 lang: es
 ---
 

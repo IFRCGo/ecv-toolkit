@@ -4,7 +4,7 @@
 layout: card
 identifier: 15
 action: [1,2,3,4,5,19,36,37,38,42,43]
-title: Infección por el virus del Zika
+title: Infección por el virus del Zika
 lang: es
 ---
 

@@ -4,7 +4,7 @@
 layout: card
 identifier: 19
 action: [1,2,3,4,5,6,19,20,21,28,34,35,39,40]
-title: Fiebre hemorrágica de Marburgo
+title: Fiebre hemorrágica de Marburgo
 lang: es
 ---
 

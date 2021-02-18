@@ -4,7 +4,7 @@
 layout: card
 identifier: 9
 message: [1]
-title: Preparación de solución de rehidratación oral (SRO)
+title: Preparación de solución de rehidratación oral (SRO)
 lang: es
 ---
 

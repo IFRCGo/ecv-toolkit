@@ -4,7 +4,7 @@
 layout: card
 identifier: 25
 message: [15,16,23]
-title: Campañas de vacunación masiva
+title: Campañas de vacunación masiva
 lang: es
 ---
 

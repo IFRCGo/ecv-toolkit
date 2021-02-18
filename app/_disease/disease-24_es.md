@@ -4,7 +4,7 @@
 layout: card
 identifier: 24
 action: [1,2,3,4,5,6,19,20,26,27,28,29,34,35,39,41,43]
-title: Síndrome respiratorio por coronavirus de Oriente Medio (MERS-CoV por sus siglas en inglés)
+title: Síndrome respiratorio por coronavirus de Oriente Medio (MERS-CoV por sus siglas en inglés)
 lang: es
 ---
 

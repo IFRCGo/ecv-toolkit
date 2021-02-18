@@ -4,7 +4,7 @@
 layout: card
 identifier: 22
 action: [1,2,3,4,5,19,29,34,38,39,43]
-title: Síndrome pulmonar por hantavirus (SPH)
+title: Síndrome pulmonar por hantavirus (SPH)
 lang: es
 ---
 

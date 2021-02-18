@@ -4,7 +4,7 @@
 layout: card
 identifier: 27
 message: [22]
-title: Albergue y ventilación
+title: Albergue y ventilación
 lang: es
 ---
 

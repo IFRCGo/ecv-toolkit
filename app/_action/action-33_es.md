@@ -4,7 +4,7 @@
 layout: card
 identifier: 33
 message: [6,8]
-title: Construcción y mantenimiento de letrinas
+title: Construcción y mantenimiento de letrinas
 lang: es
 ---
 

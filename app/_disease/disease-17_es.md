@@ -4,7 +4,7 @@
 layout: card
 identifier: 17
 action: [1,2,3,4,5,6,19,20,21,25,34,35,39,40,41,42,43]
-title: enfermedad por el virus del Ébola
+title: enfermedad por el virus del Ébola
 lang: es
 ---
 
