@@ -2,7 +2,7 @@
 ## COMMON ##
 ############
 
-title: "Contrôle Épidémique pour les Volontaires"
+title: "Lutte contre les épidémies à l’usage des volontaires"
 
 share:
   description:    "Ce manuel et cette boîte à outils sont conçus pour aider les volontaires à définir leur rôle dans la communauté avant, pendant et après une épidémie et à prendre les mesures les mieux adaptées à cette épidémie particulière."
@@ -38,13 +38,12 @@ common:
 #####################
 
 banner:
-  title-1:        "Contrôle Épidémique"
-  title-2:        "pour les Volontaires"
+  title-1:        "Lutte contre les épidémies"
+  title-2:        "à l’usage des volontaires"
   description:    "Ce manuel et cette boîte à outils sont conçus pour aider les volontaires à définir leur rôle dans la communauté avant, pendant et après une épidémie et à prendre les mesures les mieux adaptées à cette épidémie particulière."
   download:       "Télécharger l'ensemble de la boîte à outils au format PDF dans un dossier zip"
-  share:          "Share this page on"
-
-
+  manual: "Lutte contre les épidémies à l’usage des volontaires Manuel de formation"
+  manual-link: "https://media.ifrc.org/ifrc/document/lutte-contre-les-epidemies-a-lusage-des-volontaires-manuel-de-formation/?lang=fr"
 
 ##################
 ## DISEASE LIST ##
