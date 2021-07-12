@@ -112,4 +112,4 @@ Compiles the site for production.
 
 ### Travis-CI
 
-I created a new personal access token with 'public_repo - Access public repositories' permissions. Copied the token and used it in `travis encrypt GH_TOKEN=my_github_token --add env.matrix` as described in the [Travis-CI docs](https://docs.travis-ci.com/user/environment-variables#Encrypting-environment-variables).
+Travis-CI is used to build the site.
