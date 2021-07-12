@@ -1,0 +1,3110 @@
+[
+
+  
+    
+    
+      {
+        "lang": "en",
+        "identifier": "1",
+        "title": "Community-based surveillance",
+        "slug": "Community-based surveillance",
+        "url": "/action/community-based-surveillance/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "1",
+        "title": "Vigilancia basada en la comunidad",
+        "slug": "Vigilancia basada en la comunidad",
+        "url": "/es/accion/vigilancia-basada-en-la-comunidad/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "1",
+        "title": "Surveillance communautaire",
+        "slug": "Surveillance communautaire",
+        "url": "/fr/activite/surveillance-communautaire/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "2",
+        "title": "Community mapping",
+        "slug": "Community mapping",
+        "url": "/action/community-mapping/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "2",
+        "title": "Mapeo comunitario",
+        "slug": "Mapeo comunitario",
+        "url": "/es/accion/mapeo-comunitario/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "2",
+        "title": "Cartographie communautaire",
+        "slug": "Cartographie communautaire",
+        "url": "/fr/activite/cartographie-communautaire/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "3",
+        "title": "Communicating with the community",
+        "slug": "Communicating with the community",
+        "url": "/action/communicating-with-the-community/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "3",
+        "title": "Comunicándose con la comunidad",
+        "slug": "Comunicandose con la comunidad",
+        "url": "/es/accion/comunicandose-con-la-comunidad/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "3",
+        "title": "Communication avec la population",
+        "slug": "Communication avec la population",
+        "url": "/fr/activite/communication-avec-la-population/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "4",
+        "title": "Referral to health facilities",
+        "slug": "Referral to health facilities",
+        "url": "/action/referral-to-health-facilities/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "4",
+        "title": "Referir a centros de salud",
+        "slug": "Referir a centros de salud",
+        "url": "/es/accion/referir-a-centros-de-salud/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "4",
+        "title": "Orientation vers les services de santé",
+        "slug": "Orientation vers les services de sante",
+        "url": "/fr/activite/orientation-vers-les-services-de-sante/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "5",
+        "title": "Volunteer protection and safety",
+        "slug": "Volunteer protection and safety",
+        "url": "/action/volunteer-protection-and-safety/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "5",
+        "title": "Protección y seguridad de los voluntarios",
+        "slug": "Proteccion y seguridad de los voluntarios",
+        "url": "/es/accion/proteccion-y-seguridad-de-los-voluntarios/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "5",
+        "title": "Protection et sécurité des volontaires",
+        "slug": "Protection et securite des volontaires",
+        "url": "/fr/activite/protection-et-securite-des-volontaires/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "6",
+        "title": "Using personal protection equipment (PPE) for highly infectious diseases",
+        "slug": "Using personal protection equipment (PPE) for highly infectious diseases",
+        "url": "/action/using-personal-protection-equipment-ppe-for-highly-infectious-diseases/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "6",
+        "title": "Uso de equipos de protección personal (EPP) para enfermedades altamente infecciosas",
+        "slug": "Uso de equipos de proteccion personal (EPP) para enfermedades altamente infecciosas",
+        "url": "/es/accion/uso-de-equipos-de-proteccion-personal-epp-para-enfermedades-altamente-infecciosas/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "6",
+        "title": "Utilisation de l'équipement de protection personnel (EPP) pour les maladies très contagieuses",
+        "slug": "Utilisation de l'equipement de protection personnel (EPP) pour les maladies tres contagieuses",
+        "url": "/fr/activite/utilisation-de-l-equipement-de-protection-personnel-epp-pour-les-maladies-tres-contagieuses/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "7",
+        "title": "Assessment of dehydration",
+        "slug": "Assessment of dehydration",
+        "url": "/action/assessment-of-dehydration/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "7",
+        "title": "Evaluación de deshidratación",
+        "slug": "Evaluacion de deshidratacion",
+        "url": "/es/accion/evaluacion-de-deshidratacion/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "7",
+        "title": "Évaluation de la déshydratation",
+        "slug": "Evaluation de la deshydratation",
+        "url": "/fr/activite/evaluation-de-la-deshydratation/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "8",
+        "title": "Community oral rehydration points",
+        "slug": "Community oral rehydration points",
+        "url": "/action/community-oral-rehydration-points/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "8",
+        "title": "Unidades de rehidratación oral comunitaria",
+        "slug": "Unidades de rehidratacion oral comunitaria",
+        "url": "/es/accion/unidades-de-rehidratacion-oral-comunitaria/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "8",
+        "title": "Points communautaires de rehydration orale",
+        "slug": "Points communautaires de rehydration orale",
+        "url": "/fr/activite/points-communautaires-de-rehydration-orale/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "9",
+        "title": "Preparing an oral rehydration solution (ORS)",
+        "slug": "Preparing an oral rehydration solution (ORS)",
+        "url": "/action/preparing-an-oral-rehydration-solution-ors/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "9",
+        "title": "Preparación de solución de rehidratación oral (SRO)",
+        "slug": "Preparacion de solucion de rehidratacion oral (SRO)",
+        "url": "/es/accion/preparacion-de-solucion-de-rehidratacion-oral-sro/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "9",
+        "title": "Préparation d'une solution de réhydratation orale (SRO)",
+        "slug": "Preparation d'une solution de rehydratation orale (SRO)",
+        "url": "/fr/activite/preparation-d-une-solution-de-rehydratation-orale-sro/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "10",
+        "title": "Giving oral rehydration solution (ORS)",
+        "slug": "Giving oral rehydration solution (ORS)",
+        "url": "/action/giving-oral-rehydration-solution-ors/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "10",
+        "title": "Dar una solución de rehidratación oral (SRO)",
+        "slug": "Dar una solucion de rehidratacion oral (SRO)",
+        "url": "/es/accion/dar-una-solucion-de-rehidratacion-oral-sro/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "10",
+        "title": "Administration d'une solution",
+        "slug": "Administration d'une solution",
+        "url": "/fr/activite/administration-d-une-solution/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "11",
+        "title": "Zinc supplementation",
+        "slug": "Zinc supplementation",
+        "url": "/action/zinc-supplementation/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "11",
+        "title": "Suplemento de Zinc",
+        "slug": "Suplemento de Zinc",
+        "url": "/es/accion/suplemento-de-zinc/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "11",
+        "title": "Complément de zinc",
+        "slug": "Complement de zinc",
+        "url": "/fr/activite/complement-de-zinc/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "12",
+        "title": "Managing fever",
+        "slug": "Managing fever",
+        "url": "/action/managing-fever/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "12",
+        "title": "Manejo de la fiebre",
+        "slug": "Manejo de la fiebre",
+        "url": "/es/accion/manejo-de-la-fiebre/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "12",
+        "title": "Lutte contre la fièvre",
+        "slug": "Lutte contre la fievre",
+        "url": "/fr/activite/lutte-contre-la-fievre/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "13",
+        "title": "Breastfeeding",
+        "slug": "Breastfeeding",
+        "url": "/action/breastfeeding/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "13",
+        "title": "Lactancia materna",
+        "slug": "Lactancia materna",
+        "url": "/es/accion/lactancia-materna/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "13",
+        "title": "Allaitement au sein",
+        "slug": "Allaitement au sein",
+        "url": "/fr/activite/allaitement-au-sein/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "14",
+        "title": "Infant and young child feeding in emergencies",
+        "slug": "Infant and young child feeding in emergencies",
+        "url": "/action/infant-and-young-child-feeding-in-emergencies/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "14",
+        "title": "Alimentación de lactantes y niños pequeños en emergencias",
+        "slug": "Alimentacion de lactantes y ninos pequenos en emergencias",
+        "url": "/es/accion/alimentacion-de-lactantes-y-ninos-pequenos-en-emergencias/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "14",
+        "title": "Alimentation des nourrissons et jeunes enfants dans les situations d'urgence",
+        "slug": "Alimentation des nourrissons et jeunes enfants dans les situations d'urgence",
+        "url": "/fr/activite/alimentation-des-nourrissons-et-jeunes-enfants-dans-les-situations-d-urgence/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "15",
+        "title": "Measuring acute malnutrition in emergencies",
+        "slug": "Measuring acute malnutrition in emergencies",
+        "url": "/action/measuring-acute-malnutrition-in-emergencies/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "15",
+        "title": "Medición de la malnutrición aguda en emergencias",
+        "slug": "Medicion de la malnutricion aguda en emergencias",
+        "url": "/es/accion/medicion-de-la-malnutricion-aguda-en-emergencias/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "15",
+        "title": "Mesure de la malnutrition aiguë dans les situations d'urgence",
+        "slug": "Mesure de la malnutrition aigue dans les situations d'urgence",
+        "url": "/fr/activite/mesure-de-la-malnutrition-aigue-dans-les-situations-d-urgence/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "16",
+        "title": "Measuring the height and weight of children",
+        "slug": "Measuring the height and weight of children",
+        "url": "/action/measuring-the-height-and-weight-of-children/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "16",
+        "title": "Medición de la altura y el peso de los niños",
+        "slug": "Medicion de la altura y el peso de los ninos",
+        "url": "/es/accion/medicion-de-la-altura-y-el-peso-de-los-ninos/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "16",
+        "title": "Mesure de la taille et du poids des enfants",
+        "slug": "Mesure de la taille et du poids des enfants",
+        "url": "/fr/activite/mesure-de-la-taille-et-du-poids-des-enfants/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "17",
+        "title": "Measuring mid upper arm circumference (MUAC)",
+        "slug": "Measuring mid upper arm circumference (MUAC)",
+        "url": "/action/measuring-mid-upper-arm-circumference-muac/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "17",
+        "title": "Medición de la circunferencia del brazo superior (MUAC)",
+        "slug": "Medicion de la circunferencia del brazo superior (MUAC)",
+        "url": "/es/accion/medicion-de-la-circunferencia-del-brazo-superior-muac/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "17",
+        "title": "Mesure du périmètre brachial",
+        "slug": "Mesure du perimetre brachial",
+        "url": "/fr/activite/mesure-du-perimetre-brachial/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "18",
+        "title": "Measuring oedema (water retention) in children",
+        "slug": "Measuring oedema (water retention) in children",
+        "url": "/action/measuring-oedema-water-retention-in-children/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "18",
+        "title": "Medición del edema (retención de agua) en niños",
+        "slug": "Medicion del edema (retencion de agua) en ninos",
+        "url": "/es/accion/medicion-del-edema-retencion-de-agua-en-ninos/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "18",
+        "title": "Mesure de l'œdème (rétention d'eau) chez les enfants",
+        "slug": "Mesure de l'oedeme (retention d'eau) chez les enfants",
+        "url": "/fr/activite/mesure-de-l-oedeme-retention-d-eau-chez-les-enfants/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "19",
+        "title": "Psychosocial support (Psychological first aid (PFA))",
+        "slug": "Psychosocial support (Psychological first aid (PFA))",
+        "url": "/action/psychosocial-support-psychological-first-aid-pfa/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "19",
+        "title": "Apoyo psicosocial",
+        "slug": "Apoyo psicosocial",
+        "url": "/es/accion/apoyo-psicosocial/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "19",
+        "title": "Soutien psychosocial",
+        "slug": "Soutien psychosocial",
+        "url": "/fr/activite/soutien-psychosocial/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "20",
+        "title": "Isolating sick people",
+        "slug": "Isolating sick people",
+        "url": "/action/isolating-sick-people/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "20",
+        "title": "Aislando personas enfermas",
+        "slug": "Aislando personas enfermas",
+        "url": "/es/accion/aislando-personas-enfermas/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "20",
+        "title": "Isolement des malades",
+        "slug": "Isolement des malades",
+        "url": "/fr/activite/isolement-des-malades/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "21",
+        "title": "Safe and dignified burials",
+        "slug": "Safe and dignified burials",
+        "url": "/action/safe-and-dignified-burials/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "21",
+        "title": "Entierros seguros y dignos",
+        "slug": "Entierros seguros y dignos",
+        "url": "/es/accion/entierros-seguros-y-dignos/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "21",
+        "title": "Inhumations en toute sécurité et dans la dignité",
+        "slug": "Inhumations en toute securite et dans la dignite",
+        "url": "/fr/activite/inhumations-en-toute-securite-et-dans-la-dignite/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "22",
+        "title": "Vitamin A supplementation",
+        "slug": "Vitamin A supplementation",
+        "url": "/action/vitamin-a-supplementation/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "22",
+        "title": "Suplementos de vitamina A",
+        "slug": "Suplementos de vitamina A",
+        "url": "/es/accion/suplementos-de-vitamina-a/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "22",
+        "title": "Complément de vitamine A",
+        "slug": "Complement de vitamine A",
+        "url": "/fr/activite/complement-de-vitamine-a/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "23",
+        "title": "Chemoprophylaxis",
+        "slug": "Chemoprophylaxis",
+        "url": "/action/chemoprophylaxis/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "23",
+        "title": "Quimioprofilaxis",
+        "slug": "Quimioprofilaxis",
+        "url": "/es/accion/quimioprofilaxis/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "23",
+        "title": "Chimioprophylaxie",
+        "slug": "Chimioprophylaxie",
+        "url": "/fr/activite/chimioprophylaxie/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "24",
+        "title": "Routine vaccinations",
+        "slug": "Routine vaccinations",
+        "url": "/action/routine-vaccinations/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "24",
+        "title": "Vacunaciones de rutina",
+        "slug": "Vacunaciones de rutina",
+        "url": "/es/accion/vacunaciones-de-rutina/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "24",
+        "title": "Vaccinations de routine",
+        "slug": "Vaccinations de routine",
+        "url": "/fr/activite/vaccinations-de-routine/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "25",
+        "title": "Mass vaccination campaigns",
+        "slug": "Mass vaccination campaigns",
+        "url": "/action/mass-vaccination-campaigns/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "25",
+        "title": "Campañas de vacunación masiva",
+        "slug": "Campanas de vacunacion masiva",
+        "url": "/es/accion/campanas-de-vacunacion-masiva/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "25",
+        "title": "Campagnes de vaccination de masse",
+        "slug": "Campagnes de vaccination de masse",
+        "url": "/fr/activite/campagnes-de-vaccination-de-masse/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "26",
+        "title": "Coughing etiquette",
+        "slug": "Coughing etiquette",
+        "url": "/action/coughing-etiquette/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "26",
+        "title": "Etiqueta de tos",
+        "slug": "Etiqueta de tos",
+        "url": "/es/accion/etiqueta-de-tos/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "26",
+        "title": "Bons usages en cas de toux",
+        "slug": "Bons usages en cas de toux",
+        "url": "/fr/activite/bons-usages-en-cas-de-toux/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "27",
+        "title": "Shelter and ventilation",
+        "slug": "Shelter and ventilation",
+        "url": "/action/shelter-and-ventilation/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "27",
+        "title": "Albergue y ventilación",
+        "slug": "Albergue y ventilacion",
+        "url": "/es/accion/albergue-y-ventilacion/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "27",
+        "title": "Logement et ventilation",
+        "slug": "Logement et ventilation",
+        "url": "/fr/activite/logement-et-ventilation/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "28",
+        "title": "Social distancing",
+        "slug": "Social distancing",
+        "url": "/action/social-distancing/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "28",
+        "title": "Distanciaciamiento social",
+        "slug": "Distanciaciamiento social",
+        "url": "/es/accion/distanciaciamiento-social/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "28",
+        "title": "Distance de sécurité",
+        "slug": "Distance de securite",
+        "url": "/fr/activite/distance-de-securite/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "29",
+        "title": "Hygiene promotion",
+        "slug": "Hygiene promotion",
+        "url": "/action/hygiene-promotion/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "29",
+        "title": "Promoción de la higiene",
+        "slug": "Promocion de la higiene",
+        "url": "/es/accion/promocion-de-la-higiene/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "29",
+        "title": "Promotion de l'hygiène",
+        "slug": "Promotion de l'hygiene",
+        "url": "/fr/activite/promotion-de-l-hygiene/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "30",
+        "title": "Clean, safe household water",
+        "slug": "Clean, safe household water",
+        "url": "/action/clean-safe-household-water/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "30",
+        "title": "Agua limpia y segura de uso doméstico",
+        "slug": "Agua limpia y segura de uso domestico",
+        "url": "/es/accion/agua-limpia-y-segura-de-uso-domestico/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "30",
+        "title": "Propreté et sûreté de l'eau dans les habitations",
+        "slug": "Proprete et surete de l'eau dans les habitations",
+        "url": "/fr/activite/proprete-et-surete-de-l-eau-dans-les-habitations/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "31",
+        "title": "Good food hygiene",
+        "slug": "Good food hygiene",
+        "url": "/action/good-food-hygiene/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "31",
+        "title": "Buena higiene alimentaria",
+        "slug": "Buena higiene alimentaria",
+        "url": "/es/accion/buena-higiene-alimentaria/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "31",
+        "title": "Hygiène des aliments",
+        "slug": "Hygiene des aliments",
+        "url": "/fr/activite/hygiene-des-aliments/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "32",
+        "title": "Sanitation",
+        "slug": "Sanitation",
+        "url": "/action/sanitation/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "32",
+        "title": "Saneamiento",
+        "slug": "Saneamiento",
+        "url": "/es/accion/saneamiento/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "32",
+        "title": "Assainissement",
+        "slug": "Assainissement",
+        "url": "/fr/activite/assainissement/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "33",
+        "title": "Building and maintaining latrines",
+        "slug": "Building and maintaining latrines",
+        "url": "/action/building-and-maintaining-latrines/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "33",
+        "title": "Construcción y mantenimiento de letrinas",
+        "slug": "Construccion y mantenimiento de letrinas",
+        "url": "/es/accion/construccion-y-mantenimiento-de-letrinas/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "33",
+        "title": "Construction et entretien des latrines",
+        "slug": "Construction et entretien des latrines",
+        "url": "/fr/activite/construction-et-entretien-des-latrines/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "34",
+        "title": "Handwashing with soap",
+        "slug": "Handwashing with soap",
+        "url": "/action/handwashing-with-soap/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "34",
+        "title": "Lavado de manos con jabón",
+        "slug": "Lavado de manos con jabon",
+        "url": "/es/accion/lavado-de-manos-con-jabon/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "34",
+        "title": "Lavage des mains avec du savon",
+        "slug": "Lavage des mains avec du savon",
+        "url": "/fr/activite/lavage-des-mains-avec-du-savon/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "35",
+        "title": "Handwashing in a highly infectious epidemic",
+        "slug": "Handwashing in a highly infectious epidemic",
+        "url": "/action/handwashing-in-a-highly-infectious-epidemic/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "35",
+        "title": "Lavado de manos durante epidemias altamente infecciosas",
+        "slug": "Lavado de manos durante epidemias altamente infecciosas",
+        "url": "/es/accion/lavado-de-manos-durante-epidemias-altamente-infecciosas/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "35",
+        "title": "Lavage des mains dans les épidémies de maladies très contagieuses",
+        "slug": "Lavage des mains dans les epidemies de maladies tres contagieuses",
+        "url": "/fr/activite/lavage-des-mains-dans-les-epidemies-de-maladies-tres-contagieuses/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "36",
+        "title": "Vector control",
+        "slug": "Vector control",
+        "url": "/action/vector-control/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "36",
+        "title": "Control de vectores",
+        "slug": "Control de vectores",
+        "url": "/es/accion/control-de-vectores/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "36",
+        "title": "Lutte contre les vecteurs",
+        "slug": "Lutte contre les vecteurs",
+        "url": "/fr/activite/lutte-contre-les-vecteurs/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "37",
+        "title": "Mosquito nets",
+        "slug": "Mosquito nets",
+        "url": "/action/mosquito-nets/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "37",
+        "title": "Mallas contra mosquitos",
+        "slug": "Mallas contra mosquitos",
+        "url": "/es/accion/mallas-contra-mosquitos/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "37",
+        "title": "Moustiquaires",
+        "slug": "Moustiquaires",
+        "url": "/fr/activite/moustiquaires/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "38",
+        "title": "Waste disposal and clean-up campaigns",
+        "slug": "Waste disposal and clean-up campaigns",
+        "url": "/action/waste-disposal-and-clean-up-campaigns/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "38",
+        "title": "Eliminación de deshechos y campañas de limpieza",
+        "slug": "Eliminacion de deshechos y campanas de limpieza",
+        "url": "/es/accion/eliminacion-de-deshechos-y-campanas-de-limpieza/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "38",
+        "title": "Élimination des déchets et campagnes de nettoyage",
+        "slug": "Elimination des dechets et campagnes de nettoyage",
+        "url": "/fr/activite/elimination-des-dechets-et-campagnes-de-nettoyage/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "39",
+        "title": "Preparing and using disinfectants",
+        "slug": "Preparing and using disinfectants",
+        "url": "/action/preparing-and-using-disinfectants/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "39",
+        "title": "Preparación y uso de desinfectantes",
+        "slug": "Preparacion y uso de desinfectantes",
+        "url": "/es/accion/preparacion-y-uso-de-desinfectantes/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "39",
+        "title": "Préparation et utilisation de désinfectants",
+        "slug": "Preparation et utilisation de desinfectants",
+        "url": "/fr/activite/preparation-et-utilisation-de-desinfectants/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "40",
+        "title": "Building an incinerator for medical waste",
+        "slug": "Building an incinerator for medical waste",
+        "url": "/action/building-an-incinerator-for-medical-waste/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "40",
+        "title": "Construcción de un incinerador para residuos médicos",
+        "slug": "Construccion de un incinerador para residuos medicos",
+        "url": "/es/accion/construccion-de-un-incinerador-para-residuos-medicos/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "40",
+        "title": "Construction d'un incinérateur pour les déchets médicaux",
+        "slug": "Construction d'un incinerateur pour les dechets medicaux",
+        "url": "/fr/activite/construction-d-un-incinerateur-pour-les-dechets-medicaux/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "41",
+        "title": "Handling and slaughtering animals",
+        "slug": "Handling and slaughtering animals",
+        "url": "/action/handling-and-slaughtering-animals/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "41",
+        "title": "Manejo y matanza de animales",
+        "slug": "Manejo y matanza de animales",
+        "url": "/es/accion/manejo-y-matanza-de-animales/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "41",
+        "title": "Prise en charge et abattage des animaux",
+        "slug": "Prise en charge et abattage des animaux",
+        "url": "/fr/activite/prise-en-charge-et-abattage-des-animaux/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "42",
+        "title": "Promoting safe sex",
+        "slug": "Promoting safe sex",
+        "url": "/action/promoting-safe-sex/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "42",
+        "title": "Promoviendo el sexo seguro",
+        "slug": "Promoviendo el sexo seguro",
+        "url": "/es/accion/promoviendo-el-sexo-seguro/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "42",
+        "title": "Promoting safe sex",
+        "slug": "Promoting safe sex",
+        "url": "/fr/activite/promoting-safe-sex/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "43",
+        "title": "Social mobilization and behaviour change",
+        "slug": "Social mobilization and behaviour change",
+        "url": "/action/social-mobilization-and-behaviour-change/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "43",
+        "title": "Movilización social para el cambio de comportamiento",
+        "slug": "Movilizacion social para el cambio de comportamiento",
+        "url": "/es/accion/movilizacion-social-para-el-cambio-de-comportamiento/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "43",
+        "title": "Mobilisation sociale et changement de comportement",
+        "slug": "Mobilisation sociale et changement de comportement",
+        "url": "/fr/activite/mobilisation-sociale-et-changement-de-comportement/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "44",
+        "title": "Sneezing etiquette",
+        "slug": "Sneezing etiquette",
+        "url": "/action/sneezing-etiquette/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "44",
+        "title": "Precauciones al estornudar",
+        "slug": "Precauciones al estornudar",
+        "url": "/es/accion/precauciones-al-estornudar/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "44",
+        "title": "Bonnes pratiques en matière d'éternuement",
+        "slug": "Bonnes pratiques en matiere d'eternuement",
+        "url": "/fr/activite/bonnes-pratiques-en-matiere-d-eternuement/",
+        "collectionName": "Activite"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "45",
+        "title": "Spitting etiquette",
+        "slug": "Spitting etiquette",
+        "url": "/action/spitting-etiquette/",
+        "collectionName": "Actions"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "45",
+        "title": "Precauciones al escupir",
+        "slug": "Precauciones al escupir",
+        "url": "/es/accion/precauciones-al-escupir/",
+        "collectionName": "Accion"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "45",
+        "title": "Bonnes pratiques en matière de crachat",
+        "slug": "Bonnes pratiques en matiere de crachat",
+        "url": "/fr/activite/bonnes-pratiques-en-matiere-de-crachat/",
+        "collectionName": "Activite"
+      }
+      
+    
+
+  
+    ,
+    
+      {
+        "lang": "en",
+        "identifier": "1",
+        "title": "Acute diarrhoeal disease",
+        "slug": "Acute diarrhoeal disease",
+        "url": "/disease/acute-diarrhoeal-disease/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "1",
+        "title": "Enfermedad diarreica aguda",
+        "slug": "Enfermedad diarreica aguda",
+        "url": "/es/enfermedades/enfermedad-diarreica-aguda/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "1",
+        "title": "Maladie diarrhéique aiguë",
+        "slug": "Maladie diarrheique aigue",
+        "url": "/fr/maladie/maladie-diarrheique-aigue/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "2",
+        "title": "Cholera",
+        "slug": "Cholera",
+        "url": "/disease/cholera/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "2",
+        "title": "Cólera",
+        "slug": "Colera",
+        "url": "/es/enfermedades/colera/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "2",
+        "title": "Choléra",
+        "slug": "Cholera",
+        "url": "/fr/maladie/cholera/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "3",
+        "title": "Hepatitis A",
+        "slug": "Hepatitis A",
+        "url": "/disease/hepatitis-a/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "3",
+        "title": "Hepatitis A",
+        "slug": "Hepatitis A",
+        "url": "/es/enfermedades/hepatitis-a/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "3",
+        "title": "Hépatite A",
+        "slug": "Hepatite A",
+        "url": "/fr/maladie/hepatite-a/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "4",
+        "title": "Hepatitis E",
+        "slug": "Hepatitis E",
+        "url": "/disease/hepatitis-e/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "",
+        "title": "Hepatitis E",
+        "slug": "Hepatitis E",
+        "url": "/es/enfermedades/hepatitis-e/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "4",
+        "title": "Hépatite E",
+        "slug": "Hepatite E",
+        "url": "/fr/maladie/hepatite-e/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "5",
+        "title": "Typhoid fever",
+        "slug": "Typhoid fever",
+        "url": "/disease/typhoid-fever/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "5",
+        "title": "Fiebre tifoidea",
+        "slug": "Fiebre tifoidea",
+        "url": "/es/enfermedades/fiebre-tifoidea/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "5",
+        "title": "Fièvre typhoïde",
+        "slug": "Fievre typhoide",
+        "url": "/fr/maladie/fievre-typhoide/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "6",
+        "title": "Acute bloody diarrhoea",
+        "slug": "Acute bloody diarrhoea",
+        "url": "/disease/acute-bloody-diarrhoea/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "6",
+        "title": "Diarrea sanguinolenta aguda",
+        "slug": "Diarrea sanguinolenta aguda",
+        "url": "/es/enfermedades/diarrea-sanguinolenta-aguda/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "6",
+        "title": "Diarrhée sanglante aiguë",
+        "slug": "Diarrhee sanglante aigue",
+        "url": "/fr/maladie/diarrhee-sanglante-aigue/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "7",
+        "title": "Acute respiratory infections preventable by vaccine (Diphtheria, Mumps, Rubella, Chickenpox, Whooping cough)",
+        "slug": "Acute respiratory infections preventable by vaccine (Diphtheria, Mumps, Rubella, Chickenpox, Whooping cough)",
+        "url": "/disease/acute-respiratory-infections-preventable-by-vaccine-diphtheria-mumps-rubella-chickenpox-whooping-cough/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "7",
+        "title": "Infecciones respiratorias agudas prevenibles por vacuna - Difteria, paperas, rubéola, varicela, tosferina",
+        "slug": "Infecciones respiratorias agudas prevenibles por vacuna - Difteria, paperas, rubeola, varicela, tosferina",
+        "url": "/es/enfermedades/infecciones-respiratorias-agudas-prevenibles-por-vacuna-difteria-paperas-rubeola-varicela-tosferina/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "7",
+        "title": "Infections respiratoires aiguës évitables par la vaccination - Diphtérie, oreillons, rubéole, varicelle, coqueluche",
+        "slug": "Infections respiratoires aigues evitables par la vaccination - Diphterie, oreillons, rubeole, varicelle, coqueluche",
+        "url": "/fr/maladie/infections-respiratoires-aigues-evitables-par-la-vaccination-diphterie-oreillons-rubeole-varicelle-coqueluche/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "8",
+        "title": "Measles",
+        "slug": "Measles",
+        "url": "/disease/measles/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "8",
+        "title": "Sarampión",
+        "slug": "Sarampion",
+        "url": "/es/enfermedades/sarampion/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "8",
+        "title": "Rougeole",
+        "slug": "Rougeole",
+        "url": "/fr/maladie/rougeole/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "9",
+        "title": "Meningococcal meningitis",
+        "slug": "Meningococcal meningitis",
+        "url": "/disease/meningococcal-meningitis/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "9",
+        "title": "Meningitis meningocócica",
+        "slug": "Meningitis meningococica",
+        "url": "/es/enfermedades/meningitis-meningococica/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "9",
+        "title": "Méningite à méningocoques",
+        "slug": "Meningite a meningocoques",
+        "url": "/fr/maladie/meningite-a-meningocoques/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "10",
+        "title": "Polio",
+        "slug": "Polio",
+        "url": "/disease/polio/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "10",
+        "title": "Poliomielitis",
+        "slug": "Poliomielitis",
+        "url": "/es/enfermedades/poliomielitis/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "10",
+        "title": "Poliomyélite",
+        "slug": "Poliomyelite",
+        "url": "/fr/maladie/poliomyelite/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "11",
+        "title": "Yellow fever",
+        "slug": "Yellow fever",
+        "url": "/disease/yellow-fever/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "11",
+        "title": "Fiebre Amarilla",
+        "slug": "Fiebre Amarilla",
+        "url": "/es/enfermedades/fiebre-amarilla/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "11",
+        "title": "Fièvre jaune",
+        "slug": "Fievre jaune",
+        "url": "/fr/maladie/fievre-jaune/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "12",
+        "title": "Chikungunya",
+        "slug": "Chikungunya",
+        "url": "/disease/chikungunya/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "12",
+        "title": "Chikungunya",
+        "slug": "Chikungunya",
+        "url": "/es/enfermedades/chikungunya/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "12",
+        "title": "Chikungunya",
+        "slug": "Chikungunya",
+        "url": "/fr/maladie/chikungunya/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "13",
+        "title": "Dengue fever",
+        "slug": "Dengue fever",
+        "url": "/disease/dengue-fever/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "13",
+        "title": "Dengue",
+        "slug": "Dengue",
+        "url": "/es/enfermedades/dengue/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "13",
+        "title": "Dengue",
+        "slug": "Dengue",
+        "url": "/fr/maladie/dengue/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "14",
+        "title": "Malaria",
+        "slug": "Malaria",
+        "url": "/disease/malaria/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "14",
+        "title": "Malaria",
+        "slug": "Malaria",
+        "url": "/es/enfermedades/malaria/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "14",
+        "title": "Paludisme",
+        "slug": "Paludisme",
+        "url": "/fr/maladie/paludisme/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "15",
+        "title": "Zika virus disease",
+        "slug": "Zika virus disease",
+        "url": "/disease/zika-virus-disease/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "15",
+        "title": "Infección por el virus del Zika",
+        "slug": "Infeccion por el virus del Zika",
+        "url": "/es/enfermedades/infeccion-por-el-virus-del-zika/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "15",
+        "title": "Infection à virus Zika",
+        "slug": "Infection a virus Zika",
+        "url": "/fr/maladie/infection-a-virus-zika/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "16",
+        "title": "Acute respiratory infections (ARIs)",
+        "slug": "Acute respiratory infections (ARIs)",
+        "url": "/disease/acute-respiratory-infections-aris/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "16",
+        "title": "Infecciones respiratorias agudas (IRAs)",
+        "slug": "Infecciones respiratorias agudas (IRAs)",
+        "url": "/es/enfermedades/infecciones-respiratorias-agudas-iras/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "16",
+        "title": "Infections respiratoires aiguës",
+        "slug": "Infections respiratoires aigues",
+        "url": "/fr/maladie/infections-respiratoires-aigues/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "17",
+        "title": "Ebola virus disease",
+        "slug": "Ebola virus disease",
+        "url": "/disease/ebola-virus-disease/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "17",
+        "title": "enfermedad por el virus del Ébola",
+        "slug": "enfermedad por el virus del Ebola",
+        "url": "/es/enfermedades/enfermedad-por-el-virus-del-ebola/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "17",
+        "title": "Maladie à virus Ebola",
+        "slug": "Maladie a virus Ebola",
+        "url": "/fr/maladie/maladie-a-virus-ebola/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "18",
+        "title": "Lassa fever",
+        "slug": "Lassa fever",
+        "url": "/disease/lassa-fever/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "18",
+        "title": "Fiebre de Lassa",
+        "slug": "Fiebre de Lassa",
+        "url": "/es/enfermedades/fiebre-de-lassa/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "18",
+        "title": "Fièvre de Lassa",
+        "slug": "Fievre de Lassa",
+        "url": "/fr/maladie/fievre-de-lassa/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "19",
+        "title": "Marburg haemorrhagic fever",
+        "slug": "Marburg haemorrhagic fever",
+        "url": "/disease/marburg-haemorrhagic-fever/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "19",
+        "title": "Fiebre hemorrágica de Marburgo",
+        "slug": "Fiebre hemorragica de Marburgo",
+        "url": "/es/enfermedades/fiebre-hemorragica-de-marburgo/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "19",
+        "title": "Fièvre hémorragique de Marburg",
+        "slug": "Fievre hemorragique de Marburg",
+        "url": "/fr/maladie/fievre-hemorragique-de-marburg/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "20",
+        "title": "Plague",
+        "slug": "Plague",
+        "url": "/disease/plague/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "20",
+        "title": "Peste",
+        "slug": "Peste",
+        "url": "/es/enfermedades/peste/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "20",
+        "title": "Peste",
+        "slug": "Peste",
+        "url": "/fr/maladie/peste/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "21",
+        "title": "Anthrax",
+        "slug": "Anthrax",
+        "url": "/disease/anthrax/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "21",
+        "title": "Ántrax",
+        "slug": "Antrax",
+        "url": "/es/enfermedades/antrax/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "",
+        "title": "Anthrax",
+        "slug": "Anthrax",
+        "url": "/fr/maladie/anthrax/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "22",
+        "title": "Hantavirus pulmonary syndrome (HPS)",
+        "slug": "Hantavirus pulmonary syndrome (HPS)",
+        "url": "/disease/hantavirus-pulmonary-syndrome-hps/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "22",
+        "title": "Síndrome pulmonar por hantavirus (SPH)",
+        "slug": "Sindrome pulmonar por hantavirus (SPH)",
+        "url": "/es/enfermedades/sindrome-pulmonar-por-hantavirus-sph/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "22",
+        "title": "Syndrome pulmonaire à hantavirus",
+        "slug": "Syndrome pulmonaire a hantavirus",
+        "url": "/fr/maladie/syndrome-pulmonaire-a-hantavirus/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "23",
+        "title": "Leptospirosis",
+        "slug": "Leptospirosis",
+        "url": "/disease/leptospirosis/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "23",
+        "title": "Leptospirosis",
+        "slug": "Leptospirosis",
+        "url": "/es/enfermedades/leptospirosis/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "23",
+        "title": "Leptospirose",
+        "slug": "Leptospirose",
+        "url": "/fr/maladie/leptospirose/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "24",
+        "title": "Middle East respiratory syndrome coronavirus (MERS-CoV)",
+        "slug": "Middle East respiratory syndrome coronavirus (MERS-CoV)",
+        "url": "/disease/middle-east-respiratory-syndrome-coronavirus-mers-cov/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "24",
+        "title": "Síndrome respiratorio por coronavirus de Oriente Medio (MERS-CoV por sus siglas en inglés)",
+        "slug": "Sindrome respiratorio por coronavirus de Oriente Medio (MERS-CoV por sus siglas en ingles)",
+        "url": "/es/enfermedades/sindrome-respiratorio-por-coronavirus-de-oriente-medio-mers-cov-por-sus-siglas-en-ingles/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "24",
+        "title": "Coronavirus du syndrome respiratoire du Moyen-Orient (MERS-CoV)",
+        "slug": "Coronavirus du syndrome respiratoire du Moyen-Orient (MERS-CoV)",
+        "url": "/fr/maladie/coronavirus-du-syndrome-respiratoire-du-moyen-orient-mers-cov/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "25",
+        "title": "Monkeypox",
+        "slug": "Monkeypox",
+        "url": "/disease/monkeypox/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "25",
+        "title": "Viruela del Simio",
+        "slug": "Viruela del Simio",
+        "url": "/es/enfermedades/viruela-del-simio/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "25",
+        "title": "NAME",
+        "slug": "NAME",
+        "url": "/fr/maladie/name/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "26",
+        "title": "Rift Valley fever",
+        "slug": "Rift Valley fever",
+        "url": "/disease/rift-valley-fever/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "26",
+        "title": "Fiebre del valle del Rift",
+        "slug": "Fiebre del valle del Rift",
+        "url": "/es/enfermedades/fiebre-del-valle-del-rift/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "26",
+        "title": "Fièvre de la vallée du Rift",
+        "slug": "Fievre de la vallee du Rift",
+        "url": "/fr/maladie/fievre-de-la-vallee-du-rift/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "27",
+        "title": "Hand, foot and mouth disease (HFMD)",
+        "slug": "Hand, foot and mouth disease (HFMD)",
+        "url": "/disease/hand-foot-and-mouth-disease-hfmd/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "27",
+        "title": "Enfermedad de manos, pies y boca (EMPB)",
+        "slug": "Enfermedad de manos, pies y boca (EMPB)",
+        "url": "/es/enfermedades/enfermedad-de-manos-pies-y-boca-empb/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "27",
+        "title": "Syndrome pieds-mains-bouche",
+        "slug": "Syndrome pieds-mains-bouche",
+        "url": "/fr/maladie/syndrome-pieds-mains-bouche/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "28",
+        "title": "Cluster of unexplained illnesses or deaths",
+        "slug": "Cluster of unexplained illnesses or deaths",
+        "url": "/disease/cluster-of-unexplained-illnesses-or-deaths/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "28",
+        "title": "Conjunto de muertes y enfermedades inexplicables",
+        "slug": "Conjunto de muertes y enfermedades inexplicables",
+        "url": "/es/enfermedades/conjunto-de-muertes-y-enfermedades-inexplicables/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "28",
+        "title": "Maladies ou morts en série inexpliquées",
+        "slug": "Maladies ou morts en serie inexpliquees",
+        "url": "/fr/maladie/maladies-ou-morts-en-serie-inexpliquees/",
+        "collectionName": "Maladie"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "29",
+        "title": "Acute malnutrition",
+        "slug": "Acute malnutrition",
+        "url": "/disease/acute-malnutrition/",
+        "collectionName": "Diseases"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "29",
+        "title": "Malnutrición aguda",
+        "slug": "Malnutricion aguda",
+        "url": "/es/enfermedades/malnutricion-aguda/",
+        "collectionName": "Enfermedades"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "29",
+        "title": "Malnutrition aiguë",
+        "slug": "Malnutrition aigue",
+        "url": "/fr/maladie/malnutrition-aigue/",
+        "collectionName": "Maladie"
+      }
+      
+    
+
+  
+    ,
+    
+      {
+        "lang": "en",
+        "identifier": "1",
+        "title": "Preparing and giving oral rehydration solution (ORS)",
+        "slug": "Preparing and giving oral rehydration solution (ORS)",
+        "url": "/message/preparing-and-giving-oral-rehydration-solution-ors/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "1",
+        "title": "Preparar y administrar solución de rehidratación oral (SRO)",
+        "slug": "Preparar y administrar solucion de rehidratacion oral (SRO)",
+        "url": "/es/mensajes/preparar-y-administrar-solucion-de-rehidratacion-oral-sro/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "1",
+        "title": "Préparation et administration d'une solution de réhydratation orale (SRO)",
+        "slug": "Preparation et administration d'une solution de rehydratation orale (SRO)",
+        "url": "/fr/messages/preparation-et-administration-d-une-solution-de-rehydratation-orale-sro/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "2",
+        "title": "Caring for a person with fever",
+        "slug": "Caring for a person with fever",
+        "url": "/message/caring-for-a-person-with-fever/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "2",
+        "title": "Cuidar a una persona con fiebre",
+        "slug": "Cuidar a una persona con fiebre",
+        "url": "/es/mensajes/cuidar-a-una-persona-con-fiebre/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "2",
+        "title": "Soins à administrer à une personne fiévreuse",
+        "slug": "Soins a administrer a une personne fievreuse",
+        "url": "/fr/messages/soins-a-administrer-a-une-personne-fievreuse/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "3",
+        "title": "Breastfeeding",
+        "slug": "Breastfeeding",
+        "url": "/message/breastfeeding/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "3",
+        "title": "Lactancia materna",
+        "slug": "Lactancia materna",
+        "url": "/es/mensajes/lactancia-materna/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "3",
+        "title": "Allaitement au sein",
+        "slug": "Allaitement au sein",
+        "url": "/fr/messages/allaitement-au-sein/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "4",
+        "title": "Storing water properly",
+        "slug": "Storing water properly",
+        "url": "/message/storing-water-properly/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "4",
+        "title": "Almacenar el agua adecuadamente",
+        "slug": "Almacenar el agua adecuadamente",
+        "url": "/es/mensajes/almacenar-el-agua-adecuadamente/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "4",
+        "title": "Conservation de l'eau",
+        "slug": "Conservation de l'eau",
+        "url": "/fr/messages/conservation-de-l-eau/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "5",
+        "title": "Using clean safe drinking water",
+        "slug": "Using clean safe drinking water",
+        "url": "/message/using-clean-safe-drinking-water/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "5",
+        "title": "Usar agua potable limpia y segura",
+        "slug": "Usar agua potable limpia y segura",
+        "url": "/es/mensajes/usar-agua-potable-limpia-y-segura/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "5",
+        "title": "Consommation d'eau propre et salubre",
+        "slug": "Consommation d'eau propre et salubre",
+        "url": "/fr/messages/consommation-d-eau-propre-et-salubre/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "6",
+        "title": "Using a clean latrine",
+        "slug": "Using a clean latrine",
+        "url": "/message/using-a-clean-latrine/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "6",
+        "title": "Usar una letrina limpia",
+        "slug": "Usar una letrina limpia",
+        "url": "/es/mensajes/usar-una-letrina-limpia/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "6",
+        "title": "Utilisation de latrines propres",
+        "slug": "Utilisation de latrines propres",
+        "url": "/fr/messages/utilisation-de-latrines-propres/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "7",
+        "title": "Protecting yourself against mosquitoes",
+        "slug": "Protecting yourself against mosquitoes",
+        "url": "/message/protecting-yourself-against-mosquitoes/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "7",
+        "title": "Protegerse contra los mosquitos",
+        "slug": "Protegerse contra los mosquitos",
+        "url": "/es/mensajes/protegerse-contra-los-mosquitos/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "7",
+        "title": "Protection contre les moustiques",
+        "slug": "Protection contre les moustiques",
+        "url": "/fr/messages/protection-contre-les-moustiques/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "8",
+        "title": "Washing hands with soap",
+        "slug": "Washing hands with soap",
+        "url": "/message/washing-hands-with-soap/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "8",
+        "title": "Lavarse las manos con jabón",
+        "slug": "Lavarse las manos con jabon",
+        "url": "/es/mensajes/lavarse-las-manos-con-jabon/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "8",
+        "title": "Lavage des mains avec du savon",
+        "slug": "Lavage des mains avec du savon",
+        "url": "/fr/messages/lavage-des-mains-avec-du-savon/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "9",
+        "title": "When to wash hands",
+        "slug": "When to wash hands",
+        "url": "/message/when-to-wash-hands/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "9",
+        "title": "¿Cuándo lavarse las manos?",
+        "slug": "?Cuando lavarse las manos?",
+        "url": "/es/mensajes/cuando-lavarse-las-manos/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "9",
+        "title": "Quand se laver les mains",
+        "slug": "Quand se laver les mains",
+        "url": "/fr/messages/quand-se-laver-les-mains/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "10",
+        "title": "Steps for washing hands in epidemics",
+        "slug": "Steps for washing hands in epidemics",
+        "url": "/message/steps-for-washing-hands-in-epidemics/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "10",
+        "title": "Pasos para lavarse las manos en epidemias",
+        "slug": "Pasos para lavarse las manos en epidemias",
+        "url": "/es/mensajes/pasos-para-lavarse-las-manos-en-epidemias/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "10",
+        "title": "Étapes du lavage des mains dans les épidémies",
+        "slug": "Etapes du lavage des mains dans les epidemies",
+        "url": "/fr/messages/etapes-du-lavage-des-mains-dans-les-epidemies/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "11",
+        "title": "Cleaning up places where mosquitos breed",
+        "slug": "Cleaning up places where mosquitos breed",
+        "url": "/message/cleaning-up-places-where-mosquitos-breed/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "11",
+        "title": "Limpiando los lugares donde se crían los mosquitos",
+        "slug": "Limpiando los lugares donde se crian los mosquitos",
+        "url": "/es/mensajes/limpiando-los-lugares-donde-se-crian-los-mosquitos/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "11",
+        "title": "Nettoyage des endroits où les moustiques se reproduisent",
+        "slug": "Nettoyage des endroits ou les moustiques se reproduisent",
+        "url": "/fr/messages/nettoyage-des-endroits-ou-les-moustiques-se-reproduisent/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "12",
+        "title": "Good food hygiene",
+        "slug": "Good food hygiene",
+        "url": "/message/good-food-hygiene/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "12",
+        "title": "Buena higiene de los alimentos",
+        "slug": "Buena higiene de los alimentos",
+        "url": "/es/mensajes/buena-higiene-de-los-alimentos/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "12",
+        "title": "Bonne hygiène des aliments",
+        "slug": "Bonne hygiene des aliments",
+        "url": "/fr/messages/bonne-hygiene-des-aliments/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "13",
+        "title": "Good personal hygiene",
+        "slug": "Good personal hygiene",
+        "url": "/message/good-personal-hygiene/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "13",
+        "title": "Buena higiene personal",
+        "slug": "Buena higiene personal",
+        "url": "/es/mensajes/buena-higiene-personal/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "13",
+        "title": "Bonne hygiène personnelle",
+        "slug": "Bonne hygiene personnelle",
+        "url": "/fr/messages/bonne-hygiene-personnelle/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "14",
+        "title": "Vaccinations for children",
+        "slug": "Vaccinations for children",
+        "url": "/message/vaccinations-for-children/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "14",
+        "title": "Vacunaciones para niños",
+        "slug": "Vacunaciones para ninos",
+        "url": "/es/mensajes/vacunaciones-para-ninos/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "14",
+        "title": "Vaccinations pour les enfants",
+        "slug": "Vaccinations pour les enfants",
+        "url": "/fr/messages/vaccinations-pour-les-enfants/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "15",
+        "title": "Using vaccination cards",
+        "slug": "Using vaccination cards",
+        "url": "/message/using-vaccination-cards/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "15",
+        "title": "Usando tarjetas de vacunación",
+        "slug": "Usando tarjetas de vacunacion",
+        "url": "/es/mensajes/usando-tarjetas-de-vacunacion/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "15",
+        "title": "Utilisation des carnets de vaccination",
+        "slug": "Utilisation des carnets de vaccination",
+        "url": "/fr/messages/utilisation-des-carnets-de-vaccination/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "16",
+        "title": "Attending vaccination campaigns",
+        "slug": "Attending vaccination campaigns",
+        "url": "/message/attending-vaccination-campaigns/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "16",
+        "title": "Asistiendo a campañas de vacunación",
+        "slug": "Asistiendo a campanas de vacunacion",
+        "url": "/es/mensajes/asistiendo-a-campanas-de-vacunacion/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "16",
+        "title": "Participation aux campagnes de vaccination",
+        "slug": "Participation aux campagnes de vaccination",
+        "url": "/fr/messages/participation-aux-campagnes-de-vaccination/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "17",
+        "title": "Sleeping under mosquito nets",
+        "slug": "Sleeping under mosquito nets",
+        "url": "/message/sleeping-under-mosquito-nets/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "17",
+        "title": "Durmiendo bajo mosquiteros",
+        "slug": "Durmiendo bajo mosquiteros",
+        "url": "/es/mensajes/durmiendo-bajo-mosquiteros/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "17",
+        "title": "Utilisation de moustiquaires pour dormir",
+        "slug": "Utilisation de moustiquaires pour dormir",
+        "url": "/fr/messages/utilisation-de-moustiquaires-pour-dormir/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "18",
+        "title": "Coughing correctly",
+        "slug": "Coughing correctly",
+        "url": "/message/coughing-correctly/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "18",
+        "title": "Tosiendo correctamente",
+        "slug": "Tosiendo correctamente",
+        "url": "/es/mensajes/tosiendo-correctamente/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "18",
+        "title": "Bons usages en cas de toux",
+        "slug": "Bons usages en cas de toux",
+        "url": "/fr/messages/bons-usages-en-cas-de-toux/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "19",
+        "title": "Safe burial practices",
+        "slug": "Safe burial practices",
+        "url": "/message/safe-burial-practices/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "19",
+        "title": "Prácticas seguras de entierro",
+        "slug": "Practicas seguras de entierro",
+        "url": "/es/mensajes/practicas-seguras-de-entierro/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "19",
+        "title": "Mesures de sécurité relatives aux inhumations",
+        "slug": "Mesures de securite relatives aux inhumations",
+        "url": "/fr/messages/mesures-de-securite-relatives-aux-inhumations/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "20",
+        "title": "Collecting and disposing of rubbish",
+        "slug": "Collecting and disposing of rubbish",
+        "url": "/message/collecting-and-disposing-of-rubbish/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "20",
+        "title": "Recolectando y eliminando la basura",
+        "slug": "Recolectando y eliminando la basura",
+        "url": "/es/mensajes/recolectando-y-eliminando-la-basura/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "20",
+        "title": "Collecte et élimination des déchets",
+        "slug": "Collecte et elimination des dechets",
+        "url": "/fr/messages/collecte-et-elimination-des-dechets/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "21",
+        "title": "Social distancing",
+        "slug": "Social distancing",
+        "url": "/message/social-distancing/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "21",
+        "title": "Distanciamiento social",
+        "slug": "Distanciamiento social",
+        "url": "/es/mensajes/distanciamiento-social/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "21",
+        "title": "Distance de sécurité",
+        "slug": "Distance de securite",
+        "url": "/fr/messages/distance-de-securite/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "22",
+        "title": "Good ventilation",
+        "slug": "Good ventilation",
+        "url": "/message/good-ventilation/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "22",
+        "title": "Buena ventilación",
+        "slug": "Buena ventilacion",
+        "url": "/es/mensajes/buena-ventilacion/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "22",
+        "title": "Bonne ventilation",
+        "slug": "Bonne ventilation",
+        "url": "/fr/messages/bonne-ventilation/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "23",
+        "title": "Encouraging safe sex practices in a community",
+        "slug": "Encouraging safe sex practices in a community",
+        "url": "/message/encouraging-safe-sex-practices-in-a-community/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "23",
+        "title": "Fomentando conductas saludables en una comunidad",
+        "slug": "Fomentando conductas saludables en una comunidad",
+        "url": "/es/mensajes/fomentando-conductas-saludables-en-una-comunidad/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "23",
+        "title": "Promotion des comportements sains dans la communauté",
+        "slug": "Promotion des comportements sains dans la communaute",
+        "url": "/fr/messages/promotion-des-comportements-sains-dans-la-communaute/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "24",
+        "title": "Finding sick people",
+        "slug": "Finding sick people",
+        "url": "/message/finding-sick-people/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "24",
+        "title": "Encontrando personas enfermas",
+        "slug": "Encontrando personas enfermas",
+        "url": "/es/mensajes/encontrando-personas-enfermas/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "24",
+        "title": "Repérage des malades",
+        "slug": "Reperage des malades",
+        "url": "/fr/messages/reperage-des-malades/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "25",
+        "title": "Handling and slaughtering animals",
+        "slug": "Handling and slaughtering animals",
+        "url": "/message/handling-and-slaughtering-animals/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "25",
+        "title": "Manejo y matanza de animales",
+        "slug": "Manejo y matanza de animales",
+        "url": "/es/mensajes/manejo-y-matanza-de-animales/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "25",
+        "title": "Prise en charge et abattage des animaux",
+        "slug": "Prise en charge et abattage des animaux",
+        "url": "/fr/messages/prise-en-charge-et-abattage-des-animaux/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "26",
+        "title": "Practising safe sex",
+        "slug": "Practising safe sex",
+        "url": "/message/practising-safe-sex/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "26",
+        "title": "Practicando el sexo seguro",
+        "slug": "Practicando el sexo seguro",
+        "url": "/es/mensajes/practicando-el-sexo-seguro/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "26",
+        "title": "Relations sexuelles protégées",
+        "slug": "Relations sexuelles protegees",
+        "url": "/fr/messages/relations-sexuelles-protegees/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "27",
+        "title": "Keeping rodents out",
+        "slug": "Keeping rodents out",
+        "url": "/message/keeping-rodents-out/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "27",
+        "title": "Manteniendo a los roedores fuera",
+        "slug": "Manteniendo a los roedores fuera",
+        "url": "/es/mensajes/manteniendo-a-los-roedores-fuera/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "27",
+        "title": "Éloignement des rongeurs",
+        "slug": "Eloignement des rongeurs",
+        "url": "/fr/messages/eloignement-des-rongeurs/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "28",
+        "title": "Preparing and giving zinc",
+        "slug": "Preparing and giving zinc",
+        "url": "/message/preparing-and-giving-zinc/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "28",
+        "title": "Preparar y dar zinc",
+        "slug": "Preparar y dar zinc",
+        "url": "/es/mensajes/preparar-y-dar-zinc/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "28",
+        "title": "Préparation et administration de zinc",
+        "slug": "Preparation et administration de zinc",
+        "url": "/fr/messages/preparation-et-administration-de-zinc/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "en",
+        "identifier": "29",
+        "title": "Attending nutrition checks",
+        "slug": "Attending nutrition checks",
+        "url": "/message/attending-nutrition-checks/",
+        "collectionName": "Messages"
+      }
+      ,
+    
+      {
+        "lang": "es",
+        "identifier": "29",
+        "title": "Asistiendo a los controles de nutrición",
+        "slug": "Asistiendo a los controles de nutricion",
+        "url": "/es/mensajes/asistiendo-a-los-controles-de-nutricion/",
+        "collectionName": "Mensajes"
+      }
+      ,
+    
+      {
+        "lang": "fr",
+        "identifier": "29",
+        "title": "Réalisation d'examens nutritionnels",
+        "slug": "Realisation d'examens nutritionnels",
+        "url": "/fr/messages/realisation-d-examens-nutritionnels/",
+        "collectionName": "Messages"
+      }
+      
+    
+
+  
+    
+    
+
+]
+
