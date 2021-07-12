@@ -1,16 +1,16 @@
 ## Epidemic control for volunteers - Toolkit
 
-### Project overview
-
-The intention of this project is to deliver the toolkit as a static HTML website, PDF, and as an offline Android app from a single source of data/content. The content is stored in plain text files in the 'app/\_disease', 'app/\_action', and 'app/\_message' directories. Site translations are stored in plain text files in the 'app/\_data' folder. The website is built using [Jekyll](https://jekyllrb.com/). PDFs will be generated via a JavaScript library.
-
-The automated deployment process also creates the `_android` branch could be bundled using Adobe PhoneGap to create an .apk file to install the website for offline access on an Android device.
-
 ### The toolkit
 
 The Epidemic Control for Volunteers training manual and accompanying toolkit are intended for at volunteers and their trainers in local branches of National Societies. Whilst not exhaustive, the training aims to familiarize volunteers with the most common epidemics and those that cause the most death and suffering. It encourages them to use evidence-based actions and approaches to prevent the spread of communicable diseases in their communities, provide appropriate care for the sick and reduce the number of deaths.
 
 When an epidemic strikes, there are many ways that volunteers can help. This manual and toolkit are designed to help volunteers define their role in the community before, during and after an epidemic and to take the actions that are best suited to that particular epidemic. The knowledge and skills acquired will enable them to act quickly and effectively in the event of an epidemic. The training will also be useful to them in dealing with other emergencies.
+
+### Project overview
+
+The intention of this project is to deliver the toolkit as a static HTML website, PDF, and as an offline Android app from a single source of data/content. The content is stored in plain text files in the 'app/\_disease', 'app/\_action', and 'app/\_message' directories. Site translations are stored in plain text files in the 'app/\_data' folder. The website is built using [Jekyll](https://jekyllrb.com/). PDFs will be generated via a JavaScript library.
+
+The automated deployment process also creates the `_android` branch could be bundled using Adobe PhoneGap to create an .apk file to install the website for offline access on an Android device.
 
 ### Adding Language support
 
