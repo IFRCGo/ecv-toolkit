@@ -22,7 +22,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "archiver": "^2.1.1",
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "browser-sync": "^2.26.13",
     "d3-queue": "^3.0.7",
     "foundation-sites": "^6.6.3",
