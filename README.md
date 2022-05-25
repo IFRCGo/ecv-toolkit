@@ -1,1 +1,1 @@
-# Please go to https://go.ifrc.org/
+# Please go to https://epidemics.ifrc.org/
