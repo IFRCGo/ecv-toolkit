@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "org.ifrc.go.ecvtoolkit"
+    versionCode = "0"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+<platform name="android">
+    <!--
+        ldpi    : 36x36 px
+        mdpi    : 48x48 px
+        hdpi    : 72x72 px
+        xhdpi   : 96x96 px
+        xxhdpi  : 144x144 px
+        xxxhdpi : 192x192 px
+    -->
+    <icon src="res/android/ecv-ldpi.png" density="ldpi" />
+    <icon src="res/android/ecv-mdpi.png" density="mdpi" />
+    <icon src="res/android/ecv-hdpi.png" density="hdpi" />
+    <icon src="res/android/ecv-xhdpi.png" density="xhdpi" />
+    <icon src="res/android/ecv-xxhdpi.png" density="xxhdpi" />
+    <icon src="res/android/ecv-xxxhdpi.png" density="xxxhdpi" />
+</platform>
+
+  <name>ECV Toolkit</name>
+
+  <description>
+      The Epidemic Control for Volunteers toolkit encourages volunteers to use evidence-based actions and approaches to prevent the spread of communicable diseases in their communities, provide appropriate care for the sick and reduce the number of deaths.
+  </description>
+
+  <author href="http://go.ifrc.org/" email="daniel.joseph@redcross.org">
+      danbjoseph
+  </author>
+  
+  <platform name="android" />
+  
+
+</widget>
